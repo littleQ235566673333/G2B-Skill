@@ -1,0 +1,26 @@
+Table ESF-1 presents the assets, liabilities, and capital of the fund. The figures are in U.S. dollars. Amounts and transactions pertaining to foreign currencies and special drawing rights, an international reserve asset created by the International Monetary Fund (IMF) to supplement its member countries' position in the Fund, have been converted to U.S. dollars based on current exchange rates computed according to the accrual method of accounting. Investments and loans receivable are reported at cost. The capital account represents the original capital appropriated to the fund by Congress of $2 billion, minus a subsequent transfer of $1.8 billion to pay for the initial U.S. quota subscription to the International Monetary Fund. The additional appropriated capital represents the amount appropriated under the CARES Act Sec 4027 minus transfers, expenditures for administrative and subsidy costs, and rescissions resulting from the passage of the Consolidated Appropriations Act, 2021 and the Infrastructure Investment and Jobs Act, 2021. Conversion gains and losses are reflected in the cumulative net income - + or loss -- account.
+
+Table ESF-2 shows the results of operations for the current quarter and year-to-date. Figures are in U.S. dollars computed according to the accrual method. “Profit -- or loss -- on foreign exchange” includes realized profits or losses. “Adjustment for change in valuation of SDR holdings and allocations” reflects net gain or loss on revaluation of SDR holdings and allocations for the quarter. CARES Act related administrative costs incurred in connection with the loans, and other investments are accrued.
+
+80
+
+TABLE ESF-1—Balances as of June 30, 2022, and September 30, 2022
+
+[In thousands of dollars. Source: Office of the Assistant Secretary of the Treasury for Management]
+
+| Assets, liabilities, and capital | June 30, 2022 | June 30, 2022, through Sept. 30, 2022 | Sept. 30, 2022 |
+| --- | --- | --- | --- |
+| Assets | nan | nan | nan |
+| U.S. dollars: | nan | nan | nan |
+| Held with Treasury: | nan | nan | nan |
+| Fund Balance | 4468486 | (4,013,793) | 454693 |
+| U.S. Government securities | 18991655 | (590,266) | 18401389 |
+| Special drawing rights 1 | 158195316 | (5,020,155) | 153175161 |
+| Economic Recovery Program Investments | 17939733 | - | 17939733 |
+| Economic Recovery Program Loans Receivable | 1004470 | 5012 | 1009482 |
+| Foreign exchange and securities: | nan | nan | nan |
+| European euro | 11212966 | (747,350) | 10465616 |
+| Japanese yen | 6887992 | (429,176) | 6458816 |
+| Accounts receivable | 200805 | 255114 | 455919 |
+| Total assets | 218901423 | (10,540,614) | 208360809 |
+| Liabilities and capital | nan | nan | nan |

@@ -1,0 +1,80 @@
+| PDO-1. | - Maturity Schedule of Interest-Bearing Marketable Public Debt Securities | 32 |
+| PDO-2. | - Offerings of Treasury Bills | 33 |
+| PDO-3. | - New Money Financing through Regular Weekly Treasury Bills | 36 |
+| PDO-4. | - Offerings of Public Marketable Securities | 39 |
+| PDO-5. | - Unmatured Marketable Securities Issued at a Premium or Discount | 44 |
+| PDO-6. | - Allotments by Investor Classes on Subscriptions for Public Marketable Securities | 47 |
+| PDO-7. | - Disposition of Public Marketable Securities | 50 |
+| PDO-8. | - Foreign Series Securities | 55 |
+| PDO-9. | - Foreign Currency Series Securities | 63 |
+
+UNITED STATES SAVINGS BONDS
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| SB-1. | - Sales and Redemptions by Series, Cumulative. | 66 |
+| SB-2. | - Sales and Redemptions by Periods, All Series Combined | 66 |
+| SB-3. | - Sales and Redemptions by Periods, Series E through K | 67 |
+| SB-4. | - Redemptions of Matured and Unmatured Savings Bonds | 69 |
+| SB-6. | - Sales by States, Series E and H Combined | 70 |
+
+UNITED STATES SAVINGS NOTES
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| SN-1. | - Sales and Redemptions by Periods. | 71 |
+
+--
+Table PDO-1. - Maturity Schedule of Interest-Bearing Marketable Public Debt Securities Other than Regular Weekly and Annual Treasury Bills Outstanding February 28, 1974
+
+(In millions of dollars)
+
+| Year and month of final maturity 1/ > Unnamed: 0_level_1 | Description > Unnamed: 1_level_1 | Amount of maturities > Total | Amount of maturities > U.S. Govt. accounts and Federal Reserve banks | Amount of maturities > All other investors | Year and month of final maturity 1/ > Unnamed: 5_level_1 | Description > Unnamed: 6_level_1 | Amount of maturities > Total.1 | Amount of maturities > U.S. Govt. accounts and Federal Reserve banks.1 | Amount of maturities > All other investors.1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr | 1-1/2% Note - 6.765% Bill - 7.830% (Tax ant.) | 34 2,007 1,002 | 2 362 | 32 2,647 | 1979 | 6-1/4% Note - 6-5/8% Note - 7% Note | 4,559 1,604 2,241 | 1,778 1,088 364 | 1,781 516 1,877 |
+| May | 4-1/4% Bond - 7-1/4% Note | 2,848 4,334 | 520 1,026 | 2,328 3,308 | 1980 | 4% Bond - 6-7/8% Note - 3-1/2% Bond | 2,574 7,265 1,896 | 861 5,454 749 | 1,713 1,811 1,147 |
+| Jun | 7.790% Bill - (Tax ant.) | 2200 | 44 | 1956 | 1981 | 7% Note - 7% Bond | 1,842 807 | 367 407 | 1,475 400 |
+| Aug | 5-5/8% Note - 8/15/74-B | 10284 | 5903 | 4381 | 1982 | 6-3/8% Bond | 2702 | 1041 | 1661 |
+| Sept | 6% Note - 9/30/74-E | 2060 | 129 | 1931 | 1983 | 3-1/4% Bond - 6/15/78-83 | 1479 | 274 | 1205 |
+| Oct | 1-1/2% Note - 10/1/74-EO | 42 | - | 42 | 1984 | 6-3/8% Bond - 8/15/84 | 2353 | 1375 | 978 |
+| Nov | 5-3/4% Note - 3-7/8% Bond - 11/15/74-A 11/15/74 | 5,442 1,213 | 2,211 147 | 3,231 1,066 | 1985 | 3-1/4% Bond - 4-1/4% Bond | 950 1,201 | 229 493 | 781 708 |
+| Dec | 5-7/8% Note - 12/31/74-F | 2102 | 59 | 2043 | 1986 | 6-1/8% Bond - 11/15/86 | 1216 | 786 | 340 |
+| Total | nan | 33368 | 10403 | 22965 | 1990 | 3-1/2% Bond - 2/15/90 | 3954 | 1130 | 2824 |
+| 1975 | nan | nan | nan | nan | 1992 | 4-1/4% Bond - 8/15/87-92 | 3685 | 1429 | 2256 |
+| Feb | 5-3/4% Note - 5-7/8% Note - 2/15/75-A 2/15/75-E | 4,015 1,222 | 1,543 115 | 2,472 1,107 | 1993 | 4% Bond - 2/15/88-93 6-3/4% Bond - 2/15/93 | 228 627 | 70 163 | 158 464 |
+| Apr | 1-1/2% Note - 4/1/75-EA | 8 | - | 8 | 1994 | 7-1/2% Bond - 8/15/88-93 | 1914 | 1113 | 801 |
+| May | 6% Note - 5/15/75-B 5/15/75-F | 6,760 1,776 | 4,518 133 | 2,242 1,643 | 1995 | 4-1/8% Bond - 5/15/89-94 | 1459 | 550 | 909 |
+| Aug | 5-7/8% Note - 8/15/75-C | 7679 | 2751 | 4928 | 1997 | 3% Bond - 2/15/95 | 832 | 137 | 695 |
+| Sept | 8-3/8% Note - 9/30/75-G | 2042 | 34 | 2008 | 1998 | 7% Bond - 5/15/93-98 | 692 | 246 | 446 |
+| Oct | 1-1/2% Note - 10/1/75-EO | 30 | - | 30 | 1999 | 3-1/2% Bond - 11/15/98 | 3081 | 872 | 2209 |
+| Nov | 7% Note - 11/15/75-D | 3115 | 743 | 2372 | Total | nan | 3773 | 1118 | 2655 |
+| Dec | 7% Note - 12/31/75-H | 1731 | 238 | 1493 | nan | nan | nan | nan | nan |
+| Total | nan | 28378 | 10075 | 18303 | nan | nan | nan | nan | nan |
+| 1976 | nan | nan | nan | nan | 1987 | nan | nan | nan | nan |
+--
+| Maturity schedule of interest-bearing marketable public debt securities other than regular weekly and annual Treasury bills outstanding | 30 | 31 | 32 | 30 | 26 | 30 | 29 | 33 | 34 | 29 | 30 | 32 | nan |
+| Offerings of Treasury bills | 31 | 32 | 33 | 31 | 27 | 31 | 30 | 34 | 35 | 30 | 31 | 33 | nan |
+| New money financing through regular weekly Treasury bills | 34 | 35 | 36 | 34 | 30 | 34 | 33 | 34 | 35 | 30 | 34 | 36 | nan |
+| Offerings of public marketable securities other than regular weekly Treasury bills | 37 | 38 | 39 | 38 | 34 | 38 | 37 | 41 | 42 | 37 | 38 | 40 | nan |
+| Unmatured marketable securities issued at a premium or discount other than advance refunding operations | 40 | 41 | 42 | 41 | 37 | 41 | 40 | 44 | 45 | 40 | 42 | 44 | nan |
+| Allotments by investor classes on subscription for public marketable securities | 42 | 43 | 44 | 43 | 39 | 43 | 42 | 46 | 47 | 42 | 44 | 47 | nan |
+| Disposition of public marketable securities other than regular weekly Treasury bills | 45 | 46 | 47 | 46 | 42 | 46 | 45 | 49 | 50 | 45 | 47 | 50 | nan |
+| Foreign series securities (nonmarketable) issued to official institutions of foreign countries | 49 | 50 | 51 | 50 | 46 | 50 | 50 | 54 | 55 | 49 | 52 | 55 | nan |
+| Foreign currency series securities (nonmarketable) issued to official institutions of foreign countries | 60 | 61 | 63 | 62 | 58 | 63 | 56 | 60 | 62 | 57 | 59 | 63 | nan |
+| United States savings bonds: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Sales and redemptions by series, cumulative | 62 | 64 | 66 | 65 | 61 | 66 | 59 | 63 | 65 | 60 | 62 | 66 | nan |
+| Sales and redemptions by periods, all series combined | 62 | 64 | 66 | 65 | 61 | 66 | 59 | 63 | 65 | 60 | 62 | 66 | nan |
+| Sales and redemptions by periods, Series E through K | 63 | 65 | 67 | 66 | 62 | 67 | 60 | 64 | 66 | 61 | 63 | 67 | nan |
+| Redemptions of matured and unmatured savings bonds | 65 | 67 | 69 | 68 | 64 | 69 | 62 | 66 | 68 | 63 | 65 | 69 | nan |
+| Sales and redemptions by denominations, Series E and H combined | ... | 68 | ... | ... | 65 | ... | ... | 67 | ... | ... | 66 | ... | nan |
+| Sales by States, Series E and H combined | ... | ... | ... | ... | 66 | ... | ... | ... | ... | ... | 66 | 70 | nan |
+
+132
+
+Treasury Bulletin
+
+CUMULATIVE TABLE OF CONTENTS
+
+April 1973 through March 1974 (Continued)
+
+| Sections > Sections | Issue and page number > Apr. | Issue and page number > May | Issue and page number > June | Issue and page number > July | Issue and page number > Aug. | Issue and page number > Sept. | Issue and page number > Oct. | Issue and page number > Nov. | Issue and page number > Dec. | Issue and page number > Jan. | Unnamed: 11_level_0 > Feb. | Unnamed: 12_level_0 > Mar. |

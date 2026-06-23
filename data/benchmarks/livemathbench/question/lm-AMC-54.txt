@@ -1,0 +1,1 @@
+A list of $9$ real numbers consists of $1$, $2.2$, $3.2$, $5.2$, $6.2$, and $7$, as well as $x$, $y$, and $z$ with $x \le y \le z$. The range of the list is $7$, and the mean and the median are both positive integers. How many ordered triples $(x, y, z)$ are possible?

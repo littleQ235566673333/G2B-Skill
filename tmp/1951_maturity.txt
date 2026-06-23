@@ -1,0 +1,33 @@
+Table 1.- Maturity Schedule of Interest-Bearing Public Marketable Securities issued by the United States Government and Outstanding January 31, 1951
+
+(In millions of dollars)
+
+| Year and month > Unnamed: 0_level_1 | Description of security 2/ > Unnamed: 1_level_1 | Amount of maturities > Fixed maturity issues | Amount of maturities > Callable issues classified by year of: First call | Amount of maturities > Final maturity | Date bank restricted issues become eligible 3/ > Unnamed: 5_level_1 | Year and month > Unnamed: 6_level_1 | Description of security 2/ > Unnamed: 7_level_1 | Amount of maturities > Fixed maturity issues.1 | Amount of maturities > Callable issues classified by year of: First call.1 | Amount of maturities > Final maturity.1 | Date bank restricted issues become eligible 3/ > Unnamed: 11_level_1 | Unnamed: 12_level_0 > Unnamed: 12_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1951 | nan | nan | nan | nan | nan | 1954 | nan | nan | nan | nan | nan | nan |
+| Feb. | Bills | 4408 | - | - | Mar. | 1-3/8% Note - 3/15/54-A. 2-1/2% Bond - 3/15/52-54 | 4675 | - | 1024 | - | nan | nan |
+| Mar. | Bills | 5212 | - | - | June. | 2-3/4% Bond - 6/15/51-54 2% Bond - 6/15/52-54 2-1/4% Bond - 6/15/54-56 | - | - | 1,627 5,825 681 | - | nan | nan |
+| Apr. | Bills | 4008 | - | - | nan | Dec. | 2% Bond - 12/15/52-54 | - | - | 8662 | - | nan |
+| June. | 2-3/4% Bond - 6/15/51-54 | - | 1627 | - | nan | Total | nan | 4675 | 681 | 17138 | nan | nan |
+| July. | 1-1/4% Note - 7/1/51-B. 1-1/4% Note - 7/1/51-C. 1-1/4% Note - 7/1/51-D. | 2,741 886 4,818 | - | - | 1955 | nan | nan | nan | nan | nan | nan | nan |
+| Aug. | 1-1/4% Note - 8/1/51-E. | 5351 | - | - | Mar. | 1-1/2% Note - 3/15/55-A. 2-7/8% Bond - 3/15/55-60 | 5365 | - | 2611 | - | nan | nan |
+| Sept. | 2% Bond - 9/15/51-53 3% Bond - 9/15/51-55 | - | 7,986 755 | - | June. | 2-1/4% Bond - 6/15/52-55 2% Bond - 6/15/53-55 | - | - | 1,501 725 | - | nan | nan |
+| Oct. | 1-1/4% Note - 10/1/51-A. 1-1/4% Note - 10/15/51-F. | 1,918 5,941 | - | - | Sept. | 3% Bond - 9/15/51-55 | - | - | 755 | - | nan | nan |
+| Nov. | 1-1/4% Note - 11/1/51-G. | 5253 | - | - | Dec. | 2% Bond - 12/15/51-55 1-3/4% Note - 12/15/55-B. | 6852 | - | 510 | - | nan | nan |
+--
+Table 1.- Maturity Schedule of Interest-Bearing Public Marketable Securities Issued by the United States Government and Outstanding January 31, 1951 1/ (Continued) (In millions of dollars)
+
+| Year and month > Year and month | Description of security 2/ > Description of security 2/ | Amount of maturities > Fixed maturity issues | Amount of maturities > Callable issues classified by year of: First call | Amount of maturities > Final maturity | Date bank restricted issues become eligible 3/ > Date bank restricted issues become eligible 3/ | Year and month > Year and month.1 | Description of security 2/ > Description of security 2/.1 | Amount of maturities > Fixed maturity issues.1 | Amount of maturities > Callable issues classified by year of: First call.1 | Amount of maturities > Final maturity.1 | Date bank restricted issues become eligible 3/ > Date bank restricted issues become eligible 3/.1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1960.0 | Mar.... 2-7/8% Bond - 3/15/55-60...... Dec.... 2-3/4% Bond - 12/15/60-65...... | - | - | 2611 | ...... | 1966 | Mar.... 2-1/2% Bond - 3/15/66-71...... | - | 3481 | - | 12/1/54 |
+| nan | Total..................... | - | 1485 | 2611 | nan | nan | nan | nan | nan | nan | nan |
+| 1961.0 | June... 3% Panama Canal bond-6/1/61 | 50 | - | - | ...... | 1967 | June... 2-1/2% Bond - 6/15/62-67...... Sept... 2-1/2% Bond - 9/15/67-72...... Dec.... 2-1/2% Bond - 12/15/67-72...... | - | 7,961 2,716 11,689 | 2118 | 5/5/62 6/15/62 12/15/62 |
+| nan | nan | nan | nan | nan | nan | nan | Total..................... | - | 22372 | 2118 | nan |
+| 1962.0 | June... 2-1/4% Bond - 6/15/59-62 2-1/2% Bond - 6/15/62-67 Dec.... 2-1/4% Bond - 12/15/59-62 | - | 2118 | 5,284 3,470 | 6/15/52 5/5/52 12/15/52 | 1968 | Dec.... 2-1/2% Bond - 12/15/63-68...... | - | - | 2831 | 12/1/52 |
+| nan | Total..................... | - | 2118 | 8754 | nan | nan | nan | nan | nan | nan | nan |
+| 1963.0 | June... 2-3/4% Bond - 6/15/58-63 Dec.... 2-1/2% Bond - 12/15/63-68 | - | 919 | 2831 | 12/1/52 | 1969 | June... 2-1/2% Bond - 6/15/64-69...... Dec.... 2-1/2% Bond - 12/15/64-69...... | - | 3,761 3,838 | 4/15/53 9/15/53 | nan |
+| nan | Total..................... | - | 2831 | 919 | nan | nan | Total..................... | - | 7599 | nan | nan |
+| 1964.0 | June... 2-1/2% Bond - 6/15/64-69...... Dec.... 2-1/2% Bond - 12/15/64-69...... | - | 3,761 3,838 | 4/15/53 9/15/53 | 1970 | Mar.... 2-1/2% Bond - 3/15/65-70...... | - | - | 5197 | 2/1/54 | nan |
+| nan | Total..................... | - | 7599 | - | nan | nan | nan | nan | nan | nan | nan |
+| 1965.0 | Mar.... 2-1/2% Bond - 3/15/65-70...... Dec.... 2-3/4% Bond - 12/15/60-65...... | - | 5,197 1,485 | 2/1/54 | 1971 | Mar.... 2-1/2% Bond - 3/15/66-71...... | - | - | 3481 | 12/1/54 | nan |
+| nan | Total..................... | - | 5197 | 1485 | nan | nan | June... 2-1/2% Bond - 6/15/67-72...... Sept... 2-1/2% Bond - 9/15/67-72...... Dec.... 2-1/2% Bond - 12/15/67-72...... | - | 7,967 2,716 11,689 | 6/15/62 ...... 12/15/62 | nan |

@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.0,
+  "match_count": 0,
+  "total_count": 2,
+  "is_correct": false,
+  "predicted": [
+    "Serbian Progressive Party",
+    "Српска напредна странка / Srpska napredna stranka"
+  ],
+  "target": [
+    "Serbian Progressive Party Српска напредна странка / Srpska napredna stranka"
+  ]
+}

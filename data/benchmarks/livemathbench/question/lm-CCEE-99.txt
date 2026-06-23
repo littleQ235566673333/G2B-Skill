@@ -1,0 +1,1 @@
+It is known that as $n$ approaches infinity, $(1 + \frac{1}{n})^n$ approaches $e$, denoted as $\lim\limits_{n\to +\infty}(1 + \frac{1}{n})^n = e$. Using this conclusion, we get $\lim\limits_{x\to 0}\frac{\ln(1 + 2x)}{x}(x > 0) = $ ?

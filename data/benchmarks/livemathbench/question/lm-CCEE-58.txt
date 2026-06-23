@@ -1,0 +1,1 @@
+Given a set of data $x_1, x_2, x_3, x_4, x_5$ with an average of 2, the average of another set of data $3x_1-2, 3x_2-2, 3x_3-2, 3x_4-2, 3x_5-2$ is ?

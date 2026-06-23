@@ -1,0 +1,464 @@
+On March 29, 1941, Secretary Morgenthau wrote to the larger banks and insurance companies asking them to report the par amount of each security issued or guaranteed by the Federal Government owned by them on March 31, 1941. This information was requested in order that the Treasury might obtain a comprehensive picture of the ownership of Government securities, with the view to conducting the defense financing program with the greatest facility. The replies to Secretary Morgenthau's letter have been tabulated and the following tables have been made up to present some of the more important data. It should be noted that the reported data do not cover all of the commercial and savings banks and insurance companies in the country. They do cover, however, institutions that account for about 95 percent of the amount of United States Government and Government-guaranteed securities held by all banks and insurance companies.
+
+Table I.- Summary of Ownership by Type of Security, by Call Classes, and by Tax-Exemption Provision
+
+(Par value - in millions of dollars)
+
+| Classification > Classification > Unnamed: 0_level_2 | Total amount out-standing > Total amount out-standing > Unnamed: 1_level_2 | Held by institutions covered in Treasury survey > Total > Unnamed: 2_level_2 | Held by institutions covered in Treasury survey > 6,125 banks > Total | Held by institutions covered in Treasury survey > 6,125 banks > 5,638 commercial banks | Held by institutions covered in Treasury survey > 775 insurance companies > 487 mutual savings banks | Held by institutions covered in Treasury survey > 775 insurance companies > Total | Held by institutions covered in Treasury survey > 775 insurance companies > 200 life insurance companies | Held by all other investors > Held by all other investors > 575 fire, casualty, and marine insurance companies | Unnamed: 9_level_0 > Unnamed: 9_level_1 > Unnamed: 9_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A. By type of security | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Treasury bills | 1604.0 | 645.0 | 611.0 | 566.0 | 45 | 34 | 1 | 32 | 959.0 |
+| Treasury notes | 5722.0 | 3360.0 | 3088.0 | 2875.0 | 213 | 272 | 179 | 93 | 2362.0 |
+| Treasury bonds | 29532.0 | 19107.0 | 13276.0 | 10478.0 | 2798 | 5831 | 4717 | 1114 | 10425.0 |
+| Postal savings and pre-war issues | 196.0 | 17.0 | 16.0 | 16.0 | 1 | 1 | 1 | 1 | 179.0 |
+| Guaranteed issues 2/ | 5888.0 | 4473.0 | 3899.0 | 3661.0 | 238 | 574 | 479 | 95 | 1416.0 |
+| Total | 42943.0 | 27602.0 | 20891.0 | 17596.0 | 3295 | 6711 | 5376 | 1335 | 15341.0 |
+| B. By call classes | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Due or first becoming callable | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Within 1 year | 5081.0 | 3159.0 | 2753.0 | 2548.0 | 206 | 406 | 285 | 121 | 1923.0 |
+| 1 to 5 years | 15755.0 | 9986.0 | 8239.0 | 7417.0 | 823 | 1747 | 1364 | 383 | 5769.0 |
+| 5 to 10 years | 10152.0 | 7059.0 | 5286.0 | 4178.0 | 1108 | 1773 | 1431 | 342 | 3093.0 |
+| 10 to 20 years | 11904.0 | 7397.0 | 4611.0 | 3453.0 | 1158 | 2786 | 2296 | 490 | 4507.0 |
+| After 20 years | 50.0 | 1.0 | 1.0 | 1.0 | - | - | - | - | 49.0 |
+| Total | 42943.0 | 27602.0 | 20891.0 | 17596.0 | 3295 | 6711 | 5376 | 1335 | 15341.0 |
+| C. By tax exemption provisions | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Wholly exempt from Federal income taxes 3/ | 5590.0 | 2578.0 | 2356.0 | 2196.0 | 159 | 222 | 126 | 97 | 3012.0 |
+| Partially exempt from Federal income taxes 4/ | 33304.0 | 21941.0 | 15788.0 | 13138.0 | 2650 | 6153 | 4975 | 1179 | 11363.0 |
+| Subject to Federal income taxes | 4049.0 | 3082.0 | 2747.0 | 2262.0 | 486 | 335 | 275 | 60 | 966.0 |
+| Total | 42943.0 | 27602.0 | 20891.0 | 17596.0 | 3295 | 6711 | 5376 | 1335 | 15341.0 |
+
+Note: Figures are rounded to the nearest million and will not necessarily add to totals.
+* Less than $500,000.
+1/ Public marketable securities include all securities issued except (1) special issues to Government agencies and trust funds, (2) adjusted service bonds, and (3) United States savings bonds. The amount of United States savings bonds reported by the banks and insurance companies covered was $180 millions, maturity value. These were divided as follows: Commercial banks, $165 millions; mutual savings banks, $5 millions; and insurance companies, $10 millions.
+2/ Includes (1) FHA debentures, (2) securities issued on the credit of the United States, and (3) obligations sold directly to the Treasury.
+3/ Securities the income from which is exempt from both the normal rates and surtax rates of the Federal income tax.
+4/ Securities the income from which is exempt only from the normal rates of the Federal income tax. Treasury bonds are classified as partially tax-exempt securities although, by statutory provision, interest derived from $5,000 of principal amount of these securities owned by any single holder is exempt from the surtax rates as well as the normal rates of the Federal income tax.
+
+2
+
+Table II.- Detail of Ownership for Each Issue Outstanding, Classified by Tax-Exemption Provision
+
+(Par value - in millions of dollars)
+--
+| National defense | 745 | 772 | 841 | 956 | 1252 | 4,404 3/ | 3152.0 | 1163 | 1559 | 6,404 4/ | +396 | 4905.0 |
+| Veterans' Administration | 579 | 539 | 486 | 464 | 464 | 460 | -4.0 | 557 | 557 | 565 | - | 8.0 |
+| Social Security and E. R. Retirement Acts 2/ | 9 | 152 | 387 | 402 | 404 | 535 | 71.0 | 454 | 513 | 563 | +59 | 50.0 |
+| Agricultural Adjustment Program 5/ | 438 | 446 | 254 | 603 | 903 | 891 | -12.0 | 782 | 1017 | 962 | +235 | -55.0 |
+| Interest on the public debt | 610 | 604 | 684 | 658 | 726 | 760 | 34.0 | 941 | 1041 | 1100 | +100 | 59.0 |
+| Public Works 6/ | 572 | 824 | 688 | 796 | 749 | 623 | -126.0 | 948 | 869 | 732 | -79 | -137.0 |
+| Unemployment relief | 1882 | 2058 | 1527 | 2191 | 1599 | 1460 | -139.0 | 2595 | 1919 | 1792 | -676 | -127.0 |
+| Loans and stock subscriptions | 5 | 159 | 87 | 169 | 199 | 61 | -138.0 | 212 | 241 | 107 | +29 | -134.0 |
+| Return of surplus funds from Government corporations | - | - | - | - | - | -203 | -203.0 | - | - | -339 | - | -339.0 |
+| Other | 712 | 796 | 789 | 878 | 1109 | 1050 | -59.0 | 1055 | 1282 | 1256 | +227 | -26.0 |
+| Total expenditures | 5552 | 6410 | 5743 | 7117 | 7465 | 10041 | 2576.0 | 8707 | 8998 | 13202 | +291 | 4204.0 |
+| Net deficit | 2221 | 2499 | 1035 | 2856 | 3127 | 4104 | 977.0 | 3542 | 3611 | 6189 | +69 | 2578.0 |
+
+Source: Daily Treasury Statements, except as noted.
+1/ Estimates for the fiscal year 1941 have been revised to accord with figures appearing in the Budget which was submitted to Congress by the President on January 3, 1941.
+2/ In the fiscal year 1941 amounts representing appropriations equal to collections of Social Security taxes under the Federal Insurance Contributions Act for old-age insurance (less reimbursements to the general fund for administrative expenses) are deducted from total budget receipts in the Daily Treasury Statement. These amounts are reflected under Trust Account receipts as net appropriations to the Federal Old-Age and Survivors Insurance Trust Fund. In the above statement, similar treatment has been accorded net transfers to the Federal Old-Age and Survivors Insurance Trust Fund (formerly Old-Age Reserve Account) made during the fiscal years 1936 to 1940, in order to facilitate comparison with the fiscal year 1941.
+3/ Excludes items which were for national defense purposes as follows: (1) expenditures from appropriations of $478 millions for civil activities and (2) amounts expended by the Reconstruction Finance Corporation for loans and investments.
+4/ Includes $304 millions for civil activities in connection with national defense which are included with non-defense expenditures in the Daily Treasury Statement.
+5/ Excludes subscriptions to capital stock of Federal Crop Insurance Corporation.
+6/ Excludes loans shown under "Loans and stock subscriptions".
+
+Means of Financing the Deficit
+
+(In millions of dollars)
+
+| Unnamed: 0_level_0 > Unnamed: 0_level_1 | First 10 months, fiscal years 1936 to 1941 > 1936 | First 10 months, fiscal years 1936 to 1941 > 1937 | First 10 months, fiscal years 1936 to 1941 > 1938 | First 10 months, fiscal years 1936 to 1941 > 1939 | First 10 months, fiscal years 1936 to 1941 > 1940 | Complete fiscal years, 1939 to 1941 > 1941 | Complete fiscal years, 1939 to 1941 > Actual | Complete fiscal years, 1939 to 1941 > Estimated 1/1 | Unnamed: 9_level_0 > Unnamed: 9_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Not deficit | 2221.0 | 2499.0 | 1035.0 | 2856.0 | 3127.0 | 4104.0 | 3542.0 | 3611.0 | 6189 |
+| Means of financing: | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Increase in public debt: | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Public issues, etc. | 2625.0 | 906.0 | 142.0 | 2082.0 | 1492.0 | 3332.0 | 2180.0 | 1523.0 | 4901 |
+| Special issues | 99.0 | 256.0 | 943.0 | 816.0 | 726.0 | 932.0 | 1094.0 | 1005.0 | 1288 |
+| Total increase in public debt | 2724.0 | 1162.0 | 1085.0 | 2898.0 | 2218.0 | 4264.0 | 3274.0 | 2528.0 | 6189 |
+| Net decrease in working balance, general and special accounts 2/ | -503.0 | 1337.0 | -50.0 | 42.0 | 909.0 | -160.0 | 268.0 | 1083.0 | - |
+| Total means of financing | 2221.0 | 2499.0 | 1035.0 | 2856.0 | 3127.0 | 4104.0 | 3542.0 | 3611.0 | 6189 |
+
+Source: Daily Treasury Statements, except as noted.
+1/ Estimates for the fiscal year 1941 have been revised to accord with figures appearing in the Budget which was submitted to Congress by the President on January 3, 1941.
+2/ Negative figures represent a net increase.
+
+6
+
+BUDGET RECEIPTS AND EXPENDITURES
+
+7
+
+Total Budget Receipts and Expenditures, by Months
+
+(In millions of dollars)
+
+| Calendar year | Jan. | Feb. | Mar. | Apr. | May | June | July | Aug. | Sept. | Oct. | Nov. | Dec. | Total | Unnamed: 14 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Receipts 1/ | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| 1936 | 228.0 | 218.0 | 752.0 | 231.0 | 256.0 | 529 | 294.0 | 343.0 | 499.0 | 272.0 | 233.0 | 517.0 | 4372.0 | nan |
+| 1937 | 239.0 | 230.0 | 966.0 | 318.0 | 290.0 | 828 | 367.0 | 412.0 | 747.0 | 232.0 | 286.0 | 823.0 | 5798.0 | nan |
+| 1938 | 234.0 | 308.0 | 917.0 | 262.0 | 373.0 | 774 | 273.0 | 449.0 | 678.0 | 300.0 | 350.0 | 672.0 | 5650.0 | nan |
+| 1939 | 271.0 | 367.0 | 687.0 | 213.0 | 347.0 | 557 | 265.0 | 372.0 | 676.0 | 278.0 | 364.0 | 521.0 | 4918.0 | nan |
+| 1940 | 315.0 | 444.0 | 799.0 | 304.0 | 400.0 | 649 2/ | 331.0 | 447.0 | 710.0 | 333.0 | 362.0 | 740.0 | 5834.0 | nan |
+--
+| Fiscal year or month | Total | Departmental | National defense | Veterans' Administration | FERA and CWA | WPA 2/ | Public Works 3/ | Agricultural Adjustment program | Civilian Conservation Corps | Social Security and Railroad Retirement Acts | Interest on the public debt | Other |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1933 | 3668 | 599 | 668 | 763 | 38 | - | 311 | - | - | - | 689 | 600 |
+| 1934 | 5444 | 387 | 540 | 507 | 1512 | - | 543 | 289 | 332 | - | 757 | 577 |
+| 1935 | 6594 | 516 | 710 | 557 | 1832 | - | 662 | 712 | 436 | - | 821 | 348 |
+| 1936 | 6840 | 566 | 911 | 578 | 496 | 1264 | 647 | 533 | 486 | 29 | 749 | 561 |
+| 1937 | 7370 | 718 | 935 | 580 | 13 | 1896 | 767 | 527 | 385 | 184 | 866 | 499 |
+| 1938 | 6898 | 632 | 1028 | 582 | 5 | 1472 | 664 | 362 | 326 | 335 | 926 | 566 |
+| 1939 | 8432 | 721 | 1163 | 557 | 1 | 2240 | 928 | 787 | 290 | 347 | 941 | 457 |
+| 1940 | 8736 | 807 | 1559 | 557 | - | 1478 | 1021 | 1020 | 283 | 392 | 1041 | 578 |
+| 1940-April | 757 | 70 | 159 | 47 | - | 133 | 76 | 78 | 22 | 48 | 69 | 55 |
+| May | 642 | 68 | 154 | 47 | - | 128 | 74 | 62 | 22 | 30 | 10 | 47 |
+| June | 883 | 67 | 153 | 46 | - | 113 | 79 | 44 | 22 | 12 | 305 | 42 |
+| July | 700 | 84 | 177 | 46 | - | 110 | 72 | 54 | 24 | 65 | 20 | 48 |
+| August | 693 | 72 | 200 | 46 | - | 109 | 80 | 76 | 23 | 35 | 20 | 33 |
+| September | 758 | 66 | 219 | 45 | - | 104 | 70 | 75 | 25 | 17 | 148 | -11 |
+| October | 874 | 75 | 287 | 48 | - | 111 | 87 | 103 | 22 | 57 | 73 | 11 |
+| November | 820 | 63 | 376 | 46 | - | 105 | 75 | 108 | 20 | 37 | 11 | -21 |
+| December | 1172 | 61 | 473 | 46 | - | 115 | 65 | 109 | 23 | 19 | 219 | 42 |
+| 1941-January | 1091 | 65 | 572 | 45 | - | 107 | 52 | 103 | 21 | 53 | 25 | 48 |
+| February | 1054 | 51 | 592 | 45 | - | 103 | 48 | 96 | 18 | 30 | 21 | 50 |
+| March | 1388 | 64 | 745 | 46 | - | 113 | 48 | 102 | 22 | 37 | 150 | 61 |
+| April | 1295 | 64 | 761 | 46 | - | 106 | 43 | 71 | 21 | 50 | 73 | 60 |
+
+Source: Daily Treasury Statements.
+1/ Excludes Revolving Funds and Transfers to Trust Accounts. Includes Recovery and Relief.
+2/ Prior to fiscal year 1940, figures include National Youth Administration expenditures.
+3/ Includes public buildings, public highways, rivers and harbors, Tennessee Valley Authority, Rural Electrification and Reclamation projects, and Public Works Administration.
+
+Budget Expenditures Classified as Revolving Funds (Net), and Transfers to Trust Accounts, etc.
+
+(In millions of dollars)
+
+| Fiscal year or month > Fiscal year or month | Revolving funds (net) > Total | Revolving funds (net) > Agricultural-Aid | Revolving funds (net) > Public Works | Transfers to trust accounts, etc. > Total | Transfers to trust accounts, etc. > Railroad Retirement Account | Transfers to trust accounts, etc. > Adjusted Service Certificates Fund | Transfers to trust accounts, etc. > Advances to Railroad Unemployment Insurance Account | Transfers to trust accounts, etc. > Government Employee's Retirement Funds (U. S. share) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1933 | 74 | 74 | - | 121 | - | 100 | - | 21 |
+| 1934 | 496 | 346 | 150 | 71 | - | 50 | - | 21 |
+| 1935 | 345 | 141 | 204 | 71 | - | 50 | - | 21 |
+| 1936 | 11 | -33 | 44 | 1614 | - | 1773 | - | 41 |
+| 1937 | 204 | -18 | 222 | 603 | - | 556 | - | 47 |
+| 1938 | 121 | -13 | 134 | 220 | 147 | - | - | 73 |
+--
+| National defense. | 159 | 154 | 153.0 | 177.0 | 200.0 | 219.0 | 287 | 376.0 | 473.0 | 572.0 | 592 | 745 | 761.0 | nan |
+| Social Security Act (grants and administrative expenses) 2/. | 47 | 29 | 12.0 | 64.0 | 34.0 | 17.0 | 57 | 37.0 | 19.0 | 53.0 | 30 | 37r | 50.0 | nan |
+| Interest on the public debt. | 66 | 7 | 192.0 | 16.0 | 16.0 | 144.0 | 69 | 7.0 | 189.0 | 14.0 | 16r | 144 | 68.0 | nan |
+| Public Works. | 79 | 73 | 81.0 | 70.0 | 78.0 | 72.0 | 93 | 78.0 | 65.0 | 54.0 | 50 | 53 | 45.0 | nan |
+| Agricultural aid 3/. | 112 | 95 | 64.0 | 66.0 | 61.0 | 28.0 | 75 | 40.0 | 116.0 | 109.0 | 108 | 119 | 81.0 | nan |
+| National Youth Administration. | 11 | 10 | 9.0 | 7.0 | 6.0 | 6.0 | 7 | 9.0 | 12.0 | 13.0 | 13 | 18 | 15.0 | nan |
+| Work Projects Administration. | 133 | 128 | 113.0 | 110.0 | 109.0 | 104.0 | 111 | 105.0 | 115.0 | 107.0 | 103 | 113 | 106.0 | nan |
+| Other. | 153 | 144 | 150.0 | 191.0 | 173.0 | 155.0 | 166 | 141.0 | 153.0 | 160.0 | 138r | 154r | 164.0 | nan |
+| Subtotal. | 760 | 640 | 774.0 | 701.0 | 677.0 | 745.0 | 865 | 793.0 | 1142.0 | 1082.0 | 1050 | 1383 | 1292.0 | nan |
+| Trust funds, etc.: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Reconstruction Finance Corporation. | -6 | -9 | 13.0 | 24.0 | -1.0 | -18.0 | -7 | 57.0 | 13.0 | 17.0 | 10 | 62 | 61.0 | nan |
+| Commodity Credit Corporation. | -4 | - | 1.0 | 10.0 | 146.0 | -1.0 | 21 | 24.0 | 17.0 | 12.0 | 7 | 37 | 33.0 | nan |
+| Unemployment trust fund. | 45 | 58 | 54.0 | 57.0 | 53.0 | 38.0 | 34 | 30.0 | 31.0 | 39.0 | 41 | 37 | 33.0 | nan |
+| Federal Old-Age and Survivors | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Insurance Trust Fund. | 2 | 2 | 3.0 | 3.0 | 4.0 | 4.0 | 5 | 5.0 | 5.0 | 5.0 | 6 | 7 | 7.0 | nan |
+| Railroad retirement account. | 10 | 10 | 10.0 | 10.0 | 10.0 | 10.0 | 10 | 10.0 | 10.0 | 10.0 | 10 | 10 | 10.0 | nan |
+| Other. | -16 | -11 | 26.0 | -2.0 | -21.0 | 51.0 | 36 | 31.0 | 28.0 | 13.0 | 28 | 17 | 37.0 | nan |
+| Subtotal. | 31 | 50 | 107.0 | 102.0 | 191.0 | 84.0 | 99 | 157.0 | 104.0 | 96.0 | 102 | 170 | 181.0 | nan |
+| Redemption of adjusted service bonds. | 1 | 1 | 4.0 | 3.0 | 2.0 | 2.0 | 2 | 2.0 | 1.0 | 1.0 | 1 | 1 | 1.0 | nan |
+| Total cash outgo. | 792 | 691 | 885.0 | 806.0 | 870.0 | 831.0 | 966 | 952.0 | 1247.0 | 1179.0 | 1153 | 1554 | 1474.0 | nan |
+| EXCESS OF CASH OUTGO. | 407 | 130 | 104.0 | 357.0 | 146.0 | 75.0 | 518 | 306.0 | 445.0 | 704.0 | 426 | -86 | 934.0 | nan |
+
+r Revised.
+1/ These figures are not intended to reflect the budgetary position of the Government. They will not agree with budgetary figures on receipts, expenditures and deficit such as those appearing in Daily Treasury Statements and in other tables in this Bulletin. For an explanation of the revisions made in Daily Treasury Statement figures to arrive at this cash series, see the text in February 1979 Bulletin.
+2/ Includes refunds of taxes.
+3/ Comprises Agricultural adjustment program, Commodity Credit Corporation, Farm Credit Administration, Federal Farm Mortgage Corporation, Federal land banks, Farm Security Administration and Farm Tenant Act.
+
+Total Cash Income and Outgo, by Months
+
+(in millions of dollars)
+
+| Unnamed: 0 | Jan. | Feb. | Mar. | Apr. | May | June | July | Aug. | Sept. | Oct. | Nov. | Dec. | Total | Unnamed: 14 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cash income | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| 1936 | 249.0 | 240.0 | 771.0 | 255.0 | 249.0 | 542.0 | 311.0 | 362.0 | 522.0 | 299.0 | 259.0 | 547.0 | 4606.0 | nan |
+| 1937 | 303.0 | 326.0 | 1115.0 | 421.0 | 390.0 | 925.0 | 438.0 | 541.0 | 852.0 | 389.0 | 433.0 | 930.0 | 7063.0 | nan |
+| 1938 | 395.0 | 460.0 | 1038.0 | 319.0 | 519.0 | 824.0 | 365.0 | 632.0 | 767.0 | 395.0 | 521.0 | 757.0 | 6992.0 | nan |
+| 1939 | 364.0 | 581.0 | 796.0 | 323.0 | 552.0 | 644.0 | 369.0 | 589.0 | 752.0 | 399.0 | 567.0 | 615.0 | 6551.0 | nan |
+| 1940 | 398.0 | 614.0 | 989.0 | 385.0 | 561.0 | 781.0 | 449.0 | 724.0 | 756.0 | 448.0 | 646.0 | 802.0 | 7553.0 | nan |
+| 1941 | 475.0 | 727.0 | 1640.0 | 540.0 | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Cash outgo | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+--
+| Bills (Nat. Defense Series).... | 401 | nan | nan | Bills (Nat. Defense Series).... | 401 | nan | nan |
+| Bills (Regular Series).... | 1202 | nan | nan | Bills (Regular Series).... | 1202 | nan | nan |
+| 1-3/8% Notes B - 6/15/41.... | 24 | nan | nan | 1-3/8% Notes B - 6/15/41.... | 24 | nan | nan |
+| 1-1/4% Bonds - 8/1/41.... | 834 | nan | nan | 1-1/4% Bonds - 8/1/41.... | 834 | nan | nan |
+| 1-1/4% Notes C - 12/15/41.... | 204 | nan | nan | 1-1/4% Notes C - 12/15/41.... | 204 | nan | nan |
+| Total..................... | 2665 | - | 2665.0 | Total..................... | 2665 | - | 2665.0 |
+| 1942 | nan | nan | nan | 1942 | nan | nan | nan |
+| 1-3/4% Notes A - 3/15/42.... | 426 | nan | nan | 1-3/4% Notes A - 3/15/42.... | 426 | nan | nan |
+| 2% Notes B - 9/15/42.... | 342 | nan | nan | 2% Notes B - 9/15/42.... | 342 | nan | nan |
+| 1-3/4% Notes C - 12/15/42.... | 232 | nan | nan | 1-3/4% Notes C - 12/15/42.... | 232 | nan | nan |
+| Total..................... | 1000 | - | 3665.0 | Total..................... | 1000 | - | 3665.0 |
+| 1943 | nan | nan | nan | 1943 | nan | nan | nan |
+| 3/4% Notes D - 3/15/43.... | 65 | nan | nan | 3/4% Notes D - 3/15/43.... | 65 | nan | nan |
+| 1-1/8% Notes A - 6/15/43.... | 629 | nan | nan | 1-1/8% Notes A - 6/15/43.... | 629 | nan | nan |
+| 1-3/8% Bonds - 6/15/43-47.... | 1% | nan | nan | 1% Notes C - 9/15/43.... | 279 | nan | nan |
+| 1-3/8% Notes C - 9/15/43.... | 279 | 454 | nan | 1-1/8% Notes B - 12/15/43.... | 421 | nan | nan |
+| 1-1/4% Bonds - 10/15/43-45.... | 1% | nan | nan | Total..................... | 1394 | - | 5059.0 |
+| 1-1/8% Notes B - 12/15/43.... | 421 | 1401 | nan | nan | nan | nan | nan |
+| Total..................... | 1394 | 1855 | 6914.0 | 1944 | nan | nan | nan |
+| 1% Notes B - 3/15/44.... | 515 | nan | nan | 1% Notes B - 3/15/44.... | 515 | nan | nan |
+| 1-3/4% Bonds - 4/15/44-46.... | 1% | 1519 | nan | 3/4% Notes A - 6/15/44.... | 416 | nan | nan |
+| 3/4% Notes A - 6/15/44.... | 416 | nan | nan | 1% Notes C - 9/15/44.... | 283 | nan | nan |
+| 1% Notes C - 9/15/44.... | 283 | nan | nan | 3/4% Notes D (Nat. Defense Series) - 9/15/44.... | 635 | nan | nan |
+| 3/4% Notes D (Nat. Defense Series) - 9/15/44-54.... | 635 | 1037 | nan | Total..................... | 1849 | - | 6908.0 |
+| Total..................... | 1849 | 2556 | 11319.0 | 1945 | nan | nan | nan |
+| 3/4% Notes A - 3/15/45.... | 718 | nan | nan | 3/4% Notes A - 3/15/45.... | 718 | nan | nan |
+| 2-3/4% Bonds - 9/15/45-47.... | 1214 | nan | nan | 1-1/4% Bonds - 10/15/45-47.... | 1401 | nan | nan |
+| 2-1/2% Bonds - 12/15/45.... | 541 | nan | nan | 2-1/2% Bonds - 12/15/45.... | 541 | nan | nan |
+| 3/4% Notes B (Nat. Defense Series) - 12/15/45.... | 531 | nan | nan | 3/4% Notes B (Nat. Defense Series) - 12/15/45.... | 531 | nan | nan |
+| Total..................... | 1790 | 1214 | 14323.0 | Total..................... | 1790 | 1401 | 10099.0 |
+| 1946 | nan | nan | nan | 1946 | nan | nan | nan |
+| 3% Conversion bonds - 1/1/46.... | 16 | nan | nan | 3% Conversion bonds - 1/1/46.... | 16 | nan | nan |
+| 3-3/4% Bonds - 3/15/46-56.... | 489 | nan | nan | 1-1/4% Bonds - 4/15/46-48.... | 1519 | nan | nan |
+| 3% Bonds - 6/15/46-48.... | 1036 | nan | nan | Total..................... | 16 | 1519 | 11634.0 |
+| 1-1/8% Bonds - 6/15/46-49.... | 819 | nan | nan | nan | nan | nan | nan |
+| Total..................... | 16 | 2344 | 16683.0 | 1947 | nan | nan | nan |
+| 3% Conversion bonds - 1/1/47.... | 13 | nan | nan | 3% Conversion bonds - 1/1/47.... | 13 | nan | nan |
+| 4-1/4% Bonds - 10/15/47-52.... | 759 | nan | nan | 1-3/8% Bonds - 6/15/47-49.... | 454 | nan | nan |
+| 2% Bonds - 12/15/47.... | 701 | nan | nan | 2-3/4% Bonds - 9/15/47-49.... | 1214 | nan | nan |
+| Total..................... | 714 | 759 | 18156.0 | 2% Bonds - 12/15/47.... | 701 | 1668 | 14016.0 |
+| 1948 | nan | nan | nan | 1948 | nan | nan | nan |
+| 2% Bonds - 3/15/48-50.... | 1115 | nan | nan | 3% Bonds - 6/15/46-48.... | 1036 | nan | nan |
+| 2-3/4% Bonds - 3/15/48-51.... | 1223 | nan | nan | 2-1/2% Bonds - 9/15/48.... | 451 | nan | nan |
+| 2-1/2% Bonds - 9/15/48.... | 451 | nan | nan | Total..................... | 451 | 1036 | 15503.0 |
+| 2% Bonds - 12/15/48-50.... | 571 | nan | nan | nan | nan | nan | nan |
+| Total..................... | 451 | 2909 | 21516.0 | 1949 | nan | nan | nan |
+| 2-1/2% Bonds - 12/15/49-53.... | 1785 | nan | nan | 1-1/8% Bonds - 6/15/46-49.... | 819 | nan | nan |
+| 3-1/8% Bonds - 12/15/49-52.... | 491 | nan | nan | Total..................... | - | 819 | 16322.0 |
+| Total..................... | - | 2277 | 23793.0 | 1950 | nan | nan | nan |
+| 2-1/2% Bonds - 9/15/50-52.... | 1186 | nan | nan | 2% Bonds - 3/15/48-50.... | 1115 | nan | nan |
+| Total..................... | - | 1186 | 24979.0 | 2% Bonds - 12/15/48-50.... | 571 | nan | nan |
+| nan | nan | nan | nan | Total..................... | - | 1686 | 18008.0 |
+
+(Continued on following page)
+
+21
+
+Maturity Schedule of United States Government Interest-Bearing Public Debt Outstanding 1 As of April 30, 1941 - (Continued)
+
+(Amount in millions of dollars) 2/
+
+| Classified by year in which issues are first callable 1/ > Description of security | Classified by year in which issues are first callable 1/ > Fixed-maturity issues | Classified by year in which issues are first callable 1/ > Callable issues | Classified by year in which issues are first callable 1/ > Cumulative total | Classified by year in which issues mature > Description of security | Classified by year in which issues mature > Fixed-maturity issues | Classified by year in which issues mature > Callable issues | Classified by year in which issues mature > Cumulative total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1951 2-3/4% Bonds - 6/15/51-54.. 3% Bonds - 9/15/51-55.. 2-1/4% Bonds - 12/15/51-53.. Total............ | - | 1,627 755 1,118 3,500 | 28479 | 1951 2-3/4% Bonds - 3/15/48-51.. Total............ | - | 1,223 1,223 | 19231 |
+| 1952 2-1/2% Bonds - 3/15/52-54.. Total............ | - | 1,024 1,024 | 29503 | 1952 2-1/2% Bonds - 9/15/50-52.. 4-1/4% Bonds - 10/15/47-52.. 3-1/2% Bonds - 12/15/49-52.. Total............ | - | 1,186 759 491 2,436 | 21667 |
+| 1953 2% Bonds - 6/15/53-55.. Total............ | - | 725 725 | 30228 | 1953 2-1/4% Bonds - 12/15/51-53.. 2-1/2% Bonds - 12/15/49-53.. Total............ | - | 1,118 1,786 2,904 | 24571 |
+| 1954 2-1/4% Bonds - 6/15/54-56.. Total............ | - | 681 681 | 30909 | 1954 2-1/2% Bonds - 3/15/52-54.. 2-1/4% Bonds - 6/15/51-54.. 4% Bonds - 12/15/44-54.. Total............ | - | 1,024 1,627 1,037 3,688 | 28259 |
+| 1955 2-7/8% Bonds - 3/15/55-60.. Total............ | - | 2,611 2,611 | 33520 | 1955 2% Bonds - 6/15/53-55.. 3% Bonds - 9/15/51-55.. Total............ | - | 725 755 1,480 | 29739 |
+| 1956 2-3/4% Bonds - 9/15/56-59.. Total............ | - | 982 982 | 34502 | 1956 3-3/4% Bonds - 3/15/46-56.. 2-1/4% Bonds - 6/15/54-56.. Total............ | - | 489 681 1,170 | 30909 |
+--
+Source: Daily Treasury Statements. Less than $100,000. 1/ Excludes interagency assets and liabilities (except marketable security issues and deposits with Reconstruction Finance Corporation). 2/ Negative items represent net excess of interagency assets over interagency liabilities. 3/ Includes the assets and liabilities of the Federal land banks of Louisville and Houston which have retired the capital stock and paid-in surplus previously held by the Federal Government. 4/ Figures reported are as of February 28, 1941. Figures for March 31, 1941 not available. 5/ Obligations held by the Secretary of the Treasury are shown as interagency interests. 5/ Comprises Metale Reserve Company, Rubber Reserve Company, Defense Plant Corporation, Defense Supplies Corporation, and Defense Homes Corporation.
+
+27
+
+Sources of Funds of Certain Governmental Corporations and Credit Agencies for the First 9 Months, Fiscal Year 1941
+
+| Corporation or agency | Appropriations from General Fund of the Treasury 1/ | Allocations, rediscounts, and loans from other governmental corporations and credit agencies (net) | Sale of obligations to Treasury (net) | Sale of obligations in the market (net) | Sale of stock to other agencies |
+| --- | --- | --- | --- | --- | --- |
+| Central Bank for Cooperatives. | $-20,000,000 2/ | $ 4,893,958 | - | - | $ 117,200 |
+| Commodity Credit Corporation. | - | - | $ 40,000,000 | $289,458,000 | - |
+| Disaster Loan Corporation. | - | - | - | - | - |
+| Electric Home and Farm Authority. | - | - | - | 136465 | - |
+| Export-Import Bank of Washington. | - | - | - | - | 100000000 |
+| Federal Deposit Insurance Corporation. | - | - | - | - | - |
+| Federal Farm Mortgage Corporation. | - | - | - | - | - |
+| Federal Home Loan Banks. | - | - | - | 44960300 | - |
+| Federal National Mortgage Association. | - | 24745763 | - | - | - |
+| Federal Savings and Loan Insurance Corporation. | - | - | - | - | - |
+| Home Owners' Loan Corporation. | - | - | - | - | - |
+| Reconstruction Finance Corporation. | - | - | 252451442 | 600000 | - |
+| RFC Mortgage Company. | - | 10130717 | - | - | - |
+| Rural Electrification Administration. | 19443266 | 36235806 | - | - | - |
+| United States Housing Authority. | 4020716 | - | 10000000 | 112099000 | - |
+| Other Corporations 3/. | - | 104204993 | - | - | 27000000 |
+| Total. | $ 3,463,982 | $180,211,237 | $302,451,442 | $447,253,765 | $127,117,200 |
+
+| Corporation or agency | Sale of other property acquired | Repayment of loans 1/ | Interest, dividends, assessments, and property income | Other receipts | Total, sources of funds |
+| --- | --- | --- | --- | --- | --- |
+| Central Bank for Cooperatives | - | $ 41,022,490 | $ 668,667 | $ 1,959,715 | $ 28,662,030 |
+| Commodity Credit Corporation | $18,863,014 | 53218836 | 1281945 | 2526119 | $405,347,914 |
+| Disaster Loan Corporation | 59056 | 2867223 | 642293 | 233533 | 3802105 |
+| Electric Home and Farm Authority | - | 6811332 | 826260 | 45590 | 7819647 |
+| Export-Import Bank of Washington | - | 10911758 | 2363241 | - | 113274999 |
+| Federal Deposit Insurance Corporation | - | 20623414 | 58501400 | 297223 | 79422037 |
+| Federal Farm Mortgage Corporation | 3886385 | 52826414 | 46762059 | 500428 | 103975286 |
+| Federal Home Loan Banks | - | 110065805 | 4309351 | - | 159335456 |
+| Federal National Mortgage Association | 266124 | 9507638 | 6263177 | 177096 | 40959798 |
+| Federal Savings and Loan Insurance Corporation | - | - | 4187768 | 1625 | 4189393 |
+| Home Owners' Loan Corporation | 35675691 | 131713194 | 88168779 | 7283230 | 262840894 |
+| Reconstruction Finance Corporation | 3497694 | 228293952 | 44257156 | 19931648 | 549031892 |
+| RFC Mortgage Company | 155122 | 11600673 | 2053091 | 709917 | 24549520 |
+--
+Sources: Reports received from the corporations and agencies. 1/ Items in this column are the only ones in this statement which constitute a charge against the Federal Budget. They represent amounts of funds drawn against available appropriations. 2/ Repayment to Farm Credit Administration of portion of amount invested in Capital Stock of Central Bank for Cooperatives. 3/ Includes Metals Reserve Company, Rubber Reserve Company, Defense Plant Corporation, Defence Supplies Corporation, and Defense Homes Corporation. h/ Receipts from the sale of property acquired in liquidation of loans are shown as "Sale of other property acquired".
+
+28
+
+Uses of Funds of Certain Governmental Corporations and Credit Agencies for the First 9 Months, Fiscal Year 1941
+
+| Corporation or agency > Unnamed: 0_level_1 | Expenses > Administrative | Expenses > Nonadministrative | Purchase and improvement of property owned > Unnamed: 3_level_1 | Loans > Unnamed: 4_level_1 | Retirement of obligations issued in exchange for mortgagee 1/ > Unnamed: 5_level_1 |
+| --- | --- | --- | --- | --- | --- |
+| Central Bank for Cooperatives | $ 106,091 | - | - | $ 44,709,162 | - |
+| Commodity Credit Corporation | 2485121 | - | $ 69,054,027 | 276507150 | - |
+| Disaster Loan Corporation | 558725 | $ 35,959 | - | 1358003 | - |
+| Electric Home and Farm Authority | 366049 | 229573 | - | 7101783 | - |
+| Export-Import Bank of Washington | 72731 | 5 | - | 70211168 | - |
+| Federal Deposit Insurance Corporation | 2758689 | - | - | 9158231 | - |
+| Federal Farm Mortgage Corporation | 6503358 | 884794 | 2319876 | 27978663 | - |
+| Federal Home Loan Banks | 880098 | - | - | 98627655 | - |
+| Federal National Mortgage Association | 868869 | 880564 | - | 36857048 | - |
+| Federal Savings and Loan Insurance Corporation | 194171 | 5740 | - | - | - |
+| Home Owners' Loan Corporation | 15324247 | 21169044 | 9535722 | 15557667 | $24,054,075 |
+| Reconstruction Finance Corporation | 6920789 | 95461 | - | 200959628 | - |
+| RFC Mortgage Company | 631097 | 1379423 | - | 21235028 | - |
+| Rural Electricatioo Administration | 2337026 | - | - | 52408453 | - |
+| United States Housing Authority | 3727826 | 686919 | 85569 | 423965990 | - |
+| Other Corporations 2/ | 7569 | 1292393 | 120302557 | - | - |
+| Total | $43,742,456 | $26,660,475 | $201,297,751 | $1,286,635,629 | $24,054,075 |
+
+| Corporation or agency | Investments (net) | Allocations, rediscounts, and loans to other governmental corporations and credit agencies (net) | Interest and dividends paid | Other expenditures | Total, use of funds |
+| --- | --- | --- | --- | --- | --- |
+| Central Bank for Cooperatives | $-17,067,436 | - | $ 33,658 | $ 1,239 | $ 27,782,714 |
+| Commodity Credit Corporation | - | $ 52,512,667 | 2625390 | 986474 | 404170829 |
+| Disaster Loan Corporation | - | 1849043 | - | 375 | 3802105 |
+| Electric Home and Farm Authority | - | - | 146171 | 6899 | 7850475 |
+| Export-Import Bank of Washington | - | 42700000 | 100000 | 50000 | 113133904 |
+| Federal Deposit Insurance Corporation | 71615961 | - | - | 120583 | 83653464 |
+| Federal Farm Mortgage Corporation | -245000 | - | 25562163 | 2559113 | 65562967 |
+| Federal Home Loan Banks | -2644856 | - | 2241233 | 3755565 | 102859695 |
+| Federal National Mortgage Association | - | - | 2291110 | 62207 | 40959798 |
+| Federal Savings and Loan Insurance Corporation | 3519047 | - | - | 674,531 3/4 | 4393489 |
+| Home Owners' Loan Corporation | -23977925 | - | 37879389 | - | 99542819 |
+| Reconstruction Finance Corporation | 241741000 | 93661142 | 9701421 | - | 553079441 |
+| RFC Mortgage Company | - | - | 1404271 | - | 24649819 |
+--
+2/ Includes Metals Reserve Company, Rubber Reserve Company, Defense Plant Corporation, Defense Supplies Corporation, and Defense Homes Corporation.
+3/ Includes expenditures for contributions and subrogated shares or claims in insured financial institutions.
+
+29
+
+Sources of Funds of Certain Governmental Corporations and Credit Agencies
+
+from Inception of Organization through March 31, 1941
+
+| Corporation or agency | Appropriations from General Fund of the Treasury 1/ | Allocations, rediscounts, and loans from other governmental corporations and credit agencies (net) | Sale of obligations to Treasury (net) | Sale of obligations in the market (net) | Sale of stock to other agencies |
+| --- | --- | --- | --- | --- | --- |
+| Central Bank for Cooperatives | $ 30,000,000 | $ 6,289,780 | - | - | $ 636,500 |
+| Commodity Credit Corporation | 270,128,592 2/ | - | $ 65,000,000 | $ 695,252,000 | - |
+| Disaster Loan Corporation | 24,000,000 3/ | - | - | - | - |
+| Electric Home and Farm Authority | 1000000 | - | - | 11295000 | - |
+| Export-Import Bank of Washington | 1000000 | - | - | - | 174000000 |
+| Federal Deposit Insurance Corporation | 150000000 | - | - | - | 139299557 |
+| Federal Farm Mortgage Corporation | 200,000,000 3/ | - | - | 1269387900 | - |
+| Federal Home Loan Banks | - | - | - | 90500000 | 124,741,000 4/ |
+| Federal National Mortgage Association | - | $4,733,496 | - | 85240000 | 11000000 |
+| Federal Savings and Loan Insurance Corporation | - | - | - | - | 100000000 |
+| Home Owners' Loan Corporation | 200,000,000 3/ | - | - | 3,114,453,550 5/ | - |
+| Reconstruction Finance Corporation | 500000000 | - | 259451442 | 1096957000 | - |
+| HFC Mortgage Company | - | 43114946 | - | - | 25000000 |
+| Rural Electrification Administration | 127947327 | 164497291 | - | - | - |
+| United States Housing Authority | 36689285 | - | 10000000 | 226256000 | - |
+| Other Corporations 6/ | - | 104204993 | - | - | 27000000 |
+| Total | $1,540,765,204 | $402,640,506 | $334,451,442 | $6,590,341,450 | $601,677,057 |
+
+| Corporation or agency | Sale of other property acquired | Repayment of loans 1/ | Interest, dividends, assessments, and property income | Other receipts | Total, sources of funds |
+| --- | --- | --- | --- | --- | --- |
+| Central Bank for Cooperatives | - | $ 231,408,367 | $ 10,381,148 | $ 4,301,020 | $ 283,016,815 |
+| Commodity Credit Corporation | $ 48,962,959 | 718219577 | 16667154 | 4532567 | 1819762849 |
+| Disaster Loan Corporation | 98537 | 7154480 | 1228716 | 298539 | 32780272 |
+| Electric Home and Farm Authority | - | 21856339 | 3409948 | 286492 | 37647779 |
+| Export-Import Bank of Washington | - | 46770190 | 8693612 | 707119 | 231170921 |
+| Federal Deposit Insurance Corporation | - | 66619971 | 297783430 | 4243678 | 657946636 |
+| Federal Farm Mortgage Corporation | 13053209 | 299211078 | 416580403 | 9678757 | 2207911347 |
+| Federal Home Loan Banks | - | 583702050 | 39311940 | 76,822,830 8/ | 915077820 |
+| Federal National Mortgage Association | 277814 | 24722345 | 17009608 | 3385366 | 226368629 |
+| Federal Savings and Loan Insurance Corporation | - | - | 33348889 | 121974 | 133470863 |
+--
+5/ Retirement of these obligations shown as "Retirement of obligations issued in exchange for mortgages" in the statement of uses of funds. Includes Metals Reserve Company, Rubber Reserve Company, Defense Plant Corporations, Defense Supplies Corporation, and Defense Homes Corporation.
+6/ Receipts from the sale of property acquired in liquidation of loans are shown as "Sale of other property acquired".
+7/ Includes $45,592,775 paid-in capital stock held by member institutions.
+
+30
+
+Uses of Funds of Certain Governmental Corporations and Credit Agencies
+
+from Inception of Organization through March 31, 1941
+
+| Corporation or agency > Unnamed: 0_level_1 | Expenses > Administrative | Expenses > Nonadministrative | Purchase and improvement of property owned > Unnamed: 3_level_1 | Loans > Unnamed: 4_level_1 | Retirement of obligations issued in exchange for mortgages 1/ > Unnamed: 5_level_1 |
+| --- | --- | --- | --- | --- | --- |
+| Central Bank for Cooperatives | $ 839,950 | - | - | $ 249,040,589 | - |
+| Commodity Credit Corporation | 7027139 | - | $119,502,872 | 1586611050 | - |
+| Disaster Loan Corporation | 2769465 | $ 129,662 | - | 27381212 | - |
+| Electric Home and Farm Authority | 1808570 | 802512 | - | 34160568 | - |
+| Export-Import Bank of Washington | 447348 | 2844 | - | 157891669 | - |
+| Federal Deposit Insurance Corporation | 22715214 | - | - | 162686408 | - |
+| Federal Farm Mortgage Corporation | 68892046 | 4306199 | 12503687 | 1021061994 | - |
+| Federal Home Loan Banks | 9312632 | - | - | 729660947 | - |
+| Federal National Mortgage Association | 2411341 | 2270600 | - | 216109090 | - |
+| Federal Savings and Loan Insurance Corporation | 1217471 | 23458 | - | - | - |
+| Home Owners' Loan Corporation | 213155025 | 114452436 | 133903652 | 3258830112 | $503,698,725 |
+| Reconstruction Finance Corporation | 81002896 | 6607848 | - | 6801152645 | - |
+| RFC Mortgage Company | 4194214 | 4580352 | - | 178909827 | - |
+| Rural Electrification Administration | 10614706 | - | - | 273695741 | - |
+| United States Housing Authority | 13889756 | 4962278 | 26208833 | 679305254 | - |
+| Other Corporations 2/ | 7569 | 1292393 | 120302557 | - | - |
+| Total | $440,305,342 | $139,430,582 | $412,421,601 | $15,376,697,106 | $503,698,725 |
+
+| Corporation or agency | Investments (net) 1/ | Allocations, rediscounts, and loans to other governmental corporations and credit agencies (net) | Interest and dividends paid | Other expenditures | Total, uses of funds |
+| --- | --- | --- | --- | --- | --- |
+| Central Bank for Cooperatives. | $ 21,786,024 | - | $ 506,478 | $ 3,177,634 | $ 275,350,675 |
+| Commodity Credit Corporation. | - | $ 63,338,152 | 21956948 | 18897054 | 1817333215 |
+| Disaster Loan Corporation. | - | 2498499 | - | 434 | 32779272 |
+| Electric Home and Farm Authority. | - | - | 351675 | 193719 | 37517044 |
+| Export-Import Bank of Washington. | - | 68850000 | 2362329 | 593801 | 230147991 |
+| Federal Deposit Insurance Corporation. | 420153797 | - | - | 38,492,784 2/ | 644048203 |
+| Federal Farm Mortgage Corporation. | 761679840 | - | 256377395 | 16675901 | 2141497062 |
+| Federal Home Loan Banks. | 52211248 | - | 20083540 | 224105 | 811492472 |
+| Federal National Mortgage Association. | - | - | 5443978 | 133620 | 226368629 |
+--
+2/ Includes Metals Reserve Company, Rubber Reserve Company, Defense Plant Corporation, Defense Supplies Corporation, and Defense Homes Corporation.
+3/ Includes U. S. Government bonds in the amount of $166,617,073 as follows: Federal Deposit Insurance Corporation, $112,663,656; Federal Savings and Loan Insurance Corporation, $15,104,500; U. S. Housing Authority, $5,895,000; Federal Home Loan Banks, $32,893,917.
+4/ Includes expenditures for contributions and subrogated shares or claims in insured financial institutions.
+
+31
+
+Principal of Outstanding Interest-Bearing Obligations Guaranteed by the United States
+
+(In millions of dollars)
+
+| End of fiscal year or month | Total unmatured obligations outstanding | Commodity Credit Corporation notes | Federal Farm Mortgage Corporation bonds | Federal Housing Administration debentures | Home Owners' Loan Corporation bonds | Reconstruction Finance Corporation notes | United States Housing Authority notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1934 | 680.7 | - | 311.6 | - | 134.3 | 234.8 | - |
+| 1935 | 4122.7 | - | 1225.6 | - | 2647.3 | 249.8 | - |
+| 1936 | 4718.0 | - | 1422.2 | - | 3044.2 | 251.6 | - |
+| 1937 | 4664.6 | - | 1422.2 | .1 | 2987.1 | 255.2 | - |
+| 1938 | 4852.7 | 206.2 | 1409.8 | .6 | 2937.2 | 298.9 | - |
+| 1939 | 5450.0 | 206.2 | 1379.4 | 2.6 | 2927.9 | 819.7 | 114.2 |
+| 1940 | 5497.6 | 406.8 | 1269.4 | 7.5 | 2603.3 | 1096.4 | 114.2 |
+| 1940-April | 5624.5 | 406.8 | 1269.4 | 6.6 | 2731.2 | 1096.3 | 114.2 |
+| May | 5497.2 | 406.8 | 1269.4 | 7.2 | 2603.3 | 1096.3 | 114.2 |
+| June | 5497.6 | 406.8 | 1269.4 | 7.5 | 2603.3 | 1096.4 | 114.2 |
+| July | 5498.6 | 406.8 | 1269.4 | 8.4 | 2603.4 | 1096.4 | 114.2 |
+| August | 5788.4 | 696.2 | 1269.4 | 8.8 | 2603.4 | 1096.4 | 114.2 |
+| September | 5787.2 | 696.2 | 1269.4 | 9.1 | 2601.8 | 1096.5 | 114.2 |
+| October | 5790.5 | 696.2 | 1269.4 | 12.1 | 2601.8 | 1096.6 | 114.2 |
+| November | 5901.0 | 696.2 | 1269.4 | 12.6 | 2599.8 | 1096.7 | 226.3 |
+| December | 5901.4 | 696.2 | 1269.4 | 12.9 | 2599.8 | 1096.8 | 226.3 |
+| 1941-January | 5900.8 | 696.2 | 1269.4 | 12.3 | 2599.8 | 1096.8 | 226.3 |
+| February | 5901.1 | 696.2 | 1269.4 | 12.6 | 2599.8 | 1096.8 | 226.3 |
+| March | 5904.6 | 696.2 | 1269.4 | 16.0 | 2599.8 | 1096.9 | 226.3 |
+| April | 6549.6 | 696.2 | 1269.4 | 16.6 | 2599.8 | 1741.3 | 226.3 |
+
+Sources: Daily Treasury Statements. 1/ Exclude obligations sold directly to the Treasury.
+
+Market Financing Operations Conducted by the Treasury for Agencies Issuing Securities Guaranteed by the United States
+
+(In millions of dollars)
+
+| Agency > Unnamed: 0_level_1 > Unnamed: 0_level_2 > Unnamed: 0_level_3 | Date of issue > Unnamed: 1_level_1 > Unnamed: 1_level_2 > Unnamed: 1_level_3 | Rate (per-cent) > Unnamed: 2_level_1 > Unnamed: 2_level_2 > Unnamed: 2_level_3 | Term > Unnamed: 3_level_1 > Unnamed: 3_level_2 > Unnamed: 3_level_3 | Call and maturity dates > Unnamed: 4_level_1 > Unnamed: 4_level_2 > Unnamed: 4_level_3 | Amount issued > Bonds > Unnamed: 5_level_2 > Unnamed: 5_level_3 | Amount issued > Notes > Unnamed: 6_level_2 > Unnamed: 6_level_3 | Amount of cash subscriptions tendered > Unnamed: 7_level_1 > Unnamed: 7_level_2 > Unnamed: 7_level_3 | New securities allotted > For cash > Amount of exchanges > Bonds | New securities allotted > For cash > Rate (per-cent) > Notes | New securities allotted > in exchange for > Date of issue > Unnamed: 10_level_3 | New securities allotted > in exchange for > Call or maturity date > Unnamed: 11_level_3 | New securities allotted > in exchange for > Unnamed: 12_level_2 > Unnamed: 12_level_3 | New securities allotted > Unnamed: 13_level_1 > Unnamed: 13_level_2 > Unnamed: 13_level_3 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

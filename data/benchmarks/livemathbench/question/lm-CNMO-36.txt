@@ -1,0 +1,1 @@
+A frog jumps between the four vertices of a square $ABCD$, each time jumping to one of the two adjacent vertices with equal probability, and each jump is independent. If the frog starts at vertex $A$, what is the probability that it will be back at vertex $A$ after the 6th jump?

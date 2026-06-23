@@ -1,0 +1,177 @@
+[
+  {
+    "condition": "Pa",
+    "case_id": "oqa-112",
+    "is_correct": true,
+    "cost": 3.795919,
+    "elapsed": 40.02
+  },
+  {
+    "condition": "Pa",
+    "case_id": "oqa-118",
+    "is_correct": false,
+    "cost": 0.12846449999999998,
+    "elapsed": 353.86
+  },
+  {
+    "condition": "Pa",
+    "case_id": "oqa-130",
+    "is_correct": false,
+    "cost": 4.0229125,
+    "elapsed": 56.03
+  },
+  {
+    "condition": "Pa",
+    "case_id": "oqa-14",
+    "is_correct": false,
+    "cost": 0.09044050000000001,
+    "elapsed": 26.47
+  },
+  {
+    "condition": "Pa",
+    "case_id": "oqa-35",
+    "is_correct": false,
+    "cost": 0.0653195,
+    "elapsed": 25.11
+  },
+  {
+    "condition": "Pb",
+    "case_id": "oqa-112",
+    "is_correct": false,
+    "cost": 0.1800815,
+    "elapsed": 54.95
+  },
+  {
+    "condition": "Pb",
+    "case_id": "oqa-118",
+    "is_correct": false,
+    "cost": 4.168690999999999,
+    "elapsed": 59.03
+  },
+  {
+    "condition": "Pb",
+    "case_id": "oqa-130",
+    "is_correct": false,
+    "cost": 0.240507,
+    "elapsed": 59.93
+  },
+  {
+    "condition": "Pb",
+    "case_id": "oqa-14",
+    "is_correct": true,
+    "cost": 0.157801,
+    "elapsed": 53.19
+  },
+  {
+    "condition": "Pb",
+    "case_id": "oqa-35",
+    "is_correct": false,
+    "cost": 0.0665825,
+    "elapsed": 26.79
+  },
+  {
+    "condition": "Pc",
+    "case_id": "oqa-112",
+    "is_correct": false,
+    "cost": 0.142298,
+    "elapsed": 41.56
+  },
+  {
+    "condition": "Pc",
+    "case_id": "oqa-118",
+    "is_correct": false,
+    "cost": 4.9277895,
+    "elapsed": 72.38
+  },
+  {
+    "condition": "Pc",
+    "case_id": "oqa-130",
+    "is_correct": false,
+    "cost": 0.2736065,
+    "elapsed": 74.94
+  },
+  {
+    "condition": "Pc",
+    "case_id": "oqa-14",
+    "is_correct": true,
+    "cost": 0.19126249999999997,
+    "elapsed": 59.75
+  },
+  {
+    "condition": "Pc",
+    "case_id": "oqa-35",
+    "is_correct": false,
+    "cost": 0.2362095,
+    "elapsed": 25.14
+  },
+  {
+    "condition": "Sb",
+    "case_id": "oqa-112",
+    "is_correct": false,
+    "cost": 0.10657050000000001,
+    "elapsed": 33.24
+  },
+  {
+    "condition": "Sb",
+    "case_id": "oqa-118",
+    "is_correct": false,
+    "cost": 0.102652,
+    "elapsed": 34.45
+  },
+  {
+    "condition": "Sb",
+    "case_id": "oqa-130",
+    "is_correct": false,
+    "cost": 3.2078580000000003,
+    "elapsed": 46.33
+  },
+  {
+    "condition": "Sb",
+    "case_id": "oqa-14",
+    "is_correct": false,
+    "cost": 0.1829595,
+    "elapsed": 54.46
+  },
+  {
+    "condition": "Sb",
+    "case_id": "oqa-35",
+    "is_correct": false,
+    "cost": 0.056242,
+    "elapsed": 18.55
+  },
+  {
+    "condition": "Sc",
+    "case_id": "oqa-112",
+    "is_correct": false,
+    "cost": 0.1383345,
+    "elapsed": 39.75
+  },
+  {
+    "condition": "Sc",
+    "case_id": "oqa-118",
+    "is_correct": false,
+    "cost": 5.2517594999999995,
+    "elapsed": 71.65
+  },
+  {
+    "condition": "Sc",
+    "case_id": "oqa-130",
+    "is_correct": false,
+    "cost": 0.4597535,
+    "elapsed": 53.69
+  },
+  {
+    "condition": "Sc",
+    "case_id": "oqa-14",
+    "is_correct": false,
+    "cost": 0.126056,
+    "elapsed": 21.57
+  },
+  {
+    "condition": "Sc",
+    "case_id": "oqa-35",
+    "is_correct": false,
+    "cost": 0.06928300000000001,
+    "elapsed": 24.3
+  }
+]

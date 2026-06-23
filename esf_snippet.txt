@@ -1,0 +1,112 @@
+| SECTION V—U.S. Dollar Positions | SECTION V—U.S. Dollar Positions | nan |
+| FCP-V-1—Weekly Report of Major Market Participants | 75 | nan |
+| FCP-V-2—Monthly Report of Major Market Participants | 76 | nan |
+| FCP-V-3—Quarterly Report of Large Market Participants | 76 | nan |
+| SECTION VI—Euro Positions | SECTION VI—Euro Positions | nan |
+| FCP-VI-1—Weekly Report of Major Market Participants | 77 | nan |
+| FCP-VI-2—Monthly Report of Major Market Participants | 78 | nan |
+| FCP-VI-3—Quarterly Report of Large Market Participants | 78 | nan |
+| EXCHANGE STABILIZATION FUND | EXCHANGE STABILIZATION FUND | nan |
+| Introduction—Exchange Stabilization Fund | 79 | nan |
+| ESF-1—Balance Sheet | 80 | nan |
+| ESF-2—Income and Expense | 81 | nan |
+| SPECIAL REPORTS | SPECIAL REPORTS | nan |
+| TRUST FUNDS | TRUST FUNDS | nan |
+| Introduction—Highway Trust Fund | 83 | nan |
+| TF-6A—Highway Trust Fund; Highway Account, Mass Transit Account | 83 | nan |
+| GLOSSARY | GLOSSARY | 84.0 |
+
+--
+| Sept | 166292 | - | 264 | 320634 | 109236 | 25894 | 3298 |
+
+36
+
+TABLE FD-3—Government Account Series
+
+[In millions of dollars. Source: "Monthly Statement of the Public Debt of the United States"]
+
+| End of fiscal year or month | Total (1) | Airport and Airway Trust Fund (2) | Deposit Insurance Fund (3) | Employees Life Insurance Fund (4) | Exchange Stabilization Fund (5) | Federal Disability Insurance Trust Fund (6) | Federal employees retirement funds (7) | Federal Hospital Insurance Trust Fund (8) | Federal Housing Administration (9) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018 | 5977617 | 14212 | 94431 | 46616 | 22311 | 93401 | 931838 | 202805 | 26975 |
+| 2019 | 6133658 | 15018 | 104015 | 48199 | 22622 | 96520 | 950211 | 198625 | 50601 |
+| 2020 | 6174279 | 7900 | 108949 | 49129 | 11170 | 97209 | 974802 | 133735 | 67937 |
+| 2021 | 6243318 | 15902 | 115527 | 50151 | 22837 | 98032 | 940140 | 136168 | 94132 |
+| 2022 | 6929803 | 10818 | 125471 | 50990 | 18401 | 114679 | 1027513 | 177397 | 119950 |
+| 2021 - Sept | 6243318 | 15902 | 115527 | 50151 | 22837 | 98032 | 940140 | 136168 | 94132 |
+| Oct | 6476647 | 12878 | 113982 | 50184 | 22838 | 97231 | 925520 | 136252 | 94346 |
+--
+3 Includes $481,781,898 in standard silver dollars.
+
+4 Based on Bureau of the Census estimates of population.
+
+5 Represents value of certain partial denominations not presented for redemption.
+
+6 Represents current FRB adjustment.
+
+Foreign Currency Positions Exchange Stabilization Fund
+
+66
+
+INTRODUCTION: Foreign Currency Positions
+
+The "Treasury Bulletin" reports foreign currency holdings of large foreign exchange market participants. These reports provide information on positions in derivative instruments, such as foreign exchange futures and options that are increasingly used in establishing foreign exchange positions but were not covered in the old reports.
+
+The information is based on reports of large foreign exchange market participants on holdings of five major foreign currencies (Canadian dollar, Japanese yen, Swiss franc, pound sterling, and euro) and the U.S. dollar. Positions in the U.S. dollar, which have been collected since January 1999, are intended to approximate "all other" currency positions of reporting institutions. U.S.-based businesses file a consolidated report for their domestic and foreign subsidiaries, branches, and agencies. U.S. subsidiaries of foreign entities file only for themselves, not for their foreign parents. Filing is required by law (31 United States Code 5315; 31 Code of Federal Regulations 128, Subpart C).
+--
+| June | 126660 | 156997 | 426336 | 261396 | 6094 | 6700 | 10693 | 5108 | 630 | 0.844 |
+| Sept. | 138855 | 163917 | 460740 | 252086 | 10076 | 5663 | 7786 | 6332 | 286 | 0.8638 |
+| Dec. | 138274 | 177886 | 482381 | 267220 | 7422 | 4261 | 9926 | 7880 | 6 | 0.8789 |
+| 2022 - Mar. | 152198 | 199758 | 477658 | 257299 | 11690 | 7629 | 9890 | 7551 | 228 | 0.9015 |
+| June | 157904 | 214408 | 500648 | 278382 | 11373 | 4967 | 7943 | 8306 | 781 | 0.9552 |
+
+79
+
+INTRODUCTION: Exchange Stabilization Fund
+
+To stabilize the exchange value of the dollar, the Exchange Stabilization Fund (ESF) was established pursuant to chapter 6, section 10 of the Gold Reserve Act of January 30, 1934 codified at 31 United States Code 5302, which authorized establishment of a Treasury fund to be operated under the exclusive control of the Secretary, with approval of the President.
+
+Subsequent amendment of the Gold Reserve Act modified the original purpose somewhat to reflect termination of the fixed exchange rate system.
+
+Section 4027 of H.R. 748, the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), enacted on March 27, 2020 as Pub. Law 116-136, appropriated $500 billion to the ESF. The Consolidated Appropriations Act, 2021, subsequently rescinded $479 billion of the $500 billion appropriation provided to Treasury.
+
+Resources of the fund include (a) Fund Balance, which is available to support subsidy costs for loan modifications and expenditures for administrative expenses in support of the CARES Act, (b) U.S. Government securities (dollar balances), (c) special drawing rights -SDRs, and (d) foreign currencies. Principal sources of income -+ or loss -- for the fund are profits -+ or losses -- on SDRs and foreign exchange, and interest earned on U.S Government, foreign securities, and SDRs.
+
+Table ESF-1 presents the assets, liabilities, and capital of the fund. The figures are in U.S. dollars. Amounts and transactions pertaining to foreign currencies and special drawing rights, an international reserve asset created by the International Monetary Fund (IMF) to supplement its member countries' position in the Fund, have been converted to U.S. dollars based on current exchange rates computed according to the accrual method of accounting. Investments and loans receivable are reported at cost. The capital account represents the original capital appropriated to the fund by Congress of $2 billion, minus a subsequent transfer of $1.8 billion to pay for the initial U.S. quota subscription to the International Monetary Fund. The additional appropriated capital represents the amount appropriated under the CARES Act Sec 4027 minus transfers, expenditures for administrative and subsidy costs, and rescissions resulting from the passage of the Consolidated Appropriations Act, 2021 and the Infrastructure Investment and Jobs Act, 2021. Conversion gains and losses are reflected in the cumulative net income - + or loss -- account.
+--
+Government account series (FD-2)—Certain trust fund statutes require the Secretary of the Treasury to apply monies held by these funds toward the issuance of nonmarketable special securities. These securities are sold directly by
+
+85
+
+Treasury to a specific Government agency, trust fund, or account. Their rate is based on an average of market yields on outstanding Treasury obligations, and they may be redeemed at the option of the holder. Roughly 80 percent of these are issued to five holders: the Federal Old-Age and Survivors Insurance Trust Fund; the civil service retirement and disability fund; the Federal Hospital Insurance Trust Fund; the military retirement fund; and the Unemployment Trust Fund.
+
+Interfund transactions (“Federal Fiscal Operations”)—Transactions in which payments are made from one fund group (either Federal funds or trust funds) to a receipt account in another group.
+
+International Monetary Fund transactions (“Exchange Stabilization Fund”, ESF-1)—(IMF) Established by the United Nations, the IMF promotes international trade, stability of exchange, and monetary cooperation. Members are allowed to draw from the fund.
+
+Intrabudgetary transactions ("Federal Fiscal Operations")—These occur when payment and receipt both occur within the budget, or when payment is made from off-budget Federal entities whose budget authority and outlays are excluded from the budget totals.
+
+Noncompetitive tenders ("Treasury Financing Operations")—This is a tender or bid to purchase a stated par amount of securities at the highest yield or discount rate awarded to competitive bidders for a single-price auction.
+
+Obligations (“Federal Fiscal Operations”)—An unpaid commitment to acquire goods or services.
+
+Off-budget Federal entities (“Federal Fiscal Operations”)— Federally owned and controlled entities whose transactions are excluded from the budget totals under provisions of law. Their receipts, outlays, and surplus or deficit are not included in budget receipts, outlays, or deficits. Their budget authority is not included in totals of the budget.
+--
+Quarterly financing (“Treasury Financing Operations”)—Treasury has historically offered packages of several “coupon” security issues on the 15th of February, May, August, and November, or on the next working day. These issues currently consist of a 3-year note, a 10-year note, and a 30-year bond. Treasury sometimes offers additional amounts of outstanding long-term notes or bonds, rather than selling new security issues. (See Reopening.)
+
+Fractional coins (USCC)—Coins minted in denominations of 50, 25, and 10 cents, and minor coins (5 cents and 1 cent).
+
+Receipts (“Federal Fiscal Operations”)—Funds collected from selling land, capital, or services, as well as collections from the public (budget receipts), such as taxes, fines, duties, and fees.
+
+Reopening (PDO-2)—The offer for sale of additional amounts of outstanding issues, rather than an entirely new issue. A reopened issue will always have the same maturity date, CUSIP-number, and interest rate as the original issue.
+
+Special drawing rights (“Exchange Stabilization Fund,” ESF-1)—International assets created by IMF that serve to increase international liquidity and provide additional international reserves. SDRs may be purchased and sold among eligible holders through IMF. (See IMF.)
+
+SDR allocations are the counterpart to SDRs issued by IMF based on members' quotas in IMF. Although shown in Exchange Stabilization Fund (ESF) statements as liabilities, they must be redeemed by ESF only in the event of liquidation of, or U.S. withdrawal from, the SDR department of IMF or cancellation of SDRs.
+
+SDR certificates are issued to the Federal Reserve System against SDRs when SDRs are legalized as money. Proceeds of monetization are deposited into an ESF account at the Federal Reserve Bank of New York.
+
+Spot (“Foreign Currency Positions”)—Due for receipt or delivery within 2 workdays.
+
+State and local government series (SLGS) (FD-2)—Special nonmarketable certificates, notes, and bonds offered to State and local governments as a means to invest proceeds from their own tax-exempt financing. Interest rates and maturities comply with IRS arbitrage provisions. SLGS are offered in both time deposit and demand deposit forms. Time deposit certificates have maturities of up to 1 year. Notes mature in 1 to 10 years and bonds mature in more than 10 years. Demand deposit securities are 1-day certificates rolled over with a rate adjustment daily.
+
+Statutory debt limit (FD-6)—By Act of Congress there is a limit, either temporary or permanent, on the amount of public debt that may be outstanding. When this limit is reached, Treasury may not sell new debt issues until Congress increases or extends the limit. For a detailed listing of changes in the limit since 1941, see the Budget of the United States Government. (See debt outstanding subject to limitation.)

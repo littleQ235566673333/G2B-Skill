@@ -1,0 +1,149 @@
+{
+  "per_case_grep": [
+    {
+      "case_id": "oqa-112",
+      "rule_id": "R1",
+      "pass_pattern": "(numerator|denominator|ratio[_ ]direction|receipts[_/ ]+expenditures|expenditures[_/ ]+receipts)",
+      "hits_per_seed": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "seeds_with_hit": 0,
+      "classification": "rule_ignored"
+    },
+    {
+      "case_id": "oqa-14",
+      "rule_id": "R2",
+      "pass_pattern": "treasury_bulletin_1947",
+      "hits_per_seed": [
+        8,
+        24,
+        10,
+        5,
+        33
+      ],
+      "seeds_with_hit": 5,
+      "classification": "rule_executed"
+    },
+    {
+      "case_id": "oqa-16",
+      "rule_id": "R3",
+      "pass_pattern": "(minimum|min[_ ]spread)[^\\n]{0,100}(at|=|in)[^\\n]{0,40}\\b(19[0-9]{2}|196[0-9])\\b",
+      "hits_per_seed": [
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      "seeds_with_hit": 1,
+      "classification": "rule_ignored"
+    },
+    {
+      "case_id": "oqa-101",
+      "rule_id": "R4",
+      "pass_pattern": "(CPI[_ -]?U|consumer[_ ]price[_ ]index)[^\\n]{0,200}(1979|May|June)",
+      "hits_per_seed": [
+        0,
+        0,
+        0,
+        2,
+        6
+      ],
+      "seeds_with_hit": 2,
+      "classification": "ambiguous"
+    },
+    {
+      "case_id": "oqa-118",
+      "rule_id": "R5",
+      "pass_pattern": "(checklist|enumerat|input[s]?[_ ]list)[^\\n]{0,300}(GDP|Germany|Europe|Latin)",
+      "hits_per_seed": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "seeds_with_hit": 0,
+      "classification": "rule_ignored"
+    },
+    {
+      "case_id": "oqa-35",
+      "rule_id": "R6",
+      "pass_pattern": "(reporting[_ ]structure|Air[_ ]Force.*Army|Army[_ ]appropriation)",
+      "hits_per_seed": [
+        2,
+        5,
+        9,
+        8,
+        0
+      ],
+      "seeds_with_hit": 4,
+      "classification": "rule_executed"
+    },
+    {
+      "case_id": "oqa-0",
+      "rule_id": "R7",
+      "pass_pattern": "(national[_ ]defense|National[_ ]defense)",
+      "hits_per_seed": [
+        9,
+        17,
+        0,
+        10,
+        9
+      ],
+      "seeds_with_hit": 4,
+      "classification": "rule_executed"
+    },
+    {
+      "case_id": "oqa-130",
+      "rule_id": "R8",
+      "pass_pattern": "(USD[_ -/]?CAD|exchange[_ ]rate|currency[_ ]table)[^\\n]{0,200}(1959|December)",
+      "hits_per_seed": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "seeds_with_hit": 0,
+      "classification": "rule_ignored"
+    },
+    {
+      "case_id": "oqa-131",
+      "rule_id": "R9",
+      "pass_pattern": "(Fisher[_ ]Ideal|symmetric[_ ]growth|2\\s*\\*\\s*\\(B\\s*-\\s*A\\)|midpoint[_ ]formula)",
+      "hits_per_seed": [
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "seeds_with_hit": 4,
+      "classification": "rule_executed"
+    },
+    {
+      "case_id": "oqa-37",
+      "rule_id": "R10",
+      "pass_pattern": "(absolute[_ ]value|abs\\(|magnitude[_ ]smallest|lowest[_ ]absolute)",
+      "hits_per_seed": [
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      "seeds_with_hit": 1,
+      "classification": "rule_ignored"
+    }
+  ],
+  "n_executed": 4,
+  "n_ignored": 5,
+  "n_ambiguous": 1,
+  "confound_resolution": "mixed_unresolvable",
+  "interpretation": "Mixed evidence; do not claim either direction; C-topology → future work."
+}

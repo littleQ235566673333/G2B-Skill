@@ -1,0 +1,7 @@
+=== v6 cascade orchestrator started 2026年 6月18日 星期四 10时36分39秒 CST ===
+
+=== Phase A: v6 GPT-5.4 SS+WTQ training 2026年 6月18日 星期四 10时36分39秒 CST ===
+scripts/v6_cascade.sh: line 35: 25615 Terminated: 15          OPENAI_AGENTS_DISABLE_TRACING=true PYTHONUNBUFFERED=1 python -m pipeline.g2b_training --bench spreadsheet --skills-dir seeds --results-root results --method g2b-skill --model gpt-5.4 --config-tag v6 --master-seed 0 --heldout-seed 42 --training-seed 0 --n-train 40 --batch-size 4 --K 4 --max-turns 30 --concurrency 4 > logs/g2b_v6_ss_gpt5.4.log 2>&1
+[14:03:52] Phase A complete
+
+=== Phase B: GPT-4.1 base_traj 2026年 6月18日 星期四 14时03分52秒 CST ===

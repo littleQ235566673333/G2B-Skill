@@ -1,0 +1,1 @@
+What is the value of $\tan^2 \frac {\pi}{16} \cdot \tan^2 \frac {3\pi}{16} + \tan^2 \frac {\pi}{16} \cdot \tan^2 \frac {5\pi}{16}+\tan^2 \frac {3\pi}{16} \cdot \tan^2 \frac {7\pi}{16}+\tan^2 \frac {5\pi}{16} \cdot \tan^2 \frac {7\pi}{16}$?

@@ -1,0 +1,1 @@
+Given the sequence $\{a_n\}$ satisfies: $a_1=a_9=40$, and the sequence $\{\sqrt{n}a_n}\}$ is an arithmetic sequence, then $a_{100}=$?

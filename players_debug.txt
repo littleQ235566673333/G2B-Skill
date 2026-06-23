@@ -1,0 +1,3 @@
+    #           Name      Height Weight (lbs.) Position                  Class    Hometown  Previous Team(s)     name_clean  weight_clean
+7  23  Dexter Fields  6'2\",205"             G      So.      Orlando, FL, U.S.  Olympia HS               NaN  dexter fields           NaN
+9  32      Ovie Soko  6'8\",210"             F      So.  London, England, U.K.   Bethel HS               NaN      ovie soko           NaN

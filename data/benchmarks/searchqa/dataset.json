@@ -1,0 +1,3613 @@
+[
+  {
+    "id": "sq-0",
+    "hf_key": "d90c45261eec421ea137ac7c0c08049d",
+    "instruction": "I want something rich: perhaps homard a la creme, this shellfish in a creamy sauce",
+    "context_txt": "context/sq-0.txt",
+    "answer_values": [
+      "lobster"
+    ]
+  },
+  {
+    "id": "sq-1",
+    "hf_key": "3b9e55fb7ea343b5a8454e37c22312b6",
+    "instruction": "Caught red-limbed drinking from a flask, the tree mascot for this school near Palo Alto was suspended",
+    "context_txt": "context/sq-1.txt",
+    "answer_values": [
+      "Stanford"
+    ]
+  },
+  {
+    "id": "sq-2",
+    "hf_key": "bafa1bac4ea142988d2c9985246892ab",
+    "instruction": "\"Health, history, horses\" is the motto of this city in upstate New York",
+    "context_txt": "context/sq-2.txt",
+    "answer_values": [
+      "Saratoga Springs"
+    ]
+  },
+  {
+    "id": "sq-3",
+    "hf_key": "48bb7e3790624666a85b0592b063d018",
+    "instruction": "Around 1709 Cristofori became a key player in this new instrument's history",
+    "context_txt": "context/sq-3.txt",
+    "answer_values": [
+      "piano"
+    ]
+  },
+  {
+    "id": "sq-4",
+    "hf_key": "e8101b88ad544b1f8c6e096a23e424d5",
+    "instruction": "James & Lady Blanche have a \"declaration\": the July 25, 1848 birth of this future foreign secretary & prime minister",
+    "context_txt": "context/sq-4.txt",
+    "answer_values": [
+      "(Arthur James) Balfour"
+    ]
+  },
+  {
+    "id": "sq-5",
+    "hf_key": "6bb116082e184965a39b57d9de8e4051",
+    "instruction": "After his dad John the Fearless was killed in 1419, Philip the Good became duke of this famed French red-wine region",
+    "context_txt": "context/sq-5.txt",
+    "answer_values": [
+      "Burgundy"
+    ]
+  },
+  {
+    "id": "sq-6",
+    "hf_key": "4a3f73de79694830b9e27b6481aa08a2",
+    "instruction": "(Sarah of the Clue Crew relaxes with a drink at Tavern on the Green in New York.)  I'm having a cocktail called Cherry Oz at Tavern on the Green; the restaurant is run by Jennifer LeRoy, granddaughter of this producer of \"The Wizard of Oz\"",
+    "context_txt": "context/sq-6.txt",
+    "answer_values": [
+      "Mervyn LeRoy"
+    ]
+  },
+  {
+    "id": "sq-7",
+    "hf_key": "71b5d86c4d78479d9c7afcddfac6e485",
+    "instruction": "One of the taglines for this movie was \"For years, lines have been drawn... and then colored in yellow\"",
+    "context_txt": "context/sq-7.txt",
+    "answer_values": [
+      "The Simpsons Movie"
+    ]
+  },
+  {
+    "id": "sq-8",
+    "hf_key": "94ef1b14096e4d04a7a1592aae7270fd",
+    "instruction": "\"My fellow Americans\", this black & white cocker spaniel gave its name to a 1952 speech",
+    "context_txt": "context/sq-8.txt",
+    "answer_values": [
+      "Checkers"
+    ]
+  },
+  {
+    "id": "sq-9",
+    "hf_key": "4aaeea55757143948c192b75e08b4aca",
+    "instruction": "Robert Boyle invented a vacuum pump & discovered that this does not travel in a vacuum",
+    "context_txt": "context/sq-9.txt",
+    "answer_values": [
+      "sound"
+    ]
+  },
+  {
+    "id": "sq-10",
+    "hf_key": "ef5c734728b94e958d660c9f220d0291",
+    "instruction": "Appropriately, the word \"volcano\" comes from the name of this Roman god",
+    "context_txt": "context/sq-10.txt",
+    "answer_values": [
+      "Vulcan"
+    ]
+  },
+  {
+    "id": "sq-11",
+    "hf_key": "51a54f7e6d38406da6cfbb11ae931021",
+    "instruction": "This hip-hop music magazine was founded by Quincy Jones",
+    "context_txt": "context/sq-11.txt",
+    "answer_values": [
+      "Vibe"
+    ]
+  },
+  {
+    "id": "sq-12",
+    "hf_key": "1db6e2ef1adf4e80bde4fb0a65b4a94c",
+    "instruction": "After they bloom & drop their petals, some roses form these seedpods rich in vitamin C",
+    "context_txt": "context/sq-12.txt",
+    "answer_values": [
+      "rose hips"
+    ]
+  },
+  {
+    "id": "sq-13",
+    "hf_key": "00f50e84223840e083d9293e9fd91cc5",
+    "instruction": "These serrated scissors used in sewing give a zigzag edge to cloth",
+    "context_txt": "context/sq-13.txt",
+    "answer_values": [
+      "pinking shears"
+    ]
+  },
+  {
+    "id": "sq-14",
+    "hf_key": "b46754a92b4c4b48870f9ef452958de4",
+    "instruction": "This French tennis star of the 1920s who went on to start a clothing line was known as \"the Crocodile\"",
+    "context_txt": "context/sq-14.txt",
+    "answer_values": [
+      "(Rene) Lacoste",
+      "Rene Lacoste",
+      "Rene-Lacoste"
+    ]
+  },
+  {
+    "id": "sq-15",
+    "hf_key": "b68b323122144fb6be63c3f191e835d7",
+    "instruction": "In 1933 he became chief of staff to Deputy Fuhrer Rudolf Hess",
+    "context_txt": "context/sq-15.txt",
+    "answer_values": [
+      "Martin Bormann"
+    ]
+  },
+  {
+    "id": "sq-16",
+    "hf_key": "5fb265572a0349ceab2a01dce4db25ae",
+    "instruction": "It's common slang for a huge 18-wheeler",
+    "context_txt": "context/sq-16.txt",
+    "answer_values": [
+      "a big rig"
+    ]
+  },
+  {
+    "id": "sq-17",
+    "hf_key": "86fd7bd68e124f8db04071a88ed600b7",
+    "instruction": "On May 13, 1981 he had a close encounter with Mehmet Ali Agca in Rome; he would later visit Agca in prison",
+    "context_txt": "context/sq-17.txt",
+    "answer_values": [
+      "Pope John Paul II"
+    ]
+  },
+  {
+    "id": "sq-18",
+    "hf_key": "cc6598a5a1594e8780ce6000e14417dc",
+    "instruction": "\"Forever in\" this color is Ann Brashares' third sequel to \"The Sisterhood of the Traveling Pants\"",
+    "context_txt": "context/sq-18.txt",
+    "answer_values": [
+      "blue"
+    ]
+  },
+  {
+    "id": "sq-19",
+    "hf_key": "51835dc9954b43d0b52de5dfe9bfd8b0",
+    "instruction": "(Jimmy of the Clue Crew reports from Dublin, Ireland.) We're at the Jameson Distillery raising a glass to James Joyce on June 16, a date that now has this one-word name",
+    "context_txt": "context/sq-19.txt",
+    "answer_values": [
+      "Bloomsday"
+    ]
+  },
+  {
+    "id": "sq-20",
+    "hf_key": "f1d5a3ccfe284fce8aebc716c1a01f7c",
+    "instruction": "\"1976 will not be a year of politics as usual\"",
+    "context_txt": "context/sq-20.txt",
+    "answer_values": [
+      "Jimmy Carter"
+    ]
+  },
+  {
+    "id": "sq-21",
+    "hf_key": "cb9ae150302f440a916553297dc17ecc",
+    "instruction": "Genuine pizza pies in the style of this southern Italian city are cooked in wood-fire ovens at 905 degrees F.",
+    "context_txt": "context/sq-21.txt",
+    "answer_values": [
+      "Naples"
+    ]
+  },
+  {
+    "id": "sq-22",
+    "hf_key": "4108ae63026e4db5b233293c88731044",
+    "instruction": "Chip Pickering, Gene Taylor & Trent Lott have repped this state in the 110th Congress",
+    "context_txt": "context/sq-22.txt",
+    "answer_values": [
+      "Mississippi"
+    ]
+  },
+  {
+    "id": "sq-23",
+    "hf_key": "b2c4671b80ba4eb8ac22b56579f8ac07",
+    "instruction": "Maurice Utrillo often painted scenes of this area of Paris & its best-known landmark, Sacre Coeur",
+    "context_txt": "context/sq-23.txt",
+    "answer_values": [
+      "Montmartre"
+    ]
+  },
+  {
+    "id": "sq-24",
+    "hf_key": "8dbc88fd181d455481055c881b71441b",
+    "instruction": "In 1966 Leopoldville, the capital of Congo, was renamed this",
+    "context_txt": "context/sq-24.txt",
+    "answer_values": [
+      "Kinshasa"
+    ]
+  },
+  {
+    "id": "sq-25",
+    "hf_key": "9ba40aba1544434b900db2758db2eded",
+    "instruction": "Planes & ships have been lost in this mysterious Atlantic region off the coast of Florida since the mid-19th century",
+    "context_txt": "context/sq-25.txt",
+    "answer_values": [
+      "the Bermuda Triangle"
+    ]
+  },
+  {
+    "id": "sq-26",
+    "hf_key": "fc9aff0b08b44c75ad9d81bb61084665",
+    "instruction": "The daughter of a Czech diplomat, she was born Marie Jana Korbelova",
+    "context_txt": "context/sq-26.txt",
+    "answer_values": [
+      "(Madeleine) Albright"
+    ]
+  },
+  {
+    "id": "sq-27",
+    "hf_key": "971b46e4700c43839129a8b2eff423ff",
+    "instruction": "As a bachelor in the 1970s, Prince Charles romanced Camilla at Broadlands, the home of this lord, his great-uncle",
+    "context_txt": "context/sq-27.txt",
+    "answer_values": [
+      "Mountbatten"
+    ]
+  },
+  {
+    "id": "sq-28",
+    "hf_key": "8eda13ee7de04f798e77bc5aa0808033",
+    "instruction": "From Greek for \"steward\", it's been defined as \"the dismal science\"",
+    "context_txt": "context/sq-28.txt",
+    "answer_values": [
+      "economics"
+    ]
+  },
+  {
+    "id": "sq-29",
+    "hf_key": "dba577b5e79948af95131047a7481046",
+    "instruction": "The 100,000-watt voice of Georgia State University, WRAS in this city is the most powerful all-student-run U.S. radio station",
+    "context_txt": "context/sq-29.txt",
+    "answer_values": [
+      "Atlanta"
+    ]
+  },
+  {
+    "id": "sq-30",
+    "hf_key": "d7fe4eae3cd5428fa9ed5b6ffcc3d932",
+    "instruction": "Inventions of the Year included a special glove to help a person perform this life-saving procedure correctly",
+    "context_txt": "context/sq-30.txt",
+    "answer_values": [
+      "CPR"
+    ]
+  },
+  {
+    "id": "sq-31",
+    "hf_key": "5a5b510f80b9478faf8d0dd2b3c75f1b",
+    "instruction": "3-word location where the Exxon Valdez spilled more than 10 million gallons of north slope crude in 1989",
+    "context_txt": "context/sq-31.txt",
+    "answer_values": [
+      "Prince William Sound"
+    ]
+  },
+  {
+    "id": "sq-32",
+    "hf_key": "98ca3aec3c6b4a6db0b946badfa8bc53",
+    "instruction": "In 1988 this \"King of Pop\" played himself in \"Daddy Can't Read\"",
+    "context_txt": "context/sq-32.txt",
+    "answer_values": [
+      "Michael Jackson"
+    ]
+  },
+  {
+    "id": "sq-33",
+    "hf_key": "f8254152cfca43edbcf95aec7c5622a0",
+    "instruction": "Scene I of Balanchine's ballet \"Orpheus\" opens at the grave of this woman",
+    "context_txt": "context/sq-33.txt",
+    "answer_values": [
+      "Eurydice"
+    ]
+  },
+  {
+    "id": "sq-34",
+    "hf_key": "ae3dc5dbccce4a55a09d99035a5da594",
+    "instruction": "Despite flimsy evidence against them, these two Italian immigrants were convicted of murder & executed in 1927",
+    "context_txt": "context/sq-34.txt",
+    "answer_values": [
+      "Sacco & Vanzetti"
+    ]
+  },
+  {
+    "id": "sq-35",
+    "hf_key": "f0e1c41a8209462da28646e96c0b67ca",
+    "instruction": "This adjective for a scathing comment or review literally refers to sulfuric acid",
+    "context_txt": "context/sq-35.txt",
+    "answer_values": [
+      "vitriolic"
+    ]
+  },
+  {
+    "id": "sq-36",
+    "hf_key": "20d8a5f262164f23bc676e76de798666",
+    "instruction": "In 1939 she danced the role of Princess Aurora in \"Sleeping Beauty\"; 17 years later, she became a Dame of the British Empire",
+    "context_txt": "context/sq-36.txt",
+    "answer_values": [
+      "(Margot) Fonteyn"
+    ]
+  },
+  {
+    "id": "sq-37",
+    "hf_key": "9a8aa1acb5714c6881ecb80d4aaec948",
+    "instruction": "In some societies this type of \"feud\" is settled by paying this type of \"money\"",
+    "context_txt": "context/sq-37.txt",
+    "answer_values": [
+      "blood"
+    ]
+  },
+  {
+    "id": "sq-38",
+    "hf_key": "4749360f989d4733a079ed2e1e22f2ab",
+    "instruction": "Claude Lorrain gave new status to this genre with works like \"A Pastoral\" one, now at Yale",
+    "context_txt": "context/sq-38.txt",
+    "answer_values": [
+      "landscape"
+    ]
+  },
+  {
+    "id": "sq-39",
+    "hf_key": "7cd88e67c6c64595a44707e44a33c57c",
+    "instruction": "In 2008 this film beauty & hubby Cash Warren welcomed new daughter Honor Marie",
+    "context_txt": "context/sq-39.txt",
+    "answer_values": [
+      "Jessica Alba"
+    ]
+  },
+  {
+    "id": "sq-40",
+    "hf_key": "5e536a525b6f4b0bb91ebd016085cbb1",
+    "instruction": "The IMDb lists \"Charlie\" as a nickname for this Oscar-winning \"Monster\" actress",
+    "context_txt": "context/sq-40.txt",
+    "answer_values": [
+      "Charlize Theron"
+    ]
+  },
+  {
+    "id": "sq-41",
+    "hf_key": "5657e733e967403788216b18051407c4",
+    "instruction": "University of Colorado",
+    "context_txt": "context/sq-41.txt",
+    "answer_values": [
+      "Boulder"
+    ]
+  },
+  {
+    "id": "sq-42",
+    "hf_key": "5151538c69a547249162bc6df372ca3d",
+    "instruction": "This country's National Library, the Biblioteca Nacional Jose Marti, was financed by a tax on sugar",
+    "context_txt": "context/sq-42.txt",
+    "answer_values": [
+      "Cuba"
+    ]
+  },
+  {
+    "id": "sq-43",
+    "hf_key": "b91c72c36eb84a7697016eeffc26a82c",
+    "instruction": "It's the last name of literary siblings Bert & Nan, & Freddie & Flossie",
+    "context_txt": "context/sq-43.txt",
+    "answer_values": [
+      "Bobbsey"
+    ]
+  },
+  {
+    "id": "sq-44",
+    "hf_key": "e63ec97cf8524402b7efcb85216e7885",
+    "instruction": "The Hohe Tauern National Park stretches across part of the Salzburg state of this nation",
+    "context_txt": "context/sq-44.txt",
+    "answer_values": [
+      "Austria"
+    ]
+  },
+  {
+    "id": "sq-45",
+    "hf_key": "617858cc0bdb470fa35876679526aec2",
+    "instruction": "Far from the Caribbean, Jamaica Bay is on this New York island",
+    "context_txt": "context/sq-45.txt",
+    "answer_values": [
+      "Long Island"
+    ]
+  },
+  {
+    "id": "sq-46",
+    "hf_key": "17f93cd8d2f943b99f7e3ae14a2b92a1",
+    "instruction": "Faye play slap jack in this 1974 film; She sister! She daughter! She sister! She daughter! Tarzan confused",
+    "context_txt": "context/sq-46.txt",
+    "answer_values": [
+      "Chinatown"
+    ]
+  },
+  {
+    "id": "sq-47",
+    "hf_key": "a23ae3f5d6054d45b137514092387de0",
+    "instruction": "A 4-string bass is usually tuned to E, A, D & G--one octave below the 4 lowest strings of this",
+    "context_txt": "context/sq-47.txt",
+    "answer_values": [
+      "a guitar"
+    ]
+  },
+  {
+    "id": "sq-48",
+    "hf_key": "4d2cbddbdb5645089f2f61e7c8e7dff9",
+    "instruction": "On February 6 this Likud Party leader won election as Prime Minister of Israel",
+    "context_txt": "context/sq-48.txt",
+    "answer_values": [
+      "Ariel Sharon"
+    ]
+  },
+  {
+    "id": "sq-49",
+    "hf_key": "87b25f58ab51447a9b51c5125090de4f",
+    "instruction": "Donald Rumsfeld,Robert Gates",
+    "context_txt": "context/sq-49.txt",
+    "answer_values": [
+      "Defense"
+    ]
+  },
+  {
+    "id": "sq-50",
+    "hf_key": "f7d134bb0032494490ac0d9f08bd19c3",
+    "instruction": "In a Hemingway tale, Harry gets gangrene; before he dies, has a vision of flying in a plane toward this mountain",
+    "context_txt": "context/sq-50.txt",
+    "answer_values": [
+      "Kilimanjaro"
+    ]
+  },
+  {
+    "id": "sq-51",
+    "hf_key": "0bc0486f77b647b9abb48044280a77f5",
+    "instruction": "Pierre Balmain worked with this man in the early '40s, then became his rival in postwar fashion",
+    "context_txt": "context/sq-51.txt",
+    "answer_values": [
+      "Christian Dior"
+    ]
+  },
+  {
+    "id": "sq-52",
+    "hf_key": "d8035f20dd8440d5a5d0511512ddc038",
+    "instruction": "Diddy helped form Danity Kane on this show",
+    "context_txt": "context/sq-52.txt",
+    "answer_values": [
+      "Making the Band"
+    ]
+  },
+  {
+    "id": "sq-53",
+    "hf_key": "3807b639fe0b4fb792cfd29f36a5b562",
+    "instruction": "In James Michener's \"Journey\", it's 1897 & 5 men are in a rush to find this in the Klondike",
+    "context_txt": "context/sq-53.txt",
+    "answer_values": [
+      "gold"
+    ]
+  },
+  {
+    "id": "sq-54",
+    "hf_key": "40fa0f41562248bc9b6b7457abc8d5a0",
+    "instruction": "In the 1960s, 2 NBA players won MVP awards 4 times: Wilt Chamberlain & this Boston Celtics center",
+    "context_txt": "context/sq-54.txt",
+    "answer_values": [
+      "Bill Russell"
+    ]
+  },
+  {
+    "id": "sq-55",
+    "hf_key": "4b58a4e20c9b4293b1a9d6f8c5272f51",
+    "instruction": "Bordelaise sauce gets its name from this ingredient",
+    "context_txt": "context/sq-55.txt",
+    "answer_values": [
+      "Bordeaux (wine)"
+    ]
+  },
+  {
+    "id": "sq-56",
+    "hf_key": "e0650d69fb9f46d5ab5f53504e7c3e1c",
+    "instruction": "Dictionaries don't have a word for the study of mothers, but mariology is the study of his mother",
+    "context_txt": "context/sq-56.txt",
+    "answer_values": [
+      "Jesus"
+    ]
+  },
+  {
+    "id": "sq-57",
+    "hf_key": "f467ebf5fbe14921afd1f58e7386e699",
+    "instruction": "One of the world's largest tractor factories can be found in this state's city of Waterloo",
+    "context_txt": "context/sq-57.txt",
+    "answer_values": [
+      "Iowa"
+    ]
+  },
+  {
+    "id": "sq-58",
+    "hf_key": "2963b23b36ba48c2b6b5d2444310fcc8",
+    "instruction": "In 1935 he founded the Swiss Society for Practical Psychology & became its president",
+    "context_txt": "context/sq-58.txt",
+    "answer_values": [
+      "Carl Jung"
+    ]
+  },
+  {
+    "id": "sq-59",
+    "hf_key": "8b9d7f7093c04e6db3b88afd011c9a88",
+    "instruction": "(Jon of the Clue Crew pushes a straw into a cupcake, then extracts the result.)  Using a cupcake & straw, we're approximating 1 of these 2-word scientific readings used in undersea & underground prospecting",
+    "context_txt": "context/sq-59.txt",
+    "answer_values": [
+      "core sampling"
+    ]
+  },
+  {
+    "id": "sq-60",
+    "hf_key": "12238d33faf847dba5fa3172f581e9fc",
+    "instruction": "Rome captured this largest Mediterranean island in the First Punic War & made it the first Roman province",
+    "context_txt": "context/sq-60.txt",
+    "answer_values": [
+      "Sicily"
+    ]
+  },
+  {
+    "id": "sq-61",
+    "hf_key": "ea09763bc36c4519824dcadc8ee28b45",
+    "instruction": "It's 1902 & Teddy Roosevelt is putting this \"Jr.\" on the bench...the Supreme Court bench, & he'll be there for 29 years",
+    "context_txt": "context/sq-61.txt",
+    "answer_values": [
+      "Oliver Wendell Holmes, Jr."
+    ]
+  },
+  {
+    "id": "sq-62",
+    "hf_key": "67d8eb82d8274f5dbac07bc6d777dc9c",
+    "instruction": "Sly's musical partners",
+    "context_txt": "context/sq-62.txt",
+    "answer_values": [
+      "the Family Stone"
+    ]
+  },
+  {
+    "id": "sq-63",
+    "hf_key": "bd419550a6894537ba512ae970ff54aa",
+    "instruction": "People in this Iranian town can wave to tankers passing through the strait of the same name",
+    "context_txt": "context/sq-63.txt",
+    "answer_values": [
+      "Hormuz"
+    ]
+  },
+  {
+    "id": "sq-64",
+    "hf_key": "6e6eefc5f07c40bfa65b319c158f23da",
+    "instruction": "When founded by Benjamin Day in 1833, the New York Sun was sold daily for this much per issue",
+    "context_txt": "context/sq-64.txt",
+    "answer_values": [
+      "a penny"
+    ]
+  },
+  {
+    "id": "sq-65",
+    "hf_key": "650b683d39dd45c99ad7435fc7d33fe3",
+    "instruction": "Microscopic shaggy hairs called villi line the walls of this digestive organ",
+    "context_txt": "context/sq-65.txt",
+    "answer_values": [
+      "the small intestine"
+    ]
+  },
+  {
+    "id": "sq-66",
+    "hf_key": "dbfb329e31624f958bc5185e88170108",
+    "instruction": "It's the capital of the Evergreen State",
+    "context_txt": "context/sq-66.txt",
+    "answer_values": [
+      "Olympia"
+    ]
+  },
+  {
+    "id": "sq-67",
+    "hf_key": "f3452a9a45c7410aa535326d3c165e20",
+    "instruction": "This term for small chickens & the weight of some boxers comes from an area on Java",
+    "context_txt": "context/sq-67.txt",
+    "answer_values": [
+      "bantam"
+    ]
+  },
+  {
+    "id": "sq-68",
+    "hf_key": "5c92ef1ae85941edbb2988b61eeda9a7",
+    "instruction": "This O. Henry Christmas tale begins, \"One dollar and eighty-seven cents. That was all\"",
+    "context_txt": "context/sq-68.txt",
+    "answer_values": [
+      "\"The Gift of the Magi\""
+    ]
+  },
+  {
+    "id": "sq-69",
+    "hf_key": "d216ecb6c6f040d99444c3cd443cb933",
+    "instruction": "Clear & transparent last name of astronaut Shannon, an STS-58 member",
+    "context_txt": "context/sq-69.txt",
+    "answer_values": [
+      "Lucid"
+    ]
+  },
+  {
+    "id": "sq-70",
+    "hf_key": "75221725e3f442d7aac946892ae4f6af",
+    "instruction": "Boreas, Zephyrus, Notus, Eurus",
+    "context_txt": "context/sq-70.txt",
+    "answer_values": [
+      "winds"
+    ]
+  },
+  {
+    "id": "sq-71",
+    "hf_key": "fcc2bb2b4ab442758bbe42653a24cec1",
+    "instruction": "On 1950s TV, the answer that followed \"Say, kids, what time is it?\"",
+    "context_txt": "context/sq-71.txt",
+    "answer_values": [
+      "Howdy Doody Time!"
+    ]
+  },
+  {
+    "id": "sq-72",
+    "hf_key": "043508ba85cd4a0eb37a6d3e5d4a5d14",
+    "instruction": "Cathy Lewis was this title character paired with Fibber McGee on a '50s TV show based on a hit radio show",
+    "context_txt": "context/sq-72.txt",
+    "answer_values": [
+      "Molly"
+    ]
+  },
+  {
+    "id": "sq-73",
+    "hf_key": "3ec0c1f310b3410a9834a7b24325984e",
+    "instruction": "This small Asian island nation near Malaysia has one of the world's lowest infant mortality rates",
+    "context_txt": "context/sq-73.txt",
+    "answer_values": [
+      "Singapore"
+    ]
+  },
+  {
+    "id": "sq-74",
+    "hf_key": "328f082e339c457eb00e67e4218bdb07",
+    "instruction": "The 1st Amendment guarantees the right of the people to \"peaceably\" do this",
+    "context_txt": "context/sq-74.txt",
+    "answer_values": [
+      "assemble"
+    ]
+  },
+  {
+    "id": "sq-75",
+    "hf_key": "58caa026392d49b3bcc9fb72b6383b51",
+    "instruction": "In 2004 Meryl Streep got paranoid as Aunt Josephine, who helped kids steer clear of Count Olaf, played by him",
+    "context_txt": "context/sq-75.txt",
+    "answer_values": [
+      "Jim Carrey"
+    ]
+  },
+  {
+    "id": "sq-76",
+    "hf_key": "d047dfa72f104317a4c1c0738089f3ff",
+    "instruction": "Bad, bad Leroy Brown was meaner than this kind of dog",
+    "context_txt": "context/sq-76.txt",
+    "answer_values": [
+      "a junkyard dog"
+    ]
+  },
+  {
+    "id": "sq-77",
+    "hf_key": "7bd0a133dadf464dba53bb04a291e925",
+    "instruction": "1.5 ounces is equal to a jigger or one of these units--but Bartender, a little extra is always OK",
+    "context_txt": "context/sq-77.txt",
+    "answer_values": [
+      "a shot"
+    ]
+  },
+  {
+    "id": "sq-78",
+    "hf_key": "9645c6c736124829b1ad821f065226dc",
+    "instruction": "Strangely, in 1984, an ancient meteorite thought to be from Mars was found on this continent",
+    "context_txt": "context/sq-78.txt",
+    "answer_values": [
+      "Antarctica"
+    ]
+  },
+  {
+    "id": "sq-79",
+    "hf_key": "92dae7775f3f4e7aacb243fb134d37e7",
+    "instruction": "Paper gifts are the traditional gifts at this anniversary party for a married couple",
+    "context_txt": "context/sq-79.txt",
+    "answer_values": [
+      "first"
+    ]
+  },
+  {
+    "id": "sq-80",
+    "hf_key": "faa93ed5197a42b6a055e698caa59b63",
+    "instruction": "Before fat-free or 2% horned in, all milk sold was what we now call this type",
+    "context_txt": "context/sq-80.txt",
+    "answer_values": [
+      "whole"
+    ]
+  },
+  {
+    "id": "sq-81",
+    "hf_key": "cd1e70f23e9b49f5b056924a59a6033b",
+    "instruction": "This tragedy started in a baker's shop on Pudding Lane on Sept. 2, 1666",
+    "context_txt": "context/sq-81.txt",
+    "answer_values": [
+      "the Great Fire of London"
+    ]
+  },
+  {
+    "id": "sq-82",
+    "hf_key": "fd353f2b2633497495134cbbd16aad08",
+    "instruction": "Your grandma's brother is this to your brother",
+    "context_txt": "context/sq-82.txt",
+    "answer_values": [
+      "great-uncle",
+      "great uncle"
+    ]
+  },
+  {
+    "id": "sq-83",
+    "hf_key": "97d56a0a4ea94c23bfcf6be514d22336",
+    "instruction": "Angela Lansbury returned to B'way in 2007 as a former champion in this sport in Terrence McNally's \"Deuce\"",
+    "context_txt": "context/sq-83.txt",
+    "answer_values": [
+      "tennis"
+    ]
+  },
+  {
+    "id": "sq-84",
+    "hf_key": "8cb4c25a435641f48763f3b7ad972bc3",
+    "instruction": "After the hungry German shepherd gnawed on the tree, it let out...",
+    "context_txt": "context/sq-84.txt",
+    "answer_values": [
+      "bark"
+    ]
+  },
+  {
+    "id": "sq-85",
+    "hf_key": "edbc1a830c444db1bab8a409acfabb83",
+    "instruction": "His presidential library is about 35 miles from the Kansas City, Missouri airport",
+    "context_txt": "context/sq-85.txt",
+    "answer_values": [
+      "Harry Truman"
+    ]
+  },
+  {
+    "id": "sq-86",
+    "hf_key": "04c11bb9a8b345ee97e68ac85143eea8",
+    "instruction": "\"The Father of Condensed Milk\"",
+    "context_txt": "context/sq-86.txt",
+    "answer_values": [
+      "(Gail) Borden"
+    ]
+  },
+  {
+    "id": "sq-87",
+    "hf_key": "70aefff9c47d4cf9be9d405c7178f6cd",
+    "instruction": "An 1898 exhibit in Amsterdam devoted to this old master has been called the first blockbuster art show",
+    "context_txt": "context/sq-87.txt",
+    "answer_values": [
+      "Rembrandt"
+    ]
+  },
+  {
+    "id": "sq-88",
+    "hf_key": "41c0b8e24a624deb900e901eb650482d",
+    "instruction": "Since 1958 France's government has been the Fifth of these",
+    "context_txt": "context/sq-88.txt",
+    "answer_values": [
+      "a Republic"
+    ]
+  },
+  {
+    "id": "sq-89",
+    "hf_key": "052f1323d4204611b8205b3f6ac1111a",
+    "instruction": "Robert Delaunay introduced vivid colors to this \"geometric\" movement, beginning a trend called Orphism",
+    "context_txt": "context/sq-89.txt",
+    "answer_values": [
+      "cubism"
+    ]
+  },
+  {
+    "id": "sq-90",
+    "hf_key": "c159c07cd59545bb98f33872e5f9de54",
+    "instruction": "The song \"(I Can't Get No) Satisfaction\" by this band was a No. 1 hit way back in 1965",
+    "context_txt": "context/sq-90.txt",
+    "answer_values": [
+      "The Rolling Stones"
+    ]
+  },
+  {
+    "id": "sq-91",
+    "hf_key": "703ecf15e5354cdebc2f85b629c6d504",
+    "instruction": "The \"Clucking Bunny\" could tell you that this company hatched its first creme eggs in 1923",
+    "context_txt": "context/sq-91.txt",
+    "answer_values": [
+      "Cadbury"
+    ]
+  },
+  {
+    "id": "sq-92",
+    "hf_key": "53acc350db60417cb5c277b1560f1e6c",
+    "instruction": "(Jon of the Clue Crew demonstrates near a computer.)  With gesture recognition software and a webcam, you can play one of these and actually hear yourself jam",
+    "context_txt": "context/sq-92.txt",
+    "answer_values": [
+      "an air guitar"
+    ]
+  },
+  {
+    "id": "sq-93",
+    "hf_key": "7cdbe63673164eedb8f6f93e91765b58",
+    "instruction": "Holiday for eating lotsa matzo(8)",
+    "context_txt": "context/sq-93.txt",
+    "answer_values": [
+      "Passover"
+    ]
+  },
+  {
+    "id": "sq-94",
+    "hf_key": "e1d28a58e0a9452ea0e6f80ba56799e6",
+    "instruction": "Rachel Weisz as the high-flying Saphira",
+    "context_txt": "context/sq-94.txt",
+    "answer_values": [
+      "Eragon"
+    ]
+  },
+  {
+    "id": "sq-95",
+    "hf_key": "d2060a6cee8f4258a8856aa968a36818",
+    "instruction": "Military term for the person in charge of paratroopers as they exit an aircraft",
+    "context_txt": "context/sq-95.txt",
+    "answer_values": [
+      "a jumpmaster"
+    ]
+  },
+  {
+    "id": "sq-96",
+    "hf_key": "32168db338c04fa48b2d817af74b13f9",
+    "instruction": "Kathleen Quinlan finds comfort talking to shrink Bibi Andersson in \"I Never Promised You\" this",
+    "context_txt": "context/sq-96.txt",
+    "answer_values": [
+      "\"A Rose Garden\""
+    ]
+  },
+  {
+    "id": "sq-97",
+    "hf_key": "0fbe6aba496b489288288d43d404b6bc",
+    "instruction": "This deficiency of hemoglobin is often accompanied by a reduced  number of red blood cells",
+    "context_txt": "context/sq-97.txt",
+    "answer_values": [
+      "anemia"
+    ]
+  },
+  {
+    "id": "sq-98",
+    "hf_key": "3798680714e949329c68258922e1fc4d",
+    "instruction": "The ban on this D.H. Lawrence book was lifted in 1959 in the U.S.",
+    "context_txt": "context/sq-98.txt",
+    "answer_values": [
+      "Lady Chatterley\\'s Lover"
+    ]
+  },
+  {
+    "id": "sq-99",
+    "hf_key": "8b845d50f998467a898367107377c64b",
+    "instruction": "Not the Easter but the Prairie type of this flower is the floral emblem of Saskatchewan",
+    "context_txt": "context/sq-99.txt",
+    "answer_values": [
+      "lily"
+    ]
+  },
+  {
+    "id": "sq-100",
+    "hf_key": "df4c10fe452d4f009693424d57e20cf3",
+    "instruction": "Brian Wilson sang backing vocals on this duo's 1963 No. 1 hit \"Surf City\"",
+    "context_txt": "context/sq-100.txt",
+    "answer_values": [
+      "Jan and Dean"
+    ]
+  },
+  {
+    "id": "sq-101",
+    "hf_key": "e018757ca3614fe78cc05779dfe151b2",
+    "instruction": "Its territory includes Great Barrier Island & the Antipodes Islands",
+    "context_txt": "context/sq-101.txt",
+    "answer_values": [
+      "New Zealand"
+    ]
+  },
+  {
+    "id": "sq-102",
+    "hf_key": "e56c38e38b0644d29a479891b262e719",
+    "instruction": "In words written for the \"Pomp and Circumstance\" march, Britain is the \"land of hope and\" this",
+    "context_txt": "context/sq-102.txt",
+    "answer_values": [
+      "glory"
+    ]
+  },
+  {
+    "id": "sq-103",
+    "hf_key": "e06ae50944d04e189131e1dc58e24400",
+    "instruction": "This word for a sweetened mixture of rum, beer & beaten egg can also mean a turned-up hairstyle",
+    "context_txt": "context/sq-103.txt",
+    "answer_values": [
+      "a flip"
+    ]
+  },
+  {
+    "id": "sq-104",
+    "hf_key": "8636387b9c724bd4ad1e63044d886b5b",
+    "instruction": "(Kelly of the Clue Crew reports from NORAD.) The experiments of a teenage computer whiz led him to NORAD's Nuclear War Operations Centre in this 1983 film",
+    "context_txt": "context/sq-104.txt",
+    "answer_values": [
+      "WarGames"
+    ]
+  },
+  {
+    "id": "sq-105",
+    "hf_key": "c96280d1ed7b4d7cb99765f7aabd1e49",
+    "instruction": "In the 1980s 2 players stole 100 or more bases in a season 3 times: Vince Coleman & this Oakland A's star",
+    "context_txt": "context/sq-105.txt",
+    "answer_values": [
+      "Rickey Henderson"
+    ]
+  },
+  {
+    "id": "sq-106",
+    "hf_key": "a63e19d5fb1c4442a8a742eb7d8cf7da",
+    "instruction": "At 6'6\" tall, Ken Howard was memorable as basketball Coach Reeves in this 1978-1981 TV show",
+    "context_txt": "context/sq-106.txt",
+    "answer_values": [
+      "\"The White Shadow\""
+    ]
+  },
+  {
+    "id": "sq-107",
+    "hf_key": "2f392794d6484b4299b0c5306eb59973",
+    "instruction": "This alphanumeric lubricant is \"the can with a thousand uses\"",
+    "context_txt": "context/sq-107.txt",
+    "answer_values": [
+      "WD-40"
+    ]
+  },
+  {
+    "id": "sq-108",
+    "hf_key": "a4f828a3afb942da92913cc3e7f36c24",
+    "instruction": "I'll get some cash at the First Bank of the United States so I can buy a cheese steak in this city",
+    "context_txt": "context/sq-108.txt",
+    "answer_values": [
+      "Philadelphia"
+    ]
+  },
+  {
+    "id": "sq-109",
+    "hf_key": "1d2807eaaa88446189a53b419b218704",
+    "instruction": "This country vs.Chechen rebels",
+    "context_txt": "context/sq-109.txt",
+    "answer_values": [
+      "Russia"
+    ]
+  },
+  {
+    "id": "sq-110",
+    "hf_key": "42db9537ff114432a27b746562398793",
+    "instruction": "This phrase arose from a man who rented horses & gave customers one \"pick\", the horse nearest the stable door",
+    "context_txt": "context/sq-110.txt",
+    "answer_values": [
+      "Hobson\\'s choice"
+    ]
+  },
+  {
+    "id": "sq-111",
+    "hf_key": "30ad4ef725af46908f605f3bb879f51c",
+    "instruction": "The Times said in 2007 that August's ugly job market turn could be signaling one of these, the first since 2001",
+    "context_txt": "context/sq-111.txt",
+    "answer_values": [
+      "a recession"
+    ]
+  },
+  {
+    "id": "sq-112",
+    "hf_key": "ccaea53065f047fc87b1906dbd91416c",
+    "instruction": "(Jon of the Clue Crew walks on the grass in Central Park.)  The area that's hosted a mass by Pope John Paul II and a concert by Simon & Garfunkel has been called the \"Great\" this since it was planted with grass in 1937",
+    "context_txt": "context/sq-112.txt",
+    "answer_values": [
+      "the Great Lawn"
+    ]
+  },
+  {
+    "id": "sq-113",
+    "hf_key": "fcaa4161b6814a7d80a657d564e06ca0",
+    "instruction": "The night before a holiday",
+    "context_txt": "context/sq-113.txt",
+    "answer_values": [
+      "eve"
+    ]
+  },
+  {
+    "id": "sq-114",
+    "hf_key": "82951d7d4b1042d1bdfb5ffeb7563706",
+    "instruction": "Grace Brown, who was killed at Big Moose Lake, inspired Roberta Alden, who drowns in his \"An American Tragedy\"",
+    "context_txt": "context/sq-114.txt",
+    "answer_values": [
+      "Theodore Dreiser"
+    ]
+  },
+  {
+    "id": "sq-115",
+    "hf_key": "e6095716eb674976803f67a6be3b30a1",
+    "instruction": "The Tsarina's Stone is the oldest monument in this city that was made Finland's capital by Russian insistence",
+    "context_txt": "context/sq-115.txt",
+    "answer_values": [
+      "Helsinki"
+    ]
+  },
+  {
+    "id": "sq-116",
+    "hf_key": "4bd54f58b87e48409882c4f2d3d3bf3f",
+    "instruction": "The minuend is the first number in this simple operation",
+    "context_txt": "context/sq-116.txt",
+    "answer_values": [
+      "subtraction"
+    ]
+  },
+  {
+    "id": "sq-117",
+    "hf_key": "18e0ebcb6b1b47389cf7715aa2ebc88a",
+    "instruction": "The heroine of Toni Morrison's first novel wants the blondest hair & this feature, the book's title",
+    "context_txt": "context/sq-117.txt",
+    "answer_values": [
+      "the bluest eye"
+    ]
+  },
+  {
+    "id": "sq-118",
+    "hf_key": "9b8d9549b67147439c7a38e8d1314e1d",
+    "instruction": "Winston Churchill said it's good for the uneducated \"to read books of quotations.\" This one \"is an admirable work\"",
+    "context_txt": "context/sq-118.txt",
+    "answer_values": [
+      "Bartlett\\'s"
+    ]
+  },
+  {
+    "id": "sq-119",
+    "hf_key": "d1205d95b8a74af4b09da646fade98ab",
+    "instruction": "Whales belong to this order",
+    "context_txt": "context/sq-119.txt",
+    "answer_values": [
+      "cetaceans"
+    ]
+  },
+  {
+    "id": "sq-120",
+    "hf_key": "6ee9d243be4e4adbbf06da061e3fcae7",
+    "instruction": "The first city to illuminate its streets by electricity was Wabash in this state in 1880",
+    "context_txt": "context/sq-120.txt",
+    "answer_values": [
+      "Indiana"
+    ]
+  },
+  {
+    "id": "sq-121",
+    "hf_key": "10f5be1af6e5415e85fa9b0743ce31c1",
+    "instruction": "At the urging of this general now on the 5-peso note, Argentina declared its independence from Spain July 9, 1816",
+    "context_txt": "context/sq-121.txt",
+    "answer_values": [
+      "(Jose de) San Martin"
+    ]
+  },
+  {
+    "id": "sq-122",
+    "hf_key": "58b4badccc6e49f1a6ec418e65aafabc",
+    "instruction": "A 2-time Oscar winning actress, one of her first jobs was as the Coppertone suntan lotion girl at age 3 in 1965",
+    "context_txt": "context/sq-122.txt",
+    "answer_values": [
+      "Jodie Foster"
+    ]
+  },
+  {
+    "id": "sq-123",
+    "hf_key": "951e7a34825245ec991dd55b51cad3b7",
+    "instruction": "A spike can be a kill, or you can get an ace using a jump serve in this sport invented in Massachusetts",
+    "context_txt": "context/sq-123.txt",
+    "answer_values": [
+      "volleyball"
+    ]
+  },
+  {
+    "id": "sq-124",
+    "hf_key": "36bd4abe32a040d5a48805429233f40a",
+    "instruction": "A book's backstrip covers the part that has this anatomical name",
+    "context_txt": "context/sq-124.txt",
+    "answer_values": [
+      "the spine"
+    ]
+  },
+  {
+    "id": "sq-125",
+    "hf_key": "9b1a507b0e854af28660feacbe5a06eb",
+    "instruction": "She chronicled her journey through postpartum depression in 2005's \"Down Came the Rain\"",
+    "context_txt": "context/sq-125.txt",
+    "answer_values": [
+      "Brooke Shields"
+    ]
+  },
+  {
+    "id": "sq-126",
+    "hf_key": "7d7cf95b074c4d28bdd5ccfeee6c2d28",
+    "instruction": "In basketball, this ball handling infraction will cost you possession",
+    "context_txt": "context/sq-126.txt",
+    "answer_values": [
+      "double dribble"
+    ]
+  },
+  {
+    "id": "sq-127",
+    "hf_key": "0b8b7885db484a5dbbe69f0a81c46072",
+    "instruction": "The Spanish one was officially founded by Ferdinand & Isabella in 1478",
+    "context_txt": "context/sq-127.txt",
+    "answer_values": [
+      "the Inquisition"
+    ]
+  },
+  {
+    "id": "sq-128",
+    "hf_key": "42ef20c91de34d9c8e0477ed64e6a9d8",
+    "instruction": "The first president to cross the Atlantic Ocean while in office, he did so to meet with other world leaders",
+    "context_txt": "context/sq-128.txt",
+    "answer_values": [
+      "Wilson"
+    ]
+  },
+  {
+    "id": "sq-129",
+    "hf_key": "3c5cfa11061f46659ab337a424657d30",
+    "instruction": "The first section of the boardwalk along this New Jersey seashore resort opened on June 26, 1870",
+    "context_txt": "context/sq-129.txt",
+    "answer_values": [
+      "Atlantic City"
+    ]
+  },
+  {
+    "id": "sq-130",
+    "hf_key": "94048fed4ade484ebf1967d03b4afcdd",
+    "instruction": "In its native Mexico, this Oscar-winning film was called \"El Laberinto del Fauno\"",
+    "context_txt": "context/sq-130.txt",
+    "answer_values": [
+      "Pan\\'s Labyrinth"
+    ]
+  },
+  {
+    "id": "sq-131",
+    "hf_key": "f54b06f01f04476fa2a76b681bef6097",
+    "instruction": "In Jewish cooking, potato pancakes, commonly enjoyed during Hanukkah, are known as these",
+    "context_txt": "context/sq-131.txt",
+    "answer_values": [
+      "latkes"
+    ]
+  },
+  {
+    "id": "sq-132",
+    "hf_key": "febb5779342242a5a2106611d326703b",
+    "instruction": "County of residence of Francesca, who has just 4 days with hunky photographer Robert",
+    "context_txt": "context/sq-132.txt",
+    "answer_values": [
+      "Madison County"
+    ]
+  },
+  {
+    "id": "sq-133",
+    "hf_key": "daf7df55381a4926b0ea480f7b11debe",
+    "instruction": "A mom in real life, she plays Grendel's mother in 2007's \"Beowulf\"",
+    "context_txt": "context/sq-133.txt",
+    "answer_values": [
+      "Angelina Jolie"
+    ]
+  },
+  {
+    "id": "sq-134",
+    "hf_key": "11c85578e79e4f42a8d183a968883755",
+    "instruction": "John Cleese played this letter-perfect role in \"Die Another Day\"",
+    "context_txt": "context/sq-134.txt",
+    "answer_values": [
+      "Q"
+    ]
+  },
+  {
+    "id": "sq-135",
+    "hf_key": "260de6973ef7443e9c4823b534aeec36",
+    "instruction": "Hotel Bible disapprovingly tells the story of a nasty wagonmaker",
+    "context_txt": "context/sq-135.txt",
+    "answer_values": [
+      "Gideon v. wainwright"
+    ]
+  },
+  {
+    "id": "sq-136",
+    "hf_key": "552b1bb819aa456c94b5be0709777425",
+    "instruction": "In a 1990 movie, Wayne Newton grapples with Andrew Dice Clay, who plays this title character",
+    "context_txt": "context/sq-136.txt",
+    "answer_values": [
+      "Ford Fairlane"
+    ]
+  },
+  {
+    "id": "sq-137",
+    "hf_key": "6ad8d114db2440cc8f2f012e96f5254a",
+    "instruction": "On July 4, 1961 this Colorado peak was designated a national historic landmark",
+    "context_txt": "context/sq-137.txt",
+    "answer_values": [
+      "Pike\\'s Peak"
+    ]
+  },
+  {
+    "id": "sq-138",
+    "hf_key": "d2ce4679de6c489fbc3a73a7516d9cd0",
+    "instruction": "The forecast is cloudy with a 30% chance of these, characterized by the sudden start & stop of light rainfall",
+    "context_txt": "context/sq-138.txt",
+    "answer_values": [
+      "showers"
+    ]
+  },
+  {
+    "id": "sq-139",
+    "hf_key": "d6bb04944a314e1eb2249f019cfac2f6",
+    "instruction": "Jane Russell & Marilyn Monroe sang about being \"Two Little Girls from Little Rock\" in this 1953 movie musical",
+    "context_txt": "context/sq-139.txt",
+    "answer_values": [
+      "Gentlemen Prefer Blondes"
+    ]
+  },
+  {
+    "id": "sq-140",
+    "hf_key": "3c6764c2910c4bdf80522db31aae8081",
+    "instruction": "As of Jan. 1, 2008, this Pacific Northwest state had the highest statewide minimum wage, $8.07 an hour",
+    "context_txt": "context/sq-140.txt",
+    "answer_values": [
+      "Washington"
+    ]
+  },
+  {
+    "id": "sq-141",
+    "hf_key": "c8cbc1ef7c5343c5937777901ea106a1",
+    "instruction": "Ow ow ow ow...!  Formerly magma, when it gets to the surface, it can be 10 times hotter than boiling water!",
+    "context_txt": "context/sq-141.txt",
+    "answer_values": [
+      "lava"
+    ]
+  },
+  {
+    "id": "sq-142",
+    "hf_key": "0a8e6f3224e1494391ce19d91cb4e8e9",
+    "instruction": "In these organs in most fish, water flows the opposite direction to the blood, increasing oxygen transfer",
+    "context_txt": "context/sq-142.txt",
+    "answer_values": [
+      "gills"
+    ]
+  },
+  {
+    "id": "sq-143",
+    "hf_key": "419b6c173b33422cb4e88c9b7ffe68d7",
+    "instruction": "Resembling racquets, these winter transport & recreation aids are called raquettes in French",
+    "context_txt": "context/sq-143.txt",
+    "answer_values": [
+      "snowshoes"
+    ]
+  },
+  {
+    "id": "sq-144",
+    "hf_key": "7e30a78d99a34fc5b3cb9423348b6bcd",
+    "instruction": "Built in 1802, the tugboat Charlotte Dundas was innovative in having this type of engine",
+    "context_txt": "context/sq-144.txt",
+    "answer_values": [
+      "a steam engine"
+    ]
+  },
+  {
+    "id": "sq-145",
+    "hf_key": "1703407a89bc4df1ae3ae27db88d3a3c",
+    "instruction": "\"Owner Of A Lonely Heart\"(1984)",
+    "context_txt": "context/sq-145.txt",
+    "answer_values": [
+      "Yes"
+    ]
+  },
+  {
+    "id": "sq-146",
+    "hf_key": "b0f3f583a3b24963a53b658bb9b93c38",
+    "instruction": "\"Battle\" was \"gefeoht\" in this, the language spoken in London until about 1100",
+    "context_txt": "context/sq-146.txt",
+    "answer_values": [
+      "Old English"
+    ]
+  },
+  {
+    "id": "sq-147",
+    "hf_key": "9a39653a85df4f968c185bc8651ff0d4",
+    "instruction": "Bela lives on central Europe's largest lake, Balaton, in this country",
+    "context_txt": "context/sq-147.txt",
+    "answer_values": [
+      "Hungary"
+    ]
+  },
+  {
+    "id": "sq-148",
+    "hf_key": "5d0aba729d54415b8573b3d92c0ac3bf",
+    "instruction": "1951:Erwin Rommel succeeds... for a while... in North Africa",
+    "context_txt": "context/sq-148.txt",
+    "answer_values": [
+      "The Desert Fox"
+    ]
+  },
+  {
+    "id": "sq-149",
+    "hf_key": "ed64ef07794144f2a7cf44292de1d6f9",
+    "instruction": "World famous as \"the president's guesthouse\", it's actually 4 interconnected townhouses with 110 rooms",
+    "context_txt": "context/sq-149.txt",
+    "answer_values": [
+      "Blair House"
+    ]
+  },
+  {
+    "id": "sq-150",
+    "hf_key": "505768fb098c4c46aabe73e300e3d76e",
+    "instruction": "This man who died in 1902 would have turned in his grave at the conditions in a D.C. facility named for him",
+    "context_txt": "context/sq-150.txt",
+    "answer_values": [
+      "Walter Reed"
+    ]
+  },
+  {
+    "id": "sq-151",
+    "hf_key": "ad9f4983f1874282a4f748fab4732920",
+    "instruction": "Your messy room at home might be one of these \"of contention\" with your parents",
+    "context_txt": "context/sq-151.txt",
+    "answer_values": [
+      "a bone"
+    ]
+  },
+  {
+    "id": "sq-152",
+    "hf_key": "9adf2bac609342498e0b98a20cf9a07e",
+    "instruction": "On this scale, the temperature of the human body is normally 37 degrees",
+    "context_txt": "context/sq-152.txt",
+    "answer_values": [
+      "Celsius"
+    ]
+  },
+  {
+    "id": "sq-153",
+    "hf_key": "31314c1f03194af6938e83438d6b055a",
+    "instruction": "This \"Yankee Clipper\" played his entire 13-year career in the outfield except for one game at first base in 1950",
+    "context_txt": "context/sq-153.txt",
+    "answer_values": [
+      "Joe DiMaggio"
+    ]
+  },
+  {
+    "id": "sq-154",
+    "hf_key": "3ed58084c3044326abb649cb2b26c423",
+    "instruction": "Arabic for \"peace\", it's a salutation in the East, as well as a low bow",
+    "context_txt": "context/sq-154.txt",
+    "answer_values": [
+      "salaam"
+    ]
+  },
+  {
+    "id": "sq-155",
+    "hf_key": "2d9a9efee3994717a1db7cf02e0f206d",
+    "instruction": "Using a nuclear generator, the NautiIus, this tvpe of vessel, was in 1958 the first to cross the North Pole",
+    "context_txt": "context/sq-155.txt",
+    "answer_values": [
+      "a submarine"
+    ]
+  },
+  {
+    "id": "sq-156",
+    "hf_key": "73688805b0f74ee49bb14c6c731ae6f9",
+    "instruction": "The first book of this Roman poet's \"Ars Amatoria\", or \"Art of Love\", instructs its readers how to find a lover",
+    "context_txt": "context/sq-156.txt",
+    "answer_values": [
+      "Ovid"
+    ]
+  },
+  {
+    "id": "sq-157",
+    "hf_key": "c01599c31da84cbda18b675be2a670c0",
+    "instruction": "This first American woman in space heads a company geared to girls who are interested in science & math",
+    "context_txt": "context/sq-157.txt",
+    "answer_values": [
+      "Sally Ride"
+    ]
+  },
+  {
+    "id": "sq-158",
+    "hf_key": "780175e837e44fc6a8e75a85d4402d08",
+    "instruction": "The Malachi Brothers,The Pinkettes",
+    "context_txt": "context/sq-158.txt",
+    "answer_values": [
+      "Happy Days"
+    ]
+  },
+  {
+    "id": "sq-159",
+    "hf_key": "41e0cc28c18c40c68ae2aae92b827635",
+    "instruction": "Pierre Le Moyne D'Iberville founded the colony of Louisiana & was the first European to see this lake",
+    "context_txt": "context/sq-159.txt",
+    "answer_values": [
+      "Lake Pontchartrain"
+    ]
+  },
+  {
+    "id": "sq-160",
+    "hf_key": "dcf0c2c053ad499faac8a13f71296557",
+    "instruction": "The terrible title game of chance in this Shirley Jackson story takes place on June 27",
+    "context_txt": "context/sq-160.txt",
+    "answer_values": [
+      "\"The Lottery\""
+    ]
+  },
+  {
+    "id": "sq-161",
+    "hf_key": "884da46b14da4fbeac04416467c978ad",
+    "instruction": "On Valentine's Day 1989 the Ayatollah Khomeini showed no love for this author's \"Satanic Verses\", giving him a death sentence",
+    "context_txt": "context/sq-161.txt",
+    "answer_values": [
+      "Salman Rushdie"
+    ]
+  },
+  {
+    "id": "sq-162",
+    "hf_key": "260aa1b607644f61b49825a7ab274681",
+    "instruction": "In the first James Bond film, this villain's base of operations was Crab Key",
+    "context_txt": "context/sq-162.txt",
+    "answer_values": [
+      "Dr. No"
+    ]
+  },
+  {
+    "id": "sq-163",
+    "hf_key": "3c078a35190d451f96f2b496fcc84070",
+    "instruction": "Festus Mogae is the president of this landlocked African republic once known as Bechuanaland",
+    "context_txt": "context/sq-163.txt",
+    "answer_values": [
+      "Botswana"
+    ]
+  },
+  {
+    "id": "sq-164",
+    "hf_key": "85f25174173e4b61a8ffe9a577d7ffac",
+    "instruction": "This fictional castaway \"spent a great deal of time and pains to make an umbrella\" covered with skins",
+    "context_txt": "context/sq-164.txt",
+    "answer_values": [
+      "Robinson Crusoe"
+    ]
+  },
+  {
+    "id": "sq-165",
+    "hf_key": "6917708ccbd8423da3bdc5de8bb8dc38",
+    "instruction": "Invention (proverbially)",
+    "context_txt": "context/sq-165.txt",
+    "answer_values": [
+      "necessity"
+    ]
+  },
+  {
+    "id": "sq-166",
+    "hf_key": "2e3ce9202c9f4bd79be4456b796a7f89",
+    "instruction": "Julia Louis-Dreyfus was part of an improv troupe while attending this university in Evanston, Illinois",
+    "context_txt": "context/sq-166.txt",
+    "answer_values": [
+      "Northwestern"
+    ]
+  },
+  {
+    "id": "sq-167",
+    "hf_key": "69a21126b15c493aa12f224f7fd61467",
+    "instruction": "Govt. Building, on Lambton Quay in this New Zealand capital, is one of the world's largest wooden buildings",
+    "context_txt": "context/sq-167.txt",
+    "answer_values": [
+      "Wellington"
+    ]
+  },
+  {
+    "id": "sq-168",
+    "hf_key": "2387910f666b4c698ab20bab9a48e102",
+    "instruction": "Born in Virginia in 1856 & elected in 1912, he was the last Virginian to become president",
+    "context_txt": "context/sq-168.txt",
+    "answer_values": [
+      "Woodrow Wilson"
+    ]
+  },
+  {
+    "id": "sq-169",
+    "hf_key": "d3a18e50a6054f71926e25a50ef6b6c3",
+    "instruction": "To warn of the space between the train & the platform, London subway riders are told to \"mind\" this",
+    "context_txt": "context/sq-169.txt",
+    "answer_values": [
+      "the gap"
+    ]
+  },
+  {
+    "id": "sq-170",
+    "hf_key": "a524bce38a81475ba801b11c1e2e27ad",
+    "instruction": "If I'm on the Hummingbird Highway headed for Belmopan, I'm in this Central American country",
+    "context_txt": "context/sq-170.txt",
+    "answer_values": [
+      "Belize"
+    ]
+  },
+  {
+    "id": "sq-171",
+    "hf_key": "66dc8aee931142b1834da63363511491",
+    "instruction": "With a diameter averaging about 7 miles, it's the smaller of Mars' 2 moons",
+    "context_txt": "context/sq-171.txt",
+    "answer_values": [
+      "Deimos"
+    ]
+  },
+  {
+    "id": "sq-172",
+    "hf_key": "dccdc808e0ab4cd08be0d245c3775c7c",
+    "instruction": "This metric unit is equivalent to 1.057 liquid quarts",
+    "context_txt": "context/sq-172.txt",
+    "answer_values": [
+      "a liter"
+    ]
+  },
+  {
+    "id": "sq-173",
+    "hf_key": "facc032cb1ac442fbcb5855bde24c6fa",
+    "instruction": "In the \"Kung Fu\" TV series, Master Po nicknamed this character \"Grasshopper\"",
+    "context_txt": "context/sq-173.txt",
+    "answer_values": [
+      "Caine"
+    ]
+  },
+  {
+    "id": "sq-174",
+    "hf_key": "092f0450ae72424e80d1b7baca5d2eab",
+    "instruction": "Tiffany's website says in 1886 it introduced this ring as we know it today, with the diamond set above the band",
+    "context_txt": "context/sq-174.txt",
+    "answer_values": [
+      "the engagement ring"
+    ]
+  },
+  {
+    "id": "sq-175",
+    "hf_key": "4586c1766c054346b05becc6ee6af860",
+    "instruction": "This greenish-blue gem is so popular in the Southwest that it has its own museum in Albuquerque",
+    "context_txt": "context/sq-175.txt",
+    "answer_values": [
+      "turqouise"
+    ]
+  },
+  {
+    "id": "sq-176",
+    "hf_key": "f8e28e2ec56e46cdaa974f575584b56f",
+    "instruction": "Now in Poland, in 1361 this shipbuilding city became a member of the Hanseatic League",
+    "context_txt": "context/sq-176.txt",
+    "answer_values": [
+      "Gdansk"
+    ]
+  },
+  {
+    "id": "sq-177",
+    "hf_key": "678e120e22734462a7df31a0e4910191",
+    "instruction": "A biography of him is subtitled \"Man's Slave Becomes God's Scientist\"",
+    "context_txt": "context/sq-177.txt",
+    "answer_values": [
+      "George Washington Carver"
+    ]
+  },
+  {
+    "id": "sq-178",
+    "hf_key": "01c7a17f0e9f4e05b7f6dbfe680da5bf",
+    "instruction": "In 1964's \"From Doon with Death\", she introduced Chief Inspector Reginald Wexford",
+    "context_txt": "context/sq-178.txt",
+    "answer_values": [
+      "Ruth Rendell"
+    ]
+  },
+  {
+    "id": "sq-179",
+    "hf_key": "3ab2d32f572840239ac068ff14dd3313",
+    "instruction": "In Scrabble it's what a pink square means in terms of scoring",
+    "context_txt": "context/sq-179.txt",
+    "answer_values": [
+      "double word (score)"
+    ]
+  },
+  {
+    "id": "sq-180",
+    "hf_key": "7614ea4125f34dcba0d17cfe071d42d3",
+    "instruction": "Asuncion is its capital & largest city",
+    "context_txt": "context/sq-180.txt",
+    "answer_values": [
+      "Paraguay"
+    ]
+  },
+  {
+    "id": "sq-181",
+    "hf_key": "fad132ae2e5144298703305858f1f70a",
+    "instruction": "The Sphinx riddled & munched on travelers on the high road to this ancient city",
+    "context_txt": "context/sq-181.txt",
+    "answer_values": [
+      "Thebes"
+    ]
+  },
+  {
+    "id": "sq-182",
+    "hf_key": "c5a87bda6ee74fea8bc0a238af242296",
+    "instruction": "It means \"people\" in the Eskimo language, & it's what most Canadian Eskimos call themselves",
+    "context_txt": "context/sq-182.txt",
+    "answer_values": [
+      "Inuit"
+    ]
+  },
+  {
+    "id": "sq-183",
+    "hf_key": "3bc43bc943f846f48b6a4bad198491c7",
+    "instruction": "(I'm astrophysicist Neil deGrasse Tyson.)  In my latest book, \"Death by\" one of these, I refer to a process called spaghettification, in which differences in gravity across your body stretch you long & thin",
+    "context_txt": "context/sq-183.txt",
+    "answer_values": [
+      "a black hole"
+    ]
+  },
+  {
+    "id": "sq-184",
+    "hf_key": "bc7a7b0ae1c44e1c982fc15dcb8662f8",
+    "instruction": "\"V\" was for this Feb.-to-Dec. 1916 battle, begun by a surprise attack, in which Charles De Gaulle fought",
+    "context_txt": "context/sq-184.txt",
+    "answer_values": [
+      "Verdun"
+    ]
+  },
+  {
+    "id": "sq-185",
+    "hf_key": "e3fb28e91fca450bba983886bc47dbc0",
+    "instruction": "(Jon of the Clue Crew sucks on a straw in a sealed-up bottle that has a marshmallow inside.)  The marshmallow in the bottle will expand when I suck on the straw because this property inside the bottle will decrease",
+    "context_txt": "context/sq-185.txt",
+    "answer_values": [
+      "(air) pressure"
+    ]
+  },
+  {
+    "id": "sq-186",
+    "hf_key": "c96e15c1f07d4d5aaf3f6c275e089321",
+    "instruction": "The first episode of this cartoon series to be broadcast was \"Rosie the Robot\" on Sept. 23, 1962",
+    "context_txt": "context/sq-186.txt",
+    "answer_values": [
+      "The Jetsons"
+    ]
+  },
+  {
+    "id": "sq-187",
+    "hf_key": "25d138328c244bc397335ac692073515",
+    "instruction": "Johnson & Johnson says it's a myth that uncovered wounds heal faster & advises using this adhesive brand",
+    "context_txt": "context/sq-187.txt",
+    "answer_values": [
+      "Band-Aid"
+    ]
+  },
+  {
+    "id": "sq-188",
+    "hf_key": "d0bea91c5a354c55bc06c79fc7f9fdfd",
+    "instruction": "\"Lionel's Problem\"",
+    "context_txt": "context/sq-188.txt",
+    "answer_values": [
+      "The Jeffersons"
+    ]
+  },
+  {
+    "id": "sq-189",
+    "hf_key": "8c7cf66fc4704af798533c0d58a088dd",
+    "instruction": "Galeocerdo cuvier, this shark retains its eggs until its young hatch; they're grrreat!",
+    "context_txt": "context/sq-189.txt",
+    "answer_values": [
+      "the tiger shark"
+    ]
+  },
+  {
+    "id": "sq-190",
+    "hf_key": "8bf380685a724e3c888d2a312bc6215d",
+    "instruction": "Will Somers held this post in the Tudor court for many years; his job was to lift the spirits of the king",
+    "context_txt": "context/sq-190.txt",
+    "answer_values": [
+      "court jester"
+    ]
+  },
+  {
+    "id": "sq-191",
+    "hf_key": "fb7182a1a035477aac598ab984100507",
+    "instruction": "On Dec. 2, 1859 this militant abolitionist was hanged for treason",
+    "context_txt": "context/sq-191.txt",
+    "answer_values": [
+      "John Brown"
+    ]
+  },
+  {
+    "id": "sq-192",
+    "hf_key": "4355722521794918810d53d6221f538e",
+    "instruction": "During World War II Carlson's Raiders used as a motto this 2-word Mandarin Chinese phrase meaning \"work together\"",
+    "context_txt": "context/sq-192.txt",
+    "answer_values": [
+      "gung-ho",
+      "Gung-Ho",
+      "Gung ho",
+      "Gung-ho",
+      "gung ho"
+    ]
+  },
+  {
+    "id": "sq-193",
+    "hf_key": "2127bbced801445099f3d1b9cada3d89",
+    "instruction": "High rollers get to play roulette on single-zero wheels, where the chance of hitting your lucky number is 1 in this",
+    "context_txt": "context/sq-193.txt",
+    "answer_values": [
+      "37"
+    ]
+  },
+  {
+    "id": "sq-194",
+    "hf_key": "ee9abd36b5f54fa4a9834e1103ca09b9",
+    "instruction": "Cecilia Bartoli recorded obscure arias by this composer, some of which recycle \"Four Seasons\" tunes",
+    "context_txt": "context/sq-194.txt",
+    "answer_values": [
+      "Vivaldi"
+    ]
+  },
+  {
+    "id": "sq-195",
+    "hf_key": "21156a39bea443d9859a63b74edc4261",
+    "instruction": "Sherwood Anderson told him, write about what \"you know... that little patch... in Mississippi where you started from\"",
+    "context_txt": "context/sq-195.txt",
+    "answer_values": [
+      "William Faulkner"
+    ]
+  },
+  {
+    "id": "sq-196",
+    "hf_key": "f06535e102834c3293250beed7c74d19",
+    "instruction": "Famke, Halle & Rebecca mutated from the runway to the big screen in this movie series",
+    "context_txt": "context/sq-196.txt",
+    "answer_values": [
+      "X-Men"
+    ]
+  },
+  {
+    "id": "sq-197",
+    "hf_key": "70e3e1e1d41f4795ba45678d5f4b6524",
+    "instruction": "\"365 Days\", \"Born on the Fourth of July\"",
+    "context_txt": "context/sq-197.txt",
+    "answer_values": [
+      "Vietnam War"
+    ]
+  },
+  {
+    "id": "sq-198",
+    "hf_key": "ea3c1aba15154e73a38f74434ed269fa",
+    "instruction": "The least dense planet in the solar system, it would actually float if you could find a big enough tub to put it in",
+    "context_txt": "context/sq-198.txt",
+    "answer_values": [
+      "Saturn"
+    ]
+  },
+  {
+    "id": "sq-199",
+    "hf_key": "9c6ed7e4e0e4404aba5db8c0ae318a54",
+    "instruction": "Under racing rules, every thoroughbred in the Northern Hemisphere has this birthday",
+    "context_txt": "context/sq-199.txt",
+    "answer_values": [
+      "January 1"
+    ]
+  },
+  {
+    "id": "sq-200",
+    "hf_key": "ae3f881438c541529a6804c2439ea657",
+    "instruction": "Yerevan, the capital of this republic, lies about 35 miles from Mount Ararat",
+    "context_txt": "context/sq-200.txt",
+    "answer_values": [
+      "Armenia"
+    ]
+  },
+  {
+    "id": "sq-201",
+    "hf_key": "a487a81f868c4dae9fabcf38497396d1",
+    "instruction": "NYC stockbrokers from Secaucus can carpool through this \"presidential\" structure that opened in 1937",
+    "context_txt": "context/sq-201.txt",
+    "answer_values": [
+      "the Lincoln Tunnel"
+    ]
+  },
+  {
+    "id": "sq-202",
+    "hf_key": "ada3b03a1f7045a387c3c373af4177e2",
+    "instruction": "Toronto's coat of arms boasts an artist's depiction of 3 rivers flowing into this body of water",
+    "context_txt": "context/sq-202.txt",
+    "answer_values": [
+      "Lake Ontario"
+    ]
+  },
+  {
+    "id": "sq-203",
+    "hf_key": "60c073330160463fbdfcbe15c8292a0a",
+    "instruction": "The diocese of Urgel shares control of this country wedged between France & Spain",
+    "context_txt": "context/sq-203.txt",
+    "answer_values": [
+      "Andorra"
+    ]
+  },
+  {
+    "id": "sq-204",
+    "hf_key": "8c9fb9585a8a4fea9fcbc4354bb8d103",
+    "instruction": "The 29th president & a figure skater from Oregon, both of whom were tainted by scandal",
+    "context_txt": "context/sq-204.txt",
+    "answer_values": [
+      "Warren & Tonya Harding"
+    ]
+  },
+  {
+    "id": "sq-205",
+    "hf_key": "2776631b706145d5a4df5604e784fc48",
+    "instruction": "Audiences weren't bored by William Wyler's 5th Oscar nomination, for this Greer Garson film; good thing, as he got 7 more",
+    "context_txt": "context/sq-205.txt",
+    "answer_values": [
+      "Mrs. Miniver"
+    ]
+  },
+  {
+    "id": "sq-206",
+    "hf_key": "7cbc24d809ce4acf974c2a67b475bcb2",
+    "instruction": "The Wiener Zeitung,The Osterreich Journal",
+    "context_txt": "context/sq-206.txt",
+    "answer_values": [
+      "Austria"
+    ]
+  },
+  {
+    "id": "sq-207",
+    "hf_key": "57639c65962143e69c1e4084debbb5c3",
+    "instruction": "When the earth is at perihelion, it is having its closest encounter with this",
+    "context_txt": "context/sq-207.txt",
+    "answer_values": [
+      "the sun"
+    ]
+  },
+  {
+    "id": "sq-208",
+    "hf_key": "c959771f965b43ec8c20e4ea2e62e134",
+    "instruction": "Fly high with this colorless, odorless & tasteless gas, atomic no. 2",
+    "context_txt": "context/sq-208.txt",
+    "answer_values": [
+      "helium"
+    ]
+  },
+  {
+    "id": "sq-209",
+    "hf_key": "b536b2e316a8412cb557e7db2474c320",
+    "instruction": "Its moon Phobos orbits the planet in 7 hours, rises in the west, & sets in the east",
+    "context_txt": "context/sq-209.txt",
+    "answer_values": [
+      "Mars"
+    ]
+  },
+  {
+    "id": "sq-210",
+    "hf_key": "33fa3320fcf94908acfd7a08908167d3",
+    "instruction": "The Brunswickan, The Edmonton Examiner",
+    "context_txt": "context/sq-210.txt",
+    "answer_values": [
+      "Canada"
+    ]
+  },
+  {
+    "id": "sq-211",
+    "hf_key": "96a94a18fde94064922b415417010218",
+    "instruction": "To lie close & snug; I just wanna do this",
+    "context_txt": "context/sq-211.txt",
+    "answer_values": [
+      "cuddle"
+    ]
+  },
+  {
+    "id": "sq-212",
+    "hf_key": "65f1132269014d01a6a361086447e24c",
+    "instruction": "In the line named for this supercomputer genius, the Y-MP reached the speed of 2.3 gigaflops",
+    "context_txt": "context/sq-212.txt",
+    "answer_values": [
+      "(Seymour) Cray"
+    ]
+  },
+  {
+    "id": "sq-213",
+    "hf_key": "271d0bb8a9eb487d9b2b3c8f37d79318",
+    "instruction": "No wonder it's called a low country, much of it is below sea level",
+    "context_txt": "context/sq-213.txt",
+    "answer_values": [
+      "The Netherlands"
+    ]
+  },
+  {
+    "id": "sq-214",
+    "hf_key": "e1364d28294442ce9f777e74688287be",
+    "instruction": "Brown,fruit,vampire",
+    "context_txt": "context/sq-214.txt",
+    "answer_values": [
+      "bats"
+    ]
+  },
+  {
+    "id": "sq-215",
+    "hf_key": "1f6a07a2f99745f59799f131137b3fac",
+    "instruction": "The ore pyrargyrite is associated with veins of this precious metal, symbol Ag",
+    "context_txt": "context/sq-215.txt",
+    "answer_values": [
+      "silver"
+    ]
+  },
+  {
+    "id": "sq-216",
+    "hf_key": "a87fea19c134468ba7013599b6ca4124",
+    "instruction": "She beat Warren G. Harding (not that one) for Texas treasurer in 1982; later, she would be governor",
+    "context_txt": "context/sq-216.txt",
+    "answer_values": [
+      "Ann Richards"
+    ]
+  },
+  {
+    "id": "sq-217",
+    "hf_key": "d22c0dc438434a4bb15689d4316eea9b",
+    "instruction": "In 1954 he won a record 4 Oscars, including one for \"Best Documentary Feature\" for a film set in the American desert",
+    "context_txt": "context/sq-217.txt",
+    "answer_values": [
+      "Walt Disney"
+    ]
+  },
+  {
+    "id": "sq-218",
+    "hf_key": "b46b0bc448e241ac87ad1b97bf2f781a",
+    "instruction": "On sheet music, this sign identifies the second line of the staff as the G above middle C",
+    "context_txt": "context/sq-218.txt",
+    "answer_values": [
+      "a treble clef"
+    ]
+  },
+  {
+    "id": "sq-219",
+    "hf_key": "64788eeb2a62434f808f41e886fd5eca",
+    "instruction": "In 2007 Marie Osmond blamed allergies & L.A. air quality for her waltz into unconsciousness on this show",
+    "context_txt": "context/sq-219.txt",
+    "answer_values": [
+      "Dancing with the Stars"
+    ]
+  },
+  {
+    "id": "sq-220",
+    "hf_key": "db0c6394467145eb98fc55a860ceefa1",
+    "instruction": "This D.C. school adopted the colors gray & blue to symbolize the reunification of the nation after the Civil War",
+    "context_txt": "context/sq-220.txt",
+    "answer_values": [
+      "Georgetown"
+    ]
+  },
+  {
+    "id": "sq-221",
+    "hf_key": "8a136c25d60f47c98fdf34039bbb6e82",
+    "instruction": "This playwright gave Jessica Lange a big role when he directed the film \"Far North\"; maybe he's a \"Fool For Love\"",
+    "context_txt": "context/sq-221.txt",
+    "answer_values": [
+      "Sam Shepard"
+    ]
+  },
+  {
+    "id": "sq-222",
+    "hf_key": "111c124ec95b43e5a6bb6bc4c5334afb",
+    "instruction": "A symbolic fortress of Scotland overlooking Edinburgh, or a Rob Reiner movie company",
+    "context_txt": "context/sq-222.txt",
+    "answer_values": [
+      "Castle Rock"
+    ]
+  },
+  {
+    "id": "sq-223",
+    "hf_key": "fa895fb1499145a496e92b35b2baa3fd",
+    "instruction": "This Italian squash can be eaten raw, steamed or grilled, or baked in a sweet bread",
+    "context_txt": "context/sq-223.txt",
+    "answer_values": [
+      "zucchini"
+    ]
+  },
+  {
+    "id": "sq-224",
+    "hf_key": "cb995b8d36b449b0893c81cae02b7262",
+    "instruction": "In Bernard Malamud's \"The Natural\", Roy Hobbs wields Wonderboy, this object",
+    "context_txt": "context/sq-224.txt",
+    "answer_values": [
+      "a baseball bat"
+    ]
+  },
+  {
+    "id": "sq-225",
+    "hf_key": "75823c5d641f4fcab81b05f784866632",
+    "instruction": "In 2008 this figure skater added a new title: winner of \"Dancing with the Stars\"",
+    "context_txt": "context/sq-225.txt",
+    "answer_values": [
+      "Kristi Yamaguchi"
+    ]
+  },
+  {
+    "id": "sq-226",
+    "hf_key": "1439767c43ff4b0299f98c9267720dc4",
+    "instruction": "It's not just Dijon; Meaux also is known for this condiment",
+    "context_txt": "context/sq-226.txt",
+    "answer_values": [
+      "mustard"
+    ]
+  },
+  {
+    "id": "sq-227",
+    "hf_key": "84934157c04042cebcfe219830a08932",
+    "instruction": "Cut up this tuber that was native to South America before becoming a major crop in Europe at the end of the 17th c.",
+    "context_txt": "context/sq-227.txt",
+    "answer_values": [
+      "a potato"
+    ]
+  },
+  {
+    "id": "sq-228",
+    "hf_key": "9c1838f2482d4698a692732d91e2cb54",
+    "instruction": "The Edgar Thomson Plant in Braddock, Penn. filled its first orders for this industrial material in 1875",
+    "context_txt": "context/sq-228.txt",
+    "answer_values": [
+      "steel"
+    ]
+  },
+  {
+    "id": "sq-229",
+    "hf_key": "aa5ccdb669c54275a3ac03c724a4f2e9",
+    "instruction": "Mount Kilimanjaro",
+    "context_txt": "context/sq-229.txt",
+    "answer_values": [
+      "Tanzania"
+    ]
+  },
+  {
+    "id": "sq-230",
+    "hf_key": "9f3ada8e14774b26b559e9d4d2755a8f",
+    "instruction": "Living from 1846 to 1935, this celebrated Frenchman was known as \"the king of chefs and the chef of kings\"",
+    "context_txt": "context/sq-230.txt",
+    "answer_values": [
+      "Georges Auguste Escoffier",
+      "Georges-Auguste Escoffier"
+    ]
+  },
+  {
+    "id": "sq-231",
+    "hf_key": "2dd8acf52add4655a613cb03b0148d95",
+    "instruction": "Priscilla Beaulieu married this man in Vegas on May 1, 1967",
+    "context_txt": "context/sq-231.txt",
+    "answer_values": [
+      "Elvis Presley"
+    ]
+  },
+  {
+    "id": "sq-232",
+    "hf_key": "b1c5e4a9e1854579b9bbd63bee9b46c2",
+    "instruction": "Scooter Libby's trial revealed Libby's note that Tim Russert \"hates Chris\" --This Chris of MSNBC",
+    "context_txt": "context/sq-232.txt",
+    "answer_values": [
+      "Chris Matthews"
+    ]
+  },
+  {
+    "id": "sq-233",
+    "hf_key": "6d578afdadf24362807d8405b97d194c",
+    "instruction": "If a German woman is plucking her augenbrauen, she's tweezing these",
+    "context_txt": "context/sq-233.txt",
+    "answer_values": [
+      "eyebrows"
+    ]
+  },
+  {
+    "id": "sq-234",
+    "hf_key": "09c2ff73fff541698b1c69b1c6deb7ca",
+    "instruction": "It's the only country listed that starts with a \"Q\"",
+    "context_txt": "context/sq-234.txt",
+    "answer_values": [
+      "Qatar"
+    ]
+  },
+  {
+    "id": "sq-235",
+    "hf_key": "dc33e9b17a4d4045b4b12dfa1c4f14b6",
+    "instruction": "A research institute, like the RAND Corporation",
+    "context_txt": "context/sq-235.txt",
+    "answer_values": [
+      "a think tank"
+    ]
+  },
+  {
+    "id": "sq-236",
+    "hf_key": "a37c4493100b4e4987a13c9aafa99b3f",
+    "instruction": "Named for a Native American tribe, this city of 85,000 lies near where Iowa, Nebraska & South Dakota meet",
+    "context_txt": "context/sq-236.txt",
+    "answer_values": [
+      "Sioux City"
+    ]
+  },
+  {
+    "id": "sq-237",
+    "hf_key": "dbcadf420ab94399b8137e3bab4eb2c8",
+    "instruction": "In the Haber process, hydrogen & this element are combined under high pressure to produce ammonia",
+    "context_txt": "context/sq-237.txt",
+    "answer_values": [
+      "nitrogen"
+    ]
+  },
+  {
+    "id": "sq-238",
+    "hf_key": "e4b7f9c60e8a4459a2a6de6f7f630fd6",
+    "instruction": "Newborn raccoons lack the familiar tail rings & this famous facial feature",
+    "context_txt": "context/sq-238.txt",
+    "answer_values": [
+      "the mask"
+    ]
+  },
+  {
+    "id": "sq-239",
+    "hf_key": "47630d7870cb48599d4dbf59b5da6569",
+    "instruction": "After the death of Red Smith, George Vecsey became a columnist on this subject",
+    "context_txt": "context/sq-239.txt",
+    "answer_values": [
+      "sports"
+    ]
+  },
+  {
+    "id": "sq-240",
+    "hf_key": "b0b4ae7c08f0452693c82b305cc47cf7",
+    "instruction": "(Jimmy of the Clue Crew reports from the Circus Center in San Francisco, California) The first great wire walker was the Frenchman Blondin, who rose to great fame by walking over this landmark, once carrying a man on his back",
+    "context_txt": "context/sq-240.txt",
+    "answer_values": [
+      "Niagara Falls"
+    ]
+  },
+  {
+    "id": "sq-241",
+    "hf_key": "26966addbe3b41c7bf17430bdfc45460",
+    "instruction": "Say hello to this evil postal worker played by Wayne Knight on \"Seinfeld\"",
+    "context_txt": "context/sq-241.txt",
+    "answer_values": [
+      "Newman"
+    ]
+  },
+  {
+    "id": "sq-242",
+    "hf_key": "91c4381f343741578ed9eeea882a0c91",
+    "instruction": "The game-winning one of these was an official batting statistic in the 1980s, & Keith Hernandez is the all-time leader",
+    "context_txt": "context/sq-242.txt",
+    "answer_values": [
+      "an RBI"
+    ]
+  },
+  {
+    "id": "sq-243",
+    "hf_key": "8177ee2f165844dc84582746294b00e8",
+    "instruction": "You could play Princess Jasmine or the genie if your school puts on the stage version of this animated 1992 film",
+    "context_txt": "context/sq-243.txt",
+    "answer_values": [
+      "Aladdin"
+    ]
+  },
+  {
+    "id": "sq-244",
+    "hf_key": "f17942ba37674672ab5bca09796bd5fe",
+    "instruction": "The Junkanoo Parade brings a sea of color to downtown Nassau on Boxing Day, and again on this one six days later",
+    "context_txt": "context/sq-244.txt",
+    "answer_values": [
+      "New Year\\'s Day"
+    ]
+  },
+  {
+    "id": "sq-245",
+    "hf_key": "34465be6239d4421ba9bd786292bf9f6",
+    "instruction": "Imposing 400-foot limestone cliffs line the gorge that bears the name of this \"cheesy\" city",
+    "context_txt": "context/sq-245.txt",
+    "answer_values": [
+      "Cheddar"
+    ]
+  },
+  {
+    "id": "sq-246",
+    "hf_key": "3e59be0f71cd4977ae0b281cfc50b1d4",
+    "instruction": "When it comes to a crisis, you shouldn't do this \"in midstream\"",
+    "context_txt": "context/sq-246.txt",
+    "answer_values": [
+      "change horses"
+    ]
+  },
+  {
+    "id": "sq-247",
+    "hf_key": "493540f5a9824f2f8854b03d7a63ebe7",
+    "instruction": "Made from fermented cabbage, radishes, red peppers & spices, kimchi is the national dish of this land",
+    "context_txt": "context/sq-247.txt",
+    "answer_values": [
+      "Korea"
+    ]
+  },
+  {
+    "id": "sq-248",
+    "hf_key": "4166b413d5ef41e3b19b1eafad968c2a",
+    "instruction": "An O.S. can be an operating system as well as this type of software like Firefox, GIMP & Thunderbird",
+    "context_txt": "context/sq-248.txt",
+    "answer_values": [
+      "open source"
+    ]
+  },
+  {
+    "id": "sq-249",
+    "hf_key": "083e5ed5f5414ab7a07c7a0dfcadf052",
+    "instruction": "Alexander Graham Bell,George Washington Carver,Guglielmo Marconi",
+    "context_txt": "context/sq-249.txt",
+    "answer_values": [
+      "Alexander Graham Bell"
+    ]
+  },
+  {
+    "id": "sq-250",
+    "hf_key": "8244777978464ce5aaa05a503d436d02",
+    "instruction": "In Vietnamese, this European language is known as Phap",
+    "context_txt": "context/sq-250.txt",
+    "answer_values": [
+      "French"
+    ]
+  },
+  {
+    "id": "sq-251",
+    "hf_key": "cd5851bb828b4619b3036d23e97c3737",
+    "instruction": "Trading on its century-old name, this company abbreviated A&F; sells hip casual clothes",
+    "context_txt": "context/sq-251.txt",
+    "answer_values": [
+      "Abercrombie & Fitch"
+    ]
+  },
+  {
+    "id": "sq-252",
+    "hf_key": "71cf0d8596f94d119cce0d25ca92068b",
+    "instruction": "This weatherman turned vowel seller got to sit in",
+    "context_txt": "context/sq-252.txt",
+    "answer_values": [
+      "Pat Sajak"
+    ]
+  },
+  {
+    "id": "sq-253",
+    "hf_key": "8c61ec05f4484d23acdcf27a49221f5c",
+    "instruction": "After criminal activities by this secret society, Oklahoma was placed under martial law in September 1923",
+    "context_txt": "context/sq-253.txt",
+    "answer_values": [
+      "Ku Klux Klan"
+    ]
+  },
+  {
+    "id": "sq-254",
+    "hf_key": "a36864e2136949db951258f08e036794",
+    "instruction": "If selling wine, remember that every bottle must list the name, the producer & this content if it's over 14%",
+    "context_txt": "context/sq-254.txt",
+    "answer_values": [
+      "the alcohol content"
+    ]
+  },
+  {
+    "id": "sq-255",
+    "hf_key": "1cefc2b4409f4c1b8f97ff030c84edf7",
+    "instruction": "Carved in Rome, the \"Pieta\" is the only work signed by this sculptor",
+    "context_txt": "context/sq-255.txt",
+    "answer_values": [
+      "Michelangelo"
+    ]
+  },
+  {
+    "id": "sq-256",
+    "hf_key": "329d15f788db47efab753f69e26df462",
+    "instruction": "Johnny Depp's mom is a morbidly obese shut-in who hasn't left the house in 7 years in this 1993 film",
+    "context_txt": "context/sq-256.txt",
+    "answer_values": [
+      "What\\'s Eating Gilbert Grape"
+    ]
+  },
+  {
+    "id": "sq-257",
+    "hf_key": "1bd9a6adeb4c4d1e8d7b936c8c6af9f3",
+    "instruction": "Disgraced soldiers once left the military with percussion playing--hence this modern idiom",
+    "context_txt": "context/sq-257.txt",
+    "answer_values": [
+      "to be drummed out"
+    ]
+  },
+  {
+    "id": "sq-258",
+    "hf_key": "90c88807570b4e25a1cc0781164cc8f3",
+    "instruction": "The name of this brand of scotch-based liqueur is Gaelic for \"the drink that satisifes\"",
+    "context_txt": "context/sq-258.txt",
+    "answer_values": [
+      "Drambuie"
+    ]
+  },
+  {
+    "id": "sq-259",
+    "hf_key": "56e418b9f30c46cbb7d4f834c70e793d",
+    "instruction": "(Alex gives the clue from Sony Headquarters in Tokyo, Japan.)  These razor-thin TV screens of the future are made with OLED technology--organic light-emitting this, which allows the current to pass in only one direction",
+    "context_txt": "context/sq-259.txt",
+    "answer_values": [
+      "diodes"
+    ]
+  },
+  {
+    "id": "sq-260",
+    "hf_key": "1e9b5e8cb8cd4a989f278489efe312c9",
+    "instruction": "Elvis Costello tells this title girl, \"My aim is true\"",
+    "context_txt": "context/sq-260.txt",
+    "answer_values": [
+      "Alison"
+    ]
+  },
+  {
+    "id": "sq-261",
+    "hf_key": "3deaa9f97883456d9904db5281da8ddd",
+    "instruction": "On Feb. 15, 1965, Canada's new flag, which prominently featured an 11-pointed one of these, flew for the first time",
+    "context_txt": "context/sq-261.txt",
+    "answer_values": [
+      "the maple leaf"
+    ]
+  },
+  {
+    "id": "sq-262",
+    "hf_key": "af1bab543b3a4c2ab8fbb96be80d4bf2",
+    "instruction": "Ohio:\"With God, all things are\" this",
+    "context_txt": "context/sq-262.txt",
+    "answer_values": [
+      "possible"
+    ]
+  },
+  {
+    "id": "sq-263",
+    "hf_key": "d372175ac0434d88bfaad2581aabe49f",
+    "instruction": "Found at the entrance to Mobile Bay, Dauphin Island is a coastal island belonging to this state",
+    "context_txt": "context/sq-263.txt",
+    "answer_values": [
+      "Alabama"
+    ]
+  },
+  {
+    "id": "sq-264",
+    "hf_key": "50e82721a1e24389aae202842ea1f84d",
+    "instruction": "In his journal of 1710 to 1713, he referred to himself as \"Presto\"",
+    "context_txt": "context/sq-264.txt",
+    "answer_values": [
+      "Jonathan Swift"
+    ]
+  },
+  {
+    "id": "sq-265",
+    "hf_key": "c2d9d87d95a8451391752e320e25fe56",
+    "instruction": "In 1765 Congress met in New York to protest unfair taxes levied under this act",
+    "context_txt": "context/sq-265.txt",
+    "answer_values": [
+      "the Stamp Act"
+    ]
+  },
+  {
+    "id": "sq-266",
+    "hf_key": "f29047a0d5324e83b0049b97c0e65a0a",
+    "instruction": "Texas' only natural lake is Caddo Lake, shared with this state to the east",
+    "context_txt": "context/sq-266.txt",
+    "answer_values": [
+      "Louisiana"
+    ]
+  },
+  {
+    "id": "sq-267",
+    "hf_key": "bf23ec59bcad4c0fbae40a58be93000f",
+    "instruction": "\"Yellow\" ,\"Speed of Sound\"",
+    "context_txt": "context/sq-267.txt",
+    "answer_values": [
+      "Coldplay"
+    ]
+  },
+  {
+    "id": "sq-268",
+    "hf_key": "041b78559bfc4f77b03bed75a4744325",
+    "instruction": "Hey, this, don't be \"obscure\"",
+    "context_txt": "context/sq-268.txt",
+    "answer_values": [
+      "Jude"
+    ]
+  },
+  {
+    "id": "sq-269",
+    "hf_key": "a790b16e8712437f9650d552069ab5f1",
+    "instruction": "Fran's Chocolates of Seattle makes delectable caramels topped with the gray sea type of this",
+    "context_txt": "context/sq-269.txt",
+    "answer_values": [
+      "salt"
+    ]
+  },
+  {
+    "id": "sq-270",
+    "hf_key": "b105cad5e6a0487585d20f2ff086e191",
+    "instruction": "On the Mohs scale, this mineral can be scratched by every other mineral",
+    "context_txt": "context/sq-270.txt",
+    "answer_values": [
+      "talc"
+    ]
+  },
+  {
+    "id": "sq-271",
+    "hf_key": "e6cd02bc72bc4037b1c570a31c78e8d2",
+    "instruction": "To say \"you're welcome\" in Italian, use this word, also a brand of spaghetti sauce",
+    "context_txt": "context/sq-271.txt",
+    "answer_values": [
+      "prego"
+    ]
+  },
+  {
+    "id": "sq-272",
+    "hf_key": "18a145e7ed5c4c56997fe6861777a692",
+    "instruction": "The Joad family sings up a storm (make that a dust storm) in the opera adapted from this Steinbeck novel",
+    "context_txt": "context/sq-272.txt",
+    "answer_values": [
+      "The Grapes of Wrath"
+    ]
+  },
+  {
+    "id": "sq-273",
+    "hf_key": "22ce6611b8cb4327834209c67aa04bc4",
+    "instruction": "The Philistines took him \"and put out his eyes, and brought him down to Gaza, and bound him with fetters of brass\"",
+    "context_txt": "context/sq-273.txt",
+    "answer_values": [
+      "Samson"
+    ]
+  },
+  {
+    "id": "sq-274",
+    "hf_key": "87d49096da4c4ac3aade602f61950104",
+    "instruction": "Once the \"world's most experienced airline\", it was grounded in 1991",
+    "context_txt": "context/sq-274.txt",
+    "answer_values": [
+      "Pan Am"
+    ]
+  },
+  {
+    "id": "sq-275",
+    "hf_key": "3deee37674d341368cc619152cef01d8",
+    "instruction": "Shaw's play \"Back to Methuselah\" goes really, really far back; part I opens in this Biblical garden",
+    "context_txt": "context/sq-275.txt",
+    "answer_values": [
+      "Garden of Eden"
+    ]
+  },
+  {
+    "id": "sq-276",
+    "hf_key": "115ccd6394884bb19f9c06e6710cd32a",
+    "instruction": "Cooperstown, New York",
+    "context_txt": "context/sq-276.txt",
+    "answer_values": [
+      "baseball"
+    ]
+  },
+  {
+    "id": "sq-277",
+    "hf_key": "da69299948e1499484b36ec54dde22ec",
+    "instruction": "Pakistan,Bangladesh,Indonesia",
+    "context_txt": "context/sq-277.txt",
+    "answer_values": [
+      "Indonesia"
+    ]
+  },
+  {
+    "id": "sq-278",
+    "hf_key": "38c51c359cc546a786266d6f2431906f",
+    "instruction": "When sausages are thrown into the batter of this English treat, it's known as toad-in-the-hole",
+    "context_txt": "context/sq-278.txt",
+    "answer_values": [
+      "Yorkshire pudding"
+    ]
+  },
+  {
+    "id": "sq-279",
+    "hf_key": "f1de564a1f2f4a6ca813f99b5b4e8bee",
+    "instruction": "Instead of playing with my yo-yo I'm playing like Yo-Yo Ma on this instrument",
+    "context_txt": "context/sq-279.txt",
+    "answer_values": [
+      "the cello"
+    ]
+  },
+  {
+    "id": "sq-280",
+    "hf_key": "ad5937f17d31464094fffdd0bb136bea",
+    "instruction": "This antibiotic often used to treat acne was discovered in 1948",
+    "context_txt": "context/sq-280.txt",
+    "answer_values": [
+      "tetracycline"
+    ]
+  },
+  {
+    "id": "sq-281",
+    "hf_key": "881406b9eac540968f028bebeb68419f",
+    "instruction": "Appointed Ambassador to France in 1922, Carlo Sforza resigned over this new Italian premier's policies",
+    "context_txt": "context/sq-281.txt",
+    "answer_values": [
+      "Mussolini"
+    ]
+  },
+  {
+    "id": "sq-282",
+    "hf_key": "912421894870440899fc4f88a6583d6e",
+    "instruction": "A decorative floral arrangement in the middle of a dining table",
+    "context_txt": "context/sq-282.txt",
+    "answer_values": [
+      "a centerpiece"
+    ]
+  },
+  {
+    "id": "sq-283",
+    "hf_key": "ff4938d0121845359c85bf53a7969e54",
+    "instruction": "As you can see, Neuschwanstein Castle is one of the most beautiful in this mountain range",
+    "context_txt": "context/sq-283.txt",
+    "answer_values": [
+      "the (Bavarian) Alps"
+    ]
+  },
+  {
+    "id": "sq-284",
+    "hf_key": "a7762036ca9f473b982a724fd4c3a72c",
+    "instruction": "\"Ante-\" this refers to the period before the Civil War; in Latin, this means war!",
+    "context_txt": "context/sq-284.txt",
+    "answer_values": [
+      "bellum"
+    ]
+  },
+  {
+    "id": "sq-285",
+    "hf_key": "a39e8dcf53cc47c29a3d69905c946fe4",
+    "instruction": "Hundreds perished April 15, 1997 in a fire during this religious pilgrimage to Mecca",
+    "context_txt": "context/sq-285.txt",
+    "answer_values": [
+      "the hajj"
+    ]
+  },
+  {
+    "id": "sq-286",
+    "hf_key": "662e5b5f4c114767800ac4ddd42f31f8",
+    "instruction": "Attention, Kmart shoppers: This '70s \"Charlie's Angel\" has her own line of designer jeans",
+    "context_txt": "context/sq-286.txt",
+    "answer_values": [
+      "Jaclyn Smith"
+    ]
+  },
+  {
+    "id": "sq-287",
+    "hf_key": "4a673823b10d40ec86791c6a81ff8d47",
+    "instruction": "...That has its lowest point 1300 feet below sea level at the Dead Sea shoreline",
+    "context_txt": "context/sq-287.txt",
+    "answer_values": [
+      "Asia"
+    ]
+  },
+  {
+    "id": "sq-288",
+    "hf_key": "4ebcc9cf3f1843ecaa94b7cfd7f038ac",
+    "instruction": "Seen here, the Me 262 from this German manufacturer was the world's first operational fighter jet",
+    "context_txt": "context/sq-288.txt",
+    "answer_values": [
+      "Messerschmitt"
+    ]
+  },
+  {
+    "id": "sq-289",
+    "hf_key": "fc89ae4aa62747819ee648fa169fe75a",
+    "instruction": "Shakespeare wrote, \"What's past is\" this introductory part of a book",
+    "context_txt": "context/sq-289.txt",
+    "answer_values": [
+      "prologue"
+    ]
+  },
+  {
+    "id": "sq-290",
+    "hf_key": "8d757b0f902f40b99092d3a9f6e48e03",
+    "instruction": "\"Lost colony\" of 1580s North Carolina",
+    "context_txt": "context/sq-290.txt",
+    "answer_values": [
+      "Roanoke"
+    ]
+  },
+  {
+    "id": "sq-291",
+    "hf_key": "bc05ded989c342ff8a9058bfaf2fd2f5",
+    "instruction": "This Christian holy day can occur as early as March 22 or as late as April 25",
+    "context_txt": "context/sq-291.txt",
+    "answer_values": [
+      "Easter"
+    ]
+  },
+  {
+    "id": "sq-292",
+    "hf_key": "c86ba630940a4887afc800dc2d8630d7",
+    "instruction": "\"How do we know when irrational exuberance has unduly escalated asset values?\"",
+    "context_txt": "context/sq-292.txt",
+    "answer_values": [
+      "Alan Greenspan"
+    ]
+  },
+  {
+    "id": "sq-293",
+    "hf_key": "c35f718fac5c4de1b8ddbce2b046849c",
+    "instruction": "Feel like a female deity when you eat this \"verdant\" salad dressing at S.F.'s Palace Hotel (it was invented there)",
+    "context_txt": "context/sq-293.txt",
+    "answer_values": [
+      "green goddess (dressing)"
+    ]
+  },
+  {
+    "id": "sq-294",
+    "hf_key": "2448a8313da849e184c37ceb66f48131",
+    "instruction": "\"What is the sound of one hand clapping?\" is a koan from this school of Mahayana Buddhism",
+    "context_txt": "context/sq-294.txt",
+    "answer_values": [
+      "Zen"
+    ]
+  },
+  {
+    "id": "sq-295",
+    "hf_key": "f00fa1a753f6479a809011b2f3ad9b26",
+    "instruction": "Check out his old blue eyes seen here",
+    "context_txt": "context/sq-295.txt",
+    "answer_values": [
+      "Frank Sinatra"
+    ]
+  },
+  {
+    "id": "sq-296",
+    "hf_key": "62732114e5724258acadbaf89a7972ad",
+    "instruction": "The 460-room King Kamehameha's Kona Beach Hotel in this state stands on the grounds where the man once resided",
+    "context_txt": "context/sq-296.txt",
+    "answer_values": [
+      "Hawaii"
+    ]
+  },
+  {
+    "id": "sq-297",
+    "hf_key": "d2749707ad3d41a2b2110afc76b85a6f",
+    "instruction": "The giant species of this \"armor-plated\" animal has more teeth than any other land mammal",
+    "context_txt": "context/sq-297.txt",
+    "answer_values": [
+      "armadillo"
+    ]
+  },
+  {
+    "id": "sq-298",
+    "hf_key": "18807a01ded24f68b1dd3a79dec47c1c",
+    "instruction": "Used in statistics, this word is from theLatin adverbial phrase for \"by the hundred\"",
+    "context_txt": "context/sq-298.txt",
+    "answer_values": [
+      "percent"
+    ]
+  },
+  {
+    "id": "sq-299",
+    "hf_key": "691e3a24e5994c749ff11c6bc43b2d1c",
+    "instruction": "Seat fit for a king",
+    "context_txt": "context/sq-299.txt",
+    "answer_values": [
+      "throne"
+    ]
+  },
+  {
+    "id": "sq-300",
+    "hf_key": "e8c9fe67e5a24f4fa5842296a46ec804",
+    "instruction": "The talking cat on this sitcom was appropriately named Salem",
+    "context_txt": "context/sq-300.txt",
+    "answer_values": [
+      "Sabrina, the Teenage Witch"
+    ]
+  },
+  {
+    "id": "sq-301",
+    "hf_key": "153bab83d7e144a99aa4c8331c786e20",
+    "instruction": "Like the shellfish they're named for, these chewy mushrooms are sold fresh & in cans",
+    "context_txt": "context/sq-301.txt",
+    "answer_values": [
+      "oyster mushrooms"
+    ]
+  },
+  {
+    "id": "sq-302",
+    "hf_key": "52c849be2c1f457f9785dae91aeb4fbb",
+    "instruction": "This arboreal marsupial is smaller & lighter-colored in Northern than in Southern Australia",
+    "context_txt": "context/sq-302.txt",
+    "answer_values": [
+      "a koala bear"
+    ]
+  },
+  {
+    "id": "sq-303",
+    "hf_key": "af91f4335fd6492fb5504fc127852b4e",
+    "instruction": "The 3 orders of Ancient Greek column were Doric, Ionic & this ornate one named for a city",
+    "context_txt": "context/sq-303.txt",
+    "answer_values": [
+      "Corinthian"
+    ]
+  },
+  {
+    "id": "sq-304",
+    "hf_key": "707534ee024f4719b1d559b84d7cac53",
+    "instruction": "Once a slave-trading center established by the Portuguese, Bissau is now the proud capital of this country",
+    "context_txt": "context/sq-304.txt",
+    "answer_values": [
+      "GUINEA-BISSAU",
+      "Guinea Bissau",
+      "Guinea-\nBissau",
+      "Guinea-Bissau"
+    ]
+  },
+  {
+    "id": "sq-305",
+    "hf_key": "8065f2e8639848f5b2f16a4f2877b7c2",
+    "instruction": "A clique within a larger group gets rid of its F to be a movie director's shout to start a scene",
+    "context_txt": "context/sq-305.txt",
+    "answer_values": [
+      "faction & action"
+    ]
+  },
+  {
+    "id": "sq-306",
+    "hf_key": "69a14b74d2864b7fb5cad9af0fb68405",
+    "instruction": "This \"wrap\" artist & his wife Jeanne-Claude used more than 1 million square feet of fabric to wrap the Reichstag",
+    "context_txt": "context/sq-306.txt",
+    "answer_values": [
+      "Christo"
+    ]
+  },
+  {
+    "id": "sq-307",
+    "hf_key": "66a786f986594924b5ab3773bcd775de",
+    "instruction": "Genesis 11:9 says that at this city the Lord did \"confound the language of all the Earth\"",
+    "context_txt": "context/sq-307.txt",
+    "answer_values": [
+      "Babel"
+    ]
+  },
+  {
+    "id": "sq-308",
+    "hf_key": "818eacc626274f0da644aa9e0cd23bdf",
+    "instruction": "In this Shakespeare play, the Antipholus twins don't merit gold gloves after they bobble identities",
+    "context_txt": "context/sq-308.txt",
+    "answer_values": [
+      "The Comedy of Errors"
+    ]
+  },
+  {
+    "id": "sq-309",
+    "hf_key": "e61be5c190ba46e790a2d4e6ecccf628",
+    "instruction": "With 35 seconds left in the game, he threw a TD pass to Plaxico Burress to win Super Bowl XLII for the Giants",
+    "context_txt": "context/sq-309.txt",
+    "answer_values": [
+      "Eli Manning"
+    ]
+  },
+  {
+    "id": "sq-310",
+    "hf_key": "83e6292952314ca0b1945d01b8484578",
+    "instruction": "(Hey, I'm Mark McGrath.)  I earned a degree in communications from USC before I joined this rock band that was formerly known as The Shrinky Dinx",
+    "context_txt": "context/sq-310.txt",
+    "answer_values": [
+      "Sugar Ray"
+    ]
+  },
+  {
+    "id": "sq-311",
+    "hf_key": "f69eb77adeb64f1b85ec67190f181bbb",
+    "instruction": "This prez' second inaugural address was the shortest in history, only about 30 seconds long, possibly due to bad teeth",
+    "context_txt": "context/sq-311.txt",
+    "answer_values": [
+      "Washington"
+    ]
+  },
+  {
+    "id": "sq-312",
+    "hf_key": "f0ac748a5f9d49338d3e565744bb7994",
+    "instruction": "Mary Mallon was the first known carrier of this disease in the U.S.",
+    "context_txt": "context/sq-312.txt",
+    "answer_values": [
+      "typhoid"
+    ]
+  },
+  {
+    "id": "sq-313",
+    "hf_key": "b8802152e8834353ba7cb93a33756ae9",
+    "instruction": "Jim Victor made parmesan ships with pizza dough sails & spaghetti rigging for a 2005 parade honoring this holiday",
+    "context_txt": "context/sq-313.txt",
+    "answer_values": [
+      "Columbus Day"
+    ]
+  },
+  {
+    "id": "sq-314",
+    "hf_key": "97817df7328a46c491aec65bf273db64",
+    "instruction": "As a solo artist, his presenters were ex-bandmates -- not the Beatles but The Traveling Wilburys",
+    "context_txt": "context/sq-314.txt",
+    "answer_values": [
+      "George Harrison"
+    ]
+  },
+  {
+    "id": "sq-315",
+    "hf_key": "cda4ade220d9413fa0cdd7a18d9a18cf",
+    "instruction": "Name shared by a clay & straw brick home & a Photoshop maker",
+    "context_txt": "context/sq-315.txt",
+    "answer_values": [
+      "adobe"
+    ]
+  },
+  {
+    "id": "sq-316",
+    "hf_key": "7e7f3ac92e7d44efa46239b22177545b",
+    "instruction": "King John's Castle rises majestically above the banks of this river in the city of Limerick",
+    "context_txt": "context/sq-316.txt",
+    "answer_values": [
+      "the Shannon River"
+    ]
+  },
+  {
+    "id": "sq-317",
+    "hf_key": "1d583b491ca440aba78cc15b2ef18f23",
+    "instruction": "Before his dictionary, he put out 1783's \"American Spelling Book\", a mainstay of pioneer schooling",
+    "context_txt": "context/sq-317.txt",
+    "answer_values": [
+      "Webster"
+    ]
+  },
+  {
+    "id": "sq-318",
+    "hf_key": "e19d47e9b4874234b4a17e44a971c3e8",
+    "instruction": "A document showing the legal right to own a piece of property",
+    "context_txt": "context/sq-318.txt",
+    "answer_values": [
+      "a deed"
+    ]
+  },
+  {
+    "id": "sq-319",
+    "hf_key": "0925d8847026453082a88de26a9723bc",
+    "instruction": "(Sarah of the Clue Crew somehow delivers the clue from both the Museo de Navarra in Pamplona, Spain and Santiago de Compostela in Spain.)  Pamplona's 16th century Our Lady of Misery was a way station on a set route for these religious travelers as they trekked hundreds of miles from France to their final destination--Santiago de Compostela",
+    "context_txt": "context/sq-319.txt",
+    "answer_values": [
+      "pilgrims"
+    ]
+  },
+  {
+    "id": "sq-320",
+    "hf_key": "34f377093b164424a48bfe005cca9087",
+    "instruction": "Put a feather in your cap if you know this Passover cookie's name is derived from the Italian for \"dumpling\"",
+    "context_txt": "context/sq-320.txt",
+    "answer_values": [
+      "macaroon"
+    ]
+  },
+  {
+    "id": "sq-321",
+    "hf_key": "3a057b1a40284012b22c485dd7d6b088",
+    "instruction": "Auntie Anne's Inc., a fast-growing franchise, sells the hand-rolled soft type of these treats",
+    "context_txt": "context/sq-321.txt",
+    "answer_values": [
+      "pretzels"
+    ]
+  },
+  {
+    "id": "sq-322",
+    "hf_key": "17a91ff4b2fb4bf4849eb77e83bfa902",
+    "instruction": "On Tues., Dec. 9, 2006 the Times said the U.S. would now sell nuclear fuel to this Asia country",
+    "context_txt": "context/sq-322.txt",
+    "answer_values": [
+      "India"
+    ]
+  },
+  {
+    "id": "sq-323",
+    "hf_key": "cedb5531de5c4d50819dfbd0a6013973",
+    "instruction": "It means \"a male swan\"; it's also what you eat corn on",
+    "context_txt": "context/sq-323.txt",
+    "answer_values": [
+      "a cob"
+    ]
+  },
+  {
+    "id": "sq-324",
+    "hf_key": "097e6fa717b74df1ab3d93ef06dd5227",
+    "instruction": "\"Let us go in, the fog is rising\" were said to be the last words of this poet",
+    "context_txt": "context/sq-324.txt",
+    "answer_values": [
+      "Dickinson"
+    ]
+  },
+  {
+    "id": "sq-325",
+    "hf_key": "1ada122f39e44aae9ffbe6dd852f99c8",
+    "instruction": "Every 5 years, this capital city hosts a Frederic Chopin International Piano Competition",
+    "context_txt": "context/sq-325.txt",
+    "answer_values": [
+      "Warsaw"
+    ]
+  },
+  {
+    "id": "sq-326",
+    "hf_key": "bda97d5571a04d48b48b466819660ff3",
+    "instruction": "This book by David Sedaris about attempting to speak French may be best experienced in the author's reading",
+    "context_txt": "context/sq-326.txt",
+    "answer_values": [
+      "Me Talk Pretty One Day"
+    ]
+  },
+  {
+    "id": "sq-327",
+    "hf_key": "5fb37d9dd2544f4db32f82c56491ce57",
+    "instruction": "\"T\" is for this Mississippi town of Elvis' birth which was once called Gum Pond but later renamed for a tree",
+    "context_txt": "context/sq-327.txt",
+    "answer_values": [
+      "Tupelo"
+    ]
+  },
+  {
+    "id": "sq-328",
+    "hf_key": "4f0d01669d644b2faede3f96f83de94a",
+    "instruction": "The name of this layer of the Sun comes partly from the Greek for \"light\"",
+    "context_txt": "context/sq-328.txt",
+    "answer_values": [
+      "the photosphere"
+    ]
+  },
+  {
+    "id": "sq-329",
+    "hf_key": "2b19a3b8033441739df3ed35f8218ba8",
+    "instruction": "In effect from 1922 to 1944, it was the part of the army code that allowed them to kick you out for undesirable traits",
+    "context_txt": "context/sq-329.txt",
+    "answer_values": [
+      "Section 8"
+    ]
+  },
+  {
+    "id": "sq-330",
+    "hf_key": "ffec0db58a3d4fa38b461b37f213aa62",
+    "instruction": "A 1936 dissent by Justice Stone accused 6 other justices of a \"tortured construction\" of this document",
+    "context_txt": "context/sq-330.txt",
+    "answer_values": [
+      "the Constitution"
+    ]
+  },
+  {
+    "id": "sq-331",
+    "hf_key": "8226f7bd25bc402095167bcc73f584b8",
+    "instruction": "4-star general Colin McKoy",
+    "context_txt": "context/sq-331.txt",
+    "answer_values": [
+      "Colin Powell"
+    ]
+  },
+  {
+    "id": "sq-332",
+    "hf_key": "4ec0242459dd4c04b7cbffe40b17c801",
+    "instruction": "On July 6, 1415 this religious reformer with a 3-letter last name was burned at the stake at Constance",
+    "context_txt": "context/sq-332.txt",
+    "answer_values": [
+      "Jan Hus"
+    ]
+  },
+  {
+    "id": "sq-333",
+    "hf_key": "655e07a5c6e642e59ecc4a9ecf7259df",
+    "instruction": "Priestesses in this Haitian religion are called \"mambos\" & can lead ceremonies invoking the dead",
+    "context_txt": "context/sq-333.txt",
+    "answer_values": [
+      "Voodoo"
+    ]
+  },
+  {
+    "id": "sq-334",
+    "hf_key": "33b24bfe6404419f9ac6ba50b3936c4e",
+    "instruction": "In January 1999 Ted Kennedy & John McCain were sworn in as jurors in this man's trial",
+    "context_txt": "context/sq-334.txt",
+    "answer_values": [
+      "Bill Clinton"
+    ]
+  },
+  {
+    "id": "sq-335",
+    "hf_key": "2f099b6740ae449c86c574b67eaeb863",
+    "instruction": "Seen here is a detail from this book of mortuary spells that helped the deceased get to the Field of Reeds",
+    "context_txt": "context/sq-335.txt",
+    "answer_values": [
+      "the Book of the Dead"
+    ]
+  },
+  {
+    "id": "sq-336",
+    "hf_key": "90e46b7ef7994510bae4d2c78270745a",
+    "instruction": "This queen's father-in-law, Ernest I, Duke of Saxe-Coburg-Gotha, was also her uncle",
+    "context_txt": "context/sq-336.txt",
+    "answer_values": [
+      "Victoria"
+    ]
+  },
+  {
+    "id": "sq-337",
+    "hf_key": "8fdaafb1da1d49f0abc9772185c545d4",
+    "instruction": "Researchers think they know why a blood disorder in the tropics protects against this mosquito-borne disease",
+    "context_txt": "context/sq-337.txt",
+    "answer_values": [
+      "malaria"
+    ]
+  },
+  {
+    "id": "sq-338",
+    "hf_key": "2a8170829d6a4a6f90f7c7d3009b5eb1",
+    "instruction": "Scent hounds include beagles, harriers & these \"sausage dogs\"",
+    "context_txt": "context/sq-338.txt",
+    "answer_values": [
+      "dachshunds"
+    ]
+  },
+  {
+    "id": "sq-339",
+    "hf_key": "8abb8ee0e18b459fb6cff8a7e0c69aaf",
+    "instruction": "Launched in 1977, this spacecraft is the most distant manmade object at more than 9.5 billion miles from Earth",
+    "context_txt": "context/sq-339.txt",
+    "answer_values": [
+      "Voyager"
+    ]
+  },
+  {
+    "id": "sq-340",
+    "hf_key": "cc80b38bcc5d4ff79fe7d5a666e92d38",
+    "instruction": "For authentic Cajun & Creole dishes, head down south to this \"Bayou State\"",
+    "context_txt": "context/sq-340.txt",
+    "answer_values": [
+      "Louisiana"
+    ]
+  },
+  {
+    "id": "sq-341",
+    "hf_key": "befc5c790b99476ab735bb2952d130ca",
+    "instruction": "The tawny species of this bird can see prey by the light of one candle 500 yards away",
+    "context_txt": "context/sq-341.txt",
+    "answer_values": [
+      "the owl"
+    ]
+  },
+  {
+    "id": "sq-342",
+    "hf_key": "80ebe13e36eb413a9acaace84648b36d",
+    "instruction": "700 B.C.: Greek warrior takes epic 10-year journey to get home",
+    "context_txt": "context/sq-342.txt",
+    "answer_values": [
+      "The Odyssey"
+    ]
+  },
+  {
+    "id": "sq-343",
+    "hf_key": "e384bc1bf5bb418e89b51b26a65d576c",
+    "instruction": "The Hessian soldier in \"The Legend of Sleepy Hollow\"",
+    "context_txt": "context/sq-343.txt",
+    "answer_values": [
+      "a head"
+    ]
+  },
+  {
+    "id": "sq-344",
+    "hf_key": "ae07fcd64c8444809e65e2f73fc47751",
+    "instruction": "Martin, not Brian, is the real first name of this man who was Canada's PM from 1984 to 1993",
+    "context_txt": "context/sq-344.txt",
+    "answer_values": [
+      "Mulroney"
+    ]
+  },
+  {
+    "id": "sq-345",
+    "hf_key": "ab0a5a79fe834a4497d087c0b16e64ee",
+    "instruction": "David Tyree's hands were soft as a helmet when he made an amazing catch to help this team win Super Bowl XLII",
+    "context_txt": "context/sq-345.txt",
+    "answer_values": [
+      "the New York Giants"
+    ]
+  },
+  {
+    "id": "sq-346",
+    "hf_key": "a7b3c561d6c948039dea3c69a18cd40b",
+    "instruction": "This king's warriors said \"Aloha\" to a rival chief's men by driving them off a cliff in Oahu in 1795",
+    "context_txt": "context/sq-346.txt",
+    "answer_values": [
+      "Kamehameha"
+    ]
+  },
+  {
+    "id": "sq-347",
+    "hf_key": "e6c3c872dce34b2c8c984e561e5fe19b",
+    "instruction": "Later a Texas governor, in 1988 she said George H.W. Bush was \"born with a silver foot in his mouth\"",
+    "context_txt": "context/sq-347.txt",
+    "answer_values": [
+      "(Ann) Richards"
+    ]
+  },
+  {
+    "id": "sq-348",
+    "hf_key": "cec25873eff94940815aba52f579405d",
+    "instruction": "The first major gold discovery in the U.S. happened in 1799 near this southern city named for George III's queen",
+    "context_txt": "context/sq-348.txt",
+    "answer_values": [
+      "Charlotte, North Carolina"
+    ]
+  },
+  {
+    "id": "sq-349",
+    "hf_key": "b22434b76d814af986be7f0406250fa3",
+    "instruction": "It's the mission that landed in the Mare Tranquillitatis in 1969",
+    "context_txt": "context/sq-349.txt",
+    "answer_values": [
+      "Apollo 11"
+    ]
+  },
+  {
+    "id": "sq-350",
+    "hf_key": "69879083f47f46019eb9d9be296bc0fd",
+    "instruction": "On June 21, 1964 this Philadelphia Phillies pitcher, now a U.S. Senator from Kentucky, hurled a perfect game",
+    "context_txt": "context/sq-350.txt",
+    "answer_values": [
+      "Jim Bunning"
+    ]
+  },
+  {
+    "id": "sq-351",
+    "hf_key": "47ea5e3fbfea4969a8e4d6b8167daf7e",
+    "instruction": "The name of this romantic ring seen here comes from an old Irish fishing village that's now part of Galway",
+    "context_txt": "context/sq-351.txt",
+    "answer_values": [
+      "Claddagh"
+    ]
+  },
+  {
+    "id": "sq-352",
+    "hf_key": "a59cbb7162384fbfb2a799c5a0e7dcb6",
+    "instruction": "A single-celled organism that ferments sugars & carbohydrates",
+    "context_txt": "context/sq-352.txt",
+    "answer_values": [
+      "yeast"
+    ]
+  },
+  {
+    "id": "sq-353",
+    "hf_key": "36c9671c777348b0b4149e03c69968d3",
+    "instruction": "This character first hit the radio in 1928 with his partner Andy",
+    "context_txt": "context/sq-353.txt",
+    "answer_values": [
+      "Amos"
+    ]
+  },
+  {
+    "id": "sq-354",
+    "hf_key": "748637fcc95149f2a357ee07458891d8",
+    "instruction": "There are currently over 900,000 of these & the avg. American uses under 14,000; Shakespeare used 24,000",
+    "context_txt": "context/sq-354.txt",
+    "answer_values": [
+      "words"
+    ]
+  },
+  {
+    "id": "sq-355",
+    "hf_key": "ac064309cb17450aaf21ae031e543327",
+    "instruction": "Rina Messenger, Miss Universe of 1976, saw service in this country's army",
+    "context_txt": "context/sq-355.txt",
+    "answer_values": [
+      "Israel"
+    ]
+  },
+  {
+    "id": "sq-356",
+    "hf_key": "377d27e997e94527a8e1c4f11f555845",
+    "instruction": "After the Greeks captured the city of Troy, she was reunited with Menelaus",
+    "context_txt": "context/sq-356.txt",
+    "answer_values": [
+      "Helen"
+    ]
+  },
+  {
+    "id": "sq-357",
+    "hf_key": "59e1a37650194367b76e29ee23915f38",
+    "instruction": "(Kelly of the Clue Crew stands next to a monitor.) Biotech pioneer Leroy Hood mapped his place in the Hall with an automated technique for sequencing fragments of this molecule",
+    "context_txt": "context/sq-357.txt",
+    "answer_values": [
+      "DNA"
+    ]
+  },
+  {
+    "id": "sq-358",
+    "hf_key": "3f058ae9e70e4946bd79b0f801c7b108",
+    "instruction": "On Oct. 18, 1859 he was found wounded & his 2 sons dead at a federal armory",
+    "context_txt": "context/sq-358.txt",
+    "answer_values": [
+      "John Brown"
+    ]
+  },
+  {
+    "id": "sq-359",
+    "hf_key": "5dbcadd728fa4956a4f739c1168fbf18",
+    "instruction": "These 5 bones make up the palm of the hand",
+    "context_txt": "context/sq-359.txt",
+    "answer_values": [
+      "metacarpals"
+    ]
+  },
+  {
+    "id": "sq-360",
+    "hf_key": "d029c0d304a341f39ff678090a21f75b",
+    "instruction": "Traditionally, biology has been divided into 2 fields: botany, the study of plants, & this, the study of animals",
+    "context_txt": "context/sq-360.txt",
+    "answer_values": [
+      "zoology"
+    ]
+  },
+  {
+    "id": "sq-361",
+    "hf_key": "09bc17d2d1b34b2683cca81983cd3bac",
+    "instruction": "You pick a horse race's first- & second-place finishers, in order, in this bet",
+    "context_txt": "context/sq-361.txt",
+    "answer_values": [
+      "the exacta"
+    ]
+  },
+  {
+    "id": "sq-362",
+    "hf_key": "91a2ec25857d4214b9aaacc3f76ad8af",
+    "instruction": "(Hi, I'm Harry Shearer.) Among my many \"Simpsons\" voices are the subservient Smithers & this man who lives next door to Homer--Howdy, neighbor",
+    "context_txt": "context/sq-362.txt",
+    "answer_values": [
+      "Ned Flanders"
+    ]
+  },
+  {
+    "id": "sq-363",
+    "hf_key": "037e247fa8fb41daa22d672b9d1fcec5",
+    "instruction": "He's been in the films \"Sixteen Candles\" & \"The Breakfast Club\" & the TV show \"The Dead Zone\"",
+    "context_txt": "context/sq-363.txt",
+    "answer_values": [
+      "Anthony Michael Hall"
+    ]
+  },
+  {
+    "id": "sq-364",
+    "hf_key": "2e26552b9c434b8995a2e52eb1a9a3b3",
+    "instruction": "In Arthurian legend, the sword in the stone was stuck in one of these blacksmith aids on top of the stone",
+    "context_txt": "context/sq-364.txt",
+    "answer_values": [
+      "an anvil"
+    ]
+  },
+  {
+    "id": "sq-365",
+    "hf_key": "a5ddbffcd2af47ea8df62878a6a087d5",
+    "instruction": "Introduced in the 1980s, it's the trademark name for a cereal of \"seven whole grains & sesame\" & little puffs",
+    "context_txt": "context/sq-365.txt",
+    "answer_values": [
+      "Kashi"
+    ]
+  },
+  {
+    "id": "sq-366",
+    "hf_key": "4099a013f0474cbc8a5a8227b787f054",
+    "instruction": "The Whigs were fond of referring to him as \"King Andrew I\"",
+    "context_txt": "context/sq-366.txt",
+    "answer_values": [
+      "(Andrew) Jackson"
+    ]
+  },
+  {
+    "id": "sq-367",
+    "hf_key": "a9ce6ae367e84a61baff70c562c14399",
+    "instruction": "A Hungarian inventor is famous for this puzzling cube",
+    "context_txt": "context/sq-367.txt",
+    "answer_values": [
+      "the Rubik\\'s Cube"
+    ]
+  },
+  {
+    "id": "sq-368",
+    "hf_key": "55748e412baf406faf4b37853b651a3b",
+    "instruction": "When Tommy Dorsey died in 1956, this older brother assumed leadership of the Dorsey Brothers Orchestra",
+    "context_txt": "context/sq-368.txt",
+    "answer_values": [
+      "Jimmy Dorsey"
+    ]
+  },
+  {
+    "id": "sq-369",
+    "hf_key": "988f0e50a9f74d4c92e31f142899bdaf",
+    "instruction": "Avascular necrosis of the femoral head may lead to surgery to replace this joint",
+    "context_txt": "context/sq-369.txt",
+    "answer_values": [
+      "the hip joint"
+    ]
+  },
+  {
+    "id": "sq-370",
+    "hf_key": "b5d6994075e94cf59e64bebd121b65ea",
+    "instruction": "(Jimmy of the Clue Crew indicates a pair of wall hangings at Mount Vernon, VA.) As a symbol of liberty, Washington displayed the key to this political prison, a gift from Lafayette, who had ordered its demolition",
+    "context_txt": "context/sq-370.txt",
+    "answer_values": [
+      "the Bastille"
+    ]
+  },
+  {
+    "id": "sq-371",
+    "hf_key": "28277d5bbb5a4b3fbb84dec3edca901e",
+    "instruction": "Ate amanha, part of a farewell, means this; it doesn't sound so different from the same in Spanish",
+    "context_txt": "context/sq-371.txt",
+    "answer_values": [
+      "see you tomorrow"
+    ]
+  },
+  {
+    "id": "sq-372",
+    "hf_key": "5947e82ccc0b4e90bd4c1d0c3843b262",
+    "instruction": "He married Dharma on their first date",
+    "context_txt": "context/sq-372.txt",
+    "answer_values": [
+      "Greg"
+    ]
+  },
+  {
+    "id": "sq-373",
+    "hf_key": "758259a285a1459ba9d42310565d0081",
+    "instruction": "The Hanukkah song \"Maoz Tzur\" shares its English title with this Christian hymn that \"clefts for me\"",
+    "context_txt": "context/sq-373.txt",
+    "answer_values": [
+      "\"Rock Of Ages\""
+    ]
+  },
+  {
+    "id": "sq-374",
+    "hf_key": "0282400faff743b8863d5d14e6730cb0",
+    "instruction": "This island off the coast of Africa is where you might find Alex, Marty and Melman",
+    "context_txt": "context/sq-374.txt",
+    "answer_values": [
+      "Madagascar"
+    ]
+  },
+  {
+    "id": "sq-375",
+    "hf_key": "24a075aa68c749ffb9d8927150807107",
+    "instruction": "This 2-word phrase meaning essential food or money needed in order to live comes from the Lord's Prayer in Matthew",
+    "context_txt": "context/sq-375.txt",
+    "answer_values": [
+      "daily bread"
+    ]
+  },
+  {
+    "id": "sq-376",
+    "hf_key": "101d3326be2b48d68dd23627dacfacad",
+    "instruction": "Last name of U.S. Chief Justice Harlan or biographer Irving",
+    "context_txt": "context/sq-376.txt",
+    "answer_values": [
+      "stone"
+    ]
+  },
+  {
+    "id": "sq-377",
+    "hf_key": "4cada9d2f57840dd956e69d02ba5af00",
+    "instruction": "Throw your weight around practicing this martial art whose name means \"gentle way\"",
+    "context_txt": "context/sq-377.txt",
+    "answer_values": [
+      "judo"
+    ]
+  },
+  {
+    "id": "sq-378",
+    "hf_key": "d9f830b85d014c0891f45aa7679827ff",
+    "instruction": "Became its own branch under the National Security Act of 1947",
+    "context_txt": "context/sq-378.txt",
+    "answer_values": [
+      "the Air Force"
+    ]
+  },
+  {
+    "id": "sq-379",
+    "hf_key": "4463c8cbf290471ba9f5fc88387505c6",
+    "instruction": "Sometimes referred to as a living fossil, this so-called crab has been around for about 500 million years",
+    "context_txt": "context/sq-379.txt",
+    "answer_values": [
+      "the horseshoe crab"
+    ]
+  },
+  {
+    "id": "sq-380",
+    "hf_key": "9572dfba0c1d4a7dbac70a5af8f8c092",
+    "instruction": "Her house model was Edie Sedgwick & she started her foray into retail with a store called Betsey Bunki Nini",
+    "context_txt": "context/sq-380.txt",
+    "answer_values": [
+      "Betsey Johnson"
+    ]
+  },
+  {
+    "id": "sq-381",
+    "hf_key": "5a7ba8f2b8a44f6ca2a6f967d5ba860f",
+    "instruction": "Seen here is a portrait of this author as a middle-aged man",
+    "context_txt": "context/sq-381.txt",
+    "answer_values": [
+      "James Joyce"
+    ]
+  },
+  {
+    "id": "sq-382",
+    "hf_key": "08effef2f660420ab1745ec750f9b7d7",
+    "instruction": "In 1997 Jules Feiffer left this newspaper after more than 40 years of cartooning there",
+    "context_txt": "context/sq-382.txt",
+    "answer_values": [
+      "Village Voice"
+    ]
+  },
+  {
+    "id": "sq-383",
+    "hf_key": "703bdbeaf2f94f66a8b046df5b2aeabd",
+    "instruction": "Yitzhak Rabin was this country's first native-born prime minister",
+    "context_txt": "context/sq-383.txt",
+    "answer_values": [
+      "Israel"
+    ]
+  },
+  {
+    "id": "sq-384",
+    "hf_key": "a8eecbfd0ecb435aafee2880455646c9",
+    "instruction": "The shop at Monticello sells coffee mugs adorned with his quotation \"I cannot live without books\"",
+    "context_txt": "context/sq-384.txt",
+    "answer_values": [
+      "Jefferson"
+    ]
+  },
+  {
+    "id": "sq-385",
+    "hf_key": "f822cde36d864c508b426f3e2b5245b2",
+    "instruction": "Under the Brooklyn Bridge:this river",
+    "context_txt": "context/sq-385.txt",
+    "answer_values": [
+      "the East River"
+    ]
+  },
+  {
+    "id": "sq-386",
+    "hf_key": "41462fe3a7b54bc1abd7be14fb726223",
+    "instruction": "In the Stephen King book, Annie Wilkes loves company, but only author Paul Sheldon's",
+    "context_txt": "context/sq-386.txt",
+    "answer_values": [
+      "Misery"
+    ]
+  },
+  {
+    "id": "sq-387",
+    "hf_key": "64acd5eb89b94260a41c95641312202f",
+    "instruction": "Wapiti, also known in America as this, are actually one of the largest species of deer",
+    "context_txt": "context/sq-387.txt",
+    "answer_values": [
+      "elk"
+    ]
+  },
+  {
+    "id": "sq-388",
+    "hf_key": "0505b21549f74c7c89a368a9b41b81c3",
+    "instruction": "Of a biopic on this author: \"Once upon a time, Flopsy & Mopsy, there was a plucky proto-feminist...\"",
+    "context_txt": "context/sq-388.txt",
+    "answer_values": [
+      "Beatrix Potter"
+    ]
+  },
+  {
+    "id": "sq-389",
+    "hf_key": "f0df88186e87403d8519979ab40ef280",
+    "instruction": "June 12, 1924 in Milton, Massachusetts",
+    "context_txt": "context/sq-389.txt",
+    "answer_values": [
+      "George Herbert Walker Bush"
+    ]
+  },
+  {
+    "id": "sq-390",
+    "hf_key": "98fcbeeb65e74c4ea995fc693bce3c4a",
+    "instruction": "Break the ___ of America",
+    "context_txt": "context/sq-390.txt",
+    "answer_values": [
+      "bank"
+    ]
+  },
+  {
+    "id": "sq-391",
+    "hf_key": "5a2b64d258194300b61e72edc4e56190",
+    "instruction": "His song \"Moon Over Bourbon Street\", about a vampire named Louis, was inspired by an Anne Rice character",
+    "context_txt": "context/sq-391.txt",
+    "answer_values": [
+      "Sting"
+    ]
+  },
+  {
+    "id": "sq-392",
+    "hf_key": "7f376562af0c4fc2a237a1e02a4b3362",
+    "instruction": "Huey Lewis, Harry Hamlin & George Hamilton have all been tapped to play tap-dancing lawyer Billy Flynn in this musical",
+    "context_txt": "context/sq-392.txt",
+    "answer_values": [
+      "Chicago"
+    ]
+  },
+  {
+    "id": "sq-393",
+    "hf_key": "1f0c7c85c90e4a64aef3e753afa6f150",
+    "instruction": "This president loved oysters, & an annual oyster event takes place in his hometown, Oyster Bay, Long Island",
+    "context_txt": "context/sq-393.txt",
+    "answer_values": [
+      "Theodore Roosevelt"
+    ]
+  },
+  {
+    "id": "sq-394",
+    "hf_key": "b26ad371ea4d4467986a1a12347bbaa6",
+    "instruction": "This very hard metal is named for the children of Uranus & Gaea",
+    "context_txt": "context/sq-394.txt",
+    "answer_values": [
+      "titanium"
+    ]
+  },
+  {
+    "id": "sq-395",
+    "hf_key": "8cd4b4c9ee824ba38b3568cba660fdf7",
+    "instruction": "The introduction of ironworking around 1100 B.C. brought it to an end",
+    "context_txt": "context/sq-395.txt",
+    "answer_values": [
+      "the Bronze Age"
+    ]
+  },
+  {
+    "id": "sq-396",
+    "hf_key": "ac5fbdac9ae9423e86b274d6841178c0",
+    "instruction": "This Biblical prophet of Pethor had a conversation with his beast of burden when it started to talk",
+    "context_txt": "context/sq-396.txt",
+    "answer_values": [
+      "Balaam"
+    ]
+  },
+  {
+    "id": "sq-397",
+    "hf_key": "5bf805b7a7504e07bd8c4d0ff357e544",
+    "instruction": "He judges Britain's \"The X Factor\" as well--& he's just as snippy",
+    "context_txt": "context/sq-397.txt",
+    "answer_values": [
+      "Simon Cowell"
+    ]
+  },
+  {
+    "id": "sq-398",
+    "hf_key": "b086eb03c921453cbb7d865681886ffe",
+    "instruction": "As an old man in 1787, Ben Franklin took on the presidency of a \"Society for Promoting the Abolition of\" this",
+    "context_txt": "context/sq-398.txt",
+    "answer_values": [
+      "Slavery"
+    ]
+  },
+  {
+    "id": "sq-399",
+    "hf_key": "f6cbaaeec172496c8a11f1ccaea940d3",
+    "instruction": "One who dawdles or falls behind",
+    "context_txt": "context/sq-399.txt",
+    "answer_values": [
+      "a straggler"
+    ]
+  }
+]

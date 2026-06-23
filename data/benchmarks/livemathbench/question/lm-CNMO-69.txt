@@ -1,0 +1,1 @@
+Given real numbers $a, b$, if the solution set of the quadratic inequality $x^2 + b < ax$ is $(1,5)$, then what is the solution set of the quadratic inequality $x^2 - a > bx$?

@@ -1,0 +1,80 @@
+| PDO-1. | - Maturity Schedule of Interest-Bearing Marketable Public Debt Securities | 35 |
+| PDO-2. | - Offerings of Treasury Bills | 36 |
+| PDO-3. | - New Money Financing through Regular Weekly Treasury Bills | 39 |
+| PDO-4. | - Offerings of Public Marketable Securities. | 42 |
+| PDO-5. | - Unmatured Marketable Securities Issued at a Premium or Discount | 45 |
+| PDO-6. | - Allotments by Investor Classes on Subscriptions for Public Marketable Securities. | 47 |
+| PDO-7. | - Disposition of Public Marketable Securities | 50 |
+| PDO-8. | - Foreign Series Securities | 54 |
+| PDO-9. | - Foreign Currency Series Securities | 65 |
+
+UNITED STATES SAVINGS BONDS
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| SB-1. | - Sales and Redemptions by Series, Cumulative. | 67 |
+| SB-2. | - Sales and Redemptions by Periods, All Series Combined | 67 |
+| SB-3. | - Sales and Redemptions by Periods, Series E through K. | 68 |
+| SB-4. | - Redemptions of Matured and Unmatured Savings Bonds | 70 |
+
+UNITED STATES SAVINGS NOTES
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| SN-1. | - Sales and Redemptions by Periods. | 71 |
+
+OWNERSHIP OF FEDERAL SECURITIES
+--
+Table PDO-1. - Maturity Schedule of Interest-Bearing Marketable Public Debt Securities Other than Regular Weekly and Annual Treasury Bills
+
+Outstanding February 28, 1973
+
+(In millions of dollars)
+
+| Year and month of final maturity > Year and month of final maturity | Description > Description | Amount of maturities > Total | Amount of maturities > U.S. Govt. accounts and Federal Reserve banks | Amount of maturities > All other investors | Year and month of final maturity 1/ > Year and month of final maturity 1/ | Description > Description.1 | Amount of maturities > Total.1 | Amount of maturities > U.S. Govt. accounts and Federal Reserve banks.1 | Amount of maturities > All other investors.1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1977 | 1-1/2% Note - 4/1/73-EA 4.721% Bill - 4/20/73 (Tax ant.) | 34 2,012 | 34 | 34 1,978 | Feb.... | 8% Note - 2/15/77-A | 5163 | 3039 | 2124 |
+| 1977 | 7-3/4% Note - 5/15/73-A 4-3/4% Note - 5/15/73-E | 5,844 3,792 | 2,636 2,623 | 3,158 1,169 | Apr.... | 1-1/2% Note - 4/1/77-EA | 5 | - | 5 |
+| 1977 | 5.089% Bill - 6/22/73 (Tax ant.) | 2510 | 75 | 2435 | Aug.... | 7-3/4% Note - 8/15/77-B | 2264 | 827 | 1437 |
+| 1977 | nan | nan | nan | nan | Oct.... | 1-1/2% Note - 10/1/77-EO | 15 | - | 15 |
+| 1977 | nan | nan | nan | nan | Total..... | nan | 7447 | 3866 | 3581 |
+| 1978 | 8-1/8% Note - 8/15/73-B 4% Bond - 8/15/73 | 1,839 3,894 | 344 741 | 1,495 3,153 | Feb.... | 6-1/4% Note - 2/15/78-A | 8389 | 3360 | 5029 |
+| 1978 | 1-1/2% Note - 10/1/73-EO | 30 | - | 30 | Nov.... | 6% Note - 11/15/78-B | 8207 | 3615 | 4592 |
+| 1978 | 4-1/8% Bond - 11/15/73 | 4337 | 697 | 3640 | Total..... | nan | 16596 | 6975 | 9621 |
+| 1978 | Total..... | 24292 | 7200 | 17092 | 1979 | nan | nan | nan | nan |
+| 1979 | 4-1/3% Bond - 2/15/74 7-3/4% Note - 2/15/74-C | 2,467 2,960 | 558 321 | 1,909 2,639 | Aug.... | 6-1/4% Note - 8/15/79-A | 4559 | 1720 | 2839 |
+| 1979 | 1-1/2% Note - 4/1/74-EA | 34 | 2 | 32 | 6-5/8% Note - 11/15/79-B | 1603 | 786 | 817 | nan |
+| 1979 | 4-1/4% Bond - 5/15/74 7-1/4% Note - 5/15/74-D | 2,851 4,334 | 492 1,001 | 2,359 3,333 | Total..... | nan | 6162 | 2506 | 3656 |
+| 1979 | 5-5/8% Note - 8/15/74-B | 10284 | 5807 | 4477 | 1980 | nan | nan | nan | nan |
+| 1979 | 6% Note - 9/30/74-E | 2060 | 60 | 2000 | Feb.... | 4% Bond - 2/15/80 | 2579 | 857 | 1722 |
+| 1979 | 1-1/2% Note - 10/1/74-EO | 42 | - | 42 | Nov.... | 3-1/2% Bond - 11/15/80 | 1898 | 752 | 1146 |
+| 1979 | 5-3/4% Note - 11/15/74-A 3-7/8% Bond - 11/15/74 | 5,442 1,215 | 2,198 142 | 3,244 1,073 | Total..... | nan | 4477 | 1609 | 2868 |
+| 1979 | 5-7/8% Note - 12/31/74-F | 2102 | 38 | 2064 | 1981 | nan | nan | nan | nan |
+| 1979 | Total..... | 33791 | 10619 | 23172 | Aug.... | 7% Bond - 8/15/81 | 807 | 400 | 407 |
+--
+| Maturity schedule of interest-bearing marketable public debt securities other than regular weekly and annual Treasury bills outstanding | 29 | 28 | 30 | 28 | 25 | 30 | 32 | 30 | 32 | 32 | 30 | 35 | nan | nan |
+| Offerings of Treasury bills | 30 | 29 | 31 | 29 | 26 | 31 | 33 | 31 | 33 | 33 | 31 | 36 | nan | nan |
+| New money financing through regular weekly Treasury bills | 32 | 32 | 34 | 32 | 28 | 33 | 35 | 33 | 35 | 35 | 34 | 39 | nan | nan |
+| Offerings of public marketable securities other than regular weekly Treasury bills | 35 | 35 | 37 | 35 | 32 | 36 | 38 | 36 | 38 | 38 | 37 | 42 | nan | nan |
+| Unmatured marketable securities issued at a premium or discount other than advance refunding operations | 38 | 38 | 40 | 38 | 35 | 39 | 41 | 39 | 41 | 41 | 40 | 45 | nan | nan |
+| Allotments by investor classes on subscriptions for public marketable securities | 40 | 40 | 42 | 40 | 37 | 41 | 43 | 41 | 43 | 43 | 42 | 47 | nan | nan |
+| Disposition of public marketable securities other than regular weekly Treasury bills | 43 | 43 | 45 | 43 | 40 | 44 | 46 | 44 | 46 | 46 | 45 | 50 | nan | nan |
+| Foreign series securities (nonmarketable) issued to official institutions of foreign countries | 47 | 47 | 49 | 47 | 45 | 48 | 50 | 48 | 50 | 50 | 49 | 52 | nan | nan |
+| Foreign currency series securities (nonmarketable) issued to official institutions of foreign countries | 59 | 59 | 62 | 60 | 59 | 57 | 59 | 57 | 60 | 60 | 59 | 62 | nan | nan |
+| United States savings bonds: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Sales and redemptions by series, cumulative | 62 | 62 | 65 | 63 | 62 | 59 | 61 | 59 | 62 | 62 | 61 | 67 | nan | nan |
+| Sales and redemptions by periods, all series combined | 62 | 62 | 65 | 63 | 62 | 59 | 61 | 59 | 62 | 62 | 61 | 67 | nan | nan |
+| Sales and redemptions by periods, Series E through K | 63 | 63 | 66 | 64 | 63 | 60 | 62 | 60 | 63 | 63 | 62 | 68 | nan | nan |
+| Redemptions of matured and unmatured saving bonds | 65 | 65 | 68 | 66 | 65 | 62 | 64 | 62 | 65 | 65 | 64 | 70 | nan | nan |
+| Sales and redemptions by denominations, Series E and H combined | nan | 66 | nan | nan | 66 | nan | 63 | nan | nan | 65 | nan | nan | nan | nan |
+| Sales by States, Series E and H combined | nan | nan | nan | nan | 67 | nan | nan | nan | nan | 66 | nan | nan | nan | nan |
+
+(Continued on following page)
+
+March 1973
+
+131
+
+CUMULATIVE TABLE OF CONTENTS
+
+April 1972 through March 1973 - (Continued)

@@ -1,0 +1,311 @@
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Call of Treasury Bonds
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:On February 14, 1951, the Secretary of the Treasury announced that the 2-3/4 percent Treasury bonds of 1951-54, dated June 15, 1936, due June 15, 1954, are called for redemption on June 15, 1951. There are $1,627 million of these bonds outstanding. The announcement stated that in advance of the redemption date holders of these bonds may be offered the privilege of exchanging all or any part of their called bonds for other interest-bearing obligations of the United States, in which event public notice will hereafter be given.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Treasury Bills Refunded
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| End of fiscal year or month > End of fiscal year or month | Total outstanding > Total | Total outstanding > Public debt | Total outstanding > Guaranteed securities 1/ | Interest-bearing debt > Total | Interest-bearing debt > Public debt | Interest-bearing debt > Guaranteed securities 1/ | Matured debt and debt bearing no interest > Total | Matured debt and debt bearing no interest > Total.1 | Matured debt and debt bearing no interest > Public debt | Matured debt and debt bearing no interest > International Bank | Matured debt and debt bearing no interest > Monetary Fund | Unnamed: 12_level_0 > Other 2/ | Unnamed: 13_level_0 > Guaranteed securities 1/ (matured) |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1943 | 140796.0 | 136696.0 | 4100.0 | 139472 | 135330 | 4092 | 1324 | 1316 | 141 | - | - | 1175 | 8 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1944 | 202626.0 | 201003.0 | 1623.0 | 201059 | 199543 | 1516 | 1567 | 1460 | 201 | - | - | 1259 | 107 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Increase, or decrease (-), in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Fiscal year or month > Fiscal year or month > Unnamed: 0_level_2 | Total outstanding > Total > Unnamed: 1_level_2 | Total outstanding > Public debt > Unnamed: 2_level_2 | Interest-bearing debt > Guaranteed securities 1/ > Unnamed: 3_level_2 | Interest-bearing debt > Total > Unnamed: 4_level_2 | Matured debt and debt bearing no interest > Public debt > Unnamed: 5_level_2 | Matured debt and debt bearing no interest > Guaranteed securities 1/ > Unnamed: 6_level_2 | Matured debt and debt bearing no interest > Total > Unnamed: 7_level_2 | Matured debt and debt bearing no interest > Public debt > Total | Matured debt and debt bearing no interest > Public debt > Matured | Matured debt and debt bearing no interest > Public debt > International Bank | Unnamed: 11_level_0 > Public debt > Monetary Fund | Unnamed: 12_level_0 > Guaranteed securities 1/(matured) > Other 2/ | Unnamed: 13_level_0 > Unnamed: 13_level_1 > Unnamed: 13_level_2 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1943 | 53805 | 64274 | -468 | 62955 | 63412 | -157 | 850 | 862 | 42 | - | - | 820 | -11 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1944 | 51830 | 64307 | -2177 | 61587 | 64153 | -2576 | 243 | 144 | 60 | - | - | 84 | 99 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-DEBT OUTSTANDING
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Table 3.- Interest-Bearing Public Debt
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| End of fiscal year or month > End of fiscal year or month | Total interest-bearing public debt > Total interest-bearing public debt | Public issues > Total public issues | Public issues > Total | Public issues > Bills | Public issues > Certificates | Public issues > Notes | Public issues > Treasury bonds Bank eligible | Public issues > Treasury bonds Bank restricted | Public issues > Other bonds | Normarketable > Total | Normarketable > U.S. savings bonds | Normarketable > Treasury savings notes | Normarketable > Armed forces leave bonds | Special issues > Special issues | Unnamed: 15_level_0 > Treasury bonds, investment series | Unnamed: 16_level_0 > Other |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1943 | 135380 | 124509 | 95310 | 11864 | 16561 | 9168 | 48809 | 8711 | 196 | 29200 | 21256 | 7495 | - | - | 448 | 10871 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1944 | 199543 | 185256 | 140401 | 11734 | 23822 | 17405 | 58085 | 21161 | 196 | 44855 | 34606 | 9557 | - | - | 692 | 14287 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Source: Daily Treasury Statement. Footnotes at end of Table 4.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Table 4.- Net Change in Interest-Bearing Public Debt
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Increase, or decrease (-), in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Fiscal year or month > Fiscal year or month | Total interest-bearing public debt > Total interest-bearing public debt | Marketable > Total public issues | Marketable > Total | Marketable > Bills | Marketable > Certificates | Marketable > Notes | Marketable > Treasury bonds eligible | Nonmarketable > Treasury bonds restricted 1/ | Nonmarketable > Other bonds 2/ | Nonmarketable > Total | Nonmarketable > U. S. savings bonds | Nonmarketable > Treasury savings notes | Special issues 3/ > Special issues 3/ | Unnamed: 14_level_0 > Armed forces leave bonds | Unnamed: 15_level_0 > Treasury bonds, investment series | Unnamed: 16_level_0 > Unnamed: 16_level_1 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1943 | 63412 | 60426 | 44736 | 9356 | 13466 | 2479 | 11607 | 7829 | * | 15690 | 11068 | 4481 | - | - | 141 | 2986 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1944 | 64163 | 60747 | 45092 | 2870 | 12261 | 8237 | 9274 | 12450 | * | 15655 | 13350 | 2051 | - | - | 244 | 3416 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-DEBT OUTSTANDING
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Table 3.- Interest-Bearing Securities Guaranteed by the United States Government
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Dollar amounts in millions)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| End of fiscal year or month > End of fiscal year or month > Unnamed: 0_level_2 | Total interest-bearing securities > Amount outstanding > Unnamed: 1_level_2 | Total interest-bearing securities > Public debt and guaranteed securities 1/ > Public debt | Total interest-bearing securities > Public debt and guaranteed securities 1/ > Computed annual interest charge | Total interest-bearing securities > Total interest-bearing securities > Unnamed: 4_level_2 | Computed annual interest rate > Total public debt > Total | Computed annual interest rate > Public debt > Bills 3/ | Computed annual interest rate > Public debt > Certificate | Computed annual interest rate > Public debt > Notes | Computed annual interest rate > Public debt > Treasury bonds | Computed annual interest rate > Public debt > Unnamed: 10_level_2 | Computed annual interest rate > Non-marketable issues 1/ > Unnamed: 11_level_2 | Guaranteed securities 1/ > Guaranteed securities 1/ > Unnamed: 12_level_2 | Unnamed: 13_level_0 > Special issues > Unnamed: 13_level_2 | Unnamed: 14_level_0 > Unnamed: 14_level_1 > Unnamed: 14_level_2 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1943 | 139472 | 135380 | 2759 | 2679 | 1.978 | 1.979 | 1.822 | 0.38 | .875 | 1.165 | 2.494 | 2.33 | 2.408 | 1.968 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1944 | 201059 | 199543 | 3869 | 3849 | 1.925 | 1.929 | 1.725 | 0.381 | .875 | 1.281 | 2.379 | 2.417 | 2.405 | 1.335 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Source: Daily Treasury Statement; Office of the Treasurer of the United States; for guaranteed securities prior to July 1942, Statement of Contingent Liabilities. 1/ Obligations, issued by certain Government corporations and other agencies,
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:which are guaranteed by the United States as to both principal and interest. Such obligations were first authorized in 1932. Prior to September 1939, the figures represent interest-bearing securities only. Guaranteed securities held by the Treasury are excluded.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-March 1951
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Class of security | Subject to statutory debt limitation | Not subject to statutory debt limitation | Total outstanding |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Public debt: | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Interest-bearing securities: | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Marketable: | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Treasury bills | 13629 | - | 13629 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Certificates of indebtedness | - | - | - |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Treasury bonds, investment series | 953 | - | 953 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Total normarketable | 68092 | - | 68092 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Special issues to Government agencies and trust funds | 33992 | - | 33992 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Total interest-bearing securities | 253548 | 156 | 253704 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Matured securities on which interest has ceased | 557 | 4 | 561 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Debt bearing no interest: | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| United States savings stamps | 48 | - | 48 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Total debt bearing no interest | 1321 | 540 | 1860 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Total public debt | 255425 | 700 | 256125 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Guaranteed securities: 2/ | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Interest-bearing | 16 | - | 16 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Matured | 2 | - | 2 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Total guaranteed securities | 18 | - | 18 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Total public debt and guaranteed securities | 255443 | 700 | 256143 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-DEBT OPERATIONS
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Table 1.- Maturity Schedule of Interest-Bearing Public Marketable Securities issued by the United States Government and Outstanding January 31, 1951
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-DEBT OPERATIONS
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Table 1.- Maturity Schedule of Interest-Bearing Public Marketable Securities Issued by the United States Government and Outstanding January 31, 1951 1/ (Continued) (In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Year and month > Year and month | Description of security 2/ > Description of security 2/ | Amount of maturities > Fixed maturity issues | Amount of maturities > Callable issues classified by year of: First call | Amount of maturities > Final maturity | Date bank restricted issues become eligible 3/ > Date bank restricted issues become eligible 3/ | Year and month > Year and month.1 | Description of security 2/ > Description of security 2/.1 | Amount of maturities > Fixed maturity issues.1 | Amount of maturities > Callable issues classified by year of: First call.1 | Amount of maturities > Final maturity.1 | Date bank restricted issues become eligible 3/ > Date bank restricted issues become eligible 3/.1 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-and dollar sales by States are published at less frequent intervals but are shown on a monthly basis.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Series A-F sales are shown at issue price and total redemptions and amounts outstanding at current redemption values. Series G is shown at face value throughout. Matured bonds which have been redeemed are included in redemptions. Matured bonds outstanding are included in the interest-bearing debt until all bonds of the series have matured, when they are transferred to matured debt upon which interest has ceased.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Table 1.- Summary of Sales and Redemptions by Series, Cumulative through January 31, 1951
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Dollar amounts in millions)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Series > Unnamed: 0_level_1 | Sales 1/ > Unnamed: 1_level_1 | Accrued discount > Unnamed: 2_level_1 | Sales plus accrued discount > Unnamed: 3_level_1 | Redemptions 2/ > Unnamed: 4_level_1 | Amount outstanding > Matured debt | Amount outstanding > Interest-bearing debt | Percent of redemptions of unmatured series to sales plus accrued discount > Unnamed: 7_level_1 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Series A..................... | 204 | 52 | 255 | 252 | 3 | - | - |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Series B..................... | 370 | 93 | 463 | 457 | 6 | - | - |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Period > Unnamed: 0_level_1 | Sales > Unnamed: 1_level_1 | Accrued discount > Unnamed: 2_level_1 | Sales plus accrued discount > Unnamed: 3_level_1 | Redemptions 3/ > Total | Redemptions 3/ > Sales price | Redemptions 3/ > Accrued discount | Amount outstanding > Matured debt | Amount outstanding > Interest-bearing debt |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Fiscal years: | nan | nan | nan | nan | nan | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1935-1942 | 10606 | 248.0 | 10854.0 | 666.0 | 648.0 | 19.0 | - | 10188.0 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Table 3.- Sales and Redemptions of Series A-D, E, F, and G by Periods (In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Period | Sales | Accrued discount | Sales plus accrued discount | Total | Sales price | Accrued discount.1 | Matured debt | Interest-bearing debt |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Series A-D | Series A-D | Series A-D | Series A-D | Series A-D | Series A-D | Series A-D | Series A-D | Series A-D |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Fiscal years: | nan | nan | nan | nan | nan | nan | nan | nan |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Dollar amounts in millions)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Period > Unnamed: 0_level_1 | Sales 1/ > Unnamed: 1_level_1 | Accrued discount > Unnamed: 2_level_1 | Sales plus accrued discount > Unnamed: 3_level_1 | Redemption 2/ > Total | Redemption 2/ > Sale price | Redemption 2/ > Accrued discount | Amount outstanding (interest-bearing debt) > Unnamed: 7_level_1 | Percent of monthly redemptions to amount outstanding > Unnamed: 8_level_1 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Series F | Series F | Series F | Series F | Series F | Series F | Series F | Series F | Series F |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Fiscal years: | nan | nan | nan | nan | nan | nan | nan | nan |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Dollar amounts in millions)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Period > Unnamed: 0_level_1 | Sales 1/ > Unnamed: 1_level_1 | Accrued discount > Unnamed: 2_level_1 | Sales plus accrued discount > Unnamed: 3_level_1 | Redemptions 2/ > Total | Redemptions 2/ > Sales price | Redemptions 2/ > Accrued discount | Amount outstanding (interest-bearing debt) > Unnamed: 7_level_1 | Percent of monthly redemptions to amount outstanding > Unnamed: 8_level_1 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Series C | Series C | Series C | Series C | Series C | Series C | Series C | Series C | Series C |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Fiscal years: | nan | nan | nan | nan | nan | nan | nan | nan |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Or redemption values of Series A and B, see "Annual Report of the Secretary of the Treasury" for 1942, pages 207 and 220, and for sales and redemptions by fiscal years and months, see "Treasury Bulletin" for February 1946, pages 42 and 43.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:In the following tables sales and redemptions of Treasury savings notes are shown at par value. Matured notes redeemed (either for cash or for tax payment) are included in the figures on redemptions. Matured notes outstanding are reflected in the interest-bearing debt until all notes of the series have matured, when they are transferred to matured debt upon which interest has ceased.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Table 1.- Summary of Sales and Redemptions by Series, Cumulative through January 31, 1951
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Series > Unnamed: 0_level_1 | Salee > Unnamed: 1_level_1 | Redemptions > Total | Redemptions > For cash | Redemptions > For taxee | Amount outstanding > Matured debt | Amount outstanding > Interest-bearing debt |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Series A | 407 1/2 | 406 | 67 1/2 | 339 | 1 | - |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Series B | 4944 | 4944 | 182 1/2 | 4761 | * | - |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Period > Unnamed: 0_level_1 | Sales > Unnamed: 1_level_1 | Redemptions 1/ > Total | Redemptions 1/ > For cash | Redemptions 1/ > For taxes | Amount outstanding > Matured debt | Amount outstanding > Interest-bearing debt |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Fiscal years: | nan | nan | nan | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1944 | 3954.0 | 5970.0 | 462.0 | 5508.0 | - | 9448.0 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(In millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| End of fiscal year or month > End of fiscal year or month > Unnamed: 0_level_2 | Total Federal securities outstanding > Total Federal securities outstanding > Unnamed: 1_level_2 | Interest-bearing securities issued by the U. S. Government > Total outstanding > Unnamed: 2_level_2 | Interest-bearing securities issued by the U. S. Government > Held by U. S. Government investment accounts 2/ > Total | Interest-bearing securities issued by the U. S. Government > Held by U. S. Government investment accounts 2/ > Public marketable issues | Interest-bearing securities issued by the U. S. Government > Held by U. S. Government investment accounts 2/ > Public non-marketable issues 5/ | Interest-bearing securities issued by the U. S. Government > Held by Federal Reserve Banks - public marketable issues > Special issues | Interest-bearing securities issued by the U. S. Government > Held by private investore 3/ > Total | Interest-bearing securities guaranteed by the U. S. Government 1/ > Held by private investore 3/ > Public marketable issues | Interest-bearing securities guaranteed by the U. S. Government 1/ > Total outstanding > Public non-marketable issues | Interest-bearing securities guaranteed by the U. S. Government 1/ > Held by U. S. Government investment and Federal Reserve Banks 2/ 3/ > Unnamed: 10_level_2 | Interest-bearing securities guaranteed by the U. S. Government 1/ > Held by private investors 3/ > Unnamed: 11_level_2 | Matured debt and debt bearing no interest > Matured debt and debt bearing no interest > Unnamed: 12_level_2 | Unnamed: 13_level_0 > Public non-marketable issues 5/ > Unnamed: 13_level_2 | Unnamed: 14_level_0 > Unnamed: 14_level_1 > Unnamed: 14_level_2 | Unnamed: 15_level_0 > Unnamed: 15_level_1 > Unnamed: 15_level_2 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1943 | 140796 | 135380 | 14091 | 3213 | 7 | 10871 | 7149 | 114141 | 84948 | 29193 | 4092 | 285 | 3738 | 68 | 1324 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| 1944 | 202626 | 199543 | 18920 | 4623 | 10 | 14287 | 14899 | 165725 | 120880 | 44845 | 1516 | 180 | 1186 | 150 | 1567 |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Source: Daily Treasury Statement for total amounts outstanding; reports from agencies and trust funds for securities held by U. S. Government investment accounts; and reports from Federal Reserve System for securities held by Federal Reserve Banks.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-1/ Excludes guaranteed securities held by the Treasury.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-2/ Includes accounts under the control of certain U. S. Government agencies whose investments are handled outside the Treasury; excludes Federal land banks after June 26, 1947, when the United States' proprietary interest in these banks ended.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:3/ The total amount of interest-bearing securities held by private
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-investore is calculated by deducting from the total amount outstanding the amount held by U. S. Government investment accounts and Federal Reserve Banke.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-4/ All public marketable issues except R. F. C. notes in the amount of $115 million for 1943 and $176 million for 1944.
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Holdings by Federal land banks are included under "Miscellaneous investors" instead of "U. S. Government investment accounts" beginning with June 30, 1947, since the proprietary interest of the United States in these banks ended June 26, 1947.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Includes savings and loan associations, nonprofit institutions, corporate pension trust funds, dealers and brokers, and investments of foreign balances and international accounts in this country. Beginning with December 1946, includes investments by the International Bank for Reconstruction and Development and the International Monetary Fund in special noninterest-bearing notes issued by the U. S. Government.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Prelim r
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Classification > Unnamed: 0_level_1 | Total amount outstanding > Unnamed: 1_level_1 | Banks 1/ > 7,193 commercial 2/ | Banks 1/ > 528 mutual savings | Insurance companies > 323 life | Insurance companies > 612 fire, casualty, and marine | U. S. Government investment accounts and Federal Reserve Banks > Unnamed: 6_level_1 | Held by all other investors 2/ > Unnamed: 7_level_1 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| --- | --- | --- | --- | --- | --- | --- | --- |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Interest-bearing securities: | nan | nan | nan | nan | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Public marketable | 152471.0 | 54893 | 10144 | 12716 | 4116 | 26142.0 | 44430 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Public nonmarketable 1/ 5/ | 68126.0 | 1877 | 715 | 604 | 742 | 125.0 | 61062 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Special issues | 33707.0 | - | - | - | - | 33707.0 | - |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Total interest-bearing securities | 254304.0 | 56770 | 10859 | 13350 | 4857 | 59975.0 | 108492 |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Matured debt and debt bearing no interest 6/ | 2427.0 | nan | nan | nan | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Total securities issued or guaranteed by the U. S. Government 1/ | 256731.0 | nan | nan | nan | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Footnote at end of Section II.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Table 2.- Summary of Interest-Bearing Public Marketable Securities
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Par values - in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-TREASURY SURVEY OF OWNERSHIP, DECEMBER 31, 1950
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Section I - Securities Issued or Guaranteed by the United States Government Table 3. - Interest-Bearing Public Marketable Securities by Issues
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Par values - in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Section I - Securities Issued or Guaranteed by the United States Government
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Table 3.- Interest-Bearing Public Marketable Securities by Issues - (Continued)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Par value - in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Footnotes at end of Section II.
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Table 4.- Interest-Bearing Public Nonmarketable Securities by Issues
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Par value - in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-TREASURY SURVEY OF OWNERSHIP, DECEMBER 31, 1950
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Section II - Interest-Bearing Securities Issued by Federal Agencies but not Guaranteed by the United States Government
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Par values - in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Section I
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Interest-Bearing Securities Issued or Guaranteed by the United States Government
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Table 1.- Summary of All Securities
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-TREASURY SURVEY - COMMERCIAL BANK OWNERSHIP, DECEMBER 31, 1950
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Section I - Interest-Bearing Securities Issued or Guaranteed by the United States Government
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Table 3.- Public Marketable Securities by Issues
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-COMMERCIAL BANK OWNERSHIP, DECEMBER 31, 1950
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Section I - Interest-Bearing Securities Issued or Guaranteed by the United States Government Table 3.- Public Marketable Securities by Issues - (Continued)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Par values - in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-TREASURY SURVEY - COMMERCIAL BANK OWNERSHIP, DECEMBER 31, 1950
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:Section II - Interest-Bearing Securities Issued by Federal Agencies but not Guaranteed by the United States Government
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-(Par value - in millions of dollars)
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Market quotations shown here are over-the-counter closing quotations in the New York market for the last trading day of the month, as reported to the Treasury by the Federal Reserve Bank of New York. The securities listed in Section I include all public marketable securities issued or guaranteed by the United States Government except those not regularly quoted in the market. The issues excluded are postal savings bonds and Federal Housing Administration debentures. The latter are
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:the only public marketable interest-bearing guaranteed securities outstanding. Section II lists the public marketable securities issued by Federal agencies but not guaranteed by the United States Government. Daily quotations for the securities listed in Sections I and II are published monthly in the Treasury Department statement, "Prices and Yields of Public Marketable Securities Issued by the United States Government and by Federal Agencies".
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-Section I - Securities Issued or Guaranteed by the United States Government
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Debt outstanding: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Summary of Federal securities | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Net change in Federal securities | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Interest-bearing public debt | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Net change in interest-bearing public debt | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | 17 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Interest-bearing guaranteed securities | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Special issues to U. S. Government investment accounts | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Computed interest charge and computed interest rate on | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Federal securities | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | 19 | nan | nan |
+--
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Status under limitation | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 21 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Application of limitation to public debt and guaranteed securities outstanding | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 21 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Debt operations: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt:| Maturity schedule of interest-bearing public marketable securities issued by the U. S. Government | 21 | 21 | 21 | 21 | 21 | 21 | 21 | 21 | 21 | 21 | 21 | 22 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Offerings of Treasury bills | 23 | 23 | 23 | 23 | 23 | 23 | 23 | 23 | 23 | 23 | 23 | 24 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Offerings of marketable issues of Treasury bonds, notes, and certificates of indebtedness | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 25 | nan | nan |
+results/runs/skillgrad_gpt-4.1_oqa-gpt41-smoke/train/iter_1/evolve_oqa-74/sources/treasury_bulletin_1951_03.txt-| Disposition of matured marketable issues of Treasury bonds, notes, and certificates of indebtedness and guaranteed securities | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 26 | nan | nan |

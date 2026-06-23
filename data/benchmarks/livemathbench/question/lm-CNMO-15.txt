@@ -1,0 +1,1 @@
+In $\triangle ABC$, given $\cos C = \frac{\sin A + \cos A}{2} = \frac{\sin B + \cos B}{2}$, find the value of $\sin C$.

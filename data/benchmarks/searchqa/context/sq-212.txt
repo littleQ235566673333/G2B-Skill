@@ -1,0 +1,30 @@
+[DOC] [TLE] jeopardy/1810_Qs.txt at master  jedoublen/jeopardy  GitHub [PAR] 335 lines (332 sloc) 10.7 KB ... THE ROARING '20s | This dance named for a city 
+became the rage after it .... COMPUTER NAMES | In the line named for this 
+supercomputer genius, the Y-MP reached the speed of 2.3 gigaflops | (Seymour) 
+Cray. [DOC] [TLE] The 80's supercomputer that's sitting in your lap - TechRepublic [PAR] Oct 13, 2008 ... It was the successor to the X-MP line: the Cray Y-MP. ... Combined, the Cray Y-
+MP could sustain a speed of over 2 GFlops. .... rating of 5.6gflops, in practice it 
+only reached %3.4 of its peak performance due to bandwidth limitations! .... The 
+Cray Y-MP would go 2.3 Gigaflops if you bought the 8 CPU version... [DOC] [TLE] Joywave  Traveling at the Speed of Light Lyrics | Genius Lyrics [PAR] Traveling at the Speed of Light Lyrics: I want to hear about the savannah / The 
+riverbeds and all of the legends / I want to feel the wind at my shoulders / Want to
+... [DOC] [TLE] ATMA  Beyond The Speed Of Mind Lyrics | Genius [PAR] Get all the lyrics to songs on Beyond The Speed Of Mind and join the Genius 
+community of music scholars to learn the meaning behind the lyrics. [DOC] [TLE] EPFL Supercomputing Review no 7 de novembre 1995 - Flash ... [PAR] aussi utilis le T3D qui y est install: nous y voyons l un ...... in our program we 
+achieved speeds of about 30 MFLOPS for the calculation steps e.g. the... [DOC] [TLE] yovisto blog: September 2014 [PAR] Sep 1, 2014 ... Called "the father of supercomputing," Cray has been credited with ... the Cray Y-
+MP, the world's first supercomputer to sustain over 1 gigaflop on many 
+applications. ... powered the system to a record sustained speed of 2.3 gigaflops. 
+..... and his genius attracted students who, inspired by him, became the... [DOC] [TLE] Thread overview (sorted on date) Chris Whittington 16 September ... [PAR] Deron Tucker 6 April 02, 1998 Which on-line Chess is the best? ..... Genius 
+speed? Robert Hyatt .... Ed Panek 7 September 13, 1998 Names of Programs ...... 
+Terje Vagle 6 August 09, 1999 Fritz 5.32 hashtable reach 100%, then what? ...... 
+Ian Osgood 5 September 05, 2000 Cray Y-MP T90 for sale on E-Bay ($44K 
+CHEAP) :) [DOC] [TLE] SAERS (NAS1-96013) Task Order Page 1 - NASA [PAR] SEARS (NAS1-96013) Task order Page 1 mp-. 1. Task Order Number and Title 
+.... Perform two error checkings on NASA provided FLOPS-RAPID interface ... 
+data available from the High-Speed Research (HSR) program wind tumel ..... 
+software shall contain an on-line training software module including ...... Quali~y 
+A&ance. [DOC] [TLE] 1 i - International Atomic Energy Agency [PAR] Jul 6, 1993 ... actions cannot occur in parallel is limited to a GigaFlops ( 1 Billion Floating .... 
+The Supercomputer market is still dominated by pipelined vector ..... is soon 
+reached even with the most powerful machines now ...... 2.3 Software Portablity 
+...... perspective projections, the number of visible lines in Y/X and Y/Z is... [DOC] [TLE] P,M,K,S,T - Microsoft Research [PAR] Apr 25, 2007 ... To move a connector line, click the line and drag the yellow ...... 196, 1985, CM-1 
+massively-parallel supercomputer, CHM4 ...... The first large-scale array 
+computer, achieved a computation speed ... 871, 1967, The IBM Photo Digital 
+Storage System, code-named ...... 1306, 1988, Cray YMP: 8P, 2.7 Gflops. [DOC] [TLE] Full text of "Byte Magazine Volume 13 Number 03" - Internet Archive [PAR] Mar 31, 1988 ... I ! 1 i          y/| 1 i 1 I 1 ^ 1 1 4 USAE > HUT 3 7 Y 3 9 1 Source: .... PAL 
+programmers support line; the Paradox Developer's Toolkit; ...... A maximum of 64 
+megabytes of high-

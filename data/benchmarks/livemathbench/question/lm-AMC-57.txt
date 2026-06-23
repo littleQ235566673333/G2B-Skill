@@ -1,0 +1,1 @@
+A group of $16$ people will be partitioned into $4$ indistinguishable $4$-person committees. Each committee will have one chairperson and one secretary. The number of different ways to make these assignments can be written as $3^{r}M$, where $r$ and $M$ are positive integers and $M$ is not divisible by $3$. What is $r$?

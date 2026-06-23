@@ -1,0 +1,1 @@
+How many angles $\theta$ with $0 \le \theta \le 2pi$ satisfy $\log(sin(3\theta)) + \log(cos(2\theta)) = 0$?

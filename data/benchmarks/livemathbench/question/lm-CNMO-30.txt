@@ -1,0 +1,1 @@
+Given complex numbers $z, w$ such that $z + w = 2$, find the minimum possible value of $S = |z^2 - 2w| + |w^2 - 2z|$.

@@ -1,0 +1,1 @@
+For how many integer values of $x$ is $|2x| \leq 7 \pi$?

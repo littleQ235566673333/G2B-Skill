@@ -1,0 +1,1 @@
+How many different remainders can result when the $100$th power of an integer is divided by $125$?

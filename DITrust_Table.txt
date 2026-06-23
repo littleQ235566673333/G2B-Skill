@@ -1,0 +1,21 @@
+Table GA-III-3. - Federal Disability Insurance Trust Fund
+
+(In millions of dollars)
+
+| Fiscal year or month > Unnamed: 0_level_1 | Receipts > Total 1/ | Receipts > Appropriations 2/ | Receipts > Deposits by States 3/ | Expenditures other than investments > Interest and profits on investments | Expenditures other than investments > Total 4/ | Expenditures other than investments > Benefit payments | Expenditures other than investments > Payments to Railroad Retirement Account 5/ | Expenditures other than investments > Administrative: Reimbursement to SSA Trust Funds 6/ | Expenditures other than investments > General fund | Net increase, or decrease (−), in assets > Unnamed: 10_level_1 | Assets, end of period > Total | Assets, end of period > Investments | Assets, end of period > Unexpended balance 2/ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1957-65 | 9,044 7/ | 7992 | 591 | 433 | 7034 | 6563 | 79 | 363 | 29 | 2009 | 2009 | 1878 | 131 |
+| 1966 | 1616 | 1442 | 114 | 60 | 1,937 8/ | 1721 | 25 | 184 | 5 | -321 | 1688 | 1465 | 224 |
+| 1967 | 2332 | 2066 | 183 | 66 | 1,997 8/ | 1861 | 31 | 93 | 5 | 335 | 2024 | 1835 | 189 |
+| 1968 | 2800 | 2496 | 203 | 84 | 2,237 8/ | 2088 | 20 | 105 | 6 | 564 | 2587 | 2351 | 236 |
+| 1969 | 3705 | 3195 | 337 | 141 | 2613 | 2443 | 21 | 124 | 8 | 1092 | 3679 | 3492 | 187 |
+| 1970 | 4380 | 3770 | 371 | 223 | 2954 | 2778 | 10 | 138 | 9 | 1426 | 5105 | 4835 | 270 |
+| 1971 | 4910 | 4124 | 446 | 325 | 3606 | 3381 | 13 | 179 | 10 | 1305 | 6410 | 6078 | 332 |
+| 1972 | 5291 | 4363 | 490 | 388 | 4309 | 4046 | 24 | 197 | 12 | 982 | 7392 | 7012 | 380 |
+| 1973 | 5946 | 4911 | 500 | 435 | 5467 | 5162 | 20 | 233 | 12 | 479 | 7871 | 7803 | 68 |
+| 1974 | 6768 | 5602 | 633 | 479 | 6384 | 6158 | 22 | 141 | 13 | 384 | 8255 | 8195 | 60 |
+| 1975 | 7920 | 6580 | 776 | 512 | 7982 | 7631 | 29 | 226 | 12 | -62 | 8193 | 8158 | 35 |
+| 1976 (Est.) | 8521 | 6870 | 822 | 469 | 9163 | 9083 | 15 | 280 | nan | -901 | 7138 | 7078 | 60 |
+| 1974-Oct | 481 | 448 | 31 | 2 | 651 | 627 | - | 19 | 2 | -170 | 8023 | 7973 | 50 |
+| Nov | 537 | 466 | 66 | 5 | 658 | 636 | - | 17 | 1 | -121 | 7902 | 7904 | -2 |
+| Dec | 887 | 492 | 104 | 239 | 679 | 639 | - | 21 | 1 | 208 | 8110 | 8128 | -18 |

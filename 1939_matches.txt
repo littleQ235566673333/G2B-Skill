@@ -1,0 +1,38 @@
+78:Commodities Imported Under Quota Law Enforcement Statistics
+327:| Distilled spirits (imported, excise) | 1515 | 1417 | 17819 | 21016 | Matches (including repealed taxes) | 2 | 427 | 124.0 | 3916.0 |
+330:| Wines, cordials, etc. (imported, excise) | 25 | 25 | 362 | 390 | Sporting goods (repealed as of 7/1/38) | 32 | 432 | 746.0 | 4342.0 |
+428:Customs Duties and Taxes Estimated, and Value of Dutiable and Taxable Imports, by Tariff Schedules: July - December, 1938
+432:| Month | Chemicals, oils, and paints | Earths, earthenware, and glassware | Metals and manufactures of | Wood and manufactures of | Sugar, molasses, and manufactures of 2/ | Tobacco and manufactures of | Agricultural products and provisions | Spirits, wines, and other beverages | Cotton manufactures | Flax, hemp, jute, and manufactures of |
+468:Note: The amount of customs duties and taxes is calculated on the basis of reports of the Bureau of Foreign and Domestic Commerce, showing the quantity and value of merchandise imported.
+476:Estimated Receipts from Taxes Imposed by Various Revenue Acts on Imports into the United States: July - December, 1938
+488:| Animal, fish and coconut oils | 3/6 lb. | 0 | 148 | 0 | 13 | 126 | 66 | 353 |
+502:| Animal, fish and coconut oils | 3/6 lb. | 69706 | 132813 | 25067 | 100869 | 71674 | 9900 | 410029 |
+510:Tax in cente per pound: hempseed, 1.24; perilla seed, 1.38; kapok seed, 2; rapeseed, 2; sesame seed, 1.18.
+1208:Yields Based on Saturday Quotations
+1240:| Export-Import Bank of Washington | 48.4 | - | .7 | - | 47.7 |
+1287:| Export-Import Bank of Washington...... | 46.0 | 1.7 | - | 47.7 |
+1348:| Export-Import Bank of Washington | - | 2450000 | - | - | $25,000,000 | - | 6178999 | 898855 | 351775 | 34879629 |
+1371:| Export-Import Bank of Washington | 30090 | 39 | - | 19296364 | - | - | 17450000 | - | 50353 | 36826846 |
+1398:| Export-Import Bank of Washington.... | 1000000 | 2792500 | - | - | $45,000,000 | - | 26089424 | 2990106 | 381110 | 78253140 |
+1421:| Export-Import Bank of Washington.... | 160697 | 174 | nan | 52451058 | - | - | 22792500 | 1206164 | 1137954 | 77748547 |
+2320:| Calander year or month | British India | Australia | Philippine lelende | Colombia | Chile | Peru | China/ | All other countries | Total net imports or net exports (-) |
+2471:| Year and month > Unnamed: 0_level_1 | Net imports from or net exports (-) to: > British India | Net imports from or net exports (-) to: > China | Net imports from or net exports (-) to: > Hong Kong | Net imports from or net exports (-) to: > Japan | Net imports from or net exports (-) to: > Other Asia | Net imports from or net exports (-) to: > All other | Total net imports or exports (-) > Unnamed: 7_level_1 |
+2493:2/ Includes net import of $12,950,000 from France.
+2494:3/ Figures for July, Sept. and Nov. 1938 include net imports from France of $4,301,000, $4,300,000 and $4,301,000 respectively.
+2495:4/ Includes net import of $9,791,000 from Siam.
+2553:Note: Monthly average of daily quotations. 1/ Average exchange rate for January 1928 = 100.
+2563:| Unnamed: 0 | "Un-weighted" (i.e. equal weights) | Weighted by U. S. exports | Weighted by U. S. imports | Weighted according to total foreign trade of each country included |
+2613:| Unnamed: 0 | "Un-weighted" (i.e. equal weights) | Weighted by U. S. exports | Weighted by U. S. imports 1/ | Weighted according to total foreign trade of each country included |
+2662:| Unnamed: 0 | "Un-weighted" (i.e. equal weights) | Weighted by U.S. exports | Weighted by U.S. imports | Weighted according to total foreign trade of each country included |
+2710:Commodities Imported under Quota Provisions
+2714:| Commodity > Unnamed: 0_level_1 | Quota period > Unnamed: 1_level_1 | Unit of quantity > Unnamed: 2_level_1 | Established quota > Unnamed: 3_level_1 | Quantity imported > January 1/ | Quantity imported > February |
+2716:| Cattle weighing under 200 pounds each. | Calendar Year | Head | 100000 | 5720.0 | 9522 |
+2717:| Cattle weighing 700 pounds or more each, other than dairy cows. | Quarter Year Calendar Year | Head Head | 60,000) 225,000) | 57575.0 | 5,651 2/ |
+2720:| Fish, fresh or frozen, filleted, etc., Cod, Haddock, Hake, Pollock, Cusk and Rosefish. | Calendar Year | Pound | 15000000 | 1016729.0 | 1038962 |
+2722:| Certified seed. | 12 months from Sept. 15, 1938 | Pound | 90000000 | 1756703.0 | 1347304 |
+2723:| Other. | 12 months from Sept. 15, 1938 | Pound | 60000000 | 2062.0 | 47828 |
+2727:| Coconut oil. | Calendar Year | Pound | 448000000 | 25777920.0 | 20426183 |
+2728:| Refined sugar. | Calendar Year | Pound | 112000000 | 1198779.0 | 8996537 |
+2729:| Unrefined sugar. | Calendar Year | Pound | 1792000000 | 80341856.0 | 143000194 |
+2730:| Cordage. | 12 months from May 1, 1938 | Pound | 6000000 | 526853.0 | 1049934 |
+2732:Partially revised. The tariff rate quota on imports of this class of cattle for the first quarter of the calendar year was filled on February 2, 1939.

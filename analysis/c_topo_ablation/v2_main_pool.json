@@ -1,0 +1,61 @@
+{
+  "halt": false,
+  "main_eval_cases": [
+    "oqa-112",
+    "oqa-14",
+    "oqa-16",
+    "oqa-101",
+    "oqa-118",
+    "oqa-35",
+    "oqa-0",
+    "oqa-130",
+    "oqa-131",
+    "oqa-37"
+  ],
+  "stable_fail_count": 16,
+  "stable_pass_count": 6,
+  "sg_exact_cases_in_pool": [
+    "oqa-112",
+    "oqa-14",
+    "oqa-16"
+  ],
+  "categories": {
+    "oqa-112": "aggregate",
+    "oqa-14": "comparison",
+    "oqa-16": "extremum",
+    "oqa-101": "unit_conversion",
+    "oqa-118": "growth_rate",
+    "oqa-35": "lookup",
+    "oqa-0": "aggregate",
+    "oqa-130": "comparison",
+    "oqa-131": "growth_rate",
+    "oqa-37": "extremum"
+  },
+  "branch_used": "Branch 3 (cascaded; B3 hung at 28/30, salvaged 13 stable_fail total)",
+  "all_stable_fail": [
+    "oqa-0",
+    "oqa-101",
+    "oqa-109",
+    "oqa-11",
+    "oqa-112",
+    "oqa-118",
+    "oqa-122",
+    "oqa-126",
+    "oqa-130",
+    "oqa-131",
+    "oqa-14",
+    "oqa-16",
+    "oqa-23",
+    "oqa-26",
+    "oqa-35",
+    "oqa-37"
+  ],
+  "all_stable_pass": [
+    "oqa-25",
+    "oqa-31",
+    "oqa-33",
+    "oqa-40",
+    "oqa-58",
+    "oqa-91"
+  ]
+}

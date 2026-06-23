@@ -1,0 +1,1666 @@
+| FD-4. | - Maturity Distribution and Average Length of Marketable Interest-Bearing Public Debt | 25 |
+| FD-5. | - Special Public Debt Issues | 26 |
+| FD-6. | - Interest-Bearing Securities Issued by Government Agencies | 27 |
+| FD-7. | - Participation Certificates | 28 |
+| FD-8. | - Debt Subject to Statutory Limitation | 29 |
+| FD-9. | - Status and Application of Statutory Limitation | 30 |
+| FD-10. | - Treasury Holdings of Securities | 31 |
+
+PUBLIC DEBT OPERATIONS
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| PDO-1. | - Maturity Schedule of Interest-Bearing Marketable Public Debt Securities | 32 |
+| PDO-2. | - Offerings of Treasury Bills | 33 |
+| PDO-3. | - New Money Financing through Regular Weekly Treasury Bills | 36 |
+| PDO-4. | - Offerings of Public Marketable Securities | 39 |
+| PDO-5. | - Unmatured Marketable Securities Issued at a Premium or Discount | 44 |
+| PDO-6. | - Allotments by Investor Classes on Subscriptions for Public Marketable Securities | 47 |
+| PDO-7. | - Disposition of Public Marketable Securities | 50 |
+| PDO-8. | - Foreign Series Securities | 55 |
+| PDO-9. | - Foreign Currency Series Securities | 63 |
+
+UNITED STATES SAVINGS BONDS
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| SB-1. | - Sales and Redemptions by Series, Cumulative. | 66 |
+| SB-2. | - Sales and Redemptions by Periods, All Series Combined | 66 |
+| SB-3. | - Sales and Redemptions by Periods, Series E through K | 67 |
+| SB-4. | - Redemptions of Matured and Unmatured Savings Bonds | 69 |
+| SB-6. | - Sales by States, Series E and H Combined | 70 |
+
+UNITED STATES SAVINGS NOTES
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| SN-1. | - Sales and Redemptions by Periods. | 71 |
+
+OWNERSHIP OF FEDERAL SECURITIES
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| OFS-1. | - Distributions of Federal Securities | 72 |
+| OFS-2. | - Estimated Ownership of Public Debt Securities | 73 |
+--
+| TSO-2. | - Interest-Bearing Marketable Public Debt Securities by Type and Maturity Distribution | 75 |
+| TSO-3. | - Interest-Bearing Marketable Public Debt Securities by Issue | 75 |
+| TSO-4. | - Interest-Bearing Nonmarketable Public Debt Securities by Type | 76 |
+| TSO-5. | - Securities Issued by Government Agencies | 76 |
+| TSO-6. | - Securities Issued by Government-Sponsored Agencies and D.C. | 77 |
+
+MARKET QUOTATIONS ON TREASURY SECURITIES
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| MQ-1. | Treasury Bills | 82.0 |
+| MQ-2. | Treasury Notes | nan |
+| MQ-3. | Treasury Bonds | 83.0 |
+| Chart | Yields of Treasury Securities | 84.0 |
+
+AVERAGE YIELDS OF LONG-TERM BONDS
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| AY-1. | - Average Yields of Long-Term Treasury, Corporate and Municipal Bonds | 85 |
+| Chart | - Average Yields of Long-Term Treasury, Corporate and Municipal Bonds | 86 |
+
+INTERNATIONAL FINANCIAL STATISTICS
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| IFS-1. | - U.S. Reserve Assets. | 87 |
+| IFS-2. | - U.S. Liquid and Nonliquid Liabilities to Foreign Official Institutions, and Liquid Liabilities to All Other Foreigners | 88 |
+--
+| IFS-4. | - Nonmarketable U.S. Treasury Bonds and Notes | 90 |
+| IFS-5. | - U.S. Position in the IMF | 91 |
+| IFS-6. | - U.S. Net Monetary Gold Transactions with Foreign Countries | 92 |
+
+CAPITAL MOVEMENTS BETWEEN U.S. AND FOREIGN COUNTRIES
+
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| LIABILITIES TO FOREIGNERS REPORTED BY BANKS - U.S. | LIABILITIES TO FOREIGNERS REPORTED BY BANKS - U.S. | nan |
+| CM-I-1. | Short-Term Liabilities by Type of Foreign Holder | 95.0 |
+| CM-I-2. | Short-Term Liabilities by Type of Liability | 96.0 |
+| CM-I-3. | Short-Term Liabilities by Country | 98.0 |
+| CM-I-4. | Short-Term Liabilities, by Type and Country | 99.0 |
+| CM-I-5. | Short-Term Liabilities, Not Regularly Reported Separately | 100.0 |
+| CM-I-6. | Long-Term Liabilities by Type | 101.0 |
+| CM-I-7. | Long-Term Liabilities by Country | 102.0 |
+| CLAIMS ON FOREIGNERS REPORTED BY BANKS - U.S. | CLAIMS ON FOREIGNERS REPORTED BY BANKS - U.S. | nan |
+| CM-II-1. | Short-Term Claims by Type | 103.0 |
+| CM-II-2. | Short-Term Claims by Country | 104.0 |
+| CM-II-3. | Short-Term Claims, by Type and Country | 108.0 |
+
+IV
+
+Treasury Bulletin
+
+CONTENTS
+--
+| CM-V-3. | - Net Foreign Transactions in Marketable Treasury Bonds and Notes | 120 |
+| CM-V-4. | - Estimated Foreign Holdings of Marketable Treasury Bonds and Notes | 121 |
+| CM-V-5. | - Net Foreign Transactions in Long-Term Domestic Bonds | 122 |
+| CM-V-6. | - Net Foreign Transactions in Domestic Stocks by Country | 123 |
+| CM-V-7. | - Net Foreign Transactions in Long-Term Foreign Bonds by Country. | 124 |
+| CM-V-8. | - Net Foreign Transactions in Foreign Stocks by Country | 125 |
+| CM-V-9. | - Foreign Purchases and Sales of Long-Term Securities, Latest Date | 126 |
+| CM-V-10. | - Foreign Purchases and Sales of Long-Term Securities, Latest Year. | 127 |
+| FOREIGN CREDIT AND DEBIT BALANCES IN BROKERAGE ACCOUNTS | FOREIGN CREDIT AND DEBIT BALANCES IN BROKERAGE ACCOUNTS | FOREIGN CREDIT AND DEBIT BALANCES IN BROKERAGE ACCOUNTS |
+| CM-VI-1. | - Foreign Credit Balances (Due to Foreigners). | 128 |
+| CM-VI-2. | - Foreign Debit Balances (Due from Foreigners). | 129 |
+| FEDERAL CREDIT PROGRAMS | FEDERAL CREDIT PROGRAMS | FEDERAL CREDIT PROGRAMS |
+| GA-III-1. | - Direct Sales and Repurchases of Loans | 130 |
+| Cumulative Table of Contents | Cumulative Table of Contents | 131 |
+
+Note: Details of figures may not add to totals because of rounding.
+
+March 1974
+
+V
+
+Treasury Financing Operations
+
+Tax Anticipation Bills
+
+On February 20 tenders were invited for $1.5 billion, or thereabouts, of tax anticipation bills to be an additional amount of bills dated November 1, 1973, to mature April 19, 1974. The bills were issued March 4. They will be acceptable at face value in payment of income taxes due April 15, 1974. Tenders were opened on February 26.
+
+--
+| End of fiscal year or month > Unnamed: 0_level_1 | Total interest-bearing public debt > Unnamed: 1_level_1 | Computed annual interest charge > Unnamed: 2_level_1 | Total interest-bearing public debt > Total | Marketable issues > Bills 1/ | Marketable issues > Certificates | Marketable issues > Notes | Marketable issues > Treasury bonds | Marketable issues > Unnamed: 8_level_1 | Non-marketable issues 2/ > Unnamed: 9_level_1 | Special issues > Unnamed: 10_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1965 | 313113 | 11467 | 3678 | 3800 | 4064 | - | 3842 | 3642 | 3493 | 3372 |
+| 1966 | 315431 | 12516 | 3988 | 4134 | 4845 | 4851 | 4321 | 3655 | 3713 | 3693 |
+| 1967 | 322286 | 12953 | 4039 | 4165 | 4360 | 5250 | 4764 | 3686 | 3745 | 3854 |
+| 1968 | 344401 | 15404 | 4499 | 4757 | 5711 | - | 5294 | 3681 | 3876 | 4133 |
+| 1969 | 351729 | 17087 | 4891 | 5232 | 6508 | - | 5668 | 3722 | 3979 | 4555 |
+| 1970 | 369026 | 20339 | 5597 | 5986 | 7340 | - | 6420 | 3762 | 4327 | 5235 |
+| 1971 | 396289 | 20254 | 5141 | 5210 | 4516 | - | 6519 | 3759 | 4608 | 5375 |
+| 1972 | 425360 | 21545 | 5093 | 5099 | 4188 | - | 6312 | 4018 | 4636 | 5475 |
+| 1973 | 456353 | 26591 | 5872 | 6129 | 6590 | - | 6412 | 4393 | 5138 | 5880 |
+| 1972-Dec | 447298 | 24006 | 5402 | 5520 | 5079 | - | 6328 | 4309 | 4827 | 5563 |
+| 1973-Feb | 452928 | 24884 | 5532 | 5696 | 5473 | - | 6387 | 4346 | 4896 | 5656 |
+| Mar | 456787 | 25425 | 5606 | 5794 | 5726 | - | 6387 | 4348 | 4964 | 5690 |
+| Apr | 455214 | 25688 | 5685 | 5907 | 6021 | - | 6388 | 4349 | 4995 | 5727 |
+| May | 455431 | 26067 | 5768 | 6024 | 6302 | - | 6412 | 4392 | 5061 | 5742 |
+| June | 546353 | 26591 | 5872 | 6129 | 6590 | - | 6412 | 4393 | 5138 | 5880 |
+| July | 457217 | 27288 | 6,018r | 6311 | 7081 | - | 6412 | 4394 | 5163 | 6040 |
+| Aug | 459918 | 28443 | 6239 | 6628 | 7,788r | - | 6421 | 4494 | 5241 | 6154 |
+| Sept | 459471 | 28808 | 6327 | 6742 | 8091 | - | 6447 | 4496 | 5355 | 6158 |
+| Oct | 460587 | 28846 | 6322 | 6755 | 8,098r | - | 6448 | 4498 | 5,348r | 6101 |
+| Nov | 462076 | 29177 | 6377 | 6847 | 8,144r | - | 6462 | 4564 | 5,343r | 6067 |
+| Dec | 467827 | 29514 | 6371 | 6820 | 8073 | - | 6462 | 4566 | 5,338r | 6130 |
+| 1974-Jan | 466273 | 29464 | 6382 | 6838 | 8,116r | - | 6462 | 4569 | 5,337r | 6128 |
+| Feb | 468629 | 29413 | 6337 | 6765 | 7886 | - | 6443 | 4643 | 5295 | 6160 |
+
+--
+| End of fiscal year or month > End of fiscal year or month | Total interest bearing public debt > Total interest bearing public debt | Total public issues > Total public issues | Marketable > Total | Marketable > Bills | Marketable > Certificates | Marketable > Notes | Marketable > Treasury bonds | Nonmarketable > Total | Nonmarketable > U.S. savings bonds | Nonmarketable > Treasury investment series | Nonmarketable > Depository bonds | Nonmarketable > Foreign series securities 1/ | Nonmarketable > Foreign Currency series securities 2/ | Special issues > Special issues | Unnamed: 15_level_0 > Other 2/ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1965 | 313113 | 264463 | 208695 | 53665 | - | 52549 | 102481 | 55768 | 50043 | 3226 | 59 | 1132 | 1137 | 1601 | 48650 |
+| 1966 | 315431 | 264311 | 209127 | 54929 | 1652 | 50649 | 101897 | 55183 | 50537 | 2692 | 44 | 817 | 957 | 137 | 51120 |
+| 1967 | 322286 | 266131 | 210672 | 58535 | 5160 | 49108 | 97418 | 55459 | 51213 | 2589 | 45 | 624 | 890 | 97 | 56155 |
+| 1968 | 344401 | 284874 | 226592 | 64440 | - | 71073 | 91079 | 58282 | 51712 | 2516 | 30 | 2001 | 1740 | 282 | 59526 |
+| 1969 | 351729 | 284940 | 226107 | 68356 | - | 78946 | 78805 | 58833 | 51711 | 2459 | 28 | 1703 | 2367 | 564 | 66790 |
+| 1970 | 369026 | 292702 | 232599 | 72154 | - | 93489 | 62956 | 60103 | 51281 | 2387 | 25 | 3389 | 1366 | 1656 | 76323 |
+| 1971 | 296289 | 313505 | 245473 | 86677 | - | 104807 | 53989 | 68032 | 53003 | 2347 | 23 | 7606 | 1664 | 7389 | 82784 |
+| 1972 | 425360 | 335762 | 257202 | 94648 | - | 113419 | 49135 | 78560 | 55921 | 2310 | 22 | 16913 | 2072 | 1322 | 89598 |
+| 1973 | 456353 | 354615 | 262971 | 100061 | - | 117840 | 45071 | 91644 | 59518 | 2275 | 19 | 26781 | 1743 | 1407 | 101738 |
+| 1972-Dec | 447298 | 351350 | 269509 | 103870 | - | 121507 | 44133 | 81840 | 57579 | 2305 | 22 | 18921 | 1710 | 1304 | 95948 |
+| 1973-Feb | 452928 | 357102 | 269881 | 105008 | - | 120226 | 44647 | 87221 | 58163 | 2292 | 22 | 23792 | 1561 | 1392 | 95826 |
+| Mar | 456787 | 360365 | 269775 | 104991 | - | 120230 | 44555 | 90590 | 58471 | 2291 | 22 | 26760 | 1578 | 1468 | 96422 |
+| Apr | 455214 | 358854 | 267847 | 103163 | - | 120197 | 44487 | 91008 | 58776 | 2290 | 21 | 26755 | 1743 | 1423 | 96360 |
+| May | 455431 | 357103 | 265919 | 102953 | - | 117839 | 45127 | 91185 | 59133 | 2277 | 20 | 26594 | 1743 | 1419 | 98327 |
+| June | 456353 | 354615 | 262971 | 100061 | - | 117840 | 45071 | 91644 | 59418 | 2275 | 19 | 26781 | 1743 | 1407 | 101738 |
+| July | 457217 | 354221 | 262708 | 99860 | - | 117840 | 45008 | 91513 | 59652 | 2275 | 17 | 26420 | 1746 | 1403 | 102996 |
+| Aug | 459918 | 353784 | 262405 | 101780 | - | 118656 | 41969 | 91378 | 59764 | 2275 | 17 | 26159 | 1758 | 1405 | 106134 |
+| Sept | 459471 | 354093 | 262356 | 99762 | - | 120698 | 41896 | 91737 | 59836 | 2275 | 16 | 26420 | 1758 | 1432 | 105278 |
+| Oct | 460587 | 355516 | 264047 | 101577 | - | 120669 | 41801 | 91953 | 59953 | 2275 | 16 | 26175 | 1586 | 1464 | 105071 |
+| Nov | 462076 | 360515 | 270234 | 107749 | - | 124644 | 37841 | 90282 | 60326 | 2275 | 16 | 24477 | 1586 | 1601 | 101561 |
+| Dec | 467827 | 360692 | 270224 | 107786 | - | 124643 | 37795 | 90468 | 60317 | 2273 | 16 | 24461 | 1586 | 1814 | 107135 |
+| 1974-Jan | 466273 | 360123 | 270131 | 107805 | - | 124644 | 37682 | 89991 | 60497 | 2273 | 16 | 23757 | 1588 | 1861 | 106151 |
+| Feb | 468629 | 360000 | 269650 | 107850 | - | 126088 | 35712 | 90350 | 60798 | 2272 | 16 | 23762 | 1589 | 1912 | 108629 |
+
+--
+Table FD-4. - Maturity Distribution and Average Length of Marketable Interest-Bearing Public Debt
+
+(In millions of dollars)
+
+| End of fiscal year or month > Unnamed: 0_level_1 | Amount outstanding > Unnamed: 1_level_1 | Maturity Classes > Within 1 year | Maturity Classes > 1 - 5 years | Maturity Classes > 5 - 10 years | Maturity Classes > 10 - 20 years | Maturity Classes > 20 years and over | Average length > Unnamed: 7_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1965 | 208695 | 87637 | 56198 | 39169 | 8449 | 17241 | 5 yrs. 4 mos. |
+| 1966 | 209127 | 89136 | 60933 | 33596 | 8439 | 17023 | 4 yrs. 11 mos. |
+| 1967 | 210672 | 89648 | 71424 | 24378 | 8425 | 16797 | 4 yrs. 7 mos. |
+| 1968 | 226592 | 106407 | 64470 | 30754 | 8407 | 16553 | 4 yrs. 2 mos. |
+| 1969 | 226107 | 103910 | 62770 | 34837 | 8374 | 16217 | 4 yrs. 0 mos. |
+| 1970 | 232599 | 105530 | 89615 | 15882 | 10524 | 11048 | 3 yrs. 8 mos. |
+| 1971 | 245473 | 112772 | 89074 | 24503 | 8455 | 10670 | 3 yrs. 6 mos. |
+| 1972 | 257202 | 121944 | 89004 | 26852 | 9343 | 10059 | 3 yrs. 3 mos. |
+| 1973 | 262971 | 122803 | 88223 | 31111 | 14477 | 6357 | 3 yrs. 2 mos. |
+| 1972-Dec | 269509 | 130422 | 88546 | 29143 | 15301 | 6079 | 3 yrs. 1 mo. |
+| 1973-Feb | 269881 | 130205 | 95422 | 22357 | 16114 | 5783 | 3 yrs. 1 mo. |
+| Mar. | 269775 | 130187 | 95425 | 22356 | 16058 | 5748 | 3 yrs. 0 mo. |
+| Apr. | 267847 | 128359 | 95392 | 22356 | 16022 | 5718 | 3 yrs. 0 mo. |
+| May | 265919 | 125697 | 88222 | 29996 | 15996 | 6385 | 3 yrs. 3 mos. |
+| June | 262971 | 122803 | 88223 | 31111 | 14477 | 6357 | 3 yrs. 2 mos. |
+| July | 262708 | 122602 | 88223 | 31108 | 14567 | 6318 | 3 yrs. 2 mos. |
+| Aug | 262405 | 129072 | 80594 | 31106 | 15345 | 6288 | 3 yrs. 3 mos. |
+| Sept. | 262356 | 129114 | 80576 | 31103 | 15317 | 6245 | 3 yrs. 2 mos. |
+| Oct | 264047 | 130940 | 80535 | 31102 | 15269 | 6201 | 3 yrs. 1 mo. |
+| Nov | 270234 | 139433 | 83817 | 25136 | 15679 | 6169 | 3 yrs. 1 mo. |
+--
+| Public issues - marketable: | nan |
+| Treasury bills | 107850 |
+| Treasury notes | 126088 |
+| Treasury bonds | 35712 |
+| Total public issues - marketable | 269650 |
+| Public issues - nonmarketable: | nan |
+| Treasury certificates of indebtedness: | nan |
+| Foreign series | 9552 |
+| Foreign currency series | 127 |
+| Treasury notes: | nan |
+| Foreign series | 14210 |
+| Foreign currency series | 1462 |
+| Treasury bonds | 250 |
+| Treasury certificates of indebtedness | 595 |
+| Treasury notes | 59 |
+| U.S. savings bonds | 60798 |
+| U.S. savings notes | 488 |
+| U.S. retirement plan bonds | 73 |
+| Depository bonds | 16 |
+| Treasury certificates of indebtedness, R.E.A. Series | 7 |
+| Treasury bonds, R.E.A. series | 8 |
+| Treasury bonds, investment series | 2272 |
+| Treasury certificates of indebtedness - State and local Government series | 10 |
+| Treasury notes - State and local Government series | 151 |
+| Treasury bonds - State and local Government series | 271 |
+| Total public issues - nonmarketable | 90350 |
+| Special issues to Government agencies and trust funds | 108629 |
+| Total interest-bearing debt | 468629 |
+| Matured debt on which interest has ceased | 521 |
+| Debt bearing no interest: | nan |
+| Special note of the United States: | nan |
+| International Monetary Fund series | 825 |
+| Mortgage Guaranty Insurance Company Tax and Loss Bonds | 47 |
+| U.S. savings stamps | 48 |
+| Excess profits tax refund bonds | 1 |
+| U.S. notes | 323 |
+| Deposits for retirement of national bank and Federal Reserve bank notes | 71 |
+| Silver certificates | 212 |
+| Other debt bearing no interest | 10 |
+| Total debt bearing no interest | 1537 |
+| Total public debt | 470687 |
+| Debt of U.S. Government agencies: | nan |
+| Interest-bearing debt | 427 |
+| Matured debt on which interest has ceased | * |
+| Total debt of U.S. Government agencies | 428 |
+| Total public debt and debt of U.S. Government agencies | 471114 |
+| Deduct debt not subject to limitation | 618 |
+| Add participation certificates | 1135 |
+| Total subject to limitation | 471631 |
+
+Source: Daily Treasury statement. * Less than $500,000.
+--
+Table PDO-1. - Maturity Schedule of Interest-Bearing Marketable Public Debt Securities Other than Regular Weekly and Annual Treasury Bills Outstanding February 28, 1974
+
+(In millions of dollars)
+
+| Year and month of final maturity 1/ > Unnamed: 0_level_1 | Description > Unnamed: 1_level_1 | Amount of maturities > Total | Amount of maturities > U.S. Govt. accounts and Federal Reserve banks | Amount of maturities > All other investors | Year and month of final maturity 1/ > Unnamed: 5_level_1 | Description > Unnamed: 6_level_1 | Amount of maturities > Total.1 | Amount of maturities > U.S. Govt. accounts and Federal Reserve banks.1 | Amount of maturities > All other investors.1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Apr | 1-1/2% Note - 6.765% Bill - 7.830% (Tax ant.) | 34 2,007 1,002 | 2 362 | 32 2,647 | 1979 | 6-1/4% Note - 6-5/8% Note - 7% Note | 4,559 1,604 2,241 | 1,778 1,088 364 | 1,781 516 1,877 |
+| May | 4-1/4% Bond - 7-1/4% Note | 2,848 4,334 | 520 1,026 | 2,328 3,308 | 1980 | 4% Bond - 6-7/8% Note - 3-1/2% Bond | 2,574 7,265 1,896 | 861 5,454 749 | 1,713 1,811 1,147 |
+| Jun | 7.790% Bill - (Tax ant.) | 2200 | 44 | 1956 | 1981 | 7% Note - 7% Bond | 1,842 807 | 367 407 | 1,475 400 |
+| Aug | 5-5/8% Note - 8/15/74-B | 10284 | 5903 | 4381 | 1982 | 6-3/8% Bond | 2702 | 1041 | 1661 |
+| Sept | 6% Note - 9/30/74-E | 2060 | 129 | 1931 | 1983 | 3-1/4% Bond - 6/15/78-83 | 1479 | 274 | 1205 |
+| Oct | 1-1/2% Note - 10/1/74-EO | 42 | - | 42 | 1984 | 6-3/8% Bond - 8/15/84 | 2353 | 1375 | 978 |
+| Nov | 5-3/4% Note - 3-7/8% Bond - 11/15/74-A 11/15/74 | 5,442 1,213 | 2,211 147 | 3,231 1,066 | 1985 | 3-1/4% Bond - 4-1/4% Bond | 950 1,201 | 229 493 | 781 708 |
+| Dec | 5-7/8% Note - 12/31/74-F | 2102 | 59 | 2043 | 1986 | 6-1/8% Bond - 11/15/86 | 1216 | 786 | 340 |
+| Total | nan | 33368 | 10403 | 22965 | 1990 | 3-1/2% Bond - 2/15/90 | 3954 | 1130 | 2824 |
+| 1975 | nan | nan | nan | nan | 1992 | 4-1/4% Bond - 8/15/87-92 | 3685 | 1429 | 2256 |
+| Feb | 5-3/4% Note - 5-7/8% Note - 2/15/75-A 2/15/75-E | 4,015 1,222 | 1,543 115 | 2,472 1,107 | 1993 | 4% Bond - 2/15/88-93 6-3/4% Bond - 2/15/93 | 228 627 | 70 163 | 158 464 |
+| Apr | 1-1/2% Note - 4/1/75-EA | 8 | - | 8 | 1994 | 7-1/2% Bond - 8/15/88-93 | 1914 | 1113 | 801 |
+| May | 6% Note - 5/15/75-B 5/15/75-F | 6,760 1,776 | 4,518 133 | 2,242 1,643 | 1995 | 4-1/8% Bond - 5/15/89-94 | 1459 | 550 | 909 |
+| Aug | 5-7/8% Note - 8/15/75-C | 7679 | 2751 | 4928 | 1997 | 3% Bond - 2/15/95 | 832 | 137 | 695 |
+| Sept | 8-3/8% Note - 9/30/75-G | 2042 | 34 | 2008 | 1998 | 7% Bond - 5/15/93-98 | 692 | 246 | 446 |
+| Oct | 1-1/2% Note - 10/1/75-EO | 30 | - | 30 | 1999 | 3-1/2% Bond - 11/15/98 | 3081 | 872 | 2209 |
+| Nov | 7% Note - 11/15/75-D | 3115 | 743 | 2372 | Total | nan | 3773 | 1118 | 2655 |
+| Dec | 7% Note - 12/31/75-H | 1731 | 238 | 1493 | nan | nan | nan | nan | nan |
+| Total | nan | 28378 | 10075 | 18303 | nan | nan | nan | nan | nan |
+| 1976 | nan | nan | nan | nan | 1987 | nan | nan | nan | nan |
+--
+Table PDO-4. - Offerings of Public Marketable Securities Other than Regular Weekly Treasury Bills
+
+(Dollar amounts in millions)
+
+| Date subscription books closed or tenders received > Unnamed: 0_level_1 | Issue date > Unnamed: 1_level_1 | Description of securities 1/ > Unnamed: 2_level_1 | Description of securities 1/ > Unnamed: 3_level_1 | Period to final maturity (years, months, days) 2/ > Unnamed: 4_level_1 | Amount of subscriptions tendered > Cash | Amount of subscriptions tendered > Exchange | Amount issued 3/ > For cash | Amount issued 3/ > In exchange 4/ | Allotment ratio > Unnamed: 9_level_1 | Unnamed: 10_level_0 > Unnamed: 10_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7/2/70 | 7/8/70 | 6.452% | B111 - 3/22/71 - Tax ant. 5/ | 257d | 4741 | - | 2516 | - | 100 | nan |
+| 7/16/70 | 7/23/70 | 6.504% | B111 - 4/22/71 - Tax ant. 5/ | 273d | 4755 | - | 2261 | - | 100 | nan |
+| 7/23/70 | 4/30/70 | 6.467% | B111 - 4/30/71 - Reopening | 273d | 1597 | - | 500 | - | 100 | nan |
+| nan | 7/31/70 | 6.380% | B111 - 7/31/71 | 365d | 2489 | - | 1202 | - | 100 | nan |
+| 8/5/70 | 8/15/70 | 7-3/4% | Note - 2/15/74-C | 3y 6m | - | 3139 | - | 3139 | 9/ | nan |
+| 8/5/70 | 8/15/70 | 7-3/4% | Note - 8/15/77-B 6/ | 7y | - | 2264 | - | 2264 | 10/ | nan |
+| 8/5/70 | 8/17/70 | 7-1/2% | Note - 2/15/72-C 6/ | 1y 6m | 18,819 8/ | - | 3190 | 190 | 11/ | nan |
+| 8/25/70 | 5/31/70 | 6.510% | B111 - 5/31/71 - Reopening | 273d | 1221 | - | 501 | - | 100 | nan |
+| nan | 8/31/70 | 6.396% | B111 - 8/31/71 | 365d | 2036 | - | 1204 | - | 100 | nan |
+| 9/24/70 | 6/30/70 | 6.237% | B111 - 6/30/71 - Reopening | 273d | 1170 | - | 501 | - | 100 | nan |
+| nan | 9/30/70 | 6.216% | B111 - 9/30/71 | 365d | 1721 | - | 1202 | - | 100 | nan |
+| 10/1/70 | 10/1/70 | 1-1/2% | Note - 10/1/75-E0 | 5y | - | 30 | - | 30 | 100 | nan |
+| 10/15/70 | 10/21/70 | 5.970% | B111 - 6/22/71 - Tax ant. 5/ | 244d | 5593 | - | 2515 | - | 100 | nan |
+| 10/29/70 | 11/15/70 | 7-1/4% | Note - 5/15/74-D | 3y 6m | - | 4505 | - | 4505 | 12/ | nan |
+| nan | 11/15/70 | 7-1/2% | Note - 8/15/76-C Reopening 6/ | 5y 9m | - | 2511 | - | 2511 | 100 | nan |
+| 10/27/70 | 7/31/70 | 6.153% | B111 - 7/31/71 - Reopening | 271d | 1222 | - | 501 | - | 13/ | nan |
+| nan | 10/31/70 | 6.072% | B111 - 10/31/71 | 365d | 2006 | - | 1201 | - | 13/ | nan |
+| 11/5/70 | 11/16/70 | 6-3/4% | Note - 5/15/72-D | 1y 6m | 5254 | - | 2037 | - | 100 | nan |
+| 11/24/70 | 8/31/70 | 5.184% | B111 - 8/31/71 Reopening | 274d | 1323 | - | 501 | - | 100 | nan |
+| 11/25/70 | 11/30/70 | 5.010% | B111 - 11/30/71 | 365d | 1854 | - | 1200 | - | 15/ | nan |
+--
+Table PDO-4. - Offerings of Public Marketable Securities Other than Regular Weekly Treasury Bills - (Continued)
+
+(Dollar amounts in millions)
+
+| Date subscription books closed or tenders received > Unnamed: 0_level_1 | Issue date > Unnamed: 1_level_1 | Description of securities 1/ > Unnamed: 2_level_1 | Description of securities 1/ > Unnamed: 3_level_1 | Description of securities 1/ > Unnamed: 4_level_1 | Period to final maturity (years, months, days) 2/ > Unnamed: 5_level_1 | Amount of subscriptions tendered > Cash | Amount of subscriptions tendered > Exchange | Amount issued 3/ > For cash | Amount issued 3/ > In exchange 4/ | Allotment ratio > Unnamed: 10_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/9/71 | 11/15/71 | 4-7/8% | Note | 2/15/73-D | 1y 3m | 4041 | 1,500 27/ | 2768 | 1,500 27/ | 28/ |
+| 11/23/71 | 8/31/71 11/30/71 | 4,580% 4,563% | B111 | 8/31/72 - Reopening 11/30/72 | 275d | 1,528 2,099 | - | 500 1,201 | - | nan |
+| 11/24/71 | 12/1/71 | 4,558% | B111 | 4/21/72 - Tax ant. 5/ | 142d | 4778 | - | 2506 | - | nan |
+| 12/8/71 | 12/13/71 | 4,273% | B111 | 6/21/72 - Tax ant. 5/ | 191d | 4383 | - | 2010 | - | nan |
+| 12/22/71 | 12/1/71 12/13/71 | 3,846% 4,056% | B111 | 4/21/72 - Reopening Tax ant. 5/ 6/21/72 - Tax ant. 5/ | 114d 175d | 3,589 2,737 | - | 1,526 1,016 | - | nan |
+| 12/28/71 | 9/30/71 12/31/71 | 3,930% 3,927% | B111 | 9/30/72 - Reopening 12/31/72 | 274d 366d | 1,488 2,290 | - | 501 1,200 | - | nan |
+| 1/25/72 | 10/31/71 1/31/72 | 3,891% 3,936% | B111 B111 | 10/31/72 - Reopening 1/31/73 | 274d 366d | 1,506 2,204 | - | 500 1,200 | - | nan |
+| 2/2/72 | 2/15/72 2/15/72 | 5-3/4% 6-3/8% | Note Bond | 2/15/76-E 2/15/82 | 4y 3m 10y | 66 21/ | 2,802 2,131 | 66 | 2,802 2,131 29/ | 100 |
+| 2/22/72 | 11/30/71 2/29/72 | 3,862% 4,091% | B111 B111 | 11/30/72 - Reopening 2/28/73 | 275d 365d | 1,526 1,915 | - | 500 1,200 | - | nan |
+| 3/1/72 | nan | 3,405% | B111 | "Strip" of 15 30/ series | (Average) 73d | 6430 | - | 3065 | - | nan |
+| 3/24/72 | 12/31/71 3/31/72 | 4,512% 4,661% | B111 B111 | 12/31/72 - Reopening 3/31/73 | 275d 365d | 1,534 2,320 | - | 501 1,201 | - | nan |
+| 3/28/72 | 4/3/72 | 5-7/8% | Note | 5/15/75-F | 3y 1-1/2m | 3845 | - | 1776 | - | 31/ |
+| 7/ | 4/1/72 | 1-1/2% | Note | 4/1/77-EA | 5y | - | 5 | - | 5 | nan |
+| 4/25/72 | 1/31/72 4/30/72 | 4,234% 4,362% | B111 B111 | 1/31/73 - Reopening 4/30/73 | 275d 365d | 1,468 2,455 | - | 500 1,200 | - | nan |
+| 5/2/72 | 5/15/72 2/15/72 | 4-3/4% 6-3/8% | Note Bond | 5/15/73-E 2/15/82 - Reopening | 1y 9y 9m | 3,377 1,306 | 2514 | 1,279 505 | 2,514 32/ | 13/ 34/ |
+| 5/23/72 | 2/29/72 5/31/72 | 4,367% 4,465% | B111 B111 | 2/28/73 - Reopening 5/31/73 | 273d 365d | 1,615 2,150 | - | 501 1,200 | - | nan |
+| 6/23/72 | 3/31/72 6/30/72 | 4,754% 4,853% | B111 B111 | 3/31/73 - Reopening 6/30/73 | 274d 365d | 1,282 1,961 | - | 501 1,201 | - | nan |
+| 7/25/72 | 4/30/72 7/31/72 | 4,731% 4,918% | B111 B111 | 4/30/73 - Reopening 7/31/73 | 273d 365d | 1,526 2,850 | - | 500 1,201 | - | nan |
+| 8/2/72 | 8/15/72 8/15/72 8/15/72 | 5-7/8% 6-1/4% 6-3/8% | Note Note Bond | 2/15/76-F 8/15/79-A 8/15/84 | 3y 7y 12y 6m | - 4,945 41 21/ | 4,559 2,312 | - 41 2,312 35/ | - | 100 |
+| 8/24/72 | 5/31/72 8/31/72 | 5,040% 5,178% | B111 B111 | 5/31/73 - Reopening 8/28/73 | 273d 362d | 1,889 4,914 | - | 501 1,804 | - | nan |
+--
+Table PDO-4. - Offerings of Public Marketable Securities Other than Regular Weekly Treasury Bills - (Continued)
+
+(Dollar amounts in millions)
+
+| Date subscription books closed or tenders received > Unnamed: 0_level_1 | Issue date > Unnamed: 1_level_1 | Description of securities 1/ > Unnamed: 2_level_1 | Description of securities 1/ > Unnamed: 3_level_1 | Period to final maturity (years, months, days) 2/ > Unnamed: 4_level_1 | Amount of subscriptions tendered > Cash | Amount of subscriptions tendered > Exchange | Amount issued 3/ > For cash | Amount issued 3/ > In exchange 4/ | Allotment ratio > Unnamed: 9_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/17/73 10/25/73 | 10/23/73 11/1/73 | 7,132% 6.765% | Bill - 10/22/74 Bill - 4/19/74 - tax ant. 5/ | 364d 169d | 4,277 4,716 | - - | 1,802 2,007 | - - | nan |
+| 10/30/73 | 11/15/73 | 7% | Note - 11/15/79-C | 6y | 2,918p | 220 | 2,024p | 220 50/ | 51/ |
+| 10/31/73 | 11/15/73 11/15/73 | 7% 7-1/2% | Note - 12/31/75-H Bond - 8/15/88-93 - Reopening | 2y 1-1/2m 19y 9m (Average) 43d | 2,859p 1,503p | 220 136 | 1,510p 302p | 220 136/ 136/ | 52/ 53/ |
+| 11/9/73 | nan | 8.670% | Bill - "Strip" of 11 Series 54/ | nan | 2153 | - | 1100 | nan | nan |
+| 11/14/73 | 11/20/73 | 7.708% | Bill - 11/19/74 | 364d | 3437 | - | 1801 | - | nan |
+| 11/28/73 | 11/1/73 11/30/73 | 7.830% 7.790% | Bill - 4/19/74 - Reopening Tax ant. 5/ Bill - 6/21/74 - Tax ant. 2/ | 140d 203d | 2,508 3,023 | - - | 1,002 2,000 | - - | nan |
+| 12/12/73 | 12/18/73 | 6.880% | Bill - 12/17/74 | 364d | 3588 | - | 1803 | - | nan |
+| 1/9/74 2/5/74 2/6/74 2/6/74 2/7/74 2/26/74 | 1/15/74 2/15/74 2/12/74 2/15/74 2/28/74 3/4/74 | 6.948% 7% 6.342% 6-7/8% 7-1/2% 7.450% | Bill - 1/14/75 Note - 2/15/81 - A Bill - 2/11/75 Note - 5/15/77 - C Bond - 8/15/88-93 - Reopening Bill - 4/19/74 - Reopening Tax ant. 5/ | 7y 364d 3y 3m 19y 6m 46d 364d | 3,222 3,011p 3,101p 3,121p 1,144p 3,773 3,359 | 327 307 250 - - | 1,802 1,514p 1,802 2,258p 300p 1,515 1,801 | 327/ 307/ 250/ | 56/ 27/ 58/ |
+| 3/6/74 | 3/12/74 | 6.897% | Bill - 3/11/75 | 364d | 3359 | - | 1801 | - | nan |
+
+Footnotes on following page.
+
+March 1974
+
+PUBLIC DEBT OPERATIONS
+
+43
+
+Footnotes to Table PDO-4
+
+--
+Exchange offering available to owners of nonmarketable 2-3/4% Treasury bonds, Investment Series B-1975-80, dated April 1, 1951. For further information on the original offering see Treasury Bulletin for April 1951, page A-1. Amounts shown are as of February 28, 1974.
+
+$ Payment for subscriptions allotted could be made in cash or in Treasury bonds or notes maturing on the issue date of the new security
+
+9/ Includes $151 million of the 2/15/74-C notes and $479 million of the 8/15/77-B notes allotted to Federal Reserve banks and Government accounts.
+
+10/ This is amount of bonds and notes maturing August 15, 1970 exchanged by Federal Reserve banks and Government accounts.
+
+11/ Subscriptions from the public for $200,000 or less were allotted in full and those above that amount were allotted 9-1/2% but not less than $200,000
+
+12/ Includes $842 million of the 7-1/4% notes and $811 million of the 7-1/2% notes allotted to Federal Reserve banks and Government acco
+
+13/ Sold at auction through competitive and noncompetitive bidding. Prices accepted ranged from 100.93 (yield 6.0%) down to 100.69 (yield 6.26%)
+
+14 Sale of a "strip" of Treasury bills consisting of an additional $301 million of series maturing on January 7, 14, 21, and 28, and February
+
+million of series maturing on January 7, 14, 21, and 28, and February 11, and 18, 1971.
+
+15/ Includes $2,319 million of the 5-7/8% notes and $2,722 million of the 6-1/4% notes allotted to Federal Reserve banks and Government accounts.
+
+16/ Sale of a "strip" of Treasury bills consisting of an additional $201 million of series maturing May 27, June 3, 10, 17, and 24, and July 1, 197
+
+17/ Sale of a "strip" of Treasury bills consisting of an additional $201 million of weekly series maturing from July 8 through September 16, 1971.
+
+18/ Includes $1,437 million of the 5% notes and $1,046 million of the 5-3/4% notes allotted to Federal Reserve banks and Government accounts
+19/ Sale of a "strip" of Treasury bills consisting of an additional $201
+--
+Table PDO-5. - Unmatured Marketable Securities Issued at a Premium or Discount Other than Advance Refunding Operations
+
+| Description of securities | Date of financing | Amount issued (In millions) | Average price per hundred | Effective interest rate | Eligible securities exchanged |
+| --- | --- | --- | --- | --- | --- |
+| 1974 | nan | nan | nan | nan | nan |
+| 4-1/4% Bond - 5/15/74 | 5/15/65 | $ 732 1,329 2,062 | $100.25 100.25 | 4.22% 4.22 | 4-5/8% Note - 3-7/8% Note - 5/15/65-A 5/15/65-C |
+| 5-5/8% Note - 8/15/74-B | 8/15/68 | 5,414 4,442 428 10,284 | 99.62 99.62 99.62 | 5.71 5.71 5.71 | 2/4-1/4% Note - 3-3/4% Bond - 8/15/68-C 8/15/68 |
+| 6% Note - 9/30/74-E 11/15/74 1/ | 10/19/72 11/15/61 | 2,060 517 | 100.25 99.00 | 5.86 3.97 | 2/2-1/2% Bond - 11/15/61 |
+| 5-3/4% Note - 11/15/74-A 1/ | 5/15/71 | 1,860 1,371 3,231 | 99.60 99.60 | 5.81 5.81 | 5-1/4% Note - 5/15/71-A 5/15/71-E |
+| 5-7/8% Note - 12/31/74-F | 12/28/72 | 2102 | 100.09 | 5.83 | 2/ |
+| 1975 | nan | nan | nan | nan | nan |
+| 5-3/4% Note - 2/15/75-A | 2/15/68 | 507 1,107 929 433 2,977 | 99.40 99.15 99.85 99.85 | 5.73 5.73 5.73 5.72 | 4-1/4% Note - 3-3/4% Bond - 5-1/4% Note - 3-7/8% Bond - 8/15/68-C 11/15/68-D 11/15/68 |
+| 5-7/8% Note - 2/15/75-E 5/15/75-F | 10/22/71 4/3/72 | 2,045 1,776 | 100.89 100.26 | 5.58 5.78 | 2/2/ |
+| 8-3/8% Note - 9/30/75-G | 9/4/73 | 2,042p | 100.80 | 7.94 | 2/ |
+| 7% Note - 11/15/75-D | 8/15/71 | 1,407 1,708 3,115 | 99.80 99.80 | 7.06 7.06 | 8-1/4% Note - 4% Bond - 8/15/71-F 8/15/71 |
+| 7% Note - 12/31/75-H | 11/15/73 | 220p 1,511p 1,731p | 100.14 100.14 | 6.91 6.91 | 4-1/8% Bond - 2/ |
+| 1976 | nan | nan | nan | nan | nan |
+| 6-1/4% Note - 2/15/76-A | 2/15/69 | 3,037 702 3,739 | 99.75 99.75 | 6.29 6.29 | 5-5/8% Note - 4% Bond - 2/15/69-A 2/15/69 |
+| 5-7/8% Note - 2/15/76-F | 8/15/72 | 1,714 699 1,097 630 805 4,945 | 99.75 99.75 99.75 99.75 99.75 | 5.97 5.97 5.97 5.97 5.97 | 5% Note - 4% Bond - 2-1/2% Bond - 6% Note - 2-1/2% Bond - 8/15/72-E 8/15/72 9/15/67-72 11/15/72-F 12/15/67-72 |
+| 7-1/2% Note - 8/15/76-C | 10/1/69 11/15/70 | 2 1,109 571 1,683 2,511 | 99.50 99.50 99.50 100.50 | 7.61 7.61 7.61 7.48 | 1-1/2% Note - 4% Bond - 2-1/2% Bond - 10/1/69-E0 10/1/69 12/15/64-69 |
+| 6-1/2% Note - 8/15/76-G | 2/15/73 | 1,424 2,459 3,883 | 99.40 99.40 | 6.60 6.60 | 5% Note - 6-1/2% Note - 4-7/8% Note - 11/15/70-A 2/15/73-C 2/15/73-C |
+| 6-1/4% Note - 11/15/76-D | 9/8/71 11/15/72 | 1,283 3,041 | 101.14 100.18 | 5.98 6.20 | 2/2/ |
+| 1977 | nan | nan | nan | nan | nan |
+| 6-7/8% Note - 5/15/77-C | 2/15/74 | 307p 2,258p 2,565p | 100.51 100.51 | 6.70 6.70 | 7-3/4% Note - 2/ 2/15/74-C |
+| 7-3/4% Note - 8/15/77-B | 8/15/70 8/15/73 | 752 1,512 2,264 234 394 2,026 2,654 | 99.75 99.75 99.07 99.07 99.07 | 7.80 7.80 7.92 7.92 7.92 | 6-3/8% Note - 4% Bond - 8/15/70-D 8/15/70 8-1/8% Note - 4% Bond - 2/ 8/15/73-B 8/15/73 |
+| 1978 | nan | nan | nan | nan | nan |
+--
+Table PDO-5. - Unmatured Marketable Securities Issued at a Premium or Discount
+Other than Advance Refunding Operations - (Continued)
+
+| Description of securities | Date of financing | Amount issued (In millions) | Average price per hundred | Effective interest rate | Eligible securities exchanged |
+| --- | --- | --- | --- | --- | --- |
+| 1979 | nan | nan | nan | nan | nan |
+| 6-5/8% Note - 11/15/79-B | 2/15/73 | 595 1,009 1,604 | 99.40 99.40 | 6.73 6.73 | 4-7/8% Note - 2/15/73-D |
+| 7% Note - 11/15/79-C | 11/15/73 | 220p 2,021p 2,241p | 100.88 100.88 | 6.82 6.82 | 4-1/8% Bond - 11/15/73 |
+| 1980 | nan | nan | nan | nan | nan |
+| 4% Bond - 2/15/80 1/ | {1/23/59 12/15/62} | 884 34 * 34 | $99.00 99.50 99.50 | 4.07% 4.04% 4.04% | 2/ Series F&G savings bonds 2/ |
+| 6-7/8% Note - 5/15/80-A | 5/15/73 | 2,636 2,585 2,043 7,265 | 99.29 99.29 99.29 | 7.00 7.00 7.00 | 7-3/4% Note - 5/15/73-A 4-3/4% Note - 5/15/73-E |
+| 1981 | nan | nan | nan | nan | nan |
+| 7% Note 2/15/81-A | 2/15/74 | 25p 302p 1,515p 1,842p | 100.28 100.28 100.28 | 6.95 6.95 6.95 | 7-3/4% Note - 2/15/74-C 4-1/8% Bond - 2/15/74 |
+| 7% Bond - 8/15/81 | 8/15/71 | 202 411 195 807 | 99.20 99.20 99.20 | 7.11 7.11 7.11 | 8-1/4% Note - 8/15/71-F 4% Bond - 8/15/71 |
+| 1982 6-3/8% Bond - 2/15/82 1/ | 5/15/72 | 505 | 100.60 | 6.34 | 2/ |
+| 1984 | nan | nan | nan | nan | nan |
+| 6-3/8% Bond - 8/15/84 | 8/15/72 | 15 252 221 133 164 535 265 457 268 41 2,353 | 99.40 99.40 99.40 99.40 99.40 99.40 99.40 99.40 99.40 | 6.50 6.50 6.50 6.50 6.50 6.50 6.50 6.50 6.50 | 5% Note - 8/15/72-B 4% Bond - 8/15/72 2-1/2% Bond - 9/15/67-72 6% Note - 11/15/72-F 2-1/2% Note - 12/15/67-72 5-3/4% Note - 11/15/74-A 3-7/8% Note - 11/15/74 5-3/4% Note - 2/15/75-A 5-7/8% Note - 2/15/75-E |
+| 1985 3-1/4% Bond - 5/15/85 | 6/3/58 | 1135 | 100.50 | 3.22 | 2/ |
+| 1986 | nan | nan | nan | nan | nan |
+| 6-1/8% Bond - 11/15/86 | 11/15/71 | 98 487 187 58 36 268 58 24 1,216 | 99.75 99.75 99.75 99.75 99.75 99.75 99.75 99.75 | 6.15 6.15 6.15 6.15 6.15 6.15 6.15 6.15 | 5-3/8% Note - 11/15/71-B 7-3/4% Note - 11/15/71-G 4-3/4% Note - 5/15/72-B 6-3/4% Note - 5/15/72-D 5% Note - 8/15/72-E 3-7/8% Bond - 11/15/71 4% Bond - 8/15/72 2/ |
+| 1987 | nan | nan | nan | nan | nan |
+| 4-1/4% Bond - 8/15/87-92 1/ | 8/15/62 | * | 101.00 | 4.19 | 4% Note - 8/15/62-B 3-1/4% Note - 8/15/62-D 2/ |
+| 1988 | nan | nan | nan | nan | nan |
+| 4% Bond - 2/15/88-93 | 1/17/63 | 252 | 99.85 | 4.01 | 2/ |
+| 7-1/2% Bond - 8/15/88-93 | 8/15/73 | 93 333 500 925 | 95.05 95.05 95.05 | 8.00 8.00 8.00 | 8-1/8% Note - 8/15/73-B 4% Bond - 8/15/73 2/ |
+
+--
+Table PDO-5. - Unmatured Marketable Securities Issued at a Premium or Discount Other than Advance Refunding Operations - (Continued)
+
+| Description of securities | Date of financing | Amount issued (In millions) | Average price per hundred | Effective interest rate | Eligible securities exchanged | Unnamed: 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1988 | 11/15/73 2/15/74 | 136p 302p 438p | 100.14 100.14 | 7.78 7.78 | 4-1/8% 2/ | nan |
+| 7-1/2% Bond - 8/15/88-93 | 11/15/73 2/15/74 | 10p 240p 301p 551p | 100.45 100.45 100.45 | 7.68 7.68 7.68 | 7-3/4% 4-1/8% 2/ | nan |
+| 1989 | 4-1/8% Bond - 5/15/89-94 | 4/18/63 | 300 | 100.55 | 4.09 | 2/ |
+| 1991 | 6-3/4% Bond - 2/15/93 | 1/10/73 | 627 | 99.50 | 6.79 | 2/ |
+| 7% | Bond - 5/15/93-98 | 5/15/73 | 40 652 692 | 98.75 98.73 | 7.11 7.11 | 7-3/4% 2/ |
+
+1/ Additional issue. * Less than $500,000.
+2/ Issued for cash. p Preliminary.
+
+March 1974
+
+47
+
+PUBLIC DEBT OPERATIONS
+
+Table PDO-6. - Allotments by Investor Classes on Subscriptions for Public Marketable Securities
+
+Part A. - Other than Treasury Bills
+
+(In millions of dollars)
+
+| Date of financing > Date of financing | Description of securities > Description of securities | Amount issued > For cash | Amount issued > In exchange for other securities | Allotments by investor classes > U.S. Government accounts and Federal Reserve Banks 2/ | Allotments by investor classes > Commercial banks 3/ | Allotments by investor classes > Individuals 4/ | Allotments by investor classes > Insurance companies | Allotments by investor classes > Mutual savings banks | Allotments by investor classes > Corporations 5/ | Allotments by investor classes > Private pension and retirement funds | Allotments by investor classes > State and local governments 6/ Pension and retirement funds | Allotments by investor classes > Other funds | Allotments by investor classes > Dealers and brokers | Unnamed: 14_level_0 > All other 7/ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8/15/69 | 7-3/4% Note - 2/15/71-D 8% Note - 5/15/71-E | - | 2,924 4,176 | 125 564 | 1,438 2,111 | 301 217 | 38 65 | 52 42 | 62 254 | 31 15 | 6 11 | 150 276 | 537 240 | 184 381 |
+| 10/1/69 | 7-3/4% Note - 5/15/73-A 7-1/2% Note - 8/15/76-C | - | 1,160 1,683 | 125 564 | 660 476 | 87 96 | 23 29 | 8 8 | 12 31 | 4 8 | 3 11 | 37 24 | 136 380 | 65 56 |
+| 2/15/70 | 8-1/4% Note - 8/15/71-F 8-1/8% Note - 8/15/73-B 8% Note - 2/15/77-A | - | 2,257 1,839 1,856 | 292 288 458 | 1,175 942 746 | 85 51 48 | 47 17 38 | 20 17 14 | 169 76 47 | 7 3 6 | 6 2 13 | 125 97 77 | 86 241 345 | 245 105 64 |
+| 5/15/70 | 7-3/4% Note - 11/15/71-G 7-3/4% Note - 5/15/73-A 8% Note - 2/15/77-A 8/ | 3679 | 7,065 4,683 3,307 | 7,005 2,421 2,125 | 2,352 1,442 819 | 391 171 53 | 7 23 7 | 15 28 19 | 34 33 6 | 8 6 10 | 1 1 2 | 297 90 55 | 270 157 146 | 364 311 65 |
+| 8/15/70 | 7-3/4% Note - 2/15/74-C 7-3/4% Note - 8/15/77-B | - | 3,139 2,264 | 150 479 | 1,929 967 | 166 74 | 38 29 | 38 22 | 62 35 | 6 20 | 2 6 | 167 47 | 335 513 | 248 72 |
+| 8/17/70 | 7-1/2% Note - 2/15/72-C | 3190 | 190 | 190 | 1664 | 656 | 13 | 43 | 78 | 18 | 3 | 110 | 269 | 325 |
+| 11/15/70 | 7-1/4% Note - 5/15/74-D 7-1/2% Note - 8/15/76-C 8/ | - | 4,505 2,511 | 838 811 | 2,481 1,033 | 292 94 | 44 24 | 37 10 | 61 40 | 13 7 | 4 2 | 193 22 | 343 392 | 205 77 |
+| 11/16/70 | 6-3/4% Note - 5/15/72-D | 2037 | - | - | 1593 | 119 | 2 | 4 | 11 | 3 | * | 4 | 198 | 104 |
+| 2/15/71 | 5-7/8% Note - 8/15/75-C 6-1/4% Note - 2/15/78-A | - | 7,679 8,389 | 2,319 2,722 | 3,586 3,122 | 235 431 | 77 116 | 34 90 | 91 98 | 22 133 | 8 123 | 260 496 | 714 631 | 334 424 |
+| 5/15/71 | 5% Note - 8/15/72-E 5-3/4% Note - 11/15/74-A 8/ | - | 3,452 3,231 | 1,457 1,046 | 1,351 1,257 | 138 246 | 22 36 | 13 26 | 30 38 | 13 26 | 3 4 | 93 93 | 177 263 | 135 196 |
+| 6/29/71 | 6% Note - 11/15/72-F | 2285 | - | - | 2071 | 19 | 2 | 3 | 8 | 2 | * | 2 | 68 | 111 |
+| 8/15/71 | 7% Note - 11/15/75-D 7% Bond - 8/15/81 | - 195 | 3,115 613 | 592 351 | 1,542 112 | 130 210 | 59 8 | 35 9 | 37 8 | 9 2 | 3 2 | 94 6 | 405 76 | 209 24 |
+| 8/16/71 | 6-1/2% Note - 2/15/73-C | 2514 | - | - | 2036 | 57 | 2 | 5 | 36 | 2 | * | 52 | 272 | 52 |
+| 9/8/71 | 6-1/4% Note - 11/15/76-D | 1283 | - | - | 1046 | 15 | 2 | 1 | 5 | 1 | * | 21 | 125 | 67 |
+| 10/22/71 | 5-7/8% Note - 2/15/75-E | 2045 | - | - | 1833 | 9 | 1 | 1 | 35 | 1 | 1 | 14 | 46 | 104 |
+| 11/15/71 | 4-7/8% Note - 11/15/73-D 6% Note - 11/15/78-B 6-1/8% Bond - 11/15/86 | 2,768 66 24 | 1,500 8,207 1,192 | 1,500 2,915 673 | 1,566 3,197 296 | 15 240 31 | 1 47 6 | 4 33 1 | 52 51 4 | 1 19 2 | - 9 2 | 53 235 3 | 992 1,150 185 | 84 311 13 |
+| 2/15/72 | 5-3/4% Note - 5/15/76-E 6-3/8% Bond - 2/15/82 | - 66 | 2,802 2,131 | 420 554 | 1,446 777 | 85 221 | 23 79 | 26 29 | 36 27 | 5 21 | 1 26 | 85 46 | 558 296 | 117 121 |
+| 4/3/72 | 5-7/8% Note - 5/15/75-F | 1776 | - | - | 1605 | 15 | 1 | 4 | 24 | 1 | 1 | 1 | 70 | 54 |
+--
+1/ Excludes 1-1/2% Treasury notes issued in exchange to holders of non-marketable 2-3/4% Treasury bonds, Investment Series B-1975-80.
+2/ Includes trust funds and accounts that comprise Government accounts under the unified budget concept.
+3/ Includes trust companies and stock savings banks
+
+3/ Includes trust companies and stock savings banks. 4/ Includes partnerships and personal trust accounts.
+
+5/ Exclusive of banks and insurance companies.
+
+2. Director of Sales and Marketing Companies
+
+9/ Consists of trust, sinking,and investment funds of State and local governments and their agencies.
+
+includes savings and loan associations, nonprofit institutions, and investments of foreign balances and international accounts in this country. Also included are certain Government deposit accounts and
+
+Government-sponsored agency
+
+8/ Reopening of earlier
+* Less than $500,000.
+
+48
+
+Treasury Bulletin
+
+PUBLIC DEBT OPERATIONS.
+
+Table PDO-6. - Allotments by Investor Classes on Subscriptions for Public Marketable Securities
+Part B. - Treasury Bills Other than Regular Weekly Series
+
+(In millions of dollars)
+
+| Date of financing > Unnamed: 0_level_1 | Date of maturity > Unnamed: 1_level_1 | Average rate (Percent) > Unnamed: 2_level_1 | Total amount issued > One-year series | Total amount issued > 9-month series 1/ | Total amount issued > Tax anticipation series | Allotments by investor classes > U.S. Government accounts and Federal Reserve Banks 2/ | Allotments by investor classes > Commercial banks | Allotments by investor classes > Corporations 3/ | Allotments by investor classes > Dealers and brokers | Allotments by investor classes > All other 4/ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7/18/69 | 12/22/69 3/23/70 | 6.775 7.202 | nan | nan | 1,763 1,752 | - | 1,733 1,722 | 1 3 | * | 29 27 |
+| 7/31/69 | 4/30/70 7/31/70 | 7.407 7.313 | 1202.0 | 500.0 | nan | 150 367 | 171 349 | 1 12 | 168 391 | 10 83 |
+| 8/31/69 | 5/31/70 8/31/70 | 7.387 7.340 | 1201.0 | 500.0 | nan | 180 348 | 190 427 | 12 7 | 97 309 | 21 110 |
+| 9/30/69 | 6/30/70 9/30/70 | 7.357 7.350 | 1005.0 | 500.0 | nan | 75 350 | 139 322 | 1 8 | 266 190 | 19 135 |
+| 10/14/69 10/29/69 | 4/22/70 6/22/70 | 7.284 7.204 | nan | nan | 2,007 3,004 | - | 2,004 2,971 | - - | - - | 3 33 |
+| 10/31/69 | 7/31/70 10/31/70 | 7.244 7.127 | 1003.0 | 500.0 | nan | 125 312 | 161 128 | * | 201 450 | 13 102 |
+| 11/26/69 | 4/22/70 6/22/70 | 7.014 7.975 | nan | nan | 1,007 5/ 1,504 2/ | - | 1,002 1,497 | - - | - - | 5 7 |
+| 11/30/69 | 8/31/70 11/30/70 | 7.777 7.591 | 1001.0 | 501.0 | nan | 139 287 | 61 228 | * | 254 336 | 47 123 |
+| 12/31/69 | 9/30/70 12/31/70 | 7.801 7.561 | 1002.0 | 500.0 | nan | 116 259 | 157 305 | 10 2 | 194 318 | 23 118 |
+| 1/31/70 | 10/31/70 1/31/71 | 7.724 7.533 | 1003.0 | 502.0 | nan | 200 328 | 77 215 | 16 14 | 184 266 | 25 180 |
+| 2/28/70 | 11/30/70 2/28/71 | 6.995 6.932 | 1200.0 | 500.0 | nan | 150 269 | 106 151 | 11 2 | 201 600 | 32 178 |
+| 3/3/70 3/26/70 | 4/22/70 9/22/70 | 6.549 6.177 | nan | nan | 1,753 5/ 1,758 | - | 1,745 1,749 | - - | - - | 8 9 |
+| 3/31/70 | 12/31/70 3/31/71 | 6.101 6.132 | 1201.0 | 500.0 | nan | 126 279 | 133 317 | 1 21 | 194 438 | 47 146 |
+| 4/30/70 | 1/31/71 4/30/71 | 6.843 6.814 | 1200.0 | 500.0 | nan | 125 336 | 176 303 | * | 170 398 | 29 161 |
+| 5/31/70 | 2/28/71 5/31/71 | 7.353 7.277 | 1200.0 | 500.0 | nan | 125 315 | 141 179 | 12 22 | 164 546 | 58 138 |
+| 6/30/70 | 3/31/71 6/30/71 | 7.068 7.079 | 1201.0 | 501.0 | nan | 125 333 | 145 324 | 6 19 | 170 396 | 55 129 |
+| 7/8/70 7/23/70 | 3/22/71 4/22/71 | 6.452 6.504 | nan | nan | 2,517 2,261 | - | 2,483 2,256 | - - | - - | 33 5 |
+| 7/31/70 | 4/30/71 7/31/71 | 6.467 6.380 | 1202.0 | 500.0 | nan | 170 447 | 49 59 | 20 17 | 252 41 | 9 638 |
+| 8/31/70 | 5/31/71 8/31/71 | 6.510 6.396 | 1204.0 | 501.0 | nan | 156 414 | 160 216 | 11 15 | 159 454 | 15 105 |
+--
+Table PDO-6. - Allotments by Investor Classes on Subscriptions for Public Marketable Securities
+Part B. - Treasury Bills Other than Regular Weekly Series - (Continued)
+
+(In millions of dollars)
+
+| Date of financing > Unnamed: 0_level_1 | Date of maturity > Unnamed: 1_level_1 | Average rate (Percent) > Unnamed: 2_level_1 | Total amount issued > One-year series | Total amount issued > 9-month series 1/ | Total amount issued > Tax anticipation series | Total amount issued > 52-week series | Allotments by investor classes > U.S. Government accounts and Federal Reserve Banks 2/ | Allotments by investor classes > Commercial banks | Allotments by investor classes > Corporations 3/ | Allotments by investor classes > Dealers and brokers | Allotments by investor classes > All other 4/ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7/6/71 | 9/21/71 | 5.033 | nan | nan | 1752 | nan | - | 1748 | - | - | 4 |
+| 7/31/71 | 4/30/72 7/31/72 | 5.944 5.953 | 1202 | 501.0 | nan | nan | 175 540 | 215 319 | 6 15 | 94 219 | 11 109 |
+| 8/31/71 | 5/31/72 8/31/72 | 5.090 5.125 | 1200 | 500.0 | nan | nan | 250 407 | 56 360 | 5 21 | 184 374 | 5 38 |
+| 9/31/71 | 6/30/72 9/30/72 | 5.242 5.279 | 1201 | 500.0 | nan | nan | 175 425 | 136 217 | 20 46 | 148 464 | 21 49 |
+| 10/31/71 | 7/31/72 10/31/72 | 4.496 4.490 | 1200 | 500.0 | nan | nan | 150 517 | 147 200 | 1 2 | 182 442 | 20 39 |
+| 11/30/71 | 8/31/72 11/30/72 | 4.580 4.563 | 1201 | 500.0 | nan | nan | 200 345 | 192 392 | 11 21 | 80 411 | 17 32 |
+| 12/1/71 12/13/71 | 4/21/72 6/21/72 | 4.558 4.273 | nan | nan | 2,506 2,010 | nan | - - | 2,090 2,004 | - - | 400 - | 16 6 |
+| 12/29/71 | 4/21/72 6/21/72 | 3.846 4.056 | nan | nan | 1,526 5/ 1,016 2/ | nan | - - | 1,520 1,012 | - - | - - | 6 4 |
+| 12/31/71 | 9/30/72 12/31/72 | 3.930 3.927 | 1200 | 501.0 | nan | nan | 150 468 | 128 198 | 10 11 | 109 482 | 104 41 |
+| 1/31/72 | 10/31/72 1/31/73 | 3.891 3.936 | 1200 | 500.0 | nan | nan | 150 558 | 68 334 | * | 216 244 | 66 52 |
+| 2/29/72 | 11/30/72 2/28/73 | 3.862 4.091 | 1200 | 500.0 | nan | nan | 125 424 | 103 345 | 5 10 | 123 384 | 144 37 |
+| 3/31/72 | 12/31/72 3/31/73 | 4.512 4.661 | 1201 | 501.0 | nan | nan | 150 543 | 112 297 | 15 16 | 135 232 | 89 113 |
+| 4/30/72 | 1/31/73 4/30/73 | 4.234 4.362 | 1200 | 500.0 | nan | nan | 150 695 | 151 271 | - * | 83 210 | 116 24 |
+| 5/31/72 | 2/28/73 5/31/73 | 4.367 4.466 | 1200 | 501.0 | nan | nan | 175 553 | 50 342 | * | 185 270 | 91 25 |
+| 6/30/72 | 3/31/73 6/30/73 | 4.754 4.853 | 1201 | 501.0 | nan | nan | 150 496 | 149 412 | 6 11 | 126 241 | 70 41 |
+| 7/31/72 | 4/30/73 7/31/73 | 4.723 4.918 | 1201 | 500.0 | nan | nan | 75 627 | 107 199 | 10 12 | 173 337 | 135 26 |
+| 8/31/72 | 5/31/73 8/28/73 | 5.040 5.178 | 1803 | 501.0 | nan | nan | 73 194 | 76 953 | * | 165 608 | 187 47 |
+| 9/30/72 | 6/30/73 9/25/73 | 5.346 5.529 | 1801 | 500.0 | nan | nan | 140 654 | 109 594 | * | 135 408 | 116 140 |
+| 10/31/72 | 7/31/73 10/23/73 | 5.223 5.318 | 1802 | 501.0 | nan | nan | 125 578 | 186 504 | * | 160 632 | 30 86 |
+--
+Table PDO-7. - Disposition of Public Marketable Securities Other than Regular Weekly Treasury Bills
+
+(Dollar amounts in millions)
+
+| Date of refunding or retirement > Unnamed: 0_level_1 | Called or maturing securities 1/ > Description | Called or maturing securities 1/ > Issue date | Called or maturing securities 1/ > Amount outstanding | Called or maturing securities 1/ > Cash retirement | Disposition offers by Treasury > Exchange security offered | Disposition offers by Treasury > Exchanged | Results of exchange offers > Turned in for cash 2/ | Results of exchange offers > Unnamed: 8_level_1 | Description of new securities offered (See also Table PDO-4) > Unnamed: 9_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7/31/70 | 7.313% Bill - 7/31/70 7.244% Bill - 7/31/70 | 7/31/69 7/31/69 | 1,202 500 | 1,202 500 | 3/ | - | - | - | nan |
+| 8/15/70 | 6-3/8% Note - 8/15/70 4% Bond - 8/15/70 | 5/15/69 6/20/63 | 2,329 4,129 | - | 2,329 4,129 | 1,272 752 1,868 1,512 | 306 749 | 7-3/4% Note - C-1974 7-3/4% Note - B-1977 7-3/4% Note - C-1974 7-3/4% Note - B-1977 3,139 of Note C-1974 2,264 of Note B-1977 | nan |
+| Total | Total | Total | 6458 | - | 6458 | 5404 | 1055 | 3/ | nan |
+| 8/31/70 | 7.340% Bill - 8/31/70 7.777% Bill - 8/31/70 | 8/31/69 8/31/69 | 1,201 501 | 1,201 501 | 3/ | - | - | - | nan |
+| 9/23/70 | 6.177% Bill - 9/23/70 | 3/26/70 | 1758 | 1758 | 4/ | - | - | - | nan |
+| 9/30/70 | 7.350% Bill - 9/30/70 7.801% Bill - 9/30/70 | 9/30/69 9/30/69 | 1,005 500 | 1,005 500 | 3/ | - | - | - | nan |
+| 10/1/70 | 1-1/2% Note - 10/1/70-80 | 10/1/65 | 113 | 113 | nan | - | - | - | nan |
+| 10/31/70 | 7.127% Bill - 10/31/70 7.724% Bill - 10/31/70 | 10/31/69 10/31/69 | 1,003 502 | 1,003 502 | 3/ | - | - | - | nan |
+| 11/15/70 | 5% Note - 11/15/70-A | 2/15/66 | 7675 | - | 7675 | 7016 | 660 | 4,505 of 7-1/4% Note D-1974 2,511 of 7-1/2% Note C-1976 | nan |
+| 11/30/70 | 7.591% Bill - 11/30/70 6.995% Bill - 11/30/70 | 11/30/69 11/30/69 | 1,001 500 | 1,001 500 | 3/ | - | - | - | nan |
+| 12/31/70 | 7.561% Bill - 12/31/70 6.101% Bill - 12/31/70 | 12/31/69 12/31/69 | 1,002 500 | 1,002 500 | 3/ | - | - | - | nan |
+| 1/31/71 | 7.533% Bill - 1/31/71 6.843% Bill - 1/31/71 | 1/31/70 1/31/70 | 1,003 500 | 1,003 500 | 3/ | - | - | - | nan |
+| 1/31/71 | 5-3/8% Note - 2/15/71-C 7-3/4% Note - 2/15/71-D 2-1/2% Bond - 3/15/71 5-3/8% Note - 11/15/71-B 7-3/4% Note - 11/15/71-G | 8/30/67 8/15/69 12/1/44 11/15/66 5/15/70 | 2,509 2,924 1,219 1,734 10,743 | - | 2,509 2,924 1,219 1,734 10,743 | 1,070 1,086 1,028 1,321 315 635 326 441 2,427 2,480 | 353 575 | 5-7/8% Note - C-1975 6-1/4% Note - A-1978 5-7/8% Note - C-1975 6-1/4% Note - A-1978 5-7/8% Note - C-1975 6-1/4% Note - A-1978 5-7/8% Note - C-1975 6-1/4% Note - A-1978 5-7/8% Note - C-1975 6-1/4% Note - A-1978 | nan |
+| 2/15/71 | 3-7/8% Bond - 11/15/71 4-3/4% Note - 2/15/72-A 7-1/2% Note - 2/15/72-C 4% Bond - 2/15/72 | 5/15/62 2/15/67 8/17/70 11/15/62 | 2,760 2,006 3,375 2,344 | - | 2,760 2,006 3,375 2,344 | 893 786 600 606 387 304 634 730 | - | 5-7/8% Note - C-1975 6-1/4% Note - A-1978 5-7/8% Note - C-1975 6-1/4% Note - A-1978 5-7/8% Note - C-1975 6-1/4% Note - A-1978 5-7/8% Note - C-1975 6-1/4% Note - A-1978 5-7/8% Note - C-1975 6-1/4% Note - A-1978 | nan |
+| Total | Total | Total | 29614 | - | 29614 | 16067 | 928 | 7,679 of 5-7/8% Note 8,389 of 6-1/4% Note | nan |
+| 2/28/71 | 6.932% Bill - 2/28/71 7.353% Bill - 2/28/71 | 2/28/70 2/28/70 | 1,200 500 | 1,200 500 | 3/ | - | - | - | nan |
+| 3/15/71 | 2-1/2% Bond - 3/15/71 | 12/1/44 | 269 | 269 | nan | - | - | - | nan |
+| 3/22/71 | 6.452% Bill - 3/22/71 | 7/8/70 | 2517 | 2517 | 4/ | - | - | - | nan |
+| 3/31/71 | 6.132% Bill - 3/31/71 7.068% Bill - 3/31/71 | 3/31/70 3/31/70 | 1,201 501 | 1,201 501 | 3/ | - | - | - | nan |
+| 4/1/71 | 1-1/2% Note - 4/1/71-EA | 4/1/66 | 35 | 35 | nan | - | - | - | nan |
+--
+Table PDO-7. - Disposition of Public Marketable Securities Other than Regular Weekly Treasury Bills - (Continued)
+
+(Dollar amounts in millions)
+
+| Date of refunding or retirement > Unnamed: 0_level_1 | Called or maturing securities 1/ > Description | Called or maturing securities 1/ > Issue date | Called or maturing securities 1/ > Amount outstanding | Disposition offers by Treasury > Cash retirement | Disposition offers by Treasury > Exchange security offered | Results of exchange offers > Exchanged | Results of exchange offers > Turned in for cash 2/ | Description of new securities offered (See also Table PDO-4) > Unnamed: 8_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5/15/71 | 5-1/4% Note - 5/15/71-A | 8/15/66 | 4265 | - | 4265 | 1,780 1,860 | 626 | 5% 5-3/4% Note - E-1972 E-1974 |
+| nan | 8% Note - 5/15/71-E | 10/1/69 | 4176 | - | 4176 | 1,672 1,371 | 1133 | 5% 5-3/4% Note - E-1972 A-1974 |
+| nan | Total | nan | 8442 | - | 8442 | 6682 | 1759 | 3,452 of 5% Note 3,231 of 5-3/4% Note |
+| 5/31/71 | 7.27% Bill - 5/31/71 6.510% Bill - 5/31/71 | 5/31/70 5/31/70 | 1,200 501 | 1,200 501 | 3/ | - | - | nan |
+| 6/22/71 | 5.970% Bill - 6/22/71 | 10/21/70 | 2515 | 2515 | 4/ | - | - | nan |
+| 6/30/71 | 7.079% Bill - 6/30/71 6.237% Bill - 6/30/71 | 6/30/70 6/30/70 | 1,201 501 | 1,201 501 | 3/ | - | - | nan |
+| 7/31/71 | 6.380% Bill - 7/31/71 6.153% Bill - 7/31/71 | 7/31/70 7/31/70 | 1,202 501 | 1,202 501 | 3/ | - | - | nan |
+| 8/15/71 | 4% Bond - 8/15/71 8-1/4% Note - 8/15/71-F | 3/1/62 2/15/70 | 2,806 2,257 | - | 2,806 2,257 | 1,708 411 1,407 202 | 687 649 | 7% Note - D-1975 7% Bond - 8/15/81 7% Note - D-1975 7% Bond - 8/15/81 |
+| nan | Total | nan | 5063 | - | 5063 | 3727 | 1336 | 3,115 of 7% Note 612 of 7% Bond |
+| 8/31/71 | 6.396% Bill - 8/31/71 5.048% Bill - 8/31/71 | 8/31/70 8/31/70 | 1,204 501 | 1,204 501 | 3/ | - | - | nan |
+| 9/21/71 | 5.033% Bill - 9/21/71 | 7/6/71 | 1752 | 1752 | 4/ | - | - | nan |
+| 9/30/71 | 6.215% Bill - 9/30/71 4.949% Bill - 9/30/71 | 9/30/70 9/30/70 | 1,202 501 | 1,202 501 | 3/ | - | - | nan |
+| 10/1/71 | 1-1/2% Note - 10/1/71-EO | 10/1/66 | 72 | 72 | nan | - | - | nan |
+| 10/31/71 | 6.072% Bill - 10/31/71 4.369% Bill - 10/31/71 | 10/31/70 10/31/70 | 1,201 500 | 1,201 500 | 3/ | - | - | nan |
+| nan | 3-7/8% Bond - 11/15/71 | 5/15/62 | 1081 | - | 1081 | 509 268 | 304 | 6% Note - B-1978 6-1/8% Bond - 11/15/86 |
+| nan | 5-3/8% Note - 11/15/71-B | 11/15/66 | 967 | - | 967 | 633 98 | 237 | 6% Note - B-1978 6-1/8% Bond - 11/15/86 |
+| 11/15/71 | 7-3/4% Note - 11/15/71-G | 5/15/70 | 5836 | - | 5836 | 3,109 487 | 2,240 6/ | 6% Note - B-1978 6-1/8% Bond - 11/15/86 |
+| nan | 4-3/4% Note - 5/15/72-B | 5/15/67 | 5310 | - | 5310 | 1,446 187 | - | 6% Note - B-1978 6-1/8% Bond - 11/15/86 |
+| nan | 6-3/4% Note - 5/15/72-D | 11/16/70 | 2037 | - | 2037 | 602 58 | - | 6% Note - B-1978 6-1/8% Bond - 11/15/86 |
+| nan | 4% Bond - 8/15/72 | 9/15/62 | 2579 | - | 2579 | 1,067 58 | - | 6% Note - B-1978 6-1/8% Bond - 11/15/86 |
+--
+Table PDO-7. - Disposition of Public Marketable Securities
+
+Other than Regular Weekly Treasury Bills - (Continued)
+
+(Dollar amounts in millions
+
+| Date of refunding or retirement > Unnamed: 0_level_1 | Called or maturing securities 1/ > Description | Called or maturing securities 1/ > Issue date | Called or maturing securities 1/ > Amount outstanding | Called or maturing securities 1/ > Cash retirement | Disposition offers by Treasury > Exchange security offered | Disposition offers by Treasury > Exchanged | Results of exchange offers > Turned in for cash 2/ | Results of exchange offers > Unnamed: 8_level_1 | Description of new securities offered (See also Table PDO-4) > Unnamed: 9_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2/29/72 | 3.675% Bill - 4.68% Bill | 2/29/72 2/29/72 | 2/28/71 2/28/71 | 1,201 500 | 1,201 500 3/ | - | - | - | nan |
+| 3/31/72 | 3.587% Bill - 5.425% Bill | 3/31/72 3/31/72 | 3/31/71 3/31/71 | 1,200 500 | 1,200 500 3/ | - | - | - | nan |
+| 4/1/72 | 1-1/2% Note | 4/1/72-EA | 4/1/67 | 34 | 34 | - | - | nan | nan |
+| 4/21/72 | 4.558% Bill - 3.846% Bill | 4/21/72 4/21/72 | 12/1/71 12/1/71 | 2,506 1,526 | 2,506 1,526 4/ | - | - | - | nan |
+| 4/30/72 | 4.422% Bill - 5.944% Bill | 4/30/72 4/30/72 | 4/30/71 4/30/71 | 1,201 501 | 1,201 501 3/ | - | - | - | nan |
+| 5/15/72 | 4-3/4% Note - 6-3/4% Note | 5/15/72-B 5/15/72-D | 5/15/67 11/16/70 | 3,676 1,377 | 1,294 1,245 9/ | 2,382 132 10/ | - | - | nan |
+| 5/31/72 | 4.790% Bill - 5.090% Bill | 5/31/72 5/31/72 | 5/31/71 5/31/71 | 1,201 500 | 1,201 500 3/ | - | - | - | nan |
+| 6/15/72 | 2-1/2% Bond | 6/15/72 | 6/1/45 | 1226 | 1226 | - | - | - | nan |
+| 6/21/72 | 4.273% Bill - 4.056% Bill | 6/21/72 6/21/72 | 12/13/71 12/13/71 | 2,010 1,016 | 2,010 1,016 4/ | - | - | - | nan |
+| 6/30/72 | 5.567% Bill - 5.242% Bill | 6/30/72 6/30/72 | 6/30/71 6/30/71 | 1,200 500 | 1,200 500 3/ | - | - | - | nan |
+| 7/31/72 | 5.953% Bill - 4.496% Bill | 7/31/72 7/31/72 | 7/31/71 7/31/71 | 1,202 500 | 1,202 500 3/ | - | - | 5-7/8% Note - 6-1/4% Note - 6-3/8% Bond | F-1976 A-1979 8/15/84 |
+| nan | 5% Note | 8/15/72-E | 5/15/71 | 2574 | - | 2,574 1,715 612 15 | 232 | nan | nan |
+| nan | 4% Bond | 8/15/72 | 9/15/62 | 1453 | - | 1,453 699 123 252 | 379 | 5-7/8% Note - 6-1/4% Note - 6-3/8% Bond | F-1976 A-1979 8/15/84 |
+| nan | 2-1/2% Bond | 9/15/72 | 10/20/41 | 1951 | - | 1,951 1,097 181 221 | - | 5-7/8% Note - 6-1/4% Note - 6-3/8% Bond | F-1976 A-1979 8/15/84 |
+| nan | 6% Note | 11/15/72-F | 6/29/71 | 2285 | - | 2,285 630 197 133 | - | 5-7/8% Note - 6-1/4% Note - 6-3/8% Bond | F-1976 A-1979 8/15/84 |
+| 8/15/72 | 2-1/2% Bond | 12/15/72 | 11/15/45 | 2547 | - | 2,547 805 223 165 | - | 5-7/8% Note - 6-1/4% Note - 6-3/8% Bond | F-1976 A-1979 8/15/84 |
+| nan | 5-3/4% Note 7/ | 11/15/74-A | 11/15/67 | 7212 | - | 7,212 1,235 535 | - | 6-1/4% Note - 6-3/8% Bond | A-1979 8/15/84 |
+| nan | 3-7/8% Bond 7/ | 11/15/74 | 12/2/57 | 2236 | - | 2,236 756 265 | - | 6-1/4% Note - 6-3/8% Bond | A-1979 8/15/84 |
+--
+Table PDO-7. - Disposition of Public Marketable securities Other than Regular Weekly Treasury Bills - (Continued)
+
+(Dollar amounts in millions)
+
+| Date of refunding or retirement > Unnamed: 0_level_1 | Called or maturing securities 1/ > Description | Called or maturing securities 1/ > Issue date | Called or maturing securities 1/ > Amount outstanding | Disposition offers by Treasury > Cash retirement | Disposition offers by Treasury > Exchange security offered | Results of exchange offers > Exchanged | Results of exchange offers > Turned in for cash 2/ | Description of new securities offered (See also Table PDO-4) > Unnamed: 8_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12/15/72 | 2-1/2% Bond - 12/15/72 | 11/15/45 | 1,351p | 1351 | - | - | - | nan |
+| 12/31/72 | 3.927% Bill - 12/31/72 4.512% Bill - 12/31/72 | 12/31/71 12/31/71 | 1,200 501 | 1,200 501 | 3/ | - | - | nan |
+| 1/31/73 | 3.936% Bill - 1/31/73 4.234% Bill - 1/31/73 | 1/31/72 1/31/72 | 1,200 500 | 1,200 500 | 3/ | - | - | nan |
+| 2/15/73 | 6-1/2% Note - 2/15/73 4-7/8% Note - 2/15/73 | 8/16/71 11/15/71 | 2,514 4,268 | - - | 2,514 4,268 | 1,425 2,458 | 1,089 1,810 | 11/ |
+| 2/28/73 | 4.091% Bill - 2/28/73 4.367% Bill - 2/28/73 | 2/29/72 2/29/72 | 1,200 501 | 1,200 501 | 3/ | - | - | nan |
+| 3/31/73 | 4.661% Bill - 3/31/73 4.754% Bill - 3/31/73 | 3/31/72 3/31/72 | 1,201 501 | 1,271 501 | 3/ | - | - | nan |
+| 4/1/73 4/20/73 | 1-1/2% Note - 4/1/73-BA 4.721% Bill - 4/20/73 | 4/1/68 11/24/72 | 34 2,012 | 34 2,012 | 4/ | - | - | nan |
+| 4/30/73 | 4.362% Bill - 4/30/73 4.731% Bill - 4/30/73 | 4/30/72 4/30/72 | 1,200 500 | 1,200 500 | 3/ | - | - | nan |
+| 5/15/73 | 7-3/4% Note - 5/15/73-A 4-3/4% Note - 5/15/73-E | 10/1/69 5/15/72 | 5,844 3,792 | 3,181 1,194 | 9/ | 2,663 2,598 | 12/ | 13/ |
+| 5/31/73 | 4.465% Bill - 5/31/73 5.040% Bill - 5/31/73 | 5/31/72 5/31/72 | 1,200 500 | 1,200 500 | 3/ | - | - | nan |
+| 6/22/73 | 5.089% Bill - 6/22/73 | 12/5/72 | 2510 | 2510 | 4/ | - | - | nan |
+| 6/30/73 | 4.853% Bill - 6/30/73 5.346% Bill - 6/30/73 | 6/30/72 6/30/72 | 1,201 500 | 1,201 500 | 3/ | - | - | nan |
+| 7/31/73 | 4.918% Bill - 7/31/73 5.223% Bill - 7/31/73 | 7/31/72 7/31/72 | 1,201 501 | 1,201 501 | 3/ | - | - | nan |
+| 8/15/73 | 8-1/8% Note - 8/15/73-B 4% Bond - 8/15/73 | 2/15/70 9/15/63 | 1,839 3,894 | 1,514 3,166 | 9/ | 325 728 | 14/ | 15/ |
+| 8/28/73 | 5.178% Bill - 8/28/73 | 8/31/72 | 1803 | 1803 | 3/ | - | - | nan |
+| 9/19/73 | 9.803% Bill - 9/19/73 | 8/15/73 | 2017 | 2017 | 4/ | - | - | nan |
+| 9/25/73 | 5.529% Bill - 9/25/73 | 9/30/72 | 1801 | 1801 | 3/ | - | - | nan |
+| 10/1/73 10/17/73 11/15/73 | 1-1/2% Note - 10/1/73-80 5.318% Bill - 10/23/73 4-1/8% Bond - 11/15/73 | 10/1/68 10/31/72 7/22/64 | 30 1,802 4,336 | 30 1,802 3,760 | nan | - | - | 576 |
+| 11/14/73 12/12/73 | 5.225% Bill - 11/20/73 5.337% Bill - 12/18/73 | 11/30/72 12/31/72 | 1,802 1,800 | 1,802 1,800 | nan | - | - | 16/ |
+| 1/9/74 | 5.986% Bill - 1/15/74 | 1/31/73 | 1804 | 1804 | nan | - | - | nan |
+--
+Table PDO-8. - Foreign Series Securities (Nonmarketable) Issued to Official Institutions of Foreign Countries
+
+(Payable in U.S. Dollars; dollar amounts in millions)
+
+| Month of Activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Issue date > Unnamed: 2_level_1 | Maturity date > Unnamed: 3_level_1 | Interest rate (Percent) > Unnamed: 4_level_1 | Amount > Issued | Amount > Retired | Amount > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1972-July | Certificates of indebtedness | 4/3/72 | 7/3/72 | 3.85 | - | 557 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 4/4/72 | 7/3/72 | 3.80 | - | 15 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 4/4/72 | 7/3/72 | 3.80 | - | 75 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 4/7/72 | 7/7/72 | 3.80 | - | 30 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 4/7/72 | 7/7/72 | 3.80 | - | 44 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 4/10/72 | 7/10/72 | 3.80 | - | 100 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 4/21/72 | 7/20/72 | 3.85 | - | 40 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 4/28/72 | 7/28/72 | 3.55 | - | 25 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 5/17/72 | 8/17/72 | 3.70 | - | 405 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 5/30/72 | 8/30/72 | 3.80 | - | 50 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 6/1/72 | 9/1/72 | 3.80 | - | 300 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 6/28/72 | 9/28/72 | 4.05 | - | 878 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 7/3/72 | 10/3/72 | 4.15 | 15 | - | 20039.0 |
+| 1972-July | Certificates of indebtedness | 7/3/72 | 10/3/72 | 4.15 | 632 | - | 20039.0 |
+| 1972-July | Certificates of indebtedness | 7/6/72 | 10/6/72 | 4.15 | 270 | 270 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 7/6/72 | 10/6/72 | 4.15 | 50 | - | 20039.0 |
+| 1972-July | Certificates of indebtedness | 7/7/72 | 10/6/72 | 4.15 | 350 | 350 | 20039.0 |
+| 1972-July | Certificates of indebtedness | 7/7/72 | 10/6/72 | 4.15 | 30 | - | 20039.0 |
+| 1972-July | Certificates of indebtedness | 7/10/72 | 10/10/72 | 4.15 | 44 | - | 20039.0 |
+| 1972-July | Certificates of indebtedness | 7/17/72 | 10/17/72 | 4.10 | 100 | - | 20039.0 |
+--
+Table PDO-8. - Foreign Series Securities (Nonmarketable) Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Payable in U.S. Dollars; dollar amounts in millions)
+
+| Month of Activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Issue date > Unnamed: 2_level_1 | Maturity date > Unnamed: 3_level_1 | Interest rate (Percent) > Unnamed: 4_level_1 | Amount > Issued | Amount > Retired | Amount > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1972-Sept. | Certificates of indebtedness | 6/20/72 6/23/72 6/26/72 7/18/72 7/19/72 8/11/72 8/14/72 8/16/72 9/20/72 9/25/72 9/26/72 | 9/20/72 9/25/72 9/26/72 10/18/72 10/19/72 11/13/72 11/14/72 11/16/72 12/20/72 12/26/72 12/26/72 | 3.95 3.95 3.95 3.95 3.95 3.95 3.95 3.95 4.65 4.65 4.65 | - - - - - - - 564 362 728 159 | 564 362 728 159 30 50 8 2 | 19745 |
+| nan | Notes | 8/26/71 9/15/72 9/21/72 7/3/72 7/3/72 7/6/72 7/7/72 7/10/72 7/17/72 7/17/72 7/18/72 7/18/72 7/18/72 7/19/72 7/20/72 7/28/72 | 9/21/72 3/15/77 12/27/73 10/3/72 10/3/72 10/6/72 10/6/72 10/10/72 10/17/72 10/17/72 10/18/72 10/18/72 10/18/72 10/19/72 10/20/72 10/27/72 | 5.40 2.50 5.60 4.15 4.15 4.15 4.15 4.15 4.10 4.10 3.95 3.95 3.95 3.95 3.95 3.95 | - 157 200 - - - - - - - - - - - - - | 200 - - 15 632 50 30 44 100 250 70 300 120 17 24 83 31 193 40 25 40 10 | 19304 |
+| Oct. | Certificates of indebtedness | 8/28/72 10/3/72 10/3/72 10/6/72 10/6/72 10/10/72 10/17/72 10/18/72 10/18/72 10/19/72 10/20/72 10/27/72 | 11/17/72 1/3/73 1/3/73 1/5/73 1/5/73 1/10/73 1/17/73 1/17/73 1/18/73 1/18/73 1/19/73 1/26/73 | 3.95 4.60 4.60 4.60 4.60 4.75 4.85 4.85 4.85 4.85 4.85 4.75 | 15 632 30 50 44 100 250 70 120 11 25 26 195 40 25 | - - - - - - - - - - - - - - | 19304 |
+| nan | Notes | 9/23/71 10/26/72 8/4/72 8/10/72 8/11/72 8/14/72 8/15/72 8/16/72 8/16/72 8/17/72 8/17/72 8/17/72 8/18/72 8/24/72 8/25/72 8/30/72 | 10/26/72 1/24/74 11/3/72 11/10/72 11/13/72 11/14/72 11/15/72 11/16/72 11/16/72 11/17/72 11/17/72 11/17/72 11/17/72 11/24/72 11/25/72 11/30/72 | 5.40 5.60 3.80 3.95 3.95 3.95 3.95 3.95 3.95 3.95 3.95 3.95 3.95 4.05 4.05 4.35 | - 200 - - - - - - - - - - - - - - | 200 - 55 105 70 20 15 20 18 10 100 235 35 600 35 30 100 | 19120 |
+| Nov. | Certificates of indebtedness | 10/3/72 10/6/72 11/3/72 11/10/72 11/13/72 11/14/72 11/15/72 11/16/72 11/16/72 11/17/72 11/17/72 11/17/72 11/24/72 11/30/72 | 1/3/73 1/5/73 2/2/73 2/9/73 2/13/73 2/14/73 2/15/73 2/16/73 2/16/73 2/16/73 2/16/73 5/17/73 2/23/73 5/30/73 | 4.60 4.60 4.80 4.70 4.70 4.80 4.80 4.80 4.80 4.80 4.80 5.10 4.80 5.20 | - 55 105 70 20 15 20 18 10 35 115 706 55 100 | 5 50 - - - - - - - - - - 5 - | 19120 |
+
+March 1974
+
+57
+
+PUBLIC DEBT OPERATIONS
+
+Table PDO-8. - Foreign Series Securities (Nonmarketable)
+
+Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Payable in U.S. Dollars; dollar amounts in millions)
+
+| Month of activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Issue date > Unnamed: 2_level_1 | Maturity date > Unnamed: 3_level_1 | Interest rate (Percent) > Unnamed: 4_level_1 | Amount > Issued | Amount > Retired | Amount > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1972-Dec. | Certificates of indebtedness | 6/28/72 9/20/72 9/20/72 9/25/72 9/26/72 10/6/72 11/17/72 11/24/72 12/20/72 12/20/72 12/20/72 12/26/72 | 12/28/72 12/20/72 12/20/72 12/26/72 12/26/72 1/5/73 2/16/73 2/23/73 3/20/73 3/20/73 6/20/73 3/26/73 | 4.50 4.65 4.65 4.65 4.65 4.60 4.80 4.80 5.10 5.10 5.30 5.15 | - - - - - - - 362 337 227 900 | 75 362 564 728 159 5 100 20 | 18921 |
+| 1973-Jan. | Certificates of indebtedness | 6/27/68 10/3/72 10/6/72 10/6/72 10/10/72 10/17/72 10/17/72 10/18/72 10/18/72 10/19/72 10/19/72 10/20/72 1/3/73 1/3/73 1/5/73 1/5/73 1/10/73 1/17/73 1/17/73 1/18/73 1/18/73 1/19/73 1/19/73 1/26/73 7/1/68 7/2/68 10/28/71 1/15/73 1/25/73 11/3/72 11/10/72 11/13/72 11/14/72 11/15/72 11/16/72 11/16/72 11/17/72 11/17/72 11/24/72 2/2/73 2/7/73 2/7/73 2/8/73 2/9/73 2/9/73 2/9/73 2/13/73 2/13/73 2/14/73 2/14/73 2/16/73 2/16/73 2/23/73 11/18/71 11/29/71 2/22/73 | 12/27/72 1/3/73 1/5/73 1/5/73 1/10/73 1/17/73 1/17/73 1/18/73 1/18/73 1/19/73 1/19/73 1/26/73 4/3/73 7/3/73 4/5/73 4/5/73 4/10/73 4/17/73 4/17/73 4/18/73 4/18/73 4/19/73 4/19/73 4/26/73 1/2/73 1/2/73 1/25/73 7/15/77 4/25/74 2/2/73 2/9/73 2/13/73 2/14/73 2/15/73 2/16/73 2/16/73 2/16/73 2/16/73 2/23/73 5/7/73 5/8/73 5/9/73 5/9/73 5/9/73 5/14/73 5/14/73 5/14/73 5/14/73 5/14/73 5/16/73 5/16/73 5/23/73 2/22/73 2/22/73 5/23/74 | 5.70 4.60 4.60 4.60 4.75 4.85 4.85 4.85 4.85 4.85 4.85 4.75 5.20 5.40 5.20 5.20 5.15 5.30 5.30 5.30 5.30 5.30 5.65 6.00 6.00 4.80 2.50 5.93 4.80 4.70 4.70 4.80 4.80 4.80 4.80 4.80 4.80 5.70 5.70 5.70 5.70 5.70 5.70 5.45 5.45 5.45 5.45 5.45 5.45 4.75 4.95 6.15 | - - - - - 619 23 20 44 100 70 250 11 25 120 26 195 40 25 - 619 23 20 44 100 70 250 11 25 - - 10 5 200 156 200 - - 55 105 70 20 15 18 20 45 15 30 55 6 413 32 105 102 1,483 36 36 70 30 3,050 261 180 65 15 30 - 200 100 - 300 - 337 362 900 102 180 601 109 2,523 189 337 200 900 | 12 632 25 44 100 70 250 11 25 120 26 195 40 25 10 5 200 156 200 55 105 70 20 15 18 20 45 15 30 55 6 413 32 105 102 1,483 36 36 70 30 3,050 261 180 65 15 30 200 100 300 337 362 900 102 180 601 109 2,523 189 337 200 900 | 18,756 23,792 26,760 |
+| Mar. | Certificates of indebtedness | 12/20/72 12/20/72 12/26/72 2/9/73 2/14/73 3/6/73 3/6/73 3/7/73 3/20/73 3/20/73 3/26/73 | 3/20/73 3/20/73 3/26/73 5/9/73 5/14/73 6/6/73 6/6/73 6/7/73 6/20/73 6/20/73 6/26/73 | 5.10 5.10 5.15 5.70 5.45 5.90 5.90 5.90 6.35 6.35 6.35 | - - - - 601 109 2,523 189 337 200 900 | - - - - - - - - - - - | 26760 |
+
+58
+
+Treasury Bulletin
+
+PUBLIC DEBT OPERATIONS
+
+Table PDO-8. - Foreign Series Securities (Nonmarketable)
+
+Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Payable in U.S. Dollars; dollar amounts in millions)
+
+| Month of activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Issue date > Unnamed: 2_level_1 | Maturity date > Unnamed: 3_level_1 | Interest rate (Percent) > Unnamed: 4_level_1 | Amount > Issued | Amount > Retired | Amount > Total outstanding end of month | Unnamed: 8_level_0 > Unnamed: 8_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1973-Apr. | Notes | 9/9/68 | 3/9/73 | 5.35 | - | 10 | 26755.0 | nan |
+| 1973-Apr. | Notes | 12/6/71 | 3/22/73 | 4.80 | - | 100 | 26755.0 | nan |
+| 1973-Apr. | Notes | 12/23/71 | 3/29/73 | 4.70 | - | 200 | 26755.0 | nan |
+| 1973-Apr. | Notes | 3/22/73 | 6/27/74 | 7.00 | 100 | - | 26755.0 | nan |
+| 1973-Apr. | Notes | 3/29/73 | 6/27/74 | 6.80 | 200 | - | 26755.0 | nan |
+| 1973-Apr. | Notes | 1/3/73 | 4/3/73 | 5.20 | - | 619 | 26755.0 | nan |
+| 1973-Apr. | Notes | 1/5/73 | 4/5/73 | 5.20 | - | 44 | 26755.0 | nan |
+| 1973-Apr. | Notes | 1/10/73 | 4/10/73 | 5.15 | - | 100 | 26755.0 | nan |
+| 1973-Apr. | Notes | 1/17/73 | 4/17/73 | 5.30 | - | 250 | 26755.0 | nan |
+| 1973-Apr. | 1/18/73 | 4/18/73 | 5.30 | - | 70 | nan | nan | nan |
+| 1973-Apr. | 1/18/73 | 4/18/73 | 5.30 | - | 11 | nan | nan | nan |
+| 1973-Apr. | 1/19/73 | 4/19/73 | 5.30 | - | 25 | nan | nan | nan |
+| 1973-Apr. | 1/19/73 | 4/19/73 | 5.30 | - | 40 | nan | nan | nan |
+| 1973-Apr. | 1/26/73 | 4/26/73 | 5.65 | - | 50 | nan | nan | nan |
+| 1973-Apr. | 4/3/73 | 7/3/73 | 6.55 | 619 | - | nan | nan | nan |
+| 1973-Apr. | 4/5/73 | 7/5/73 | 6.55 | 44 | - | nan | nan | nan |
+| 1973-Apr. | 4/10/73 | 7/10/73 | 6.20 | 100 | - | nan | nan | nan |
+| 1973-Apr. | 4/17/73 | 7/17/73 | 6.20 | 250 | - | nan | nan | nan |
+--
+Table PDO-8. - Foreign Series Securities (Nonmarketable)
+
+Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Payable in U.S. Dollars; dollar amounts in millions)
+
+| Month of activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Issue date > Unnamed: 2_level_1 | Maturity date > Unnamed: 3_level_1 | Interest rate (Percent) > Unnamed: 4_level_1 | Amount > Issued | Amount > Retired | Amount > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1973-July | Notes | 12/24/68 | 6/25/73 | 6.00 | - | 2 | - |
+| 1973-July | Notes | 12/27/68 | 6/27/73 | 5.97 | - | 20 | - |
+| 1973-July | Notes | 6/25/71 | 6/25/73 | 6.20 | - | 600 | - |
+| 1973-July | Notes | 3/30/72 | 6/21/73 | 5.05 | - | 200 | - |
+| 1973-July | Notes | 6/21/73 | 9/19/74 | 7.10 | 200 | - | - |
+| 1973-July | Notes | 6/25/73 | 6/23/80 | 6.95 | 600 | - | - |
+| 1973-July | Notes | 6/29/73 | 12/29/77 | 2.50 | 199 | - | - |
+| 1973-July | Notes | 4/05/73 | 7/05/73 | 6.55 | - | 44 | - |
+| 1973-July | Notes | 4/17/73 | 7/17/73 | 6.20 | - | 250 | - |
+| 1973-July | Notes | 4/17/73 | 7/17/73 | 6.20 | - | 70 | - |
+| 1973-July | Notes | 4/18/73 | 7/18/73 | 6.20 | - | 11 | - |
+| 1973-July | Notes | 4/18/73 | 7/18/73 | 6.20 | - | 25 | - |
+| 1973-July | Notes | 4/19/73 | 7/19/73 | 6.20 | - | 40 | - |
+| 1973-July | Notes | 4/19/73 | 7/19/73 | 6.20 | - | 50 | - |
+| 1973-July | Notes | 4/26/73 | 7/26/73 | 6.25 | - | 25 | - |
+| 1973-July | 5/14/73 | 8/14/73 | 6.15 | - | 261 | nan | nan |
+| 1973-July | 6/20/73 | 9/20/73 | 7.30 | - | 489 | nan | nan |
+| 1973-July | 6/26/73 | 9/26/73 | 7.25 | - | 15 | nan | nan |
+--
+Table PDO-8. - Foreign Series Securities (Nonmarketable) Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Payable in U.S. Dollars; dollar amounts in millions)
+
+| Month of activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Issue date > Unnamed: 2_level_1 | Maturity date > Unnamed: 3_level_1 | Interest rate (Percent) > Unnamed: 4_level_1 | Amount > Issued | Amount > Retired | Amount > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1973-Sept. | Notes | 8/7/73 | 11/7/73 | 8.50 | 413 | - | - |
+| 1973-Sept. | Notes | 8/9/73 | 11/9/73 | 8.50 | 105 | 8 | - |
+| 1973-Sept. | Notes | 8/14/73 | 11/14/73 | 9.00 | 1170 | - | - |
+| 1973-Sept. | Notes | 8/14/73 | 11/14/73 | 9.00 | 70 | - | - |
+| 1973-Sept. | Notes | 8/16/73 | 11/16/73 | 9.00 | 15 | - | - |
+| 1973-Sept. | Notes | 8/16/73 | 11/16/73 | 9.00 | 65 | - | - |
+| 1973-Sept. | Notes | 8/22/73 | 11/23/73 | 8.95 | 45 | 45 | - |
+| 1973-Sept. | Notes | 8/23/73 | 11/23/73 | 8.95 | 8 | 8 | - |
+| 1973-Sept. | Notes | 8/23/73 | 11/23/73 | 8.95 | 30 | - | - |
+| 1973-Sept. | Notes | 8/29/73 | 11/29/73 | 8.70 | 1 | - | - |
+| 1973-Sept. | Notes | 8/31/73 | 11/30/73 | 8.70 | 472 | - | - |
+| 1973-Sept. | Certificates of indebtedness | 5/25/72 | 8/23/73 | 4.67 | - | 150 | 26420 |
+| 1973-Sept. | Certificates of indebtedness | 6/06/73 | 9/06/73 | 7.15 | - | 2503 | 26420 |
+| 1973-Sept. | Certificates of indebtedness | 6/06/73 | 9/06/73 | 7.15 | - | 466 | 26420 |
+| 1973-Sept. | Certificates of indebtedness | 6/07/73 | 9/07/73 | 7.15 | - | 100 | 26420 |
+| 1973-Sept. | Certificates of indebtedness | 6/20/73 | 9/20/73 | 7.30 | - | 200 | 26420 |
+| 1973-Sept. | Certificates of indebtedness | 6/26/73 | 9/26/73 | 7.25 | - | 885 | 26420 |
+| 1973-Sept. | Certificates of indebtedness | 6/29/73 | 9/28/73 | 7.25 | - | 652 | 26420 |
+| 1973-Sept. | Certificates of indebtedness | 8/09/73 | 11/09/73 | 8.50 | - | 38 | 26420 |
+| 1973-Sept. | Certificates of indebtedness | 8/29/73 | 11/29/73 | 8.70 | - | 1 | 26420 |
+--
+Table PDO-8. - Foreign Series Securities (Nonmarketable) Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Payable in U.S. Dollars; dollar amounts in millions)
+
+| Month of Activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Issue date > Unnamed: 2_level_1 | Maturity date > Unnamed: 3_level_1 | Interest rate (Percent) > Unnamed: 4_level_1 | Amount > Issued | Amount > Retired | Amount > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1973-Nov............. | Certificates of indebtedness | 5-09-73 | 11-09-73 | 6.45 | - | 1480 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 5-14-73 | 11-14-73 | 6.45 | - | 1500 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 5-17-73 | 11-16-73 | 6.45 | - | 706 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 5-30-73 | 11-30-73 | 6.90 | - | 100 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 6-06-73 | 12-06-73 | 7.25 | - | 20 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 8-02-73 | 11-02-73 | 8.35 | - | 55 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 8-07-73 | 11-07-73 | 8.50 | - | 413 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 8-09-73 | 11-09-73 | 8.50 | - | 40 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 8-14-73 | 11-14-73 | 9.00 | - | 1170 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 8-16-73 | 11-16-73 | 9.00 | - | 70 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 8-16-73 | 11-16-73 | 9.00 | - | 65 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 8-31-73 | 11-30-73 | 8.70 | - | 15 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 9-06-73 | 12-06-73 | 8.80 | - | 472 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 9-26-73 | 12-26-73 | 7.35 | - | 2533 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 9-26-73 | 12-26-73 | 7.35 | - | 158 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 9-28-73 | 12-28-73 | 7.35 | - | 150 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 10-19-73 | 1-28-74 | 7.20 | - | 364 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 11-02-73 | 2-01-74 | 7.20 | 55 | 10 | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 11-07-73 | 2-07-74 | 8.10 | 413 | - | 24477 |
+| 1973-Nov............. | Certificates of indebtedness | 11-09-73 | 2-08-74 | 8.10 | 40 | - | 24477 |
+--
+Table PDO-8. -Foreign Series Securities (Nonmarketable) Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Payable in U.S. Dollars; dollar amounts in millions)
+
+| Month of Activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Issue date > Unnamed: 2_level_1 | Maturity date > Unnamed: 3_level_1 | Interest rate (Percent) > Unnamed: 4_level_1 | Amount > Issued | Amount > Retired | Amount > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1974-Feb. | Certificates of indebtedness | 11-16-73 11-30-73 11-30-73 12-28-73 2-01-74 2-07-74 2-08-74 2-14-74 2-14-74 2-15-74 2-15-74 2-15-74 2-28-74 2-28-74 2-28-74 2-28-74 | 2-15-74 2-28-74 2-28-74 3-28-74 5-02-74 5-07-74 5-08-74 5-14-74 5-14-74 5-15-74 5-15-74 5-15-74 5-28-74 5-28-74 5-28-74 5-28-74 | 8.65 7.70 7.70 7.35 7.80 6.95 6.95 7.10 7.10 7.10 7.10 7.10 7.20 7.10 7.20 7.20 | - - - - 55 421 40 70 1,196 65 204 15 80 80 3,000 14 | 15 158 3,005 10 - - - - - - - - - - - - | 23762.0 |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+| 23762 | nan | nan | nan | nan | nan | nan | nan |
+
+Source: Bureau of the Public Debt. * Less than $500,000.
+
+March 1974
+
+63
+--
+Table PDO-9. - Foreign Currency Series Securities (Nonmarketable)
+
+Issued to Official Institutions of Foreign Countries
+
+(Dollar amounts in millions)
+
+| Month of activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Payable in -- > Unnamed: 2_level_1 | Issue date > Unnamed: 3_level_1 | Maturity date > Unnamed: 4_level_1 | Interest rate (percent) > Unnamed: 5_level_1 | Amount (Dollar equivalent) > Issued | Amount (Dollar equivalent) > Retired | Amount (Dollar equivalent) > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1970-July...... | Certificates of indebtedness | Swiss francs | 1/23/70 | 7/23/70 | 8.08 | - | 100 | 1366.0 |
+| nan | nan | Swiss francs | 7/23/70 | 1/22/71 | 6.75 | 100 | - | 1366.0 |
+| nan | Notes | Swiss francs | 4/9/69 | 7/9/70 | 6.2 | - | 30 | 1366.0 |
+| nan | nan | Swiss francs | 4/29/70 | 7/29/70 | 6.2 | - | 39 | 1366.0 |
+| nan | nan | Swiss francs | 7/9/70 | 10/8/71 | 7.3 | 30 | - | 1366.0 |
+| nan | nan | Swiss francs | 7/29/70 | 10/29/71 | 7.23 | 40 | - | 1366.0 |
+| Aug...... | Certificates of indebtedness | Swiss francs | 2/6/70 | 8/6/70 | 8.125 | - | 50 | 1366.0 |
+| nan | nan | Swiss francs | 8/6/70 | 2/5/71 | 6.75 | 50 | - | 1366.0 |
+| Sept..... | Notes | Swiss francs | 6/9/69 | 9/9/70 | 6.89 | - | 101 | 1366.0 |
+| nan | nan | Swiss francs | 9/9/70 | 12/9/71 | 6.9 | 101 | - | 1366.0 |
+| Oct...... | Notes | Swiss francs | 7/3/69 | 10/5/70 | 7.7 | - | 22 | 1366.0 |
+| nan | nan | Swiss francs | 7/16/69 | 10/16/70 | 7.55 | - | 134 | 1366.0 |
+| nan | nan | Swiss francs | 10/5/70 | 1/5/72 | 6.7 | 22 | - | 1366.0 |
+| nan | nan | Swiss francs | 10/16/70 | 1/17/72 | 6.55 | 133 | - | 1366.0 |
+| 1971-Jan..... | Certificates of indebtedness | Swiss francs | 7/23/70 | 1/22/71 | 6.75 | - | 100 | 1366.0 |
+| nan | nan | Swiss francs | 1/22/71 | 7/22/71 | 4.4 | 100 | - | 1366.0 |
+| nan | Notes | Swiss francs | 9/9/69 | 1/29/71 | 7.85 | - | 30 | 1366.0 |
+| nan | nan | Swiss francs | 1/29/71 | 5/30/72 | 4.4 | 30 | - | 1366.0 |
+--
+Table PDO-9. - Foreign Currency Series Securities (Nonmarketable)
+
+Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Dollar amounts in millions)
+
+| Month of activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Payable in -- > Unnamed: 2_level_1 | Issue date > Unnamed: 3_level_1 | Maturity date > Unnamed: 4_level_1 | Interest rate (percent) > Unnamed: 5_level_1 | Amount (Dollar equivalent) > Issued | Amount (Dollar equivalent) > Retired | Amount (Dollar equivalent) > Total outstanding end of month |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1972-Jan..... | Notes 1/ | German marks 7/3/67 German marks 4/1/68 German marks 6/24/68 German marks 8/19/69 German marks 10/2/69 Swiss francs 5/10/71 Swiss francs 5/10/71 Swiss francs 6/1/71 Swiss francs 7/6/71 Swiss francs 8/6/71 Swiss francs 8/19/71 Swiss francs 9/10/71 Swiss francs 9/13/71 Swiss francs 10/8/71 Swiss francs 10/29/71 Swiss francs 12/9/71 Swiss francs 8/27/71 Swiss francs 5/10/71 Swiss francs 5/10/71 Swiss francs 7/22/71 Swiss francs 1/21/72 | 7/3/67 4/1/68 6/24/68 8/19/69 10/2/69 5/10/71 5/10/71 6/1/71 7/6/71 8/6/71 8/19/71 9/10/71 9/13/71 10/8/71 10/29/71 12/9/71 8/27/71 5/10/71 5/10/71 7/22/71 1/21/72 | 3/3/72 10/2/72 12/22/72 2/19/73 10/2/73 5/18/72 5/30/72 9/1/72 10/6/72 11/6/72 11/20/72 12/11/72 12/13/72 1/8/73 1/29/73 3/9/73 8/27/73 1/5/72 1/17/72 1/21/72 7/21/72 | 5.28 5.73 6.25 3.05 4.43 3.90 4.40 5.15 6.15 6.35 5.65 5.45 5.55 5.25 4.85 4.80 5.67 6.70 6.55 5.75 3.50 | 17 17 17 18 19 1 1 1 3 1 6 1 *1 *12 - - 140 105 111 | - - - - - - - - - - - - - - - - 24 140 105 - | 2147 |
+| Feb..... | Certificates of indebtedness | Swiss francs 1/5/72 Swiss francs 1/17/72 | 1/5/72 1/17/72 | 4/5/73 4/17/73 | 4.50 4.15 | 25 148 | - - | 2148 |
+| Mar..... | Notes | Swiss francs 7/3/67 German marks 10/2/69 German marks 3/3/72 | 7/3/67 10/2/69 3/3/72 | 3/3/72 10/2/73 2/10/2/73 | 5.28 4.43 2.051 | - 56 153 | 76 153 - | 2072 |
+| May..... | Notes | Swiss francs 5/10/71 Swiss francs 5/18/72 Swiss francs 5/30/72 | 5/10/71 5/18/72 5/30/72 | 5/18/72 8/20/73 8/30/73 | 3.90 4.40 4.55 | - 33 34 | 33 33 - | 2072 |
+| July..... | Certificates of indebtedness Notes | Swiss francs 1/21/72 Swiss francs 7/21/72 German marks 7/3/67 | 1/21/72 7/21/72 7/3/67 | 7/21/72 1/19/73 7/3/72 | 3.50 4.375 5.28 | 114 - - | 111 76 | 1999 |
+| Aug..... | Certificates of indebtedness | Swiss francs 2/4/72 Swiss francs 8/4/72 | 2/4/72 8/4/72 | 8/4/72 2/2/73 | 3.625 4.25 | - 57 | 56 - | 2000 |
+| Sept..... | Notes | Swiss francs 6/1/71 Swiss francs 9/1/72 | 6/1/71 9/1/72 | 9/1/72 11/30/73 | 5.15 5.50 | - 29 | 28 - | 2001 |
+| Oct..... | Notes | German marks 4/1/68 Swiss francs 7/6/71 Swiss francs 10/6/72 | 4/1/68 7/6/71 10/6/72 | 10/2/72 10/6/72 1/7/74 | 5.73 6.15 5.70 | - - 59 | 153 57 - | 1850 |
+| Nov..... | Notes | Swiss francs 8/6/71 Swiss francs 8/19/71 Swiss francs 11/6/72 Swiss francs 11/20/74 | 8/6/71 8/19/71 11/6/72 11/20/74 | 11/6/72 11/20/72 2/6/74 2/20/74 | 6.35 5.65 5.40 5.25 | - - 29 32 | 28 31 - - | 1852 |
+| Dec..... | Notes | German marks 6/24/68 Swiss francs 9/10/71 Swiss francs 9/13/71 Swiss francs 12/11/72 Swiss francs 12/13/72 | 6/24/68 9/10/71 9/13/71 12/11/72 12/13/72 | 12/22/72 12/11/72 12/13/72 3/11/74 3/13/74 | 6.25 5.45 5.55 5.50 5.47 | - - - 285 26 | 153 275 26 - - | 1710 |
+| 1973-Jan..... | Certificates of indebtedness Notes | Swiss francs 7/21/72 Swiss francs 1/19/73 Swiss francs 10/29/71 Swiss francs 1/8/73 Swiss francs 1/29/73 | 7/21/72 1/19/73 10/29/71 1/8/73 1/29/73 | 1/19/73 7/19/73 1/8/73 1/29/73 4/8/74 4/29/74 | 4.375 5.25 5.25 4.85 5.70 6.00 | - 114 - - 35 45 | 114 - 33 43 - - | 1713 |
+| Feb..... | Certificates of indebtedness Notes | Swiss francs 8/4/72 Swiss francs 2/2/73 German marks 8/19/69 | 8/4/72 2/2/73 8/19/69 | 2/2/73 8/2/73 2/19/73 | 4.25 5.75 3.05 | - 57 1 3/ | 57 154 | 1561 |
+| Mar..... | Notes | Swiss francs 12/9/71 Swiss francs 3/9/73 | 12/9/71 3/9/73 | 3/9/73 6/7/74 | 4.80 6.625 | - 129 | 111 - | 1578 |
+
+March 1974
+
+65
+
+--
+Table PDO-9. - Foreign Currency Series Securities (Nonmarketable)
+
+Issued to Official Institutions of Foreign Countries - (Continued)
+
+(Dollar amounts in millions)
+
+| Month of activity > Unnamed: 0_level_1 | Securities > Unnamed: 1_level_1 | Payable in -- > Unnamed: 2_level_1 | Issue date > Unnamed: 3_level_1 | Maturity date > Unnamed: 4_level_1 | Interest rate (percent) > Unnamed: 5_level_1 | Amount (Dollar equivalent) > Issued | Amount (Dollar equivalent) > Retired | Amount (Dollar equivalent) > Total outstanding end of month | Unnamed: 9_level_0 > Unnamed: 9_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1973-Apr..... | Notes 4/ | Certificates of indebtedness 4/ | Swiss francs | 1/19/73 | 7/19/73 | 5.25 | 10 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | Swiss francs | 2/2/73 | 8/2/73 | 5.75 | 5 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | German marks | 10/2/69 | 10/2/73 | 2051 | 19 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | Swiss francs | 8/27/71 | 8/27/73 | 5.67 | 46 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | Swiss francs | 5/18/72 | 8/20/73 | 4.77 | 4 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | Swiss francs | 5/30/72 | 8/30/73 | 4.55 | 4 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | Swiss francs | 9/1/72 | 11/30/73 | 5.50 | 3 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | Swiss francs | 10/6/72 | 1/7/74 | 5.70 | 6 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | Swiss francs | 11/6/72 | 2/6/74 | 5.40 | 3 | - | 1743.0 |
+| 1973-Apr..... | Notes 4/ | nan | Swiss francs | 11/20/72 | 2/20/74 | 5.25 | 3 | - | 1743.0 |
+| 1973-Apr..... | Notes | Swiss francs | 12/11/72 | 3/11/74 | 5.50 | 26 | - | nan | nan |
+| 1973-Apr..... | Notes | Swiss francs | 12/13/72 | 3/13/74 | 5.47 | 2 | - | nan | nan |
+| 1973-Apr..... | Notes | Swiss francs | 1/8/73 | 4/8/74 | 5.70 | 3 | - | nan | nan |
+| 1973-Apr..... | Notes | Swiss francs | 1/29/73 | 4/29/74 | 6.00 | 4 | - | nan | nan |
+| 1973-Apr..... | Notes | Swiss francs | 1/5/72 | 4/5/73 | 4.50 | - | 25 | nan | nan |
+| July..... | Certificates of indebtedness | Swiss francs | 1/17/72 | 4/17/73 | 4.15 | - | 148 | 1746 | nan |
+| July..... | Certificates of indebtedness | Swiss francs | 4/5/73 | 7/5/74 | 6.93 | 29 | - | 1746 | nan |
+| July..... | nan | Swiss francs | 4/17/73 | 7/17/74 | 6.70 | 170 | - | nan | nan |
+--
+5/ Includes exchanges of Series 1941 F and G savings bonds for 3-1/4% marketable bonds of 1978-83.
+6/ Includes exchanges of Series 1948 F and G bonds for 4-3/4% marketable notes of 1964.
+7/ Includes exchanges of Series 1949 F and G bonds for 4% marketable bonds of 1969.
+8/ Includes exchanges of Series 1960 F and G bonds for 3-7/8% marketable bonds of 1968.
+9/ Includes exchanges of Series 1951 and 1952 F and G bonds for 3-7/8% marketable bonds of 1971 and 4% marketable bonds of 1980.
+10/ Represents changes in the amounts of redemptions not yet classified between matured and unmatured issues.
+* Less than $500,000.
+
+70
+
+Treasury Bulletin
+
+UNITED STATES SAVINGS BONDS
+
+Table SB-6. - Sales by States, Series E and H 1/Combined.
+
+(In thousands of dollars at issue price)
+
+| State | Inception Through December 1973 2/ | Jan. | Feb. | Mar. | Apr. | May | June | July | Aug. | Sept. | Oct. | Nov. | Dec. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Alabama | 1740332 | 5490 | 5825 | 5141 | 5671 | 5556 | 5328 | 5081 | 5346 | 5256 | 4649 | 5152 | 4713 |
+| Alaska | 107,443 3/ | 583 | 572 | 588 | 673 | 537 | 521 | 492 | 582 | 539 | 576 | 563 | 574 |
+| Arizona | 750793 | 3465 | 4175 | 3680 | 3378 | 4285 | 3249 | 3179 | 3843 | 3384 | 2736 | 3522 | 2855 |
+| Arkansas | 945471 | 2660 | 3005 | 2745 | 2807 | 2533 | 2430 | 2337 | 2284 | 2599 | 2246 | 2323 | 2331 |
+| California | 11950730 | 34160 | 38327 | 34993 | 36126 | 39630 | 34976 | 30997 | 35015 | 31406 | 30286 | 32064 | 29027 |
+| Colorado | 1326038 | 5088 | 5153 | 4192 | 5327 | 4264 | 4266 | 4415 | 4170 | 4130 | 4239 | 3812 | 4098 |
+| Connecticut | 2724134 | 10259 | 9636 | 10544 | 9413 | 11815 | 9101 | 8478 | 8879 | 7044 | 7457 | 6965 | 8812 |
+| Delaware | 545858 | 2258 | 1308 | 3676 | 1169 | 2671 | 3366 | 2533 | 3658 | 2794 | 2903 | 1006 | 1660 |
+| District of Columbia | 2040392 | 6315 | 7650 | 7189 | 9497 | 5393 | 7280 | 7665 | 9226 | 6229 | 6871 | 8194 | 6055 |
+| Florida | 2644558 | 12190 | 16359 | 12858 | 13290 | 12601 | 11948 | 10898 | 9778 | 10670 | 10890 | 10382 | 8959 |
+--
+| End of fiscal year or month > Unnamed: 0_level_1 > Unnamed: 0_level_2 | Total Federal securities outstanding > Unnamed: 1_level_1 > Unnamed: 1_level_2 | Total outstanding > Unnamed: 2_level_1 > Unnamed: 2_level_2 | Held by U.S. Government accounts > Total > Unnamed: 3_level_2 | Held by U.S. Government accounts > Public marketable > Unnamed: 4_level_2 | Held by U.S. Government accounts > Nonmarketable > Special issues | Held by U.S. Government accounts > Nonmarketable > Other | Public issues held by Federal Reserve banks > Unnamed: 7_level_1 > Unnamed: 7_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1965 | 326609 | 313113 | 61070 | 10351 | 48549 | 2171 | 39100 |
+| 1966 | 333284 | 315431 | 64316 | 12050 | 50196 | 2070 | 42169 |
+| 1967 | 344676 | 322286 | 71809 | 13635 | 56103 | 2071 | 46719 |
+| 1968 | 371978 | 344401 | 76138 | 14694 | 59374 | 2071 | 52230 |
+| 1969 | 367969 | 351729 | 84815 | 16007 | 66738 | 2071 | 54095 |
+| 1970 | 383428 | 369026 | 95170 | 16974 | 76124 | 2071 | 57714 |
+| 1971 | 410292 | 396289 | 102888 | 18092 | 82740 | 2056 | 65518 |
+| 1972 | 438154 | 425360 | 111460 | 19868 | 89536 | 2056 | 71356 |
+| 1973 | 469251 | 456353 | 123385 | 20080 | 101248 | 2056 | 75022 |
+| 1972-Dec | 461068 | 447298 | 116897 | 19360 | 95482 | 2056 | 69906 |
+| 1973-Jan | 461,856r | 448191 | 116210 | 19573 | 94582 | 2056 | 72022 |
+| Feb | 466617 | 452928 | 117124 | 19779 | 95289 | 2056 | 72620 |
+| Mar | 470412 | 456787 | 117922 | 20040 | 95826 | 2056 | 74276 |
+| Apr | 468148 | 455214 | 117902 | 19991 | 95855 | 2056 | 75495 |
+| May | 468380 | 455431 | 120123 | 20246 | 97821 | 2056 | 74128 |
+| June | 469251 | 456353 | 123385 | 20080 | 101248 | 2056 | 75022 |
+| July | 470121 | 457217 | 124992 | 20423 | 102513 | 2056 | 77098 |
+| Aug | 473263 | 459918 | 128688 | 21039 | 105593 | 2056 | 76093 |
+| Sept | 472898 | 459471 | 127776 | 20880 | 104840 | 2056 | 76217 |
+| Oct | 473964 | 460587 | 127444 | 20840 | 104548 | 2056 | 78491 |
+| Nov | 475798 | 462076 | 127080 | 23984 | 101040 | 2056 | 77129 |
+| Dec | 481484 | 467827 | 129641 | 20961 | 108624 | 2056 | 78516 |
+| 1974-Jan | 479782 | 466273 | 128706 | 21095 | 105555 | 2056 | 78240 |
+
+| End of fiscal year or month > End of fiscal year or month | Interest-bearing public debt securities-(Cont.) Held by private investors > Total | Interest-bearing public debt securities-(Cont.) Held by private investors > Public marketable | Interest-bearing public debt securities-(Cont.) Held by private investors > Nonmarketable | Matured public debt and debt bearing no interest > Matured public debt and debt bearing no interest | Agency securities > Total outstanding 1/ | Agency securities > Held by U.S. Government accounts and Federal Reserve banks | Agency securities > Held by private investors |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1965 | 212941 | 159244 | 53697 | 4161 | 9335 | 469 | 8866 |
+| 1966 | 208946 | 154909 | 54037 | 4476 | 13377 | 468 | 12909 |
+| 1967 | 203758 | 150318 | 53440 | 3935 | 18455 | 2010 | 16445 |
+| 1968 | 216032 | 159668 | 56363 | 3178 | 24399 | 3001 | 21398 |
+| 1969 | 212819 | 156006 | 56814 | 1991 | 14249 | 2846 | 11403 |
+| 1970 | 216142 | 157911 | 58231 | 1893 | 12510 | 2553 | 9956 |
+| 1971 | 227883 | 161863 | 66020 | 1841 | 12163 | 2251 | 9911 |
+| 1972 | 242545 | 165978 | 76566 | 1901 | 10894 | 2170 | 8724 |
+| 1973 | 257947 | 167869 | 90078 | 1788 | 11109 | 2156 | 8953 |
+| 1972-Dec | 260495 | 180244 | 80251 | 2000 | 11770 | 2320 | 9450 |
+| 1973-Jan | 259959 | 179527 | 80432 | 1877 | 11788 | 2297 | 9491 |
+| Feb | 263184 | 177482 | 85702 | 1911 | 11779 | 2259 | 9520 |
+| Mar | 264589 | 175459 | 89130 | 1819 | 11806 | 2325 | 9480 |
+| Apr | 261817 | 172361 | 89457 | 1849 | 11084 | 2181 | 8903 |
+| May | 261179 | 171544 | 89635 | 1908 | 11041 | 2167 | 8874 |
+| June | 257947 | 167869 | 90078 | 1788 | 11109 | 2156 | 8953 |
+| July | 255128 | 165188 | 89940 | 1786 | 11118 | 2121 | 8996 |
+| Aug | 255137 | 165273 | 89864 | 1926 | 11419 | 2151 | 9267 |
+| Sept | 255478 | 165259 | 90219 | 1968 | 11459 | 2207 | 9252 |
+| Oct | 254653 | 164716 | 89937 | 1889 | 11488 | 2110 | 9378 |
+| Nov | 257867 | 169120 | 88747 | 1961 | 11760 | 2130 | 9630 |
+| Dec | 259670 | 170747 | 88923 | 2071 | 11586 | 2107 | 9479 |
+| 1974-Jan | 259328 | 170796 | 88531 | 1911 | 11598 | 2100 | 9498 |
+
+--
+| Marketable | 270131.0 | 99335 | 170796.0 | 45848 | 1911 | 2615 | 2315 | 2179 | 4600 | 8912 | 1410 | 101006.0 |
+| Nonmarketable 4/ | 89991.0 | 2056 | 87935.0 | 34 5/ | 4 | 16 | 22 | 3 | * | 12 | 58 | 87787.0 |
+| Special issues | 106151.0 | 105555 | 596.0 | - | - | - | - | - | - | - | - | 596.0 |
+| Total interest-bearing public debt securities | 466273.0 | 206946 | 259328.0 | 45882 | 1915 | 2632 | 2337 | 2181 | 4600 | 8924 | 1467 | 189389.0 |
+| Natured debt and debt bearing no interest | 1911.0 | - | 1911.0 | - | - | - | - | - | - | - | - | 1911.0 |
+| Total public debt securities | 468184.0 | 206946 | 261238.0 | 45882 | 1915 | 2632 | 2337 | 2181 | 4600 | 8924 | 1467 | 191300.0 |
+| Government agency issues: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Regular issues | 5368.0 | 219 | 5150.0 | 1143 | 234 | 114 | 19 | 170 | 239 | 280 | 287 | 2663.0 |
+| Participation certificates 6/ | 4790.0 | 1701 | 3089.0 | 551 | 180 | 43 | 186 | 74 | 55 | 121 | 874 | 1005.0 |
+| Total Government agency securities covered in Treasury Survey | 10158.0 | 1919 | 8239.0 | 1694 | 415 | 157 | 205 | 244 | 294 | 400 | 1161 | 3668.0 |
+| Nonsurveyed Government agency securities | 1440.0 | 180 | 1260.0 | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Total Government agency securities 7/ | 11598.0 | 2100 | 9498.0 | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Total Federal securities | 479782.0 | 209046 | 270736.0 | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+
+Footnotes at end of Table TSO-6.
+
+March 1974
+
+75
+
+TREASURY SURVEY OF OWNERSHIP JANUARY 31, 1974
+
+Table TSO-2. - Interest-Bearing Marketable Public Debt Securities by Type and Maturity Distribution
+
+(Par values - in millions of dollars)
+
+| Classification | Total amount outstanding 1/ | U.S. Government accounts and Federal Reserve banks | 5,585 commercial banks 2/ | 477 mutual savings banks 2/ | Insurance companies 290 life | 444 fire, casualty, and marine | 483 savings and loan associations | 461 corporations | State and local governments 315 general funds | 189 pension and retirement funds | Held by all other investors 3/ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| By type security: | By type security: | By type security: | By type security: | By type security: | By type security: | By type security: | By type security: | By type security: | By type security: | By type security: | By type security: |
+| Issued by U.S. Government: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Treasury bills | 107805 | 37263 | 8260 | 229 | 83 | 231 | 141 | 1461 | 4478 | 207 | 55451 |
+| Treasury notes | 124644 | 49109 | 33874 | 1088 | 282 | 1237 | 1513 | 2146 | 3032 | 145 | 32217 |
+| Treasury bonds | 37682 | 12963 | 3713 | 595 | 2251 | 847 | 525 | 992 | 1403 | 1057 | 13337 |
+| Total | 270131 | 99335 | 45848 | 1911 | 2615 | 2315 | 2179 | 4600 | 8912 | 1410 | 101006 |
+| By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: | By maturity distribution: |
+| Call classes (due or first becoming callable): | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Within 1 year | 141590 | 48104 | 17657 | 535 | 145 | 617 | 600 | 2958 | 5787 | 309 | 64877 |
+| 1 to 5 years | 84398 | 31609 | 23119 | 796 | 557 | 917 | 1072 | 1327 | 2079 | 246 | 22676 |
+| 5 to 10 years | 23650 | 11693 | 3957 | 182 | 538 | 418 | 298 | 252 | 576 | 146 | 5590 |
+| 10 to 15 years | 9803 | 4831 | 639 | 113 | 386 | 222 | 123 | 38 | 170 | 366 | 2917 |
+| 15 to 20 years | 6750 | 2088 | 415 | 171 | 616 | 108 | 65 | 25 | 164 | 295 | 2802 |
+| 20 years and over | 3940 | 1009 | 61 | 114 | 374 | 32 | 20 | 1 | 136 | 47 | 2144 |
+| Total | 270131 | 99335 | 45848 | 1911 | 2615 | 2315 | 2179 | 4600 | 8912 | 1410 | 101006 |
+| Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): | Maturity classes (final maturity): |
+| Within 1 year | 141590 | 48104 | 17657 | 535 | 145 | 617 | 600 | 2958 | 5787 | 309 | 64877 |
+| 1 to 5 years | 81716 | 30843 | 22960 | 754 | 232 | 853 | 1035 | 1326 | 1930 | 107 | 21676 |
+| 5 to 10 years | 25132 | 11966 | 4036 | 213 | 824 | 458 | 324 | 253 | 664 | 187 | 6208 |
+| 10 to 15 years | 5723 | 2977 | 462 | 53 | 257 | 80 | 68 | 25 | 115 | 130 | 1555 |
+--
+Table TSO-3. - Interest-Bearing Marketable Public Debt Securities by Issue
+
+(Par values - in millions of dollars)
+
+| Issue > Issue > Unnamed: 0_level_2 | Total amount outstanding 1/ > Total amount outstanding 1/ > Unnamed: 1_level_2 | Held by investors covered in Treasury Survey > U.S. Government accounts and Federal Reserve banks > Unnamed: 2_level_2 | Held by investors covered in Treasury Survey > 5,585 commercial banks 2/ > Unnamed: 3_level_2 | Held by investors covered in Treasury Survey > 477 mutual savings banks 2/ > Unnamed: 4_level_2 | Held by investors covered in Treasury Survey > Insurance companies > 290 life | Held by investors covered in Treasury Survey > Insurance companies > 444 fire, casualty, and marine | Held by investors covered in Treasury Survey > Insurance companies > 483 savings and loan associations | Held by investors covered in Treasury Survey > State and local governments > 461 corporations | Held by investors covered in Treasury Survey > State and local governments > 315 general funds | Held by investors covered in Treasury Survey > Held by all other investors 3/ > 189 pension and retirement funds | Held by all other investors 3/ > Unnamed: 11_level_1 > Unnamed: 11_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Treasury Bills: Regular weekly and annual maturing: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Feb. 1974 | 18970.0 | 7968.0 | 368.0 | 18.0 | 12 | 44 | 17 | 57.0 | 764.0 | 47 | 9674.0 |
+| Mar. 1974 | 19046.0 | 7280.0 | 443.0 | 7.0 | 11 | 76 | 18 | 161.0 | 1149.0 | 68 | 9835.0 |
+| Apr. 1974 | 19023.0 | 7557.0 | 916.0 | 27.0 | 24 | 36 | 25 | 151.0 | 834.0 | 56 | 9397.0 |
+| May. 1974 | 13309.0 | 3517.0 | 1285.0 | 43.0 | 6 | 14 | 22 | 163.0 | 390.0 | 21 | 7847.0 |
+| June 1974 | 9004.0 | 3089.0 | 973.0 | 21.0 | 4 | 17 | 18 | 274.0 | 355.0 | 8 | 4245.0 |
+| July 1974 | 10827.0 | 3152.0 | 1118.0 | 45.0 | 1 | 9 | 15 | 276.0 | 406.0 | 5 | 5729.0 |
+| Aug. 1974 | 3608.0 | 858.0 | 693.0 | 15.0 | * | 1 | 2 | 64.0 | 149.0 | * | 1825.0 |
+| Sept. 1974 | 1802.0 | 668.0 | 113.0 | 25.0 | 1 | 1 | 5 | 33.0 | 89.0 | 2 | 866.0 |
+| Oct. 1974 | 1802.0 | 628.0 | 364.0 | 5.0 | - | * | * | 5.0 | 48.0 | * | 752.0 |
+| Nov. 1974 | 1801.0 | 612.0 | 385.0 | 10.0 | 1 | 1 | 1 | 2.0 | 59.0 | * | 730.0 |
+| Dec. 1974 | 1803.0 | 830.0 | 330.0 | 1.0 | 4 | * | 6 | 50.0 | 5.0 | * | 578.0 |
+| Jan. 1975 | 1802.0 | 747.0 | 362.0 | 6.0 | - | * | 4 | 42.0 | 17.0 | - | 624.0 |
+| Tax anticipation: Apr. 1974 | 3009.0 | 323.0 | 218.0 | 2.0 | 20 | 34 | 2 | 97.0 | 204.0 | - | 2108.0 |
+| June 1974 | 2000.0 | 34.0 | 622.0 | 2.0 | - | - | 6 | 86.0 | 9.0 | - | 1242.0 |
+| Total Treasury Bills | 107805.0 | 37263.0 | 8260.0 | 229.0 | 83 | 231 | 141 | 1461.0 | 4478.0 | 207 | 55451.0 |
+
+Footnotes at end of Table TSO-6.
+
+76
+--
+Table TSO-3. - Interest-Bearing Marketable Public Debt Securities by Issue—Continued
+
+(Par values - in millions of dollars)
+
+| Issue > Issue | Total amount outstanding 1/ > Total amount outstanding 1/ | Held by investors covered in Treasury Survey > U. S. Government accounts and Federal Reserve banks | Held by investors covered in Treasury Survey > 5,585 commercial banks 2/ | Held by investors covered in Treasury Survey > 477 mutual savings banks 2/ | Held by investors covered in Treasury Survey > Insurance companies 290 life | Held by investors covered in Treasury Survey > 444 fire, casualty, and marine | Held by investors covered in Treasury Survey > 483 savings and loan associations | Held by investors covered in Treasury Survey > 461 corporations | Held by investors covered in Treasury Survey > State and local governments 315 general funds 189 pension and retirement funds | Held by investors covered in Treasury Survey > Held by all other investors 3/ | Held by all other investors 3/ > Unnamed: 11_level_1 | Unnamed: 12_level_0 > Unnamed: 12_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | Treasury notes: | nan |
+| 7-3/4% | 1974-C | 2960 | 340 | 1060 | 39 | 3 | 23 | 37 | 32 | 129 | 2 | 1295.0 |
+| 7-1/4% | May 1974-D | 4334 | 1010 | 1578 | 35 | 1 | 43 | 39 | 65 | 126 | 4 | 1433.0 |
+| 5-5/8% | Aug. 1974-B | 10284 | 5870 | 1906 | 87 | 10 | 65 | 118 | 341 | 227 | 13 | 1647.0 |
+| 6 | Sept. 1974-E | 2060 | 137 | 997 | 25 | 3 | 4 | 25 | 35 | 141 | * | 694.0 |
+| 5-3/4% | Nov. 1974-A | 5442 | 2211 | 1222 | 44 | 7 | 42 | 40 | 74 | 136 | 6 | 1662.0 |
+| 5-7/8% | Dec. 1974-F | 2102 | 64 | 1071 | 19 | 2 | 30 | 40 | 23 | 122 | 2 | 731.0 |
+| 5-3/4% | Feb. 1975-A | 4015 | 1543 | 1011 | 27 | 7 | 58 | 53 | 52 | 164 | 16 | 1084.0 |
+| 5-7/8% | Feb. 1975-E | 1222 | 115 | 643 | 8 | 2 | 9 | 14 | 48 | 118 | 3 | 261.0 |
+| 5-7/8% | May 1975-F | 1776 | 120 | 866 | 32 | * | 2 | 29 | 61 | 89 | * | 576.0 |
+| 6 | May 1975-B | 6760 | 4518 | 782 | 24 | 10 | 60 | 44 | 9 | 128 | 14 | 1170.0 |
+| 5-7/8% | Aug. 1975-B | 7679 | 2741 | 2783 | 69 | 15 | 49 | 133 | 234 | 207 | 4 | 1444.0 |
+| 8-3/8% | Sept. 1975-G | 2042 | 42 | 869 | 55 | 1 | 26 | 6 | 140 | 84 | - | 820.0 |
+| 7 | Nov. 1975-D | 3115 | 743 | 1004 | 30 | 9 | 46 | 20 | 24 | 123 | 2 | 1113.0 |
+| 7 | Dec. 1975-H | 1731 | 228 | 877 | 10 | * | 22 | 15 | 80 | 136 | * | 363.0 |
+| 5-7/8% | Feb. 1976-F | 4945 | 1183 | 2016 | 65 | 43 | 65 | 84 | 262 | 151 | 6 | 1069.0 |
+| 6-1/4% | Feb. 1976-A | 3739 | 2857 | 344 | 9 | 3 | 11 | 16 | 6 | 23 | 1 | 468.0 |
+| 5-3/4% | May 1976-E | 2802 | 574 | 1239 | 27 | 2 | 48 | 40 | 57 | 39 | 2 | 774.0 |
+| 6-1/2% | May 1976-B | 2697 | 802 | 614 | 35 | 3 | 66 | 23 | 11 | 52 | 3 | 1088.0 |
+| 6-1/2% | Aug. 1976-G | 3883 | 1827 | 1094 | 36 | 1 | 11 | 27 | 99 | 73 | 1 | 714.0 |
+--
+| Total marketable public debt securities | nan | 270131 | 99335 | 45848 | 1911 | 2615 | 2315 | 2179 | 4600 | 8912 | 1410 | 101006.0 |
+
+Footnotes at end of Table TS0-6.
+
+March 1974
+
+77
+
+TREASURY SURVEY OF OWNERSHIP, JANUARY 31, 1974
+
+Table TSO-4. - Interest-Bearing Nonmarketable Public Debt Securities by Type
+
+(Par values - millions of dollars)
+
+| Type > Type > Unnamed: 0_level_2 | Total amount outstanding 1/ > Total amount outstanding 1/ > Unnamed: 1_level_2 | Held by investors covered in Treasury Survey > U.S. Government accounts and Federal Reserve banks > Unnamed: 2_level_2 | Held by investors covered in Treasury Survey > 5,585 commercial banks 2/ > Unnamed: 3_level_2 | Held by investors covered in Treasury Survey > 477 mutual savings banks 2/ > Unnamed: 4_level_2 | Held by investors covered in Treasury Survey > Insurance companies > 290 life | Held by investors covered in Treasury Survey > Insurance companies > 444 fire, casualty, and marine | Held by investors covered in Treasury Survey > 483 savings and loan associations > Unnamed: 7_level_2 | Held by investors covered in Treasury Survey > 461 corporations > Unnamed: 8_level_2 | Held by investors covered in Treasury Survey > State and local governments > 315 general funds | Held by other investors 2/ > Held by other investors 2/ > 189 pension and retirement funds | Unnamed: 11_level_0 > Unnamed: 11_level_1 > Unnamed: 11_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| U.S. savings bonds: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Series E..................... | 52881.0 | * | - | - | * | - | - | * | * | * | 52881 |
+| Series H..................... | 7615.0 | * | - | - | - | * | * | * | * | * | 7615 |
+| Total U.S. savings Bonds | 60497.0 | * | - | - | * | * | * | * | * | * | 60496 |
+| Other U.S. securities: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Certificates of indebtedness: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Foreign Series | 9546.0 | - | - | - | - | - | - | - | - | - | 9546 |
+| Foreign Currency Series | 127.0 | - | - | - | - | - | - | - | - | - | 127 |
+| R.E.A. series | 7.0 | - | - | - | - | - | - | - | - | - | 7 |
+| Treasury certificates | 531.0 | - | - | - | - | - | - | - | - | - | 531 |
+| Treasury notes: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Foreign Series | 14210.0 | - | - | - | - | - | - | - | - | - | 14210 |
+| Foreign Currency Series | 1461.0 | - | - | - | - | - | - | - | - | - | 1461 |
+| Other | 59.0 | - | 16 5/ | - | - | - | - | - | - | - | 59 |
+| Depository bonds | 16.0 | - | - | - | - | - | - | - | - | - | - |
+| Treasury bonds: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| R.E.A. series | 7.0 | - | - | - | - | - | - | - | - | - | 7 |
+| Investment Series B | 2273.0 | 2056 | 19 | 4 | 16 | 22 | 3 | * | 12 | 58 | 86 |
+| Other | 250.0 | - | - | - | - | - | - | - | - | - | 250 |
+| State and local Government Series: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+--
+| Total nonmarketable public debt securities | 89991.0 | 2056 | 34 5/ | 4 | 16 | 22 | 3 | * | 12 | 58 | 87787 |
+
+Footnotes at end of Table TSO-6.
+
+Table TSO-5. - Securities Issued by Government Agencies
+
+(Par values - in millions of dollars)
+
+| Type > Type | Total amount outstanding 1/7/ > Total amount outstanding 1/7/ | Held by investors covered in Treasury Survey > U.S. Government accounts and Federal Reserve banks | Held by investors covered in Treasury Survey > 5,585 commercial banks 2/ | Held by investors covered in Treasury Survey > 477 mutual savings banks 2/ | Held by investors covered in Treasury Survey > Insurance companies 290 life | Held by investors covered in Treasury Survey > 444 fire, casualty, and marine | Held by investors covered in Treasury Survey > 483 savings and loan associations | Held by investors covered in Treasury Survey > 461 corporations | Held by investors covered in Treasury Survey > State and local governments 315 general funds 189 pension and retirement funds | Held by investors covered in Treasury Survey > Held by all other investors 2/ | Held by all other investors 2/ > Unnamed: 11_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: | Export-Import Bank: |
+| 5.30% Feb. 1975 (Debentures) | 300 | 24 | 126 | 1 | * | 2 | 13 | 13 | 10 | - | 111 |
+| 5.70% Dec. 1976 (Debentures) | 300 | 22 | 105 | 7 | 8 | * | 33 | - | 20 | - | 104 |
+| 6-1/4 Aug. 1977 (Debentures) | 400 | 4 | 112 | 11 | - | 1 | 54 | 11 | 11 | * | 195 |
+| 6.45% Feb. 1978 (Debentures) | 300 | 22 | 127 | 8 | - | * | 5 | 45 | 4 | - | 88 |
+| 8.35% Aug. 1978 (Debentures) | 300 | - | 125 | 1 | - | - | - | 92 | 5 | * | 77 |
+| 7.30% Nov. 1978 (Debentures) | 300 | - | 166 | 1 | * | 1 | 1 | 39 | 6 | - | 86 |
+| 6.60% May 1979 (Debentures) | 200 | 30 | 61 | 10 | - | 1 | * | 5 | 24 | - | 69 |
+| Issues to state and Local Govts (Mtg. Backed Bonds) 2/ | 143 | - | - | - | - | - | - | - | 143 | - | - |
+| Participation certificates | 400 | 5 | 132 | 12 | 4 | 11 | 4 | 10 | 26 | 96 | 99 |
+| Total | 2643 | 108 | 955 | 50 | 12 | 17 | 111 | 216 | 249 | 97 | 828 |
+| Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) | Federal Housing Administration: (Debentures) |
+| nan | 410 | 58 | 35 | 33 | 70 | 5 | 16 | - | 1 | 58 | 133 |
+| Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates | Government National Mortgage Association: Participation certificates |
+| nan | 4390 | 1695 | 419 | 168 | 39 | 175 | 70 | 45 | 95 | 778 | 906 |
+| Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) | Postal Service: 6-7/8% Feb. 1982-97 (Bonds) |
+--
+The securities listed include all regularly quoted public marketable securities issued by the United States Treasury. Securities issued by Federal agencies and guaranteed by the United States Government are excluded.
+
+Table MQ-1. - Treasury Bills
+
+| Amount outstanding (millions) > 13-week | Amount outstanding (millions) > 26-week | Issue date > 13-week | Issue date > 26-week | Maturity date > Maturity date | Bank discount > Bid | Bank discount > Change from last month | Amount Outstanding (millions) > Amount Outstanding (millions) | Issue date > Issue date | Maturity date > Maturity date.1 | Bank discount > Bid.1 | Bank discount > Change from last month.1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| $2,512 | $1,808 | 12/6/73 | 9/6/73 | 3/7/74 | 7.75% | +1.0% | $1,790 | 3/31/73 | 3/12/74 | 7.69% | +0.4% |
+| 2502 | 1802 | 12/13/73 | 9/13/73 | 3/14/74 | 7.68 | +0.09 | 1802 | 4/30/73 | 4/9/74 | 7.60 | +0.05 |
+| 2502 | 1803 | 12/20/73 | 9/20/73 | 3/21/74 | 7.68 | +0.09 | 1800 | 5/31/73 | 5/7/74 | 7.45 | -0.09 |
+| 2524 | 1803 | 12/27/73 | 9/27/73 | 3/28/74 | 7.68 | +1.12 | 1801 | 6/30/73 | 6/14/74 | 7.44 | -0.08 |
+| 2501 | 1801 | 1/3/74 | 10/4/73 | 4/4/74 | 7.60 | +0.05 | 1802 | 7/31/73 | 7/2/74 | 7.38 | -0.02 |
+| 2505 | 1803 | 1/10/74 | 10/11/73 | 4/11/74 | 7.52 | -0.02 | 1804 | 10/9/73 | 7/30/74 | 7.42 | +0.02 |
+| 2502 | 1802 | 1/17/74 | 10/18/73 | 4/18/74 | 7.50 | -0.04 | 1805 | 8/28/73 | 8/27/74 | 7.39 | +0.11 |
+| 2505 | 1802 | 1/24/74 | 10/25/73 | 4/25/74 | 7.49 | -0.09 | 1802 | 9/25/73 | 9/24/74 | 7.21 | nan |
+| 2507 | 1801 | 1/31/74 | 11/1/73 | 5/2/74 | 7.47 | +0.01 | 1802 | 10/23/73 | 10/22/74 | 7.14 | +0.01 |
+| 2505 | 1801 | 2/7/74 | 11/8/73 | 5/9/74 | 7.45 | -0.09 | 1801 | 11/20/73 | 11/19/74 | 7.05 | nan |
+| 2501 | 1801 | 2/14/74 | 11/15/73 | 5/16/74 | 7.41 | -0.10 | 1803 | 12/18/73 | 12/17/74 | 7.01 | +0.17 |
+| 2503 | 1800 | 2/21/74 | 11/23/73 | 5/23/74 | 7.43 | -0.11 | 1802 | 1/15/74 | 1/14/75 | 6.96 | +0.22 |
+| 2502 | 1798 | 2/28/74 | 11/29/73 | 5/30/74 | 7.46 | -0.06 | 1802 | 2/12/74 | 2/11/75 | 6.79 | - |
+| nan | 1801 | nan | 12/6/73 | 6/6/74 | 7.45 | -0.07 | nan | nan | nan | nan | nan |
+| nan | 1801 | nan | 12/13/73 | 6/13/74 | 7.44 | -0.06 | nan | nan | nan | nan | nan |
+| nan | 1799 | nan | 12/20/73 | 6/20/74 | 7.43 | -0.07 | Tax Anticipation Bills | Tax Anticipation Bills | Tax Anticipation Bills | Tax Anticipation Bills | Tax Anticipation Bills |
+| nan | 1802 | nan | 12/27/73 | 6/27/74 | 7.44 | -0.03 | Amount Outstanding (millions) | Issue date | Maturity date | Bank Discount | Bank Discount |
+| nan | 1803 | nan | 1/3/74 | 7/5/74 | 7.42 | +0.05 | nan | nan | nan | Bid | Change from last month |
+| nan | 1810 | nan | 1/10/74 | 7/11/74 | 7.42 | +0.07 | nan | nan | nan | nan | nan |
+| nan | 1811 | nan | 1/17/74 | 7/18/74 | 7.40 | +0.06 | $2,007 | 11/1/73 | 4/19/74 | 7.79% | +0.26% |
+--
+Table IFS-4 shows United States Treasury nonmarketable bonds and notes issued to official institutions of foreign countries.
+
+Table IFS-5 sets forth the factors which affect the United States position in the International Monetary Fund.
+
+Table IFS-6 presents United States net monetary gold transactions with foreign countries and international and regional organizations.
+
+Table IFS-1. - U.S. Reserve Assets
+
+| (In millions of dollars) > End of calendar year or month | (In millions of dollars) > Total reserve assets | Gold stock 1/ > Total 2/ | Gold stock 1/ > Treasury | Special drawing rights 3/ > Special drawing rights 3/ | Convertible foreign currencies 4/ > Convertible foreign currencies 4/ | Reserve position in International Monetary Fund 2/ > Reserve position in International Monetary Fund 2/ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1957 | 24832 | 22857 | 22781 | - | - | 1975 |
+| 1958 | 22540 | 20582 | 20534 | - | - | 1958 |
+| 1959 | 21504 | 19507 | 19456 | - | - | 1997 |
+| 1960 | 19359 | 17804 | 17767 | - | - | 1555 |
+| 1961 | 18753 | 16947 | 16889 | - | 116 | 1690 |
+| 1962 | 17220 | 16057 | 15978 | - | 99 | 1064 |
+| 1963 | 16843 | 15596 | 15513 | - | 212 | 1035 |
+| 1964 | 16672 | 15471 | 15388 | - | 432 | 769 |
+| 1965 | 15450 | 13,806 6/ | 13,733 6/ | - | 781 | 863 6/ |
+| 1966 | 14882 | 13235 | 13159 | - | 1321 | 326 |
+| 1967 | 14830 | 12065 | 11982 | - | 2345 | 420 |
+| 1968 | 15710 | 10892 | 10367 | - | 3528 | 1290 |
+| 1969 | 16,964 7/ | 11859 | 10367 | - | 2,781 7/ | 2324 |
+| 1970 | 14487 | 11072 | 10732 | 851 | 629 | 1935 |
+| 1971 | 12,167 8/ | 10206 | 10132 | 1100 | 276 8/ | 585 |
+| 1972 | 13,151 9/ | 10,487 9/ | 10,410 9/ | 1,958 9/ | 241 | 465 9/ |
+--
+| End of calendar year or month > Unnamed: 0_level_1 | Total > Unnamed: 1_level_1 | Liquid liabilities to IMF arising from gold transactions 1/ > Unnamed: 2_level_1 | Official institutions 2/ > Total | Official institutions 2/ > Short-term liabilities reported in banks in U.S. | Official institutions 2/ > Marketable U.S. Treasury bonds and notes 3/ | Official institutions 2/ > Non-marketable convertible U.S. Treasury bonds and notes | Official institutions 2/ > Other readily marketable liabilities 4/ | Official institutions 2/ > Non-marketable convertible U.S. Treasury bonds and notes 5/ | Liquid liabilities to other foreigners > Liquid liabilities to banks 6/ | Liquid liabilities to other foreigners > Total | Liquid liabilities to other foreigners > Short-term liabilities reported by banks in U.S. | Liquid liabilities to non-monetary international and regional organizations 8/ > Marketable U.S. Gov't. bonds and notes 3/ 7/ | Unnamed: 13_level_0 > Unnamed: 13_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1957 | 15,825 9/ | 200 | n.a. | 7917 | n.a. | - | - | - | 3472 | n.a. | 2252 | n.a. | 764 |
+| 1958 | 16,845 9/ | 200 | n.a. | 8665 | n.a. | - | - | - | 3520 | n.a. | 2430 | n.a. | 1047 |
+| 1959 | 19428 | 500 | 10120 | 9154 | 966 | - | - | - | 4678 | 2940 | 2399 | 541 | 1190 |
+| 1960 10/ | 20994 | 800 | 11078 | 10212 | 866 | - | - | - | 4818 | 2773 | 2230 | 543 | 1525 |
+| nan | 21027 | 800 | 11088 | 10212 | 876 | - | - | - | 4818 | 2780 | 2230 | 550 | 1541 |
+| 1961 10/ | 22853 | 800 | 11830 | 10940 | 890 | - | - | - | 5404 | 2871 | 2355 | 516 | 1948 |
+| nan | 22936 | 800 | 11830 | 10940 | 890 | - | - | - | 5484 | 2873 | 2357 | 516 | 1949 |
+| 1962 10/ | 24268 | 800 | 12948 | 11997 | 751 | - | - | 200 | 5346 | 3013 | 2565 | 488 | 2161 |
+| nan | 24268 | 800 | 12914 | 11963 | 751 | - | - | 200 | 5346 | 3013 | 2565 | 448 | 2195 |
+| 1963 10/ | 26433 | 800 | 14459 | 12467 | 1217 | 703 | 9 | 63 | 5817 | 3397 | 3046 | 351 | 1960 |
+| nan | 26394 | 800 | 14425 | 12467 | 1183 | 703 | 9 | 63 | 5817 | 3387 | 3046 | 341 | 1965 |
+| 1964 10/ | 29313 | 800 | 15790 | 13224 | 1125 | 1079 | 158 | 204 | 7271 | 3730 | 3354 | 376 | 1722 |
+| nan | 29364 | 800 | 15786 | 13220 | 1125 | 1079 | 158 | 204 | 7303 | 3753 | 3377 | 376 | 1722 |
+| 1965 | 29569 | 834 | 15826 | 13066 | 1105 | 1201 | 120 | 334 | 7419 | 4059 | 3587 | 472 | 1431 |
+| 1966 10/ | 31145 | 1011 | 14841 | 12484 | 860 | 256 | 913 | 328 | 10116 | 4271 | 3743 | 528 | 906 |
+| nan | 31020 | 1011 | 14896 | 12539 | 860 | 256 | 913 | 328 | 9936 | 4272 | 3744 | 528 | 905 |
+| 1967 10/ | 35819 | 1033 | 18201 | 14034 | 908 | 711 | 1807 | 741 | 11209 | 4685 | 4127 | 558 | 691 |
+| nan | 35667 | 1033 | 18194 | 14027 | 908 | 711 | 1807 | 741 | 11085 | 4678 | 4120 | 558 | 677 |
+| 1968 10/ | 38687 | 1030 | 17407 | 11318 | 529 | 701 | 2341 | 2518 | 14472 | 5053 | 4444 | 609 | 725 |
+| nan | 38473 | 1030 | 17340 | 11318 | 462 | 701 | 2341 | 2518 | 14472 | 4909 | 4444 | 465 | 722 |
+| 1969 10/ | 45,755 11/ | 1019 | 15,975 11/ | 11054 | 346 | 555 11/ | 1505 | 2,515 11/ | 23638 | 4464 | 3973 | 525 | 659 |
+| nan | 45914 | 1019 | 15998 | 11077 | 346 | 555 | 1505 | 2515 | 23645 | 4589 | 4064 | 525 | 663 |
+| 1970 10/ | 47009 | 566 | 23786 | 19333 | 306 | 429 | 695 | 3023 | 17137 | 4676 | 4029 | 647 | 844 |
+| nan | 46960 | 566 | 23775 | 19333 | 295 | 429 | 695 | 3023 | 17169 | 4604 | 4039 | 565 | 846 |
+--
+Note: Table is based on Treasury Department data and on data reported to the Treasury Department by banks and brokers in the United States. Data correspond generally to statistics following in this section and in the "Capital Movements" section, except for the exclusion of non-marketable, nonconvertible U.S. Treasury notes issued to foreign official nonreserve agencies and the inclusion of investments by foreign official reserve agencies in debt securities of U.S. Federally-sponsored agencies and U.S. corporations. Table excludes International Monetary Fund "holdings of dollars," and holdings of U.S. Treasury letters of credit and nonnegotiable, noninterest-bearing special U.S. notes held by other international and regional organizations.
+1/ Includes liability on gold deposited by the International Monetary Fund to mitigate the impact on the U.S. gold stock of foreign purchases for gold subscriptions to the Fund under quota increases, and U.S. Government obligations at cost value and funds awaiting investment obtained from proceeds of sales of gold by the International Monetary Fund to the United States to acquire income-earning assets.
+2/ Includes Bank for International Settlements and European Fund.
+3/ Derived by applying reported transactions to benchmark data; breakdown of transactions by type of holder estimated 1960-1963.
+4/ Includes long-term liabilities reported by banks in the United States and debt securities of U.S. Federally-sponsored agencies and U.S. corporations.
+5/ Excludes notes issued to foreign official nonreserve agencies.
+6/ Includes short-term liabilities payable in dollars to foreign banks, and short-term liabilities payable in foreign currencies to foreign banks and to "other foreigners."
+7/ Includes marketable U.S. Government bonds and notes held by foreign banks
+
+8/ Principally the International Bank for Reconstruction and Development, the Inter-American Development Bank and the Asian Development Bank. 
+9/ Includes total foreign holdings of U.S. Government bonds and notes, for which breakdown by type of holder is not available. 
+10/ Data on the two lines shown for this date differ because of changes in reporting coverage. Figures on the first line are comparable in coverage to those shown for the preceding date; figures on the second line are comparable to those shown for the following date. 
+11/ Includes $101 million increase in dollar value of foreign currency liabilities resulting from revaluation of the German mark in October 1969, as follows: liquid $17 million; other $84 million. 
+12/ Data on the second line differ from those on the first line because certain accounts previously classified as "official institutions" are included with "banks"; a number of reporting banks are included in the series for the first time; and foreign currency liabilities to official institutions of foreign countries are increased in value to reflect market exchange rates as of December 31, 1971, as follows: U.S. Treasury certificates, $7 million; nonmarketable convertible U.S. Treasury bonds and notes, $33 million; and nonmarketable nonconvertible U.S. Treasury bonds and notes, $70 million. 
+13/ Includes $15 million increase in dollar value of foreign currency liabilities revalued to reflect market exchange rates. 
+14/ Includes $147 million increase in dollar value of foreign currency liabilities to official institutions of foreign countries revalued to reflect market exchange rates, as follows: short-term liabilities $15 million; nonmarketable convertible U.S. Treasury notes $113 million; nonmarketable nonconvertible U.S. Treasury notes $19 million. 
+n.a. Not available. p Preliminary. r Revised.
+
+March 1974
+
+INTERNATIONAL FINANCIAL STATISTICS
+
+89
+
+Table IFS-3. - U.S. Liquid and Other Liabilities to Official Institutions of Foreign Countries, by Area
+
+(In millions of dollars)
+
+| End of calendar year or month | Total foreign countries | Western Europe 1/ | Canada | Latin American Republics | Asia | Africa | Other countries 2/ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1963 | 14425 | 8508 | 1789 | 1058 | 2740 | 154 | 176 |
+| 1964 | 15786 | 9325 | 1812 | 1283 | 3028 | 160 | 178 |
+| 1965 | 15826 | 8826 | 1702 | 1550 | 3309 | 194 | 245 |
+| 1966 3/ | 14,841 14,896 | 7,772 7,772 | 1,333 1,333 | 1,310 1,310 | 3,900 3,955 | 278 278 | 248 248 |
+| 1967 | 18194 | 10321 | 1310 | 1582 | 4428 | 250 | 303 |
+| 1968 3/ | 17,407 17,340 | 8,070 8,062 | 1,867 1,866 | 1,865 1,865 | 5,043 4,997 | 259 248 | 303 302 |
+| 1969 3/ | 15,975 4/ 15,998 4/ | 7,074 4/ 7,074 4/ | 1,624 1,624 | 1,888 1,911 | 4,552 4,552 | 546 546 | 291 291 |
+| 1970 3/ | 23,786 23,775 | 13,620 13,615 | 2,951 2,951 | 1,681 1,681 | 4,713 4,708 | 407 407 | 414 413 |
+| 1971 3/ 5/ | 51,209 50,651 | 30,010 30,134 | 3,980 3,980 | 1,414 1,429 | 14,519 13,823 | 415 415 | 871 870 |
+| 1972 | 61,524r | 34197 | 4279 | 1731 | 17,577r | 777 | 2963 |
+| 1973p | 66790 | 45713 | 3838 | 2546 | 10581 | 788 | 3024 |
+--
+Note: Data represent short-term and long-term liabilities to the official institutions of foreign countries, as reported by banks in the United States; foreign official holdings of marketable and nonmarketable U.S. Government securities with an original maturity of more than one year except for nonmarketable notes issued to foreign official nonreserve agencies; and investments by foreign official reserve agencies in debt securities of U.S. Federally-sponsored agencies and U.S. corporations. The table does not include certain nonliquid liabilities to foreign official institutions which enter into the calculation of the official reserve transactions balance by the Department of Commerce.
+1/ Includes Bank for International Settlements and European Fund.
+2/ Includes countries in Oceania and Eastern Europe, and Western European dependencies in Latin America.
+3/ Data on the two lines shown for this date differ because of changes in reporting coverage. Figures on the first line are comparable in
+
+4/ Includes $101 million increase in dollar value of foreign currency liabilities due to revaluation of the German mark in October 1969.
+5/ Data on the second line differ from those on the first line because certain accounts previously classified as "official institutions" are included with "banks"; a number of reporting banks are included in the series for the first time; and U.S. Treasury liabilities payable in foreign currencies to official institutions of foreign countries are increased in value by $110 million to reflect market exchange rates as of December 31, 1971.
+6/ Includes $15 million increase in dollar value of foreign currency liabilities revalued to reflect market exchange rates.
+7/ Includes $147 million increase in dollar value of foreign currency liabilities revalued to reflect market exchange rates.
+p Preliminary. r Revised.
+
+90
+
+Treasury Bulletin
+
+INTERNATIONAL FINANCIAL STATISTICS
+
+Table IFS-4. - Nonmarketable U.S. Treasury Bonds and Notes Issued to Official Institutions of Foreign Countries
+
+(In millions of dollars or dollar equivalent)
+
+| End of calendar year or month | Total | Total.1 | Belgium | Canada 1/ | Denmark | Germany | Italy 2/ | Korea | Sweden | Taiwan | Thailand |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1962 | 251 | - | - | - | - | - | - | - | - | - | - |
+| 1963 | 893 | 163 | - | 125 | - | - | 13 | - | 25 | - | - |
+| 1964 | 1440 | 354 | - | 329 | - | - | - | - | 25 | - | - |
+| 1965 | 1692 | 484 | - | 299 | - | - | 160 | - | 25 | - | - |
+| 1966 | 695 | 353 | - | 144 | - | - | 184 | - | 25 | - | - |
+| 1967 | 1563 | 516 | - | 314 | - | - | 177 | - | 25 | - | - |
+| 1968 | 3330 | 1692 | 32 | 1334 | 20 | - | 146 | 15 | 25 | 20 | 100 |
+| 1969 | 3,181 4/ | 1431 | 32 | 1129 | - | - | 135 | 15 | - | 20 | 100 |
+| 1970 | 3563 | 2480 | 32 | 2289 | - | - | 25 | 15 | - | 20 | 100 |
+| 1971 | 9,657 2/ | 7829 | 32 | 2640 | - | 5000 | 22 | 15 | - | 20 | 100 |
+| 1972 | 15872 | 14333 | 20 | 2840 | - | 11315 | 22 | 15 | - | 20 | 100 |
+| 1973 | 15669 | 14210 | - | 2540 | - | 11670 | - | - | - | - | - |
+| 1973-Feb. 6/ | 15,863 6/ | 14474 | 20 | 2840 | - | 11471 | 22 | - | - | 20 | 100 |
+| Mar. 7/ | 15,870 7/ | 14464 | 20 | 2840 | - | 11471 | 22 | - | - | 10 | 100 |
+| Apr. 7/ | 16,015 7/ | 14459 | 20 | 2840 | - | 11471 | 22 | - | - | 5 | 100 |
+| May | 16012 | 14456 | 20 | 2840 | - | 11471 | 22 | - | - | 2 | 100 |
+| June | 16189 | 14533 | - | 2840 | - | 11670 | 22 | - | - | - | 100 |
+| July | 16089 | 14533 | - | 2840 | - | 11670 | 22 | - | - | - | - |
+| Aug. | 16013 | 14383 | - | 2690 | - | 11670 | 22 | - | - | - | - |
+| Sept. | 15813 | 14183 | - | 2490 | - | 11670 | 22 | - | - | - | - |
+--
+3/ In addition, nonmarketable Treasury notes amounting to $125 million equivalent were held by a group of German commercial banks from June
+
+1968 through November 1972. The dollar value of these notes was increased by $10 million in October 1969, and by $18 million as of December 31, 1971. See also footnotes 7 and 8, Table IFS-1.
+4/ Includes an increase in dollar value of $84 million resulting from revaluation of the German mark in October 1969. See also footnote 7, Table IFS-1.
+5/ Includes $106 million increase in dollar value of foreign currency obligations revalued to reflect market exchange rates as of December 31, 1971. See also footnote 8, Table IFS-1.
+6/ Dollar equivalents not revalued to reflect de facto conversion rates.
+7/ Includes $15 million increase in March and $14.5 million increase in April in dollar value of foreign currency obligations revalued to reflect market exchange rates.
+
+March 1974
+
+91
+
+INTERNATIONAL FINANCIAL STATISTICS
+
+Table IFS-5. - U.S. Position in the International Monetary Fund
+
+(In millions of dollars)
+
+| Calendar year or month > Calendar year or month > Unnamed: 0_level_2 | Transactions affecting IMF holdings of dollars during period > Payments of subscriptions in dollars > Unnamed: 1_level_2 | Transactions affecting IMF holdings of dollars during period > Net gold sales by IMF 1/ > Unnamed: 2_level_2 | Transactions affecting IMF holdings of dollars during period > Transactions in foreign currencies 2/ > Unnamed: 3_level_2 | Transactions affecting IMF holdings of dollars during period > IMF net income in dollars > Unnamed: 4_level_2 | Transactions affecting IMF holdings of dollars during period > Transactions by other countries with IMF > Purchases of dollars 3/ | IMF holdings of dollars at end of period > Transactions by other countries with IMF > Repayments in dollars | IMF holdings of dollars at end of period > Total change > Unnamed: 7_level_2 | U.S. reserve position in IMF at end of period 4/ > U.S. reserve position in IMF at end of period 4/ > Amount | Unnamed: 9_level_0 > Percent of U.S. quota > Unnamed: 9_level_2 | Unnamed: 10_level_0 > Unnamed: 10_level_1 > Unnamed: 10_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1946-57 | 2063 | 600 | - | -45 | -2670 | 827 | 775 | 775 | 28 | 1975 |
+| 1958 | - | - | - | -2 | -252 | 271 | 17 | 792 | 29 | 1958 |
+| 1959 | 1031 | - | - | 2 | -139 | 442 | 1336 | 2128 | 52 | 1997 |
+| 1960 | - | - | - | 11 | -149 | 580 | 442 | 2570 | 62 | 1555 |
+| 1961 | - | 150 | - | 16 | -822 | 521 | -135 | 2435 | 59 | 1690 |
+| 1962 | - | - | - | 17 | -110 | 719 | 626 | 3061 | 74 | 1064 |
+--
+Section V contains data on transactions in all types of long-term domestic and foreign securities by foreigners reported by banks and brokers in the United States (except nonmarketable U.S. Treasury notes, foreign series, and non-marketable U.S. Treasury bonds and notes, foreign currency series, which are shown in "International Financial Statistics" section, Table IFS-4). The data cover new issues of securities, transactions in outstanding issues, and redemptions of securities. They include transactions executed in the United States for the account of foreigners, and transactions executed abroad for the account of reporting institutions and their domestic customers. The data include some transactions which are classified as direct investments in the balance of payments accounts. The data exclude securities issued abroad by foreign subsidiaries of U.S. corporations, some of which are treated in the balance of payments as issues of U.S. corporations.
+
+The geographical breakdown of the data on securities transactions shows the country of domicile of the foreign buyers and sellers of the securities; in the case of outstanding issues, this may differ from the country of the original issuer. The gross figures contain some offsetting transactions between foreigners. The net figures for total transactions represent transactions by foreigners with United States residents; but the net figures for transactions of individual countries and areas may include some transactions between foreigners of different countries. Beginning with data for 1969, transactions between foreigners in new issues not offered for sale to United States residents but managed by underwriters in the United States are excluded from the gross figures.
+
+Section VI comprises two tables on the money credit and debit balances, as appearing on the books of reporting brokers and dealers in the United States, in accounts of foreigners with them, and in their accounts carried by foreigners.
+
+The data published in these sections do not cover all types of reported capital movements between the United States and foreign countries. The principal exclusions are the intercompany capital transactions of business enterprises in the United States with their own branches and subsidiaries abroad or with their foreign parent companies, and capital transactions of the United States Government. Consolidated data on all types of capital transactions are published by the Department of Commerce in its regular reports on the United States balance of payments.
+
+1/ Copies of the reporting forms and instructions may be obtained from the Office of Statistical Reports, Office of the Assistant Secretary for International Affairs, Department of the Treasury, Washington, D. C. 20220 or from Federal Reserve Banks.
+
+March 1974
+
+95
+
+CAPITAL MOVEMENTS
+
+Section I - Liabilities to Foreigners Reported by Banks in the United States
+Table CM-I-1. - Short-Term Liabilities by Type of Foreign Holder
+
+(In millions of dollars)
+
+| End of calendar year or month > Unnamed: 0_level_1 | Total short-term liabilities > Unnamed: 1_level_1 | Official institutions 1/ > Total | Official institutions 1/ > Total.1 | Official institutions 1/ > Payable in dollars | Banks and other foreigners > Payable in foreign currencies | Banks and other foreigners > Total | Banks and other foreigners > Banks | Banks and other foreigners > Other foreigners | International and regional > Payable in foreign currencies | International and regional > Total | International and regional > IMF gold investment: 2/ | Unnamed: 12_level_0 > Non-monetary international and regional 3/ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1957 | 14383 | 13641 | 7917 | 7917 | - | 5724 | 3413 | 2252 | 59 | 742 | 200 | 542 |
+| 1958 | 15367 | 14615 | 8665 | 8665 | - | 5950 | 3460 | 2430 | 59 | 752 | 200 | 552 |
+| 1959 | 17261 | 16231 | 9154 | 9154 | - | 7076 | 4601 | 2398 | 77 | 1031 | 500 | 531 |
+--
+| Calendar year or month > Unnamed: 0_level_1 > Unnamed: 0_level_2 | Marketable Treasury bonds and notes > Total > Unnamed: 1_level_2 | Marketable Treasury bonds and notes > Foreign countries > Official institutions | Marketable Treasury bonds and notes > Foreign countries > Other foreigners | Marketable Treasury bonds and notes > International and regional > Unnamed: 4_level_2 | Corporate and other securities > Gross foreign purchases > Unnamed: 5_level_2 | Corporate and other securities > Gross foreign sales > Unnamed: 6_level_2 | Corporate and other securities > Net foreign purchases of corporate and other securities > Unnamed: 7_level_2 | Corporate and other securities > Bonds 1/ > Net foreign purchases | Corporate and other securities > Bonds 1/ > Gross foreign purchases | Corporate and other securities > Stocks > Gross foreign sales | Unnamed: 11_level_0 > Stocks > Net foreign purchases | Unnamed: 12_level_0 > Unnamed: 12_level_1 > Gross foreign purchases | Unnamed: 13_level_0 > Unnamed: 13_level_1 > Gross foreign sales |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1958 | 36 | -237 | nan | 273 | 1224 | 1188 | -39 | 17 | 361 | 344 | -56 | 1397 | 1454 |
+| 1959 | 689 | 524 | nan | 165 | 1217 | 528 | 435 | 73 | 369 | 296 | 363 | 2224 | 1862 |
+| 1960 | 127 | -98 | nan | 224 | 1730 | 1603 | 252 | 50 | 442 | 392 | 202 | 1977 | 1775 |
+| 1961 | 512 | -20 | nan | 532 | 1744 | 1231 | 223 | -99 | 317 | 416 | 323 | 3067 | 2745 |
+| 1962 | -728 | -207 | nan | -521 | 1780 | 2508 | 60 | -51 | 308 | 359 | 111 | 2260 | 2149 |
+| 1963 | 671 | 369 | nan | 302 | 1867 | 1196 | 207 | 9 | 256 | 246 | 198 | 2724 | 2527 |
+| 1964 | -338 | -59 | 36 | -315 | 1149 | 1487 | -173 | 176 | 461 | 284 | -349 | 3076 | 3425 |
+| 1965 | -76 | -20 | 95 | -151 | 1077 | 1153 | -375 | 38 | 675 | 637 | -413 | 3720 | 4133 |
+| 1966 | -616 | -245 | 56 | -427 | 680 | 1296 | 678 | 1011 | 1553 | 542 | -333 | 4740 | 5074 |
+| 1967 | -43 | 48 | 30 | -121 | 585 | 629 | 1070 | 313 | 2243 | 1929 | 757 | 8033 | 7276 |
+| 1968 | -489 | -380 | 51 | -161 | 443 | 932 | 4234 | 1964 | 4446 | 2481 | 2270 | 13118 | 10848 |
+| 1969 | -45 | -115 | 59 | 11 | 528 | 574 | 2688 | 1202 | 3054 | 1853 | 1487 | 12429 | 10942 |
+| 1970 | 56 | -41 | 123 | -25 | 691 | 634 | 1582 | 956 | 2499 | 1543 | 626 | 8927 | 8301 |
+| 1971 | 1672 | 1661 | -119 | 130 | 2414 | 742 | 1415 | 684 | 2947 | 2263 | 731 | 11626 | 10894 |
+| 1972 | 3316 | 3281 | -22 | 57 | 4358 | 1043 | 4058 | 1871 | 4713 | 2842 | 2188 | 14361 | 12173 |
+| 1973p | 290 | 450 | 6 | -165 | 2723 | 2433 | 4727 | 1926 | 5808 | 3883 | 2801 | 12757 | 9955 |
+| 1973-Jan. | 562 | 562 | * | - | 573 | 11 | 736 | 260 | 451 | 192 | 477 | 1401 | 924 |
+| Feb. | 515 | 579 | -52 | -12 | 604 | 89 | 716 | 270 | 480 | 210 | 446 | 1282 | 835 |
+| Mar. | 554 | 540 | 3 | 10 | 555 | 2 | 1109 | 759 | 1076 | 317 | 350 | 1144 | 793 |
+| Apr. | 31 | 16 | 23 | -9 | 43 | 12 | 525r | 385 | 697 | 313 | 141r | 868r | 728 |
+| May | -48 | * | -15 | -33 | 131 | 179 | 41r | 161 | 364 | 204 | -120r | 778r | 898 |
+| June | -71 | - | -1 | -69 | 8 | 79 | 188r | 54r | 321r | 267 | 134 | 766 | 632 |
+| July | -79 | - | -9 | -71 | 120 | 200 | 422 | 106 | 441 | 334 | 316 | 880 | 564 |
+| Aug. | -51 | -28 | -39 | 17 | 46 | 96 | 464r | 123r | 357r | 234 | 341 | 972 | 631 |
+--
+Table CM-V-3. - Net Foreign Transactions in Marketable Treasury Bonds and Notes by Country
+
+(In millions of dollars; negative figures indicate net sales by foreigners or a net outflow of capital from the United States)
+
+| Country > Country | Calendar year > 1970 | Calendar year > 1971 | Calendar year > 1972 | Calendar year > 1973p | 1973 > Aug. | 1973 > Sept. | 1973 > Oct. | 1973 > Nov. | 1973 > Dec. p | 1974 Jan. p > 1974 Jan. p |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Europe: | Europe: | Europe: | Europe: | Europe: | Europe: | Europe: | Europe: | Europe: | Europe: | Europe: |
+| Austria | * | * | * | * | * | * | * | * | * | * |
+| Belgium-Luxembourg | 5 | -1 | * | 1 | * | 1 | * | * | * | * |
+| Denmark | -8 | * | * | * | * | * | * | * | * | * |
+| Finland | * | * | * | 1 | * | * | * | * | * | 5 |
+| France | * | * | * | * | * | * | * | * | * | * |
+| Germany | * | * | * | * | * | * | * | * | * | * |
+| Greece | * | * | * | * | * | * | * | * | * | * |
+| Italy | * | * | * | * | * | * | * | * | * | * |
+| Netherlands | * | * | * | 5 | * | * | * | * | * | * |
+| Norway | * | * | * | * | * | * | * | * | * | * |
+| Portugal | * | * | * | * | * | * | * | * | * | * |
+| Spain | * | 4 | 79 | 150 | * | 30 | * | * | 70 | * |
+| Sweden | -7 | 26 | -15 | -11 | -4 | * | * | 1 | -4 | -1 |
+| Switzerland | * | * | * | * | * | * | * | * | * | * |
+| Turkey | 96 | -149 | 4 | 95 | -39 | 11 | 43 | 111 | 23 | 15 |
+| United Kingdom | * | * | * | * | * | * | * | * | * | * |
+| Yugoslavia | * | 55 | * | * | * | * | * | * | * | * |
+| Other Western Europe | * | * | * | * | * | * | * | * | * | * |
+| U.S.S.R. | * | * | * | * | * | * | * | * | * | * |
+--
+Table CM-V-4. - Estimated Foreign Holdings of Marketable Treasury Bonds and Notes by Country
+
+(Position at end of period in millions of dollars)
+
+| Country > Unnamed: 0_level_1 | Calendar year > 1971 | Calendar year > 1972 | Calendar year > 1973p | 1973 > Aug. | 1973 > Sept. | 1973 > Oct. | 1973 > Nov. | 1973 > Dec.p | 1974 > Jan. p |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Europe: | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Austria | * | * | * | * | * | * | * | * | * |
+| Belgium-Luxembourg | 6 | 6 | 7 | 6 | 7 | 7 | 7 | 7 | 7 |
+| Denmark | * | * | * | * | * | * | * | * | * |
+| Finland | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| France | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| Germany | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 8 |
+| Greece | * | * | * | * | * | * | * | * | * |
+| Italy | * | * | * | * | * | * | * | * | * |
+| Netherlands | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Norway | * | * | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+| Portugal | * | * | * | * | * | * | * | * | * |
+| Spain | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Sweden | 6 | 85 | 235 | 135 | 165 | 165 | 165 | 235 | 235 |
+| Switzerland | 60 | 45 | 34 | 37 | 37 | 37 | 38 | 34 | 33 |
+| Turkey | - | - | - | - | - | - | - | - | - |
+| United Kingdom | 323 | 327 | 423 | 236 | 247 | 290 | 400 | 423 | 437 |
+| Yugoslavia | 71 | 71 | 71 | 71 | 71 | 71 | 71 | 71 | 71 |
+| Other Western Europe | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+| U.S.S.R. | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+--
+Note: Data represent estimated official and private holdings of marketable U.S. Treasury securities with an original maturity of more than one year. Data are based on a benchmark survey as of January 31, 1971 and the monthly transactions reports. For statistical convenience, the new series
+
+is introduced as of December 31, 1970, rather than as of the survey date. Through December 31, 1972, Bermuda included with Bahamas. * Less than $500,000. p Preliminary.
+
+122
+
+Treasury Bulletin
+
+CAPITAL MOVEMENTS
+
+Sections V - Transactions in Long-Term Securities by Foreigners Reported by Banks and Brokers in the United States
+
+Table CM-V-5. - Net Foreign Transactions in Long-Term Domestic Bonds, Other than Treasury Bonds and Notes, by Country
+
+(In millions of dollars; negative figures indicate net sales by foreigners or a net outflow of capital from the United States)
+
+| Country > Unnamed: 0_level_1 | Calendar year > 1970 | Calendar year > 1971 | Calendar year > 1972 | Calendar year > 1973p | 1973 > Aug | 1973 > Sept. | 1973 > Oct. | 1973 > Nov. | 1973 > Dec.p | 1974 > Jan. p | Unnamed: 11_level_0 > Unnamed: 11_level_1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Europe: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Austria | * | -1 | 6 | 4 | 2 | * | * | * | * | -2 | nan |
+| Belgium-Luxembourg | 85 | 7 | 30 | 13 | * | * | * | 2 | 5 | -1 | nan |
+| Denmark | 2 | 2 | 5 | 6 | 1 | - | * | * | 1 | * | nan |
+| Finland | * | 2 | 1 | 1 | * | * | * | * | 1 | - | nan |
+| France | 35 | 15 | 336 | 201 | 31 | 2 | 53 | 4 | 9 | 3 | nan |
+| Germany | 43 | 35 | 77 | -33 | 1 | * | * | 11 | 10 | 2 | nan |
+| Greece | 1 | * | -1 | * | * | * | * | * | * | * | nan |
+--
+| Country > Country > Unnamed: 0_level_2 | Gross purchases by foreigners > Total purchases > Unnamed: 1_level_2 | Gross purchases by foreigners > Domestic securities > Marketable Treasury bonds and notes | Gross purchases by foreigners > Domestic securities > Corporate and other | Gross purchases by foreigners > Foreign securities > Bonds | Gross purchases by foreigners > Foreign securities > Stocks | Gross sales by foreigners > Total sales > Unnamed: 6_level_2 | Gross sales by foreigners > Domestic securities > Marketable Treasury bonds and notes | Gross sales by foreigners > Domestic securities > Corporate and other | Gross sales by foreigners > Foreign securities > Bonds | Gross sales by foreigners > Foreign securities > Stocks |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Europe: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Austria | 3 | - | * | 3 | * | 5 | - | 2 | 3 | * |
+| Belgium-Luxembourg | 65 | - | 5 | 52 | 2 | 41 | - | 7 | 23 | 3 |
+| Denmark | 1 | - | * | 1 | * | 2 | - | - | 2 | * |
+| Finland | * | - | - | * | - | * | - | - | - | * |
+| France | 163 | - | 8 | 147 | 2 | 104 | - | 4 | 79 | 3 |
+| Germany | 60 | 5 | 5 | 45 | 2 | 50 | - | 4 | 42 | 2 |
+| Greece | 1 | - | - | 1 | * | 1 | * | * | * | * |
+| Italy | 16 | - | 2 | 9 | 3 | 20 | * | 6 | 12 | 1 |
+| Netherlands | 72 | - | 1 | 66 | 1 | 36 | - | 2 | 29 | 1 |
+| Norway | 4 | - | * | 3 | * | 11 | * | * | 11 | * |
+| Portugal | 1 | - | - | 1 | * | * | - | - | * | - |
+| Spain | 4 | - | * | 3 | * | 3 | * | * | 2 | * |
+| Sweden | 2 | - | 1 | 1 | * | 4 | * | 3 | 1 | * |
+| Switzerland | 329 | * | 39 | 273 | 4 | 264 | 2 | 16 | 229 | 6 |
+| Turkey | * | - | - | * | - | * | - | * | * | - |
+| United Kingdom | 317 | 17 | 160 | 116 | 11 | 223 | 2 | 43 | 90 | 14 |
+| Yugoslavia | * | - | - | * | - | - | - | - | - | 74 |
+| Other Western Europe | 2 | - | * | 2 | - | 1 | - | * | 1 | - |
+| U.S.S.R. | - | - | - | - | - | - | - | - | - | - |
+| Other Eastern Europe | * | - | - | * | - | - | - | - | - | - |
+| Total Europe | 1039 | 22 | 223 | 724 | 26 | 763 | 4 | 86 | 522 | 30 |
+| Canada | 207 | 15 | 24 | 61 | 23 | 409 | * | 10 | 88 | 257 |
+| Latin America: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+--
+| Country > Country > Unnamed: 0_level_2 | Gross purchases by foreigners > Total purchases > Unnamed: 1_level_2 | Gross purchases by foreigners > Domestic securities > Marketable Treasury bonds and notes | Gross purchases by foreigners > Domestic securities > Corporate and other Bonds | Gross purchases by foreigners > Foreign securities > Stocks | Gross purchases by foreigners > Foreign securities > Bonds | Gross sales by foreigners > Total sales > Stocks | Gross sales by foreigners > Domestic securities > Marketable Treasury bonds and notes | Gross sales by foreigners > Domestic securities > Corporate and other Bonds | Gross sales by foreigners > Foreign securities > Stocks | Gross sales by foreigners > Foreign securities > Bonds | Unnamed: 11_level_0 > Unnamed: 11_level_1 > Stocks | Unnamed: 12_level_0 > Unnamed: 12_level_1 > Unnamed: 12_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Europe: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Austria | 42 | * | 5 | 30 | 1 | 3 | 30 | * | 2 | 26 | * | 1 |
+| Belgium-Luxembourg | 1006 | - | 144 | 716 | 89 | 57 | 874 | * | 115 | 664 | 60 | 34 |
+| Denmark | 36 | - | 5 | 20 | 10 | * | 18 | - | 1 | 14 | 3 | * |
+| Finland | 12 | - | 1 | 2 | 9 | * | 35 | - | * | 2 | 34 | * |
+| France | 2021 | 1 | 390 | 1506 | 77 | 47 | 1289 | 1 | 55 | 1134 | 43 | 57 |
+| Germany | 1185 | * | 205 | 838 | 70 | 71 | 1130 | * | 129 | 889 | 74 | 37 |
+| Greece | 23 | * | * | 21 | * | 1 | 15 | * | 1 | 11 | 3 | * |
+| Italy | 432 | * | 123 | 247 | 35 | 7 | 315 | * | 75 | 210 | 24 | 5 |
+| Netherlands | 1195 | * | 101 | 830 | 33 | 230 | 641 | * | 27 | 533 | 15 | 66 |
+| Norway | 80 | - | 46 | 23 | 10 | 1 | 47 | * | 16 | 24 | 5 | 3 |
+| Portugal | 36 | - | 1 | 31 | 3 | 2 | 9 | - | * | 8 | * | * |
+| Spain | 84 | * | 9 | 60 | 13 | 3 | 69 | * | 4 | 54 | 3 | 7 |
+| Sweden | 151 | 88 | 27 | 28 | 7 | 1 | 70 | 9 | 25 | 31 | 4 | 1 |
+| Switzerland | 4936 | 5 | 522 | 3982 | 202 | 225 | 4034 | 19 | 387 | 3340 | 146 | 141 |
+| Turkey | 4 | - | * | 3 | - | * | 2 | - | * | 2 | * | * |
+| United Kingdom | 4747 | 332 | 1583 | 2266 | 322 | 243 | 3796 | 328 | 1227 | 1705 | 319 | 217 |
+| Yugoslavia | * | - | * | * | - | * | 1 | - | * | * | - | * |
+| Other Western Europe | 228 | - | 189 | 30 | 8 | 1 | 34 | * | 1 | 27 | 5 | 1 |
+| U.S.S.R. | * | - | - | * | - | - | * | - | - | - | * | - |
+| Other Eastern Europe | 1 | * | 1 | * | - | - | * | * | * | * | * | * |
+| Total Europe | 16218 | 426 | 3356 | 10633 | 911 | 892 | 12408 | 359 | 2063 | 8675 | 739 | 572 |
+| Canada | 3475 | 465 | 410 | 1337 | 427 | 836 | 3745 | 88 | 328 | 1415 | 1220 | 694 |
+| Latin America: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+--
+| Maturity distribution and average length of marketable interest-bearing public debt | 23 | 24 | 25 | 23 | 19 | 23 | 22 | 26 | 27 | 22 | 23 | 25 | nan |
+| Special public debt issues | 24 | 25 | 26 | 24 | 20 | 24 | 23 | 27 | 28 | 23 | 24 | 26 | nan |
+| Interest-bearing securities issued by Government agencies | 25 | 26 | 27 | 25 | 21 | 25 | 24 | .28 | 29 | 24 | 25 | 27 | nan |
+| Participation certificates | 26 | 27 | 28 | 26 | 22 | 26 | 25 | 29 | 30 | 25 | 26 | 28 | nan |
+| Debt subject to statutory limitation | 27 | 28 | 29 | 27 | 23 | 27 | 26 | 30 | 30 | 26 | 27 | 29 | nan |
+| Status and application of statutory limitation | 28 | 29 | 30 | 28 | 24 | 28 | 27 | 31 | 32 | 27 | 28 | 30 | nan |
+| Treasury holdings of securities issued by Government corporations and other agencies | 29 | 30 | 31 | 29 | 25 | 29 | 28 | 32 | 33 | 28 | 29 | 31 | nan |
+| Public debt operations: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Maturity schedule of interest-bearing marketable public debt securities other than regular weekly and annual Treasury bills outstanding | 30 | 31 | 32 | 30 | 26 | 30 | 29 | 33 | 34 | 29 | 30 | 32 | nan |
+| Offerings of Treasury bills | 31 | 32 | 33 | 31 | 27 | 31 | 30 | 34 | 35 | 30 | 31 | 33 | nan |
+| New money financing through regular weekly Treasury bills | 34 | 35 | 36 | 34 | 30 | 34 | 33 | 34 | 35 | 30 | 34 | 36 | nan |
+| Offerings of public marketable securities other than regular weekly Treasury bills | 37 | 38 | 39 | 38 | 34 | 38 | 37 | 41 | 42 | 37 | 38 | 40 | nan |
+| Unmatured marketable securities issued at a premium or discount other than advance refunding operations | 40 | 41 | 42 | 41 | 37 | 41 | 40 | 44 | 45 | 40 | 42 | 44 | nan |
+| Allotments by investor classes on subscription for public marketable securities | 42 | 43 | 44 | 43 | 39 | 43 | 42 | 46 | 47 | 42 | 44 | 47 | nan |
+| Disposition of public marketable securities other than regular weekly Treasury bills | 45 | 46 | 47 | 46 | 42 | 46 | 45 | 49 | 50 | 45 | 47 | 50 | nan |
+| Foreign series securities (nonmarketable) issued to official institutions of foreign countries | 49 | 50 | 51 | 50 | 46 | 50 | 50 | 54 | 55 | 49 | 52 | 55 | nan |
+| Foreign currency series securities (nonmarketable) issued to official institutions of foreign countries | 60 | 61 | 63 | 62 | 58 | 63 | 56 | 60 | 62 | 57 | 59 | 63 | nan |
+| United States savings bonds: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Sales and redemptions by series, cumulative | 62 | 64 | 66 | 65 | 61 | 66 | 59 | 63 | 65 | 60 | 62 | 66 | nan |
+| Sales and redemptions by periods, all series combined | 62 | 64 | 66 | 65 | 61 | 66 | 59 | 63 | 65 | 60 | 62 | 66 | nan |
+| Sales and redemptions by periods, Series E through K | 63 | 65 | 67 | 66 | 62 | 67 | 60 | 64 | 66 | 61 | 63 | 67 | nan |
+| Redemptions of matured and unmatured savings bonds | 65 | 67 | 69 | 68 | 64 | 69 | 62 | 66 | 68 | 63 | 65 | 69 | nan |
+| Sales and redemptions by denominations, Series E and H combined | ... | 68 | ... | ... | 65 | ... | ... | 67 | ... | ... | 66 | ... | nan |
+| Sales by States, Series E and H combined | ... | ... | ... | ... | 66 | ... | ... | ... | ... | ... | 66 | 70 | nan |
+
+132
+
+Treasury Bulletin
+
+CUMULATIVE TABLE OF CONTENTS
+
+April 1973 through March 1974 (Continued)
+
+| Sections > Sections | Issue and page number > Apr. | Issue and page number > May | Issue and page number > June | Issue and page number > July | Issue and page number > Aug. | Issue and page number > Sept. | Issue and page number > Oct. | Issue and page number > Nov. | Issue and page number > Dec. | Issue and page number > Jan. | Unnamed: 11_level_0 > Feb. | Unnamed: 12_level_0 > Mar. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: | United States savings notes: |
+| Sales and redemptions by periods | 66 | 69 | 70 | 69 | 67 | 70 | 63 | 68 | 69 | 64 | 67 | 71 |
+| Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: | Ownership of Federal securities: |
+| Distribution by classes of investors and types of issues | 67 | 70 | 71 | 70 | 68 | 71 | 64 | 69 | 70 | 65 | 68 | 72 |
+| Estimated ownership by private investors | 68 | 71 | 72 | 71 | 69 | 72 | 65 | 70 | 71 | 66 | 69 | 73 |
+| Treasury survey of ownership | 69 | 72 | 73 | 72 | 70 | 73 | 66 | 71 | 72 | 67 | 70 | 74 |
+| Treasury survey-commercial bank ownership | ... | ... | ... | ... | 77 | ... | ... | ... | ... | ... | 78 | ... |
+--
+| Nonmarketable U.S. Treasury bonds and notes issued to official institutions of foreign countries | 86 | 87 | 89 | 89 | 91 | 88 | 83 | 87 | 88 | 85 | 92 | 90 |
+| U.S. position in the International Monetary Fund | 87 | 88 | 90 | 90 | 92 | 89 | 84 | 88 | 89 | 86 | 93 | 91 |
+| U.S. net monetary gold transactions with foreign countries and international and regional organizations | 88 | 89 | 91 | 91 | 93 | 90 | 85 | 89 | 90 | 87 | 94 | 92 |
+| Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: | Capital movements between the United States and foreign countries: |
+| Liabilities to foreigners reported by banks in the United States | 91 | 92 | 94 | 94 | 96 | 93 | 88 | 92 | 93 | 90 | 97 | 95 |
+| Claims on foreigners reported by banks in the United States | 99 | 100 | 102 | 102 | 104 | 101 | 96 | 100 | 101 | 98 | 105 | 103 |
+| Liabilities to foreigners reported by nonbanking concerns in the United States | 105 | 106 | 108 | 108 | 110 | 107 | 102 | 106 | 107 | 104 | 111 | 109 |
+| Claims on foreigners reported by nonbanking concerns in the United States | 109 | 110 | 112 | 112 | 114 | 111 | 106 | 110 | 111 | 108 | 115 | 113 |
+| Transactions in long-term securities by foreigners reported by banks and brokers in the United States | 115 | 116 | 118 | 118 | 120 | 117 | 112 | 116 | 117 | 114 | 121 | 119 |
+| Foreign credit and debit balances in brokerage accounts | 124 | 125 | 127 | 127 | 129 | 126 | 121 | 125 | 126 | 123 | 130 | 128 |
+| Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: | Foreign currencies acquired by the U.S. Government without payment of dollars: |
+| Foreign currency transactions, summary and country uses | 127 | ... | ... | ... | ... | ... | ... | 128 | ... | ... | ... | ... |
+| Foreign currency transactions, U.S. uses and trust funds | 128 | ... | ... | ... | ... | ... | ... | 129 | ... | ... | ... | ... |
+| Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: | Financial operations of Government agencies and funds: |
+| Government corporations and other business-type activities: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Statements of financial condition | ... | 128 | ... | ... | ... | ... | ... | ... | ... | 126 | ... | ... |
+| Statements of income and retained earnings | ... | ... | 130 | ... | ... | ... | ... | ... | ... | ... | 133 | ... |
+| Federal credit programs: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Direct sales and repurchases of loans | 129 | 155 | 155 | 129 | 131 | 128 | 123 | 130 | 128 | 198 | 159 | 130 |
+| Loans outstanding, excluding interagency loans | ... | 156 | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| Direct and guaranteed loans outstanding | ... | ... | ... | 132 | ... | 124 | ... | ... | ... | ... | 160 | ... |
+| Trust funds: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Civil Service Retirement and Disability Fund | ... | 159 | ... | ... | 139 | ... | ... | 131 | ... | ... | 167 | ... |
+| Federal Old-age and Survivors Insurance Trust Fund | ... | 160 | ... | ... | 140 | ... | ... | 132 | ... | ... | 168 | ... |
+| Federal Disability Insurance Trust Fund | ... | 161 | ... | ... | 141 | ... | ... | 133 | ... | ... | 169 | ... |
+| Federal Hospital Insurance Trust Fund | ... | 162 | ... | ... | 142 | ... | ... | 134 | ... | ... | 170 | ... |

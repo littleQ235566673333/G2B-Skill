@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.0,
+  "match_count": 0,
+  "total_count": 1,
+  "is_correct": false,
+  "predicted": [
+    "\\You're Gettin' to Me Again\\\"\""
+  ],
+  "target": [
+    "You're Gettin' to Me Again"
+  ]
+}

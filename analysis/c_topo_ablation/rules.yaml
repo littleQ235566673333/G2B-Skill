@@ -1,0 +1,82 @@
+# Negative rules (machine-readable spec, frozen pre-eval)
+# See protocol.md for full context. Edit forbidden after eval starts.
+
+rules:
+  - rule_id: R1
+    case_id: oqa-14
+    category: comparison
+    text: |
+      When the question explicitly requests "revised" or "updated" figures
+      from a WWII-era period, do NOT use the contemporaneous bulletin
+      (e.g., 1942_10 for 1942 data) as the source for that period's
+      figure. The revisions appear only in later bulletins (1947+ for
+      WWII-era data); use the latest available bulletin in the source set
+      when "revised" is in the prompt.
+    avoid_check:
+      fail_pattern: 'treasury_bulletin_1942_10\.txt'
+      fail_context: 'public works|PWA'
+      pass_pattern: 'treasury_bulletin_1947_08\.txt'
+      grep_target: execution_trace_r0.md
+
+  - rule_id: R2
+    case_id: oqa-16
+    category: extremum_then_lookup
+    text: |
+      For two-step questions ("find the month X where Y is min/max, then
+      look up Z at that month"), explicitly identify and write down the
+      extremum-month BEFORE looking up the second value. Avoid jumping to
+      the second extraction by keyword alone — the second value must be
+      indexed by the chosen month, not by any other heuristic.
+    avoid_check:
+      fail_signal_description: |
+        Trace lacks explicit identification of yield-spread-minimum
+        month before railroad-retirement extraction.
+      pass_pattern: '(minimum|min)[^\n]{0,80}(at|=|in)[^\n]{0,40}(19[0-9]{2}|YYYY)'
+      grep_target: execution_trace_r0.md
+
+  - rule_id: R3
+    case_id: oqa-33
+    category: published_subtotal_lookup
+    text: |
+      When the question references a Treasury Office of Foreign Exchange
+      Operations net position with a qualifier ("not considering options",
+      "excluding swaps", etc.), do NOT compute the net by manual
+      subtraction. The bulletin already publishes the qualified subtotal —
+      locate the row literally labeled with that qualifier ("Total net
+      position excluding options" or similar) and read it directly.
+    avoid_check:
+      fail_pattern: '(option[ _]?position|swap)[^\n]{0,40}(\-|subtract|minus)'
+      fail_signal_description: |
+        Trace shows manual subtraction of an option-positions row.
+      pass_pattern: '(excluding[ _]options|not[ _]including[ _]options|not[ _]considering[ _]options)'
+      grep_target: execution_trace_r0.md
+
+  - rule_id: R4
+    case_id: oqa-40
+    category: statistical_formula_choice
+    text: |
+      The question explicitly asks for **population** standard deviation.
+      Use `statistics.pstdev` or equivalent (divide by N), NOT
+      `statistics.stdev` (divides by N-1). Also: "for the months in CY1981"
+      means all 12 calendar months of 1981, not fiscal year 1981 and not
+      a subset.
+    avoid_check:
+      fail_pattern: 'statistics\.stdev\('
+      pass_pattern: '(pstdev|population[ _]std|/[ _]?N\b|sum\([^)]+\)[ _]?/[ _]?12)'
+      grep_target: execution_trace_r0.md
+
+  - rule_id: R5
+    case_id: oqa-129
+    category: unit_conversion_with_explicit_inputs
+    text: |
+      For BLS CPI-U inflation adjustments, the question specifies the
+      base year (e.g., "1982-84=100 base"). Verify the CPI series used
+      is the correct BLS CPI-U with that base before computing the ratio.
+      Do NOT use a memory-supplied or implicit deflator. State the CPI
+      values for each adjustment year in the trace before applying.
+    avoid_check:
+      pass_pattern: '(CPI[\- _]?U|consumer[ _]price[ _]index)[^\n]{0,400}(1982|1983|1984|base[ _]?=?[ _]?100)'
+      pass_secondary: '\b(1960|1961|1962)\b[^\n]{0,40}\b(CPI|index|deflator)\b'
+      grep_target: execution_trace_r0.md
+
+# Decision matrix is in protocol.md; not duplicated here to avoid drift.

@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.0,
+  "match_count": 0,
+  "total_count": 1,
+  "is_correct": false,
+  "match_type": "string",
+  "tolerance_pct": 1.0,
+  "predicted": [],
+  "target": [
+    "504.12"
+  ],
+  "details": {
+    "em": 0.0,
+    "f1": 0.0,
+    "match_type": "string"
+  }
+}

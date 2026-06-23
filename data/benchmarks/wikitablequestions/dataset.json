@@ -1,0 +1,3231 @@
+[
+  {
+    "id": "nt-0",
+    "instruction": "what was the last year where this team was a part of the usl a-league?",
+    "table_csv": "csv/204-csv/590.csv",
+    "answer_values": [
+      "2004"
+    ]
+  },
+  {
+    "id": "nt-1",
+    "instruction": "in what city did piotr's last 1st place finish occur?",
+    "table_csv": "csv/204-csv/622.csv",
+    "answer_values": [
+      "Bangkok, Thailand"
+    ]
+  },
+  {
+    "id": "nt-2",
+    "instruction": "which team won previous to crettyard?",
+    "table_csv": "csv/204-csv/772.csv",
+    "answer_values": [
+      "Wolfe Tones"
+    ]
+  },
+  {
+    "id": "nt-3",
+    "instruction": "how many more passengers flew to los angeles than to saskatoon from manzanillo airport in 2013?",
+    "table_csv": "csv/203-csv/515.csv",
+    "answer_values": [
+      "12,467"
+    ]
+  },
+  {
+    "id": "nt-4",
+    "instruction": "who was the opponent in the first game of the season?",
+    "table_csv": "csv/204-csv/495.csv",
+    "answer_values": [
+      "Derby County"
+    ]
+  },
+  {
+    "id": "nt-5",
+    "instruction": "how many people stayed at least 3 years in office?",
+    "table_csv": "csv/203-csv/705.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-6",
+    "instruction": "who is the first away team on the chart",
+    "table_csv": "csv/204-csv/361.csv",
+    "answer_values": [
+      "Varbergs GIF"
+    ]
+  },
+  {
+    "id": "nt-7",
+    "instruction": "which is deeper, lake tuz or lake palas tuzla?",
+    "table_csv": "csv/204-csv/341.csv",
+    "answer_values": [
+      "Lake Palas Tuzla"
+    ]
+  },
+  {
+    "id": "nt-8",
+    "instruction": "after winning on four credits with a full house, what is your payout?",
+    "table_csv": "csv/203-csv/564.csv",
+    "answer_values": [
+      "32"
+    ]
+  },
+  {
+    "id": "nt-9",
+    "instruction": "which players played the same position as ardo kreek?",
+    "table_csv": "csv/203-csv/116.csv",
+    "answer_values": [
+      "Siim Ennemuist",
+      "Andri Aganits"
+    ]
+  },
+  {
+    "id": "nt-10",
+    "instruction": "how many times did an italian cyclist win a round?",
+    "table_csv": "csv/204-csv/253.csv",
+    "answer_values": [
+      "6"
+    ]
+  },
+  {
+    "id": "nt-11",
+    "instruction": "what was the first venue for the asian games?",
+    "table_csv": "csv/203-csv/646.csv",
+    "answer_values": [
+      "Bangkok, Thailand"
+    ]
+  },
+  {
+    "id": "nt-12",
+    "instruction": "what is the difference in the number of temples between imabari and matsuyama?",
+    "table_csv": "csv/204-csv/841.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-13",
+    "instruction": "what was the only year keene won class aa?",
+    "table_csv": "csv/204-csv/133.csv",
+    "answer_values": [
+      "1999-2000"
+    ]
+  },
+  {
+    "id": "nt-14",
+    "instruction": "which athlete was from south korea after the year 2010?",
+    "table_csv": "csv/203-csv/104.csv",
+    "answer_values": [
+      "Kim Yu-na"
+    ]
+  },
+  {
+    "id": "nt-15",
+    "instruction": "what was the venue when he placed first?",
+    "table_csv": "csv/204-csv/706.csv",
+    "answer_values": [
+      "New Delhi, India"
+    ]
+  },
+  {
+    "id": "nt-16",
+    "instruction": "how many total points did the bombers score against the bc lions?",
+    "table_csv": "csv/204-csv/227.csv",
+    "answer_values": [
+      "58"
+    ]
+  },
+  {
+    "id": "nt-17",
+    "instruction": "which is the first city listed alphabetically?",
+    "table_csv": "csv/204-csv/299.csv",
+    "answer_values": [
+      "Abbott"
+    ]
+  },
+  {
+    "id": "nt-18",
+    "instruction": "how many movies have links to other wikipedia pages about them?",
+    "table_csv": "csv/201-csv/21.csv",
+    "answer_values": [
+      "20"
+    ]
+  },
+  {
+    "id": "nt-19",
+    "instruction": "in how many games did the winning team score more than 4 points?",
+    "table_csv": "csv/204-csv/475.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-20",
+    "instruction": "which album released by the band schnell fenster produced the most singles appearing on the australian peak chart?",
+    "table_csv": "csv/202-csv/184.csv",
+    "answer_values": [
+      "The Sound Of Trees"
+    ]
+  },
+  {
+    "id": "nt-21",
+    "instruction": "which model has the most in service?",
+    "table_csv": "csv/204-csv/430.csv",
+    "answer_values": [
+      "KM-45 Series"
+    ]
+  },
+  {
+    "id": "nt-22",
+    "instruction": "which ship in auckland had the fastest speed in knots?",
+    "table_csv": "csv/203-csv/774.csv",
+    "answer_values": [
+      "Manawanui i"
+    ]
+  },
+  {
+    "id": "nt-23",
+    "instruction": "what counties had the least participants for the race?",
+    "table_csv": "csv/204-csv/849.csv",
+    "answer_values": [
+      "Morocco",
+      "France",
+      "Spain"
+    ]
+  },
+  {
+    "id": "nt-24",
+    "instruction": "who ranked right after turkey?",
+    "table_csv": "csv/203-csv/812.csv",
+    "answer_values": [
+      "Sweden"
+    ]
+  },
+  {
+    "id": "nt-25",
+    "instruction": "what's the number of parishes founded in the 1800s?",
+    "table_csv": "csv/203-csv/36.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-26",
+    "instruction": "what club scored the only a total of 79 points?",
+    "table_csv": "csv/204-csv/256.csv",
+    "answer_values": [
+      "Málaga CF"
+    ]
+  },
+  {
+    "id": "nt-27",
+    "instruction": "in 1996 the sc house of representatives had a republican majority. how many years had passed since the last time this happened?",
+    "table_csv": "csv/203-csv/95.csv",
+    "answer_values": [
+      "122"
+    ]
+  },
+  {
+    "id": "nt-28",
+    "instruction": "which kind of computer can most of the games be played on?",
+    "table_csv": "csv/203-csv/580.csv",
+    "answer_values": [
+      "Windows"
+    ]
+  },
+  {
+    "id": "nt-29",
+    "instruction": "what is the total population in dzhebariki-khaya?",
+    "table_csv": "csv/204-csv/6.csv",
+    "answer_values": [
+      "1694"
+    ]
+  },
+  {
+    "id": "nt-30",
+    "instruction": "what was the average number of years served by a coach?",
+    "table_csv": "csv/203-csv/577.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-31",
+    "instruction": "how many beta versions were released before the first full release?",
+    "table_csv": "csv/203-csv/743.csv",
+    "answer_values": [
+      "9"
+    ]
+  },
+  {
+    "id": "nt-32",
+    "instruction": "which name is first on the chart",
+    "table_csv": "csv/204-csv/873.csv",
+    "answer_values": [
+      "Jiang Qing"
+    ]
+  },
+  {
+    "id": "nt-33",
+    "instruction": "what is the last constellation featured on this table?",
+    "table_csv": "csv/203-csv/569.csv",
+    "answer_values": [
+      "Draco"
+    ]
+  },
+  {
+    "id": "nt-34",
+    "instruction": "who was the top ranked competitor in this race?",
+    "table_csv": "csv/204-csv/552.csv",
+    "answer_values": [
+      "Iryna Shpylova"
+    ]
+  },
+  {
+    "id": "nt-35",
+    "instruction": "who is the other person who is 24 years old besides reyna royo?",
+    "table_csv": "csv/204-csv/144.csv",
+    "answer_values": [
+      "Marisela Moreno Montero"
+    ]
+  },
+  {
+    "id": "nt-36",
+    "instruction": "who was the top winner in 2002 of the division 1 undergraduate?",
+    "table_csv": "csv/204-csv/879.csv",
+    "answer_values": [
+      "Princeton"
+    ]
+  },
+  {
+    "id": "nt-37",
+    "instruction": "what is the total amount of processors that have both an integrated color display and an enhanced keyboard?",
+    "table_csv": "csv/203-csv/136.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-38",
+    "instruction": "how many consecutive friendly competitions did chalupny score in?",
+    "table_csv": "csv/204-csv/920.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-39",
+    "instruction": "how many finished all 225 laps?",
+    "table_csv": "csv/204-csv/946.csv",
+    "answer_values": [
+      "8"
+    ]
+  },
+  {
+    "id": "nt-40",
+    "instruction": "what was the number of silver medals won by ukraine?",
+    "table_csv": "csv/203-csv/175.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-41",
+    "instruction": "in what year did miss pokhara last win the miss nepal award?",
+    "table_csv": "csv/204-csv/172.csv",
+    "answer_values": [
+      "1997"
+    ]
+  },
+  {
+    "id": "nt-42",
+    "instruction": "what is the total number of popular votes cast in 2003?",
+    "table_csv": "csv/203-csv/558.csv",
+    "answer_values": [
+      "459,640"
+    ]
+  },
+  {
+    "id": "nt-43",
+    "instruction": "which division three team also played in the division two season during the 1980s?",
+    "table_csv": "csv/202-csv/73.csv",
+    "answer_values": [
+      "Seaford Town"
+    ]
+  },
+  {
+    "id": "nt-44",
+    "instruction": "what is the difference in league debut date between farrell and carne?",
+    "table_csv": "csv/204-csv/387.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-45",
+    "instruction": "what film was released before \"devakanya?\"",
+    "table_csv": "csv/204-csv/961.csv",
+    "answer_values": [
+      "Dhaasippen or Jothi Malar"
+    ]
+  },
+  {
+    "id": "nt-46",
+    "instruction": "what is the largest penalty?",
+    "table_csv": "csv/204-csv/664.csv",
+    "answer_values": [
+      "10"
+    ]
+  },
+  {
+    "id": "nt-47",
+    "instruction": "who has the most and best score?",
+    "table_csv": "csv/204-csv/363.csv",
+    "answer_values": [
+      "Shane Carwin"
+    ]
+  },
+  {
+    "id": "nt-48",
+    "instruction": "what is the current total number of seats in the federal parliament?",
+    "table_csv": "csv/203-csv/698.csv",
+    "answer_values": [
+      "630"
+    ]
+  },
+  {
+    "id": "nt-49",
+    "instruction": "what number of games did new zealand win in 2010?",
+    "table_csv": "csv/203-csv/634.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-50",
+    "instruction": "who earned more medals--vietnam or indonesia?",
+    "table_csv": "csv/204-csv/725.csv",
+    "answer_values": [
+      "Indonesia (INA)"
+    ]
+  },
+  {
+    "id": "nt-51",
+    "instruction": "how many competitions had a score of 1-0 at most?",
+    "table_csv": "csv/203-csv/652.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-52",
+    "instruction": "which club had the most losses?",
+    "table_csv": "csv/203-csv/322.csv",
+    "answer_values": [
+      "RC Toulonnais"
+    ]
+  },
+  {
+    "id": "nt-53",
+    "instruction": "what is the total number of pylons listed?",
+    "table_csv": "csv/203-csv/375.csv",
+    "answer_values": [
+      "17"
+    ]
+  },
+  {
+    "id": "nt-54",
+    "instruction": "does theodis or david play center?",
+    "table_csv": "csv/204-csv/847.csv",
+    "answer_values": [
+      "Theodis Tarver"
+    ]
+  },
+  {
+    "id": "nt-55",
+    "instruction": "what was whitney's best year for her album whitney in which she won the most rewards?",
+    "table_csv": "csv/203-csv/799.csv",
+    "answer_values": [
+      "1987"
+    ]
+  },
+  {
+    "id": "nt-56",
+    "instruction": "which member of the 500 club has the least amount of home runs?",
+    "table_csv": "csv/203-csv/611.csv",
+    "answer_values": [
+      "Eddie Murray"
+    ]
+  },
+  {
+    "id": "nt-57",
+    "instruction": "how many miss northern ireland winners have made it to the top 30 placement at miss world since 2000?",
+    "table_csv": "csv/203-csv/727.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-58",
+    "instruction": "how many games did at least 1500 people attend?",
+    "table_csv": "csv/204-csv/615.csv",
+    "answer_values": [
+      "11"
+    ]
+  },
+  {
+    "id": "nt-59",
+    "instruction": "what is the next model listed after disk'o?",
+    "table_csv": "csv/203-csv/873.csv",
+    "answer_values": [
+      "Surf's Up"
+    ]
+  },
+  {
+    "id": "nt-60",
+    "instruction": "how many matches were in may 2010?",
+    "table_csv": "csv/204-csv/260.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-61",
+    "instruction": "what is the total amount of senators i all departments?",
+    "table_csv": "csv/204-csv/246.csv",
+    "answer_values": [
+      "36"
+    ]
+  },
+  {
+    "id": "nt-62",
+    "instruction": "who directed the film rajanna?",
+    "table_csv": "csv/203-csv/393.csv",
+    "answer_values": [
+      "Vijayendra Prasad"
+    ]
+  },
+  {
+    "id": "nt-63",
+    "instruction": "is the are of saint helena more than that of nightingale island?",
+    "table_csv": "csv/204-csv/332.csv",
+    "answer_values": [
+      "yes"
+    ]
+  },
+  {
+    "id": "nt-64",
+    "instruction": "how many districts are there in virginia?",
+    "table_csv": "csv/204-csv/109.csv",
+    "answer_values": [
+      "22"
+    ]
+  },
+  {
+    "id": "nt-65",
+    "instruction": "which alumni in the 1990's has the least number of international caps?",
+    "table_csv": "csv/203-csv/312.csv",
+    "answer_values": [
+      "Clint Bolton"
+    ]
+  },
+  {
+    "id": "nt-66",
+    "instruction": "what title is at the top of the table?",
+    "table_csv": "csv/203-csv/570.csv",
+    "answer_values": [
+      "The Name of the Game"
+    ]
+  },
+  {
+    "id": "nt-67",
+    "instruction": "what is the number of tv shows that charmaine sheh has appeared on?",
+    "table_csv": "csv/203-csv/631.csv",
+    "answer_values": [
+      "9"
+    ]
+  },
+  {
+    "id": "nt-68",
+    "instruction": "amazon is at the top of the chart, but what is the name below it?",
+    "table_csv": "csv/204-csv/568.csv",
+    "answer_values": [
+      "Antelope"
+    ]
+  },
+  {
+    "id": "nt-69",
+    "instruction": "when was the last time kansas state lost with 0 points in manhattan?",
+    "table_csv": "csv/203-csv/703.csv",
+    "answer_values": [
+      "1964"
+    ]
+  },
+  {
+    "id": "nt-70",
+    "instruction": "how long was joseph black a coach?",
+    "table_csv": "csv/203-csv/577.csv",
+    "answer_values": [
+      "1 year"
+    ]
+  },
+  {
+    "id": "nt-71",
+    "instruction": "which month were the least amount of games held in?",
+    "table_csv": "csv/203-csv/470.csv",
+    "answer_values": [
+      "April"
+    ]
+  },
+  {
+    "id": "nt-72",
+    "instruction": "what is the number of formula one series races that cochet has been in?",
+    "table_csv": "csv/203-csv/198.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-73",
+    "instruction": "how many matches took place in the first premier?",
+    "table_csv": "csv/203-csv/246.csv",
+    "answer_values": [
+      "27"
+    ]
+  },
+  {
+    "id": "nt-74",
+    "instruction": "which driver appears the most?",
+    "table_csv": "csv/203-csv/367.csv",
+    "answer_values": [
+      "Jim Clark"
+    ]
+  },
+  {
+    "id": "nt-75",
+    "instruction": "how many places list no zip code in either the lower or upper zip code?",
+    "table_csv": "csv/204-csv/356.csv",
+    "answer_values": [
+      "18"
+    ]
+  },
+  {
+    "id": "nt-76",
+    "instruction": "how many populations at most have any notes?",
+    "table_csv": "csv/204-csv/891.csv",
+    "answer_values": [
+      "0"
+    ]
+  },
+  {
+    "id": "nt-77",
+    "instruction": "what is the number of christian radio stations broadcasted by mxr yorkshire?",
+    "table_csv": "csv/203-csv/603.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-78",
+    "instruction": "what is the most compilation albums released in one year?",
+    "table_csv": "csv/204-csv/471.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-79",
+    "instruction": "what are the number of times antonov is listed as the manufacturer?",
+    "table_csv": "csv/203-csv/601.csv",
+    "answer_values": [
+      "8"
+    ]
+  },
+  {
+    "id": "nt-80",
+    "instruction": "has the dominican republic won more or less medals than china?",
+    "table_csv": "csv/203-csv/535.csv",
+    "answer_values": [
+      "less"
+    ]
+  },
+  {
+    "id": "nt-81",
+    "instruction": "what vehicle maker other than dodge has the most vehicles in the roster?",
+    "table_csv": "csv/204-csv/89.csv",
+    "answer_values": [
+      "Chevrolet"
+    ]
+  },
+  {
+    "id": "nt-82",
+    "instruction": "how many top selling brands target dermatology?",
+    "table_csv": "csv/204-csv/610.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-83",
+    "instruction": "which ethnicity is previous from dungan",
+    "table_csv": "csv/204-csv/984.csv",
+    "answer_values": [
+      "Belorussian"
+    ]
+  },
+  {
+    "id": "nt-84",
+    "instruction": "which year had the most titles released?",
+    "table_csv": "csv/204-csv/643.csv",
+    "answer_values": [
+      "2005"
+    ]
+  },
+  {
+    "id": "nt-85",
+    "instruction": "name someone else from scotland inducted before alan brazil.",
+    "table_csv": "csv/204-csv/650.csv",
+    "answer_values": [
+      "George Burley"
+    ]
+  },
+  {
+    "id": "nt-86",
+    "instruction": "what party has the most mp's?",
+    "table_csv": "csv/203-csv/139.csv",
+    "answer_values": [
+      "Serbian Progressive Party Српска напредна странка / Srpska napredna stranka"
+    ]
+  },
+  {
+    "id": "nt-87",
+    "instruction": "who was the only judge appointed by mckinley?",
+    "table_csv": "csv/203-csv/563.csv",
+    "answer_values": [
+      "David Davie Shelby"
+    ]
+  },
+  {
+    "id": "nt-88",
+    "instruction": "how many times was jim mcmanus jim osborne's partner?",
+    "table_csv": "csv/204-csv/335.csv",
+    "answer_values": [
+      "7"
+    ]
+  },
+  {
+    "id": "nt-89",
+    "instruction": "what was the number of days of the denver open?",
+    "table_csv": "csv/204-csv/536.csv",
+    "answer_values": [
+      "5"
+    ]
+  },
+  {
+    "id": "nt-90",
+    "instruction": "who is the only person to score in the march 6 game against videoton this season?",
+    "table_csv": "csv/204-csv/605.csv",
+    "answer_values": [
+      "Stapleton"
+    ]
+  },
+  {
+    "id": "nt-91",
+    "instruction": "how many songs charted above the 10th position on any chart?",
+    "table_csv": "csv/204-csv/654.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-92",
+    "instruction": "who was the first to take office?",
+    "table_csv": "csv/204-csv/668.csv",
+    "answer_values": [
+      "Jaafar Mohamed"
+    ]
+  },
+  {
+    "id": "nt-93",
+    "instruction": "count how many of these members were unionists.",
+    "table_csv": "csv/204-csv/608.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-94",
+    "instruction": "what is the next event after hardcore tv #15?",
+    "table_csv": "csv/204-csv/23.csv",
+    "answer_values": [
+      "Hardcore TV #21"
+    ]
+  },
+  {
+    "id": "nt-95",
+    "instruction": "how long was the race in the all-africa games (distance)?",
+    "table_csv": "csv/203-csv/189.csv",
+    "answer_values": [
+      "10,000 m"
+    ]
+  },
+  {
+    "id": "nt-96",
+    "instruction": "how many towns have a population higher than 1000?",
+    "table_csv": "csv/203-csv/568.csv",
+    "answer_values": [
+      "9"
+    ]
+  },
+  {
+    "id": "nt-97",
+    "instruction": "which rifle has the longest barrel?",
+    "table_csv": "csv/204-csv/343.csv",
+    "answer_values": [
+      "Rifle 1889"
+    ]
+  },
+  {
+    "id": "nt-98",
+    "instruction": "how many received a gold or silver medal in cycling?",
+    "table_csv": "csv/203-csv/4.csv",
+    "answer_values": [
+      "6"
+    ]
+  },
+  {
+    "id": "nt-99",
+    "instruction": "how many elections had at least a 0.2 percentage of constituency votes?",
+    "table_csv": "csv/203-csv/698.csv",
+    "answer_values": [
+      "9"
+    ]
+  },
+  {
+    "id": "nt-100",
+    "instruction": "what is the least number of concerts given in a season",
+    "table_csv": "csv/203-csv/288.csv",
+    "answer_values": [
+      "9"
+    ]
+  },
+  {
+    "id": "nt-101",
+    "instruction": "name the countries with the least amount if silver medals?",
+    "table_csv": "csv/203-csv/314.csv",
+    "answer_values": [
+      "Belgium",
+      "Hungary",
+      "Netherlands",
+      "Spain",
+      "Czechoslovakia",
+      "Italy",
+      "Denmark"
+    ]
+  },
+  {
+    "id": "nt-102",
+    "instruction": "other than ulm, what is the name of the other imperial city listed?",
+    "table_csv": "csv/203-csv/190.csv",
+    "answer_values": [
+      "Überlingen"
+    ]
+  },
+  {
+    "id": "nt-103",
+    "instruction": "at the women's 200 meter individual medley sm10 event at the 2012 summer paralympics, how long did it take aurelie rivard to finish?",
+    "table_csv": "csv/204-csv/422.csv",
+    "answer_values": [
+      "2:37.70"
+    ]
+  },
+  {
+    "id": "nt-104",
+    "instruction": "which composer produced his title after 2001?",
+    "table_csv": "csv/204-csv/969.csv",
+    "answer_values": [
+      "Pete Doherty"
+    ]
+  },
+  {
+    "id": "nt-105",
+    "instruction": "what is the total of conservatives",
+    "table_csv": "csv/204-csv/223.csv",
+    "answer_values": [
+      "94"
+    ]
+  },
+  {
+    "id": "nt-106",
+    "instruction": "other than parry, name an athlete from wales.",
+    "table_csv": "csv/204-csv/575.csv",
+    "answer_values": [
+      "Darren Jones"
+    ]
+  },
+  {
+    "id": "nt-107",
+    "instruction": "which player ranked the most?",
+    "table_csv": "csv/204-csv/952.csv",
+    "answer_values": [
+      "Nicky English"
+    ]
+  },
+  {
+    "id": "nt-108",
+    "instruction": "what are the number of times model 25 is listed on this chart?",
+    "table_csv": "csv/203-csv/136.csv",
+    "answer_values": [
+      "8"
+    ]
+  },
+  {
+    "id": "nt-109",
+    "instruction": "how many total points did russia win in this competition?",
+    "table_csv": "csv/204-csv/809.csv",
+    "answer_values": [
+      "119"
+    ]
+  },
+  {
+    "id": "nt-110",
+    "instruction": "what style was the chateau de brissac rebuilt in after it was damaged during the french wars of religion?",
+    "table_csv": "csv/204-csv/806.csv",
+    "answer_values": [
+      "baroque style"
+    ]
+  },
+  {
+    "id": "nt-111",
+    "instruction": "how long after fairfield was no. 1 built?",
+    "table_csv": "csv/204-csv/476.csv",
+    "answer_values": [
+      "33 years"
+    ]
+  },
+  {
+    "id": "nt-112",
+    "instruction": "what is the first airbase listed on the chart?",
+    "table_csv": "csv/204-csv/102.csv",
+    "answer_values": [
+      "Abu al-Duhur Military Airbase"
+    ]
+  },
+  {
+    "id": "nt-113",
+    "instruction": "which university has the least in endowment?",
+    "table_csv": "csv/203-csv/592.csv",
+    "answer_values": [
+      "Brown University"
+    ]
+  },
+  {
+    "id": "nt-114",
+    "instruction": "name one county that only received 1,935 votes total.",
+    "table_csv": "csv/204-csv/956.csv",
+    "answer_values": [
+      "Hidalgo"
+    ]
+  },
+  {
+    "id": "nt-115",
+    "instruction": "who was the next ranked competitor after dior delophont and ligia grozav?",
+    "table_csv": "csv/204-csv/741.csv",
+    "answer_values": [
+      "Iryna Herashchenko"
+    ]
+  },
+  {
+    "id": "nt-116",
+    "instruction": "what is the difference in runners-up from coleraine academical institution and royal school dungannon?",
+    "table_csv": "csv/203-csv/362.csv",
+    "answer_values": [
+      "20"
+    ]
+  },
+  {
+    "id": "nt-117",
+    "instruction": "what year was the first to reach 1,000 or more live births?",
+    "table_csv": "csv/203-csv/668.csv",
+    "answer_values": [
+      "1985"
+    ]
+  },
+  {
+    "id": "nt-118",
+    "instruction": "what is the first party listed on this chart?",
+    "table_csv": "csv/204-csv/223.csv",
+    "answer_values": [
+      "Conservatives"
+    ]
+  },
+  {
+    "id": "nt-119",
+    "instruction": "how many defensive (df) players are there on the national team?",
+    "table_csv": "csv/203-csv/121.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-120",
+    "instruction": "which opponent has the most wins",
+    "table_csv": "csv/204-csv/836.csv",
+    "answer_values": [
+      "Bahrain"
+    ]
+  },
+  {
+    "id": "nt-121",
+    "instruction": "what property comes before tensile elongation?",
+    "table_csv": "csv/204-csv/229.csv",
+    "answer_values": [
+      "Tensile Modulus"
+    ]
+  },
+  {
+    "id": "nt-122",
+    "instruction": "the team's record in 2011 was the same was it's record in what year",
+    "table_csv": "csv/204-csv/32.csv",
+    "answer_values": [
+      "2009"
+    ]
+  },
+  {
+    "id": "nt-123",
+    "instruction": "which district has the greatest total number of electorates?",
+    "table_csv": "csv/204-csv/255.csv",
+    "answer_values": [
+      "Tikamgarh"
+    ]
+  },
+  {
+    "id": "nt-124",
+    "instruction": "how many times has germany won bronze?",
+    "table_csv": "csv/203-csv/554.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-125",
+    "instruction": "list two pylons that are at most, 80 m in height.",
+    "table_csv": "csv/203-csv/375.csv",
+    "answer_values": [
+      "Mittersill goods aerial tramway",
+      "Singapore cable car"
+    ]
+  },
+  {
+    "id": "nt-126",
+    "instruction": "what two teams only have two titles?",
+    "table_csv": "csv/203-csv/502.csv",
+    "answer_values": [
+      "Western Michigan",
+      "North Dakota"
+    ]
+  },
+  {
+    "id": "nt-127",
+    "instruction": "what is the name of the first club on this chart?",
+    "table_csv": "csv/203-csv/145.csv",
+    "answer_values": [
+      "UE Lleida"
+    ]
+  },
+  {
+    "id": "nt-128",
+    "instruction": "in 2008 in track and field events who broke more world records, usain bolt or haile gebrselassie?",
+    "table_csv": "csv/203-csv/102.csv",
+    "answer_values": [
+      "Usain Bolt"
+    ]
+  },
+  {
+    "id": "nt-129",
+    "instruction": "which election was the first to reach over 40% of the popular vote?",
+    "table_csv": "csv/203-csv/558.csv",
+    "answer_values": [
+      "2003"
+    ]
+  },
+  {
+    "id": "nt-130",
+    "instruction": "why type of genre was peter maxwell davies' work that was the same as emil petrovics'",
+    "table_csv": "csv/204-csv/969.csv",
+    "answer_values": [
+      "ballet"
+    ]
+  },
+  {
+    "id": "nt-131",
+    "instruction": "what week had the most attendance?",
+    "table_csv": "csv/203-csv/691.csv",
+    "answer_values": [
+      "15"
+    ]
+  },
+  {
+    "id": "nt-132",
+    "instruction": "what is the difference (in years) between when the royal blue began and the year the crusader began?",
+    "table_csv": "csv/204-csv/336.csv",
+    "answer_values": [
+      "47"
+    ]
+  },
+  {
+    "id": "nt-133",
+    "instruction": "what are the number of years maine has participated?",
+    "table_csv": "csv/203-csv/502.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-134",
+    "instruction": "what is the last iec world plugs type in the list?",
+    "table_csv": "csv/204-csv/794.csv",
+    "answer_values": [
+      "N"
+    ]
+  },
+  {
+    "id": "nt-135",
+    "instruction": "what is the least number of meters habte jifar has run?",
+    "table_csv": "csv/203-csv/189.csv",
+    "answer_values": [
+      "5,000 m"
+    ]
+  },
+  {
+    "id": "nt-136",
+    "instruction": "how many times, total, was the result \"won\"",
+    "table_csv": "csv/204-csv/948.csv",
+    "answer_values": [
+      "24"
+    ]
+  },
+  {
+    "id": "nt-137",
+    "instruction": "what country had the least gdp growth from 2007-2011?",
+    "table_csv": "csv/203-csv/296.csv",
+    "answer_values": [
+      "Zimbabwe"
+    ]
+  },
+  {
+    "id": "nt-138",
+    "instruction": "in which country did thierry tulasne win his last singles title?",
+    "table_csv": "csv/203-csv/60.csv",
+    "answer_values": [
+      "Switzerland"
+    ]
+  },
+  {
+    "id": "nt-139",
+    "instruction": "what was the last event held?",
+    "table_csv": "csv/204-csv/413.csv",
+    "answer_values": [
+      "Men's 25 m rapid fire pistol"
+    ]
+  },
+  {
+    "id": "nt-140",
+    "instruction": "what was the first award he was nominated for?",
+    "table_csv": "csv/203-csv/643.csv",
+    "answer_values": [
+      "Black Reel Awards"
+    ]
+  },
+  {
+    "id": "nt-141",
+    "instruction": "what is the number of games the senators have played?",
+    "table_csv": "csv/203-csv/517.csv",
+    "answer_values": [
+      "18"
+    ]
+  },
+  {
+    "id": "nt-142",
+    "instruction": "what was the first team that toronto lost to?",
+    "table_csv": "csv/204-csv/557.csv",
+    "answer_values": [
+      "Toronto 228th Battalion"
+    ]
+  },
+  {
+    "id": "nt-143",
+    "instruction": "who is taller, the delegate from jalapa or from villa nueva?",
+    "table_csv": "csv/204-csv/20.csv",
+    "answer_values": [
+      "Villa Nueva"
+    ]
+  },
+  {
+    "id": "nt-144",
+    "instruction": "what was the best position achieved at the olympic games after the 1996 atlanta games?",
+    "table_csv": "csv/203-csv/646.csv",
+    "answer_values": [
+      "11th"
+    ]
+  },
+  {
+    "id": "nt-145",
+    "instruction": "how many academy awards have been won posthumously?",
+    "table_csv": "csv/203-csv/17.csv",
+    "answer_values": [
+      "16"
+    ]
+  },
+  {
+    "id": "nt-146",
+    "instruction": "number of goals manchester united scored against preston north end in the season",
+    "table_csv": "csv/204-csv/467.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-147",
+    "instruction": "how many times does \"friendly\" appear in the competition column?",
+    "table_csv": "csv/204-csv/346.csv",
+    "answer_values": [
+      "5"
+    ]
+  },
+  {
+    "id": "nt-148",
+    "instruction": "who received the least amount of votes?",
+    "table_csv": "csv/204-csv/786.csv",
+    "answer_values": [
+      "Karen Olsson"
+    ]
+  },
+  {
+    "id": "nt-149",
+    "instruction": "which locomotive was built after 1915?",
+    "table_csv": "csv/203-csv/223.csv",
+    "answer_values": [
+      "No.774"
+    ]
+  },
+  {
+    "id": "nt-150",
+    "instruction": "funningsfjørður and fuglafjørður are located on the same island as...?",
+    "table_csv": "csv/203-csv/568.csv",
+    "answer_values": [
+      "Funningur"
+    ]
+  },
+  {
+    "id": "nt-151",
+    "instruction": "which province in andalusia has the largest population?",
+    "table_csv": "csv/203-csv/3.csv",
+    "answer_values": [
+      "Seville"
+    ]
+  },
+  {
+    "id": "nt-152",
+    "instruction": "what is the next highest hard drive available after the 30gb model?",
+    "table_csv": "csv/204-csv/451.csv",
+    "answer_values": [
+      "64GB SSD"
+    ]
+  },
+  {
+    "id": "nt-153",
+    "instruction": "the total number of helipads at hama military airport?",
+    "table_csv": "csv/204-csv/102.csv",
+    "answer_values": [
+      "10"
+    ]
+  },
+  {
+    "id": "nt-154",
+    "instruction": "what are the only species with 99% sequence identity?",
+    "table_csv": "csv/204-csv/358.csv",
+    "answer_values": [
+      "Pan troglodytes",
+      "Nomascus leucogenys"
+    ]
+  },
+  {
+    "id": "nt-155",
+    "instruction": "what was the month and year when the rutgers-eagleton poll first showed 50 percent in favor of same-sex marriage in new jersey?",
+    "table_csv": "csv/203-csv/43.csv",
+    "answer_values": [
+      "November 2009"
+    ]
+  },
+  {
+    "id": "nt-156",
+    "instruction": "how many times did the home team have a score of only one against the away team?",
+    "table_csv": "csv/204-csv/475.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-157",
+    "instruction": "other than lake ercek, name a lake in van.",
+    "table_csv": "csv/204-csv/341.csv",
+    "answer_values": [
+      "Lake Van"
+    ]
+  },
+  {
+    "id": "nt-158",
+    "instruction": "which mountain peak has a prominence more than 10,000 ft?",
+    "table_csv": "csv/204-csv/25.csv",
+    "answer_values": [
+      "Mount Whitney"
+    ]
+  },
+  {
+    "id": "nt-159",
+    "instruction": "how many mines were in temagami?",
+    "table_csv": "csv/204-csv/944.csv",
+    "answer_values": [
+      "10"
+    ]
+  },
+  {
+    "id": "nt-160",
+    "instruction": "how many gold medals did this country win during these olympics?",
+    "table_csv": "csv/204-csv/884.csv",
+    "answer_values": [
+      "10"
+    ]
+  },
+  {
+    "id": "nt-161",
+    "instruction": "what peter widen's is the highest finish in all indoor championships?",
+    "table_csv": "csv/204-csv/445.csv",
+    "answer_values": [
+      "5th"
+    ]
+  },
+  {
+    "id": "nt-162",
+    "instruction": "how many audio versions are less than five minutes long?",
+    "table_csv": "csv/204-csv/804.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-163",
+    "instruction": "who was the top scorer after sukhrob nematov?",
+    "table_csv": "csv/204-csv/357.csv",
+    "answer_values": [
+      "Vokhid Shodiev"
+    ]
+  },
+  {
+    "id": "nt-164",
+    "instruction": "how many articles were published in the 6th volume?",
+    "table_csv": "csv/204-csv/843.csv",
+    "answer_values": [
+      "3,108"
+    ]
+  },
+  {
+    "id": "nt-165",
+    "instruction": "what is the total number of awards the lion king has won?",
+    "table_csv": "csv/204-csv/592.csv",
+    "answer_values": [
+      "15"
+    ]
+  },
+  {
+    "id": "nt-166",
+    "instruction": "how long did it take this competitor to finish the 4x400 meter relay at universiade in 2005?",
+    "table_csv": "csv/204-csv/622.csv",
+    "answer_values": [
+      "3:02.57"
+    ]
+  },
+  {
+    "id": "nt-167",
+    "instruction": "which is the oldest locomotive?",
+    "table_csv": "csv/204-csv/816.csv",
+    "answer_values": [
+      "BL26"
+    ]
+  },
+  {
+    "id": "nt-168",
+    "instruction": "what year did the album \"jezebel\" on blockshok records release?",
+    "table_csv": "csv/204-csv/928.csv",
+    "answer_values": [
+      "1995"
+    ]
+  },
+  {
+    "id": "nt-169",
+    "instruction": "which schools have the largest number of shared titles?",
+    "table_csv": "csv/203-csv/362.csv",
+    "answer_values": [
+      "Royal Belfast Academical Institution",
+      "Campbell College"
+    ]
+  },
+  {
+    "id": "nt-170",
+    "instruction": "what name comes next fairfield?",
+    "table_csv": "csv/204-csv/476.csv",
+    "answer_values": [
+      "Waverley"
+    ]
+  },
+  {
+    "id": "nt-171",
+    "instruction": "how many games were only won by 20 points or less?",
+    "table_csv": "csv/204-csv/157.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-172",
+    "instruction": "what was her peak ranking in the us for the single \"it wasn't god who made honky tonk angles\"?",
+    "table_csv": "csv/204-csv/500.csv",
+    "answer_values": [
+      "27"
+    ]
+  },
+  {
+    "id": "nt-173",
+    "instruction": "when was bobbie phillips first role in tv?",
+    "table_csv": "csv/202-csv/178.csv",
+    "answer_values": [
+      "1991"
+    ]
+  },
+  {
+    "id": "nt-174",
+    "instruction": "give the total number of riders listed.",
+    "table_csv": "csv/204-csv/162.csv",
+    "answer_values": [
+      "26"
+    ]
+  },
+  {
+    "id": "nt-175",
+    "instruction": "which one is the last on the chart",
+    "table_csv": "csv/204-csv/679.csv",
+    "answer_values": [
+      "Sam Snead"
+    ]
+  },
+  {
+    "id": "nt-176",
+    "instruction": "how long was the marathon for camilla benjaminsson?",
+    "table_csv": "csv/204-csv/31.csv",
+    "answer_values": [
+      "1:20:00"
+    ]
+  },
+  {
+    "id": "nt-177",
+    "instruction": "which is the most recent source for the name?",
+    "table_csv": "csv/202-csv/250.csv",
+    "answer_values": [
+      "Clavijo"
+    ]
+  },
+  {
+    "id": "nt-178",
+    "instruction": "which province is the top consumer of wine?",
+    "table_csv": "csv/204-csv/533.csv",
+    "answer_values": [
+      "Yukon"
+    ]
+  },
+  {
+    "id": "nt-179",
+    "instruction": "which chords does not have a sharp or flat note?",
+    "table_csv": "csv/203-csv/324.csv",
+    "answer_values": [
+      "G7"
+    ]
+  },
+  {
+    "id": "nt-180",
+    "instruction": "how long did ian armstrong serve?",
+    "table_csv": "csv/202-csv/76.csv",
+    "answer_values": [
+      "26 years"
+    ]
+  },
+  {
+    "id": "nt-181",
+    "instruction": "habte jifar is a marathon runner representing his home country of ____?",
+    "table_csv": "csv/203-csv/189.csv",
+    "answer_values": [
+      "Ethiopia"
+    ]
+  },
+  {
+    "id": "nt-182",
+    "instruction": "how many games did the senators play in january?",
+    "table_csv": "csv/203-csv/517.csv",
+    "answer_values": [
+      "10"
+    ]
+  },
+  {
+    "id": "nt-183",
+    "instruction": "what material has the top or best thermal conductivity based on the information in the table?",
+    "table_csv": "csv/203-csv/385.csv",
+    "answer_values": [
+      "Diamond"
+    ]
+  },
+  {
+    "id": "nt-184",
+    "instruction": "which month had more games played, january or december?",
+    "table_csv": "csv/204-csv/967.csv",
+    "answer_values": [
+      "January"
+    ]
+  },
+  {
+    "id": "nt-185",
+    "instruction": "how many total towns on the list are in montgomery county?",
+    "table_csv": "csv/204-csv/299.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-186",
+    "instruction": "what is the total number of fdrcs that the ppopp has been a part of?",
+    "table_csv": "csv/204-csv/916.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-187",
+    "instruction": "what is the name of the first jockey on this chart?",
+    "table_csv": "csv/204-csv/330.csv",
+    "answer_values": [
+      "Tom Kiley"
+    ]
+  },
+  {
+    "id": "nt-188",
+    "instruction": "what was the first non volume game released in 2004?",
+    "table_csv": "csv/203-csv/583.csv",
+    "answer_values": [
+      "Gunbird Special Edition / Gunbird 1&2"
+    ]
+  },
+  {
+    "id": "nt-189",
+    "instruction": "what is the top place listed on the chart?",
+    "table_csv": "csv/204-csv/550.csv",
+    "answer_values": [
+      "Brisbane, Australia"
+    ]
+  },
+  {
+    "id": "nt-190",
+    "instruction": "who became commissioner after george p. larrick?",
+    "table_csv": "csv/203-csv/559.csv",
+    "answer_values": [
+      "James Lee Goddard, M.D."
+    ]
+  },
+  {
+    "id": "nt-191",
+    "instruction": "how many airlines have a steady ranking?",
+    "table_csv": "csv/203-csv/515.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-192",
+    "instruction": "how many top scorers do not appear twice?",
+    "table_csv": "csv/204-csv/357.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-193",
+    "instruction": "in 2007, what is the largest number of consecutive games won by the nebraska football team?",
+    "table_csv": "csv/204-csv/294.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-194",
+    "instruction": "in terms of gross what movie is above toy story 3?",
+    "table_csv": "csv/203-csv/174.csv",
+    "answer_values": [
+      "Pirates of the Caribbean: At World's End"
+    ]
+  },
+  {
+    "id": "nt-195",
+    "instruction": "which three artists had a single at number 1 for at least 7 weeks on the australian singles charts in 1977?",
+    "table_csv": "csv/203-csv/197.csv",
+    "answer_values": [
+      "Julie Covington",
+      "Pussyfoot",
+      "Andy Gibb"
+    ]
+  },
+  {
+    "id": "nt-196",
+    "instruction": "in what year did the fiba south america under-17 championship for women first begin?",
+    "table_csv": "csv/204-csv/360.csv",
+    "answer_values": [
+      "1976"
+    ]
+  },
+  {
+    "id": "nt-197",
+    "instruction": "which movies were number 1 for at least two consecutive weeks?",
+    "table_csv": "csv/204-csv/7.csv",
+    "answer_values": [
+      "Frozen",
+      "Cásese Quien Pueda",
+      "300: Rise of an Empire"
+    ]
+  },
+  {
+    "id": "nt-198",
+    "instruction": "where was the only site that both team ever tied the game in?",
+    "table_csv": "csv/203-csv/209.csv",
+    "answer_values": [
+      "Columbia"
+    ]
+  },
+  {
+    "id": "nt-199",
+    "instruction": "how many players with an assist did not play the position of mf or fw?",
+    "table_csv": "csv/204-csv/575.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-200",
+    "instruction": "what is the number of symbol zn?",
+    "table_csv": "csv/204-csv/39.csv",
+    "answer_values": [
+      "30"
+    ]
+  },
+  {
+    "id": "nt-201",
+    "instruction": "which two counties have the larger populations when combined - park and missoula or judith basin and madison?",
+    "table_csv": "csv/204-csv/572.csv",
+    "answer_values": [
+      "Park and Missoula"
+    ]
+  },
+  {
+    "id": "nt-202",
+    "instruction": "what is the last city/town/village listed in the table?",
+    "table_csv": "csv/204-csv/841.csv",
+    "answer_values": [
+      "Sanuki"
+    ]
+  },
+  {
+    "id": "nt-203",
+    "instruction": "which candidate got the least votes in the entire districts?",
+    "table_csv": "csv/204-csv/226.csv",
+    "answer_values": [
+      "Nezir Jaupaj (PKSH) (2.63 %)"
+    ]
+  },
+  {
+    "id": "nt-204",
+    "instruction": "how many teams had at least 15 wins?",
+    "table_csv": "csv/203-csv/145.csv",
+    "answer_values": [
+      "8"
+    ]
+  },
+  {
+    "id": "nt-205",
+    "instruction": "what is the difference in tom power's number and jon wood's number?",
+    "table_csv": "csv/204-csv/89.csv",
+    "answer_values": [
+      "5"
+    ]
+  },
+  {
+    "id": "nt-206",
+    "instruction": "what car achieved the highest qual?",
+    "table_csv": "csv/203-csv/339.csv",
+    "answer_values": [
+      "40"
+    ]
+  },
+  {
+    "id": "nt-207",
+    "instruction": "what was the first computer to use a decimal numeral system?",
+    "table_csv": "csv/204-csv/577.csv",
+    "answer_values": [
+      "Harvard Mark I - IBM ASCC"
+    ]
+  },
+  {
+    "id": "nt-208",
+    "instruction": "which secretary of state came after jack pkckersgill?",
+    "table_csv": "csv/201-csv/27.csv",
+    "answer_values": [
+      "Roch Pinard"
+    ]
+  },
+  {
+    "id": "nt-209",
+    "instruction": "which album did she produce before good rain?",
+    "table_csv": "csv/204-csv/529.csv",
+    "answer_values": [
+      "Pixiedust"
+    ]
+  },
+  {
+    "id": "nt-210",
+    "instruction": "how many athletes are not ranked?",
+    "table_csv": "csv/204-csv/713.csv",
+    "answer_values": [
+      "21"
+    ]
+  },
+  {
+    "id": "nt-211",
+    "instruction": "how far did they make it in the fa cup after 2009?",
+    "table_csv": "csv/204-csv/179.csv",
+    "answer_values": [
+      "Round of 16"
+    ]
+  },
+  {
+    "id": "nt-212",
+    "instruction": "how many consecutive songs were by the album leaf?",
+    "table_csv": "csv/203-csv/357.csv",
+    "answer_values": [
+      "6"
+    ]
+  },
+  {
+    "id": "nt-213",
+    "instruction": "what team scored the least opposition strength?",
+    "table_csv": "csv/204-csv/837.csv",
+    "answer_values": [
+      "Amplistan"
+    ]
+  },
+  {
+    "id": "nt-214",
+    "instruction": "which party finished last in the election?",
+    "table_csv": "csv/202-csv/231.csv",
+    "answer_values": [
+      "Sweden Democrats"
+    ]
+  },
+  {
+    "id": "nt-215",
+    "instruction": "in their first 20 games, which team did the tigers play the most?",
+    "table_csv": "csv/203-csv/536.csv",
+    "answer_values": [
+      "CHW"
+    ]
+  },
+  {
+    "id": "nt-216",
+    "instruction": "which track is at the top of the us chart?",
+    "table_csv": "csv/203-csv/830.csv",
+    "answer_values": [
+      "You're Gettin' to Me Again"
+    ]
+  },
+  {
+    "id": "nt-217",
+    "instruction": "which castle is considered second fortress of anjou, after angers?",
+    "table_csv": "csv/204-csv/806.csv",
+    "answer_values": [
+      "Château de Pouancé"
+    ]
+  },
+  {
+    "id": "nt-218",
+    "instruction": "the team placed 1st in 1992/93. how did they place the previous year?",
+    "table_csv": "csv/204-csv/35.csv",
+    "answer_values": [
+      "18th"
+    ]
+  },
+  {
+    "id": "nt-219",
+    "instruction": "what award was won previously just before the medaglia pontificia anno xiii was awarded?",
+    "table_csv": "csv/203-csv/769.csv",
+    "answer_values": [
+      "Indira Gandhi Peace Prize for Disarmament and Development"
+    ]
+  },
+  {
+    "id": "nt-220",
+    "instruction": "who was the only person that scheider lost against?",
+    "table_csv": "csv/200-csv/31.csv",
+    "answer_values": [
+      "Myron Greenberg"
+    ]
+  },
+  {
+    "id": "nt-221",
+    "instruction": "which driver and co-driver finished at 3:59 but with 8 points?",
+    "table_csv": "csv/203-csv/399.csv",
+    "answer_values": [
+      "Dani Sordo",
+      "Marc Marti"
+    ]
+  },
+  {
+    "id": "nt-222",
+    "instruction": "what was the name of the ship that was built after the jule in this yard?",
+    "table_csv": "csv/204-csv/781.csv",
+    "answer_values": [
+      "United States lightship LV-72"
+    ]
+  },
+  {
+    "id": "nt-223",
+    "instruction": "when was the benetton b198 chassis used?",
+    "table_csv": "csv/202-csv/294.csv",
+    "answer_values": [
+      "1998"
+    ]
+  },
+  {
+    "id": "nt-224",
+    "instruction": "which institution has the most undergraduate enrollment?",
+    "table_csv": "csv/203-csv/592.csv",
+    "answer_values": [
+      "Cornell University"
+    ]
+  },
+  {
+    "id": "nt-225",
+    "instruction": "other than chimaltenango's contestant, which region also had a 19-year-old contestant?",
+    "table_csv": "csv/204-csv/20.csv",
+    "answer_values": [
+      "Ciudad Capital"
+    ]
+  },
+  {
+    "id": "nt-226",
+    "instruction": "what date was the first game played?",
+    "table_csv": "csv/203-csv/517.csv",
+    "answer_values": [
+      "December 21"
+    ]
+  },
+  {
+    "id": "nt-227",
+    "instruction": "when was the last super chinese game released?",
+    "table_csv": "csv/203-csv/55.csv",
+    "answer_values": [
+      "1999"
+    ]
+  },
+  {
+    "id": "nt-228",
+    "instruction": "is the rf for wivm-ld 39 or 29?",
+    "table_csv": "csv/204-csv/793.csv",
+    "answer_values": [
+      "39"
+    ]
+  },
+  {
+    "id": "nt-229",
+    "instruction": "who held the position longer, t.v sivaraopantulu or l. suryalingam?",
+    "table_csv": "csv/204-csv/593.csv",
+    "answer_values": [
+      "T.V. SivaraoPantulu"
+    ]
+  },
+  {
+    "id": "nt-230",
+    "instruction": "which players came in a place before lukas bauer?",
+    "table_csv": "csv/204-csv/81.csv",
+    "answer_values": [
+      "Iivo Niskanen",
+      "Daniel Richardsson",
+      "Johan Olsson",
+      "Dario Cologna"
+    ]
+  },
+  {
+    "id": "nt-231",
+    "instruction": "what year did monaco ratify more international human rights treaties than they did in 1979?",
+    "table_csv": "csv/203-csv/109.csv",
+    "answer_values": [
+      "1993"
+    ]
+  },
+  {
+    "id": "nt-232",
+    "instruction": "how many consecutive games did dejan damjanovic score a goal in during the 2013 season?",
+    "table_csv": "csv/204-csv/375.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-233",
+    "instruction": "what is the number of democratic victories?",
+    "table_csv": "csv/203-csv/95.csv",
+    "answer_values": [
+      "20"
+    ]
+  },
+  {
+    "id": "nt-234",
+    "instruction": "where was the match held immediately before 2014's at guizhou olympic stadium?",
+    "table_csv": "csv/204-csv/770.csv",
+    "answer_values": [
+      "Tianhe Stadium, Guangzhou"
+    ]
+  },
+  {
+    "id": "nt-235",
+    "instruction": "what is the first club listed in the chart?",
+    "table_csv": "csv/204-csv/985.csv",
+    "answer_values": [
+      "WIT Georgia"
+    ]
+  },
+  {
+    "id": "nt-236",
+    "instruction": "which jockey is before tm jones",
+    "table_csv": "csv/204-csv/561.csv",
+    "answer_values": [
+      "Willie Robinson"
+    ]
+  },
+  {
+    "id": "nt-237",
+    "instruction": "how many songs did ishaan dev create for the movies kai thunindavan and thaazhvaarakaatu?",
+    "table_csv": "csv/204-csv/546.csv",
+    "answer_values": [
+      "5"
+    ]
+  },
+  {
+    "id": "nt-238",
+    "instruction": "did jim osborne win any titles at least once on a grass court?",
+    "table_csv": "csv/204-csv/335.csv",
+    "answer_values": [
+      "yes"
+    ]
+  },
+  {
+    "id": "nt-239",
+    "instruction": "what year had a total of 2 titles released?",
+    "table_csv": "csv/203-csv/836.csv",
+    "answer_values": [
+      "2010"
+    ]
+  },
+  {
+    "id": "nt-240",
+    "instruction": "what is the only building in canada to have more than 60 floors?",
+    "table_csv": "csv/203-csv/777.csv",
+    "answer_values": [
+      "First Canadian Place"
+    ]
+  },
+  {
+    "id": "nt-241",
+    "instruction": "what year has no place indicated?",
+    "table_csv": "csv/203-csv/231.csv",
+    "answer_values": [
+      "1982/83"
+    ]
+  },
+  {
+    "id": "nt-242",
+    "instruction": "which locomotive weighs the least?",
+    "table_csv": "csv/204-csv/850.csv",
+    "answer_values": [
+      "Re 4/4"
+    ]
+  },
+  {
+    "id": "nt-243",
+    "instruction": "what is the average score of all home team members for all dates?",
+    "table_csv": "csv/203-csv/24.csv",
+    "answer_values": [
+      "1.75"
+    ]
+  },
+  {
+    "id": "nt-244",
+    "instruction": "how many of the listed senators were at least 90 years old when they died?",
+    "table_csv": "csv/204-csv/145.csv",
+    "answer_values": [
+      "5"
+    ]
+  },
+  {
+    "id": "nt-245",
+    "instruction": "what role did mischa barton play in the movie \"octane\"?",
+    "table_csv": "csv/200-csv/1.csv",
+    "answer_values": [
+      "Natasha 'Nat' Wilson"
+    ]
+  },
+  {
+    "id": "nt-246",
+    "instruction": "what nation leads the medal count?",
+    "table_csv": "csv/203-csv/724.csv",
+    "answer_values": [
+      "Russia"
+    ]
+  },
+  {
+    "id": "nt-247",
+    "instruction": "how long has neha been acting?",
+    "table_csv": "csv/203-csv/157.csv",
+    "answer_values": [
+      "7 years"
+    ]
+  },
+  {
+    "id": "nt-248",
+    "instruction": "what is the number of games played against vietnam?",
+    "table_csv": "csv/204-csv/913.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-249",
+    "instruction": "how many games were attended by at least 60,000 people?",
+    "table_csv": "csv/204-csv/443.csv",
+    "answer_values": [
+      "6"
+    ]
+  },
+  {
+    "id": "nt-250",
+    "instruction": "what is the number of points scored on 6 february 1922?",
+    "table_csv": "csv/204-csv/267.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-251",
+    "instruction": "what is the total number of gold medals awarded?",
+    "table_csv": "csv/204-csv/785.csv",
+    "answer_values": [
+      "33"
+    ]
+  },
+  {
+    "id": "nt-252",
+    "instruction": "how many tournaments did sergio garcia win on the 2002 pga tour?",
+    "table_csv": "csv/203-csv/531.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-253",
+    "instruction": "how many of the contestants were students?",
+    "table_csv": "csv/203-csv/446.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-254",
+    "instruction": "we will rock you and we are the champions where played at which venue?",
+    "table_csv": "csv/203-csv/855.csv",
+    "answer_values": [
+      "RTÉ Studios"
+    ]
+  },
+  {
+    "id": "nt-255",
+    "instruction": "which year had the largest agricultural volume?",
+    "table_csv": "csv/204-csv/666.csv",
+    "answer_values": [
+      "2010/11"
+    ]
+  },
+  {
+    "id": "nt-256",
+    "instruction": "what is the total number of wins for macau?",
+    "table_csv": "csv/203-csv/14.csv",
+    "answer_values": [
+      "6"
+    ]
+  },
+  {
+    "id": "nt-257",
+    "instruction": "what title appears before \"the self-preservation society\"?",
+    "table_csv": "csv/203-csv/570.csv",
+    "answer_values": [
+      "Herogasm"
+    ]
+  },
+  {
+    "id": "nt-258",
+    "instruction": "how many spanish champions have there been?",
+    "table_csv": "csv/204-csv/351.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-259",
+    "instruction": "what was the first song that this producer helped write?",
+    "table_csv": "csv/204-csv/927.csv",
+    "answer_values": [
+      "Cheat on you"
+    ]
+  },
+  {
+    "id": "nt-260",
+    "instruction": "which illustrator was responsible for the last award winner?",
+    "table_csv": "csv/203-csv/788.csv",
+    "answer_values": [
+      "Helen Oxenbury"
+    ]
+  },
+  {
+    "id": "nt-261",
+    "instruction": "what episode had the most viewers?",
+    "table_csv": "csv/204-csv/449.csv",
+    "answer_values": [
+      "Episode Ten"
+    ]
+  },
+  {
+    "id": "nt-262",
+    "instruction": "does december or january have more snow days?",
+    "table_csv": "csv/201-csv/3.csv",
+    "answer_values": [
+      "January"
+    ]
+  },
+  {
+    "id": "nt-263",
+    "instruction": "what is the average number of points scored by opponents in the five games lost this season?",
+    "table_csv": "csv/204-csv/227.csv",
+    "answer_values": [
+      "29.2"
+    ]
+  },
+  {
+    "id": "nt-264",
+    "instruction": "what is the number of buildings under 200 ft?",
+    "table_csv": "csv/203-csv/837.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-265",
+    "instruction": "what was the finishing place of the team before the 2007-2008?",
+    "table_csv": "csv/204-csv/186.csv",
+    "answer_values": [
+      "3rd"
+    ]
+  },
+  {
+    "id": "nt-266",
+    "instruction": "which are they only two names that have spain as their country of origin?",
+    "table_csv": "csv/203-csv/573.csv",
+    "answer_values": [
+      "García",
+      "Rodríguez"
+    ]
+  },
+  {
+    "id": "nt-267",
+    "instruction": "total number of players whose home town was in north carolina (nc)",
+    "table_csv": "csv/204-csv/526.csv",
+    "answer_values": [
+      "7"
+    ]
+  },
+  {
+    "id": "nt-268",
+    "instruction": "what was the first playstation 3 release date?",
+    "table_csv": "csv/204-csv/587.csv",
+    "answer_values": [
+      "28 February 2012"
+    ]
+  },
+  {
+    "id": "nt-269",
+    "instruction": "which team did the rangers play first in november of 1992 in the uefa champions league?",
+    "table_csv": "csv/204-csv/691.csv",
+    "answer_values": [
+      "Leeds United"
+    ]
+  },
+  {
+    "id": "nt-270",
+    "instruction": "is the united stated or scotland better?",
+    "table_csv": "csv/204-csv/396.csv",
+    "answer_values": [
+      "United States"
+    ]
+  },
+  {
+    "id": "nt-271",
+    "instruction": "in what year was the lake compounce carousel moved to its present home?",
+    "table_csv": "csv/203-csv/806.csv",
+    "answer_values": [
+      "1911"
+    ]
+  },
+  {
+    "id": "nt-272",
+    "instruction": "what was the first mercedez to win world green car?",
+    "table_csv": "csv/203-csv/838.csv",
+    "answer_values": [
+      "Mercedes-Benz E320 Bluetec"
+    ]
+  },
+  {
+    "id": "nt-273",
+    "instruction": "which model has a thrust of at least 12,000 kg?",
+    "table_csv": "csv/203-csv/823.csv",
+    "answer_values": [
+      "AL-31"
+    ]
+  },
+  {
+    "id": "nt-274",
+    "instruction": "what is the total number of seasons?",
+    "table_csv": "csv/204-csv/532.csv",
+    "answer_values": [
+      "10"
+    ]
+  },
+  {
+    "id": "nt-275",
+    "instruction": "what is the most wins?",
+    "table_csv": "csv/204-csv/314.csv",
+    "answer_values": [
+      "14"
+    ]
+  },
+  {
+    "id": "nt-276",
+    "instruction": "how many films were directed by sridhar after the year 1961?",
+    "table_csv": "csv/203-csv/204.csv",
+    "answer_values": [
+      "48"
+    ]
+  },
+  {
+    "id": "nt-277",
+    "instruction": "how many matches were held in the netherlands?",
+    "table_csv": "csv/204-csv/53.csv",
+    "answer_values": [
+      "10"
+    ]
+  },
+  {
+    "id": "nt-278",
+    "instruction": "how many people were born in 1976?",
+    "table_csv": "csv/204-csv/935.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-279",
+    "instruction": "what were the total number of license plates that featured the black embossed numbers on it?",
+    "table_csv": "csv/203-csv/379.csv",
+    "answer_values": [
+      "11"
+    ]
+  },
+  {
+    "id": "nt-280",
+    "instruction": "how many rebounds were there by all miami heat players?",
+    "table_csv": "csv/203-csv/532.csv",
+    "answer_values": [
+      "34"
+    ]
+  },
+  {
+    "id": "nt-281",
+    "instruction": "how many ships were launched in the year 1944?",
+    "table_csv": "csv/203-csv/313.csv",
+    "answer_values": [
+      "9"
+    ]
+  },
+  {
+    "id": "nt-282",
+    "instruction": "the drawwith the larges total",
+    "table_csv": "csv/203-csv/430.csv",
+    "answer_values": [
+      "6"
+    ]
+  },
+  {
+    "id": "nt-283",
+    "instruction": "how long has internacional de madrid cf been playing in the 3ª division?",
+    "table_csv": "csv/203-csv/783.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-284",
+    "instruction": "how many total medals has the united states won in women's figure skating?",
+    "table_csv": "csv/203-csv/104.csv",
+    "answer_values": [
+      "16"
+    ]
+  },
+  {
+    "id": "nt-285",
+    "instruction": "who was the next rider after tetsuya harada?",
+    "table_csv": "csv/203-csv/35.csv",
+    "answer_values": [
+      "Jean-Philippe Ruggia"
+    ]
+  },
+  {
+    "id": "nt-286",
+    "instruction": "are the most trains operational or do they have another status listed?",
+    "table_csv": "csv/203-csv/717.csv",
+    "answer_values": [
+      "Operational"
+    ]
+  },
+  {
+    "id": "nt-287",
+    "instruction": "tell me the number of gold medals the dominican republic won.",
+    "table_csv": "csv/204-csv/785.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-288",
+    "instruction": "greek revival and peony plantings are most commonly associated with what house in canton?",
+    "table_csv": "csv/204-csv/831.csv",
+    "answer_values": [
+      "John and Eliza Barr Patterson House"
+    ]
+  },
+  {
+    "id": "nt-289",
+    "instruction": "opponent for highest attended home game",
+    "table_csv": "csv/204-csv/207.csv",
+    "answer_values": [
+      "New York Jets"
+    ]
+  },
+  {
+    "id": "nt-290",
+    "instruction": "which hispanic population had the greatest growth from 2000 to 2005?",
+    "table_csv": "csv/204-csv/990.csv",
+    "answer_values": [
+      "White"
+    ]
+  },
+  {
+    "id": "nt-291",
+    "instruction": "how many number were in service in 1910?",
+    "table_csv": "csv/204-csv/882.csv",
+    "answer_values": [
+      "8"
+    ]
+  },
+  {
+    "id": "nt-292",
+    "instruction": "what is the total number of gold medals won by jamaica?",
+    "table_csv": "csv/204-csv/595.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-293",
+    "instruction": "the green bay packers after miami dolphins chose which player?",
+    "table_csv": "csv/203-csv/229.csv",
+    "answer_values": [
+      "John Mack"
+    ]
+  },
+  {
+    "id": "nt-294",
+    "instruction": "what is difference in points between c.d. aguila and chalatenango?",
+    "table_csv": "csv/203-csv/67.csv",
+    "answer_values": [
+      "14"
+    ]
+  },
+  {
+    "id": "nt-295",
+    "instruction": "how many division 1 teams were founded before 1950?",
+    "table_csv": "csv/204-csv/959.csv",
+    "answer_values": [
+      "5"
+    ]
+  },
+  {
+    "id": "nt-296",
+    "instruction": "what tournament is at the top?",
+    "table_csv": "csv/204-csv/202.csv",
+    "answer_values": [
+      "World Championships"
+    ]
+  },
+  {
+    "id": "nt-297",
+    "instruction": "jones won best actress in a play in 2005. which other award did she win that year?",
+    "table_csv": "csv/203-csv/146.csv",
+    "answer_values": [
+      "Outstanding Actress in a Play"
+    ]
+  },
+  {
+    "id": "nt-298",
+    "instruction": "what number countries received gold medals?",
+    "table_csv": "csv/204-csv/761.csv",
+    "answer_values": [
+      "12"
+    ]
+  },
+  {
+    "id": "nt-299",
+    "instruction": "was the next game after august 31 home or away?",
+    "table_csv": "csv/204-csv/495.csv",
+    "answer_values": [
+      "Away"
+    ]
+  },
+  {
+    "id": "nt-300",
+    "instruction": "what number of mainlands have populations under 100,000?",
+    "table_csv": "csv/203-csv/401.csv",
+    "answer_values": [
+      "9"
+    ]
+  },
+  {
+    "id": "nt-301",
+    "instruction": "what is the number of the player from slovakia?",
+    "table_csv": "csv/204-csv/140.csv",
+    "answer_values": [
+      "115"
+    ]
+  },
+  {
+    "id": "nt-302",
+    "instruction": "how many riders used a motorcycle manufactured by honda?",
+    "table_csv": "csv/203-csv/166.csv",
+    "answer_values": [
+      "6"
+    ]
+  },
+  {
+    "id": "nt-303",
+    "instruction": "what is the total number of games that started at 7:00?",
+    "table_csv": "csv/204-csv/459.csv",
+    "answer_values": [
+      "8"
+    ]
+  },
+  {
+    "id": "nt-304",
+    "instruction": "how many towers does château d'angers have?",
+    "table_csv": "csv/204-csv/806.csv",
+    "answer_values": [
+      "17"
+    ]
+  },
+  {
+    "id": "nt-305",
+    "instruction": "which was the first country to sell weapons to iraq?",
+    "table_csv": "csv/203-csv/587.csv",
+    "answer_values": [
+      "Czechoslovakia"
+    ]
+  },
+  {
+    "id": "nt-306",
+    "instruction": "did chicago win more or less than cal-berkeley?",
+    "table_csv": "csv/204-csv/879.csv",
+    "answer_values": [
+      "More"
+    ]
+  },
+  {
+    "id": "nt-307",
+    "instruction": "how many songs were on the mtv taiwan top 20 chart?",
+    "table_csv": "csv/202-csv/54.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-308",
+    "instruction": "how many historic sites are listed in coldwater?",
+    "table_csv": "csv/204-csv/423.csv",
+    "answer_values": [
+      "15"
+    ]
+  },
+  {
+    "id": "nt-309",
+    "instruction": "which event did he place in first?",
+    "table_csv": "csv/203-csv/677.csv",
+    "answer_values": [
+      "European U23 Championships"
+    ]
+  },
+  {
+    "id": "nt-310",
+    "instruction": "how many players named jeff were drafted?",
+    "table_csv": "csv/203-csv/149.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-311",
+    "instruction": "what year was the earliest bull-dog drummond published?",
+    "table_csv": "csv/203-csv/394.csv",
+    "answer_values": [
+      "1920"
+    ]
+  },
+  {
+    "id": "nt-312",
+    "instruction": "true or false. the television show \"the two ronnies\" featured more than 10 episodes in a season.",
+    "table_csv": "csv/203-csv/461.csv",
+    "answer_values": [
+      "false"
+    ]
+  },
+  {
+    "id": "nt-313",
+    "instruction": "who is the previous qualifier over anna pau?",
+    "table_csv": "csv/204-csv/741.csv",
+    "answer_values": [
+      "Leontia Kallenou"
+    ]
+  },
+  {
+    "id": "nt-314",
+    "instruction": "what is the number of awards that arisan won in 2004?",
+    "table_csv": "csv/203-csv/818.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-315",
+    "instruction": "are there at least 2 nationalities on the chart?",
+    "table_csv": "csv/204-csv/482.csv",
+    "answer_values": [
+      "yes"
+    ]
+  },
+  {
+    "id": "nt-316",
+    "instruction": "which track has the same producer as the track \"say something\"?",
+    "table_csv": "csv/203-csv/687.csv",
+    "answer_values": [
+      "Hot Thing"
+    ]
+  },
+  {
+    "id": "nt-317",
+    "instruction": "did february 2012 or july 2006 have more total votes?",
+    "table_csv": "csv/203-csv/43.csv",
+    "answer_values": [
+      "February 2012"
+    ]
+  },
+  {
+    "id": "nt-318",
+    "instruction": "how long were employees of nynex on strike?",
+    "table_csv": "csv/203-csv/759.csv",
+    "answer_values": [
+      "17 weeks"
+    ]
+  },
+  {
+    "id": "nt-319",
+    "instruction": "how many canadians listed were born in scotland?",
+    "table_csv": "csv/204-csv/665.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-320",
+    "instruction": "which tournament has the largest total win record?",
+    "table_csv": "csv/204-csv/153.csv",
+    "answer_values": [
+      "Wimbledon"
+    ]
+  },
+  {
+    "id": "nt-321",
+    "instruction": "tell me the number of racers from the uk.",
+    "table_csv": "csv/204-csv/378.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-322",
+    "instruction": "how many votes did deodar receive?",
+    "table_csv": "csv/204-csv/683.csv",
+    "answer_values": [
+      "76265"
+    ]
+  },
+  {
+    "id": "nt-323",
+    "instruction": "in what consecutive years did kevin grimes, unc serve as a defender?",
+    "table_csv": "csv/203-csv/682.csv",
+    "answer_values": [
+      "1988-1989"
+    ]
+  },
+  {
+    "id": "nt-324",
+    "instruction": "when was the first year of rugby of the terrapins?",
+    "table_csv": "csv/204-csv/442.csv",
+    "answer_values": [
+      "1968"
+    ]
+  },
+  {
+    "id": "nt-325",
+    "instruction": "who is the only player who had their number retired by the nhl for all teams?",
+    "table_csv": "csv/203-csv/754.csv",
+    "answer_values": [
+      "Wayne Gretzky"
+    ]
+  },
+  {
+    "id": "nt-326",
+    "instruction": "at least of 50% of the population is protestant, starting at which age range?",
+    "table_csv": "csv/203-csv/770.csv",
+    "answer_values": [
+      "60 to 64"
+    ]
+  },
+  {
+    "id": "nt-327",
+    "instruction": "how many players come from alabama?",
+    "table_csv": "csv/204-csv/534.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-328",
+    "instruction": "how many horses finished the rase?",
+    "table_csv": "csv/204-csv/330.csv",
+    "answer_values": [
+      "8"
+    ]
+  },
+  {
+    "id": "nt-329",
+    "instruction": "which skiier placed above anna jochemsen, bu below mariya papulova",
+    "table_csv": "csv/204-csv/745.csv",
+    "answer_values": [
+      "Katja Saarinen"
+    ]
+  },
+  {
+    "id": "nt-330",
+    "instruction": "which area has the least number of residents?",
+    "table_csv": "csv/204-csv/600.csv",
+    "answer_values": [
+      "Ince Blundell"
+    ]
+  },
+  {
+    "id": "nt-331",
+    "instruction": "other than frank gleiber, who else did play-by-play for cbs in 1965?",
+    "table_csv": "csv/203-csv/773.csv",
+    "answer_values": [
+      "Chuck Thompson"
+    ]
+  },
+  {
+    "id": "nt-332",
+    "instruction": "how many stars have a magnitude greater than zero?",
+    "table_csv": "csv/203-csv/56.csv",
+    "answer_values": [
+      "14"
+    ]
+  },
+  {
+    "id": "nt-333",
+    "instruction": "what country won more gold medals than any other?",
+    "table_csv": "csv/204-csv/595.csv",
+    "answer_values": [
+      "United States"
+    ]
+  },
+  {
+    "id": "nt-334",
+    "instruction": "did the hydro power increase or decrease from 2010 to 2012?",
+    "table_csv": "csv/204-csv/762.csv",
+    "answer_values": [
+      "increase"
+    ]
+  },
+  {
+    "id": "nt-335",
+    "instruction": "which teams have more wins that werder bremen?",
+    "table_csv": "csv/203-csv/309.csv",
+    "answer_values": [
+      "Borussia Dortmund",
+      "Bayern Munich"
+    ]
+  },
+  {
+    "id": "nt-336",
+    "instruction": "which site was listed earlier, the state public school or the edwin r. clarke library?",
+    "table_csv": "csv/204-csv/423.csv",
+    "answer_values": [
+      "Edwin R. Clarke Library"
+    ]
+  },
+  {
+    "id": "nt-337",
+    "instruction": "which woods has the same acreage as hardwick wood?",
+    "table_csv": "csv/204-csv/124.csv",
+    "answer_values": [
+      "Ten Wood"
+    ]
+  },
+  {
+    "id": "nt-338",
+    "instruction": "what was the next number to be retired after february 6, 2000?",
+    "table_csv": "csv/203-csv/754.csv",
+    "answer_values": [
+      "35"
+    ]
+  },
+  {
+    "id": "nt-339",
+    "instruction": "debuted for great britain (rl) in 1999 then for ireland (ru) in 2007",
+    "table_csv": "csv/204-csv/387.csv",
+    "answer_values": [
+      "Brian Carney"
+    ]
+  },
+  {
+    "id": "nt-340",
+    "instruction": "how many circuits have at least 2,000 screens?",
+    "table_csv": "csv/203-csv/752.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-341",
+    "instruction": "how many players play the position of point guard?",
+    "table_csv": "csv/203-csv/418.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-342",
+    "instruction": "what is the name of the first presenter on this chart?",
+    "table_csv": "csv/203-csv/287.csv",
+    "answer_values": [
+      "Samantha Smith"
+    ]
+  },
+  {
+    "id": "nt-343",
+    "instruction": "which competition was in tokyo, japan but came in 2nd position?",
+    "table_csv": "csv/203-csv/215.csv",
+    "answer_values": [
+      "Asian Championships"
+    ]
+  },
+  {
+    "id": "nt-344",
+    "instruction": "aside from 316, what was the other works number used in 1883?",
+    "table_csv": "csv/204-csv/30.csv",
+    "answer_values": [
+      "317"
+    ]
+  },
+  {
+    "id": "nt-345",
+    "instruction": "who is ranked previous to don cherry?",
+    "table_csv": "csv/204-csv/665.csv",
+    "answer_values": [
+      "Sir John A. Macdonald"
+    ]
+  },
+  {
+    "id": "nt-346",
+    "instruction": "how many players hit more than 600 runs in their career?",
+    "table_csv": "csv/203-csv/611.csv",
+    "answer_values": [
+      "8"
+    ]
+  },
+  {
+    "id": "nt-347",
+    "instruction": "did he win more at the australian open or indian wells?",
+    "table_csv": "csv/203-csv/827.csv",
+    "answer_values": [
+      "Australian Open"
+    ]
+  },
+  {
+    "id": "nt-348",
+    "instruction": "which team did lau nim yat play for after he was transferred?",
+    "table_csv": "csv/204-csv/968.csv",
+    "answer_values": [
+      "Biu Chun Rangers"
+    ]
+  },
+  {
+    "id": "nt-349",
+    "instruction": "which mountain peak is no higher than 13,149 ft?",
+    "table_csv": "csv/204-csv/25.csv",
+    "answer_values": [
+      "Mount Ritter"
+    ]
+  },
+  {
+    "id": "nt-350",
+    "instruction": "how many pylons are in austria?",
+    "table_csv": "csv/203-csv/375.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-351",
+    "instruction": "compared to the oval, holm park holds more or less attendees at capacity?",
+    "table_csv": "csv/203-csv/420.csv",
+    "answer_values": [
+      "less"
+    ]
+  },
+  {
+    "id": "nt-352",
+    "instruction": "what is each interval name with a size (cents) greater than 500?",
+    "table_csv": "csv/203-csv/445.csv",
+    "answer_values": [
+      "perfect fifth",
+      "septendecimal tritone",
+      "septimal tritone",
+      "tridecimal tritone",
+      "11th harmonic",
+      "(15:11) augmented fourth"
+    ]
+  },
+  {
+    "id": "nt-353",
+    "instruction": "between bjorn ferry, simon elder and erik lesser - who had the most penalties?",
+    "table_csv": "csv/204-csv/664.csv",
+    "answer_values": [
+      "Erik Lesser"
+    ]
+  },
+  {
+    "id": "nt-354",
+    "instruction": "was the attendance more or less in the saturday, april 13th game compared to the saturday, may 11th",
+    "table_csv": "csv/204-csv/123.csv",
+    "answer_values": [
+      "Less"
+    ]
+  },
+  {
+    "id": "nt-355",
+    "instruction": "taylor kelly is shorter than 6' 3\", which other player is also shorter than 6' 3\"?",
+    "table_csv": "csv/204-csv/105.csv",
+    "answer_values": [
+      "Steven Shepp"
+    ]
+  },
+  {
+    "id": "nt-356",
+    "instruction": "how many games attendance was under 1000?",
+    "table_csv": "csv/204-csv/146.csv",
+    "answer_values": [
+      "6"
+    ]
+  },
+  {
+    "id": "nt-357",
+    "instruction": "what is the number of times player outcome was runner-up?",
+    "table_csv": "csv/203-csv/220.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-358",
+    "instruction": "who was the first bishop of iceland whose father was also a bishop of iceland?",
+    "table_csv": "csv/203-csv/875.csv",
+    "answer_values": [
+      "Pétur Sigurgeirsson (son of Sigurgeir Sigurðsson, 8th Bishop of Iceland)"
+    ]
+  },
+  {
+    "id": "nt-359",
+    "instruction": "how many different languages are listed?",
+    "table_csv": "csv/204-csv/64.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-360",
+    "instruction": "what was the total number of swiss athletes competing in the cross-country skiing at the 2014 winter olympics men's 15 kilometre classical?",
+    "table_csv": "csv/204-csv/81.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-361",
+    "instruction": "what was the outcome after the october 8 game in phoenix?",
+    "table_csv": "csv/204-csv/553.csv",
+    "answer_values": [
+      "Runner-up"
+    ]
+  },
+  {
+    "id": "nt-362",
+    "instruction": "next to rasgas, what plant has the largest capacity?",
+    "table_csv": "csv/204-csv/789.csv",
+    "answer_values": [
+      "Nigeria LNG"
+    ]
+  },
+  {
+    "id": "nt-363",
+    "instruction": "which athlete has the most total?",
+    "table_csv": "csv/204-csv/296.csv",
+    "answer_values": [
+      "Silvia Sperber (FRG)"
+    ]
+  },
+  {
+    "id": "nt-364",
+    "instruction": "which winner won more tournaments, jeff maggert or tiger woods?",
+    "table_csv": "csv/204-csv/85.csv",
+    "answer_values": [
+      "Tiger Woods"
+    ]
+  },
+  {
+    "id": "nt-365",
+    "instruction": "which elected successor took office the earliest?",
+    "table_csv": "csv/203-csv/93.csv",
+    "answer_values": [
+      "Henry E. Prickett"
+    ]
+  },
+  {
+    "id": "nt-366",
+    "instruction": "which network aired more shows about characters with hiv than cbs?",
+    "table_csv": "csv/203-csv/293.csv",
+    "answer_values": [
+      "NBC",
+      "ABC"
+    ]
+  },
+  {
+    "id": "nt-367",
+    "instruction": "how many total row entries are there?",
+    "table_csv": "csv/203-csv/364.csv",
+    "answer_values": [
+      "21"
+    ]
+  },
+  {
+    "id": "nt-368",
+    "instruction": "what was the last year that yelena slesarenko had a 1st place finish at the world indoor championships?",
+    "table_csv": "csv/203-csv/300.csv",
+    "answer_values": [
+      "2006"
+    ]
+  },
+  {
+    "id": "nt-369",
+    "instruction": "which country has the most teams on the list?",
+    "table_csv": "csv/204-csv/864.csv",
+    "answer_values": [
+      "France"
+    ]
+  },
+  {
+    "id": "nt-370",
+    "instruction": "in what year did the track, \"wide open road\" come out?",
+    "table_csv": "csv/203-csv/426.csv",
+    "answer_values": [
+      "1986"
+    ]
+  },
+  {
+    "id": "nt-371",
+    "instruction": "what is the date of the first episode?",
+    "table_csv": "csv/204-csv/494.csv",
+    "answer_values": [
+      "22 October 1976"
+    ]
+  },
+  {
+    "id": "nt-372",
+    "instruction": "on what date did ken hill achieve his win?",
+    "table_csv": "csv/203-csv/240.csv",
+    "answer_values": [
+      "August 7"
+    ]
+  },
+  {
+    "id": "nt-373",
+    "instruction": "tell me the number of shows that only have one host per day.",
+    "table_csv": "csv/204-csv/839.csv",
+    "answer_values": [
+      "7"
+    ]
+  },
+  {
+    "id": "nt-374",
+    "instruction": "how many times does bruce springsteen perform?",
+    "table_csv": "csv/204-csv/333.csv",
+    "answer_values": [
+      "2"
+    ]
+  },
+  {
+    "id": "nt-375",
+    "instruction": "what is the name of the last album released by natalia lesz?",
+    "table_csv": "csv/204-csv/365.csv",
+    "answer_values": [
+      "That Girl"
+    ]
+  },
+  {
+    "id": "nt-376",
+    "instruction": "how many races was she above the top 10?",
+    "table_csv": "csv/204-csv/450.csv",
+    "answer_values": [
+      "12"
+    ]
+  },
+  {
+    "id": "nt-377",
+    "instruction": "how many times did bekele record a 10,000 metre year's best in brussels?",
+    "table_csv": "csv/204-csv/576.csv",
+    "answer_values": [
+      "3"
+    ]
+  },
+  {
+    "id": "nt-378",
+    "instruction": "who weighs more, dexter fields or ovie soko?",
+    "table_csv": "csv/204-csv/534.csv",
+    "answer_values": [
+      "Ovie Soko"
+    ]
+  },
+  {
+    "id": "nt-379",
+    "instruction": "which is the last dance on the chart",
+    "table_csv": "csv/204-csv/711.csv",
+    "answer_values": [
+      "Showdance"
+    ]
+  },
+  {
+    "id": "nt-380",
+    "instruction": "do chipper adams and justin beyendeza have more than 3 wins?",
+    "table_csv": "csv/203-csv/667.csv",
+    "answer_values": [
+      "no"
+    ]
+  },
+  {
+    "id": "nt-381",
+    "instruction": "who performed the number 1 single of 1995?",
+    "table_csv": "csv/203-csv/249.csv",
+    "answer_values": [
+      "Robson Green & Jerome Flynn"
+    ]
+  },
+  {
+    "id": "nt-382",
+    "instruction": "which sport had the least silver medalists?",
+    "table_csv": "csv/204-csv/103.csv",
+    "answer_values": [
+      "Boxing"
+    ]
+  },
+  {
+    "id": "nt-383",
+    "instruction": "what is the diameter of the smallest bell?",
+    "table_csv": "csv/203-csv/283.csv",
+    "answer_values": [
+      "793"
+    ]
+  },
+  {
+    "id": "nt-384",
+    "instruction": "what is the first club listed for the 2010-11 season?",
+    "table_csv": "csv/204-csv/542.csv",
+    "answer_values": [
+      "Motherwell"
+    ]
+  },
+  {
+    "id": "nt-385",
+    "instruction": "was the result of the game on the 2nd the same as the game on the 23rd?",
+    "table_csv": "csv/204-csv/941.csv",
+    "answer_values": [
+      "no"
+    ]
+  },
+  {
+    "id": "nt-386",
+    "instruction": "which diver is listed before ninel krutova?",
+    "table_csv": "csv/203-csv/780.csv",
+    "answer_values": [
+      "Paula Jean Myers-Pope (USA)"
+    ]
+  },
+  {
+    "id": "nt-387",
+    "instruction": "what was the first number one song of 2014?",
+    "table_csv": "csv/204-csv/333.csv",
+    "answer_values": [
+      "Timber"
+    ]
+  },
+  {
+    "id": "nt-388",
+    "instruction": "what is the number of u.s. courthouse and post offices now used as free library according to the dates of use in the table?",
+    "table_csv": "csv/204-csv/749.csv",
+    "answer_values": [
+      "1"
+    ]
+  },
+  {
+    "id": "nt-389",
+    "instruction": "which cooking method (term) is not below 212 degrees f?",
+    "table_csv": "csv/204-csv/493.csv",
+    "answer_values": [
+      "Over cooked (trop cuit, carbonisé\")'"
+    ]
+  },
+  {
+    "id": "nt-390",
+    "instruction": "how long did elisabeth irwin live?",
+    "table_csv": "csv/203-csv/449.csv",
+    "answer_values": [
+      "62 years"
+    ]
+  },
+  {
+    "id": "nt-391",
+    "instruction": "which album was the least acclaimed but did reach the billboard 200?",
+    "table_csv": "csv/203-csv/77.csv",
+    "answer_values": [
+      "i"
+    ]
+  },
+  {
+    "id": "nt-392",
+    "instruction": "how many draft picks were between frank tripucka and dale armstrong?",
+    "table_csv": "csv/203-csv/735.csv",
+    "answer_values": [
+      "10"
+    ]
+  },
+  {
+    "id": "nt-393",
+    "instruction": "which month had the most games?",
+    "table_csv": "csv/204-csv/557.csv",
+    "answer_values": [
+      "January"
+    ]
+  },
+  {
+    "id": "nt-394",
+    "instruction": "how long after 1999 was there a relegated movement?",
+    "table_csv": "csv/204-csv/42.csv",
+    "answer_values": [
+      "7 years"
+    ]
+  },
+  {
+    "id": "nt-395",
+    "instruction": "what is the pylon with the least height listed here?",
+    "table_csv": "csv/203-csv/375.csv",
+    "answer_values": [
+      "Eibsee Aerial Tramway"
+    ]
+  },
+  {
+    "id": "nt-396",
+    "instruction": "valencia cc and who else won the most division ii community college?",
+    "table_csv": "csv/204-csv/879.csv",
+    "answer_values": [
+      "Chipola"
+    ]
+  },
+  {
+    "id": "nt-397",
+    "instruction": "how many provinces have the same number of districts as kabul?",
+    "table_csv": "csv/204-csv/704.csv",
+    "answer_values": [
+      "4"
+    ]
+  },
+  {
+    "id": "nt-398",
+    "instruction": "which company has the least number of employees?",
+    "table_csv": "csv/203-csv/83.csv",
+    "answer_values": [
+      "Vitol"
+    ]
+  },
+  {
+    "id": "nt-399",
+    "instruction": "who did the raiders play after unh on 10/9/2009?",
+    "table_csv": "csv/204-csv/718.csv",
+    "answer_values": [
+      "Boston College"
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+The smallest positive period of the function $f(x) = \sin^2x-2\cos^2x$ is ?

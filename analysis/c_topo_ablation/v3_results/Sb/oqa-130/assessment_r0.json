@@ -1,0 +1,24 @@
+{
+  "accuracy": 0.0,
+  "match_count": 0,
+  "total_count": 1,
+  "is_correct": false,
+  "match_type": "numerical",
+  "tolerance_pct": 1.0,
+  "predicted": [
+    "554.75"
+  ],
+  "target": [
+    "504.12"
+  ],
+  "details": {
+    "acc_exact": 0.0,
+    "acc_0p1pct": 0.0,
+    "acc_1pct": 0.0,
+    "acc_5pct": 0.0,
+    "match_type": "numerical",
+    "rel_error": 0.10043243672141552,
+    "pred_num": 554.75,
+    "gold_num": 504.12
+  }
+}

@@ -1,0 +1,2 @@
+Row 5: [None, None, 'HDD', 'SPD', 'FFI', 'ADW', 'HDW', 'LAD', 'TWC', None, None, None, 'TWC', 'LAD', 'HDW', 'ADW', 'FFI', 'SPD', 'HDD', None, None, None, None, None, None, None, None, None, None]
+Row 6: ['Brand', 'Persil', None, None, 2005, None, None, None, None, None, 'Brand', 'Persil', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]

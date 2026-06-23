@@ -1,0 +1,1 @@
+A right pyramid has regular octagon $ABCDEFGH$ with side length $1$ as its base and apex $V$. Segments $overline{AV}$ and $overline{DV}$ are perpendicular. What is the square of the height of the pyramid?

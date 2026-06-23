@@ -1,0 +1,234 @@
+| Receipts and Expenditures | nan |
+| First Seven Months of Fiscal Years 1934-39 | 7 |
+| Expenditures by Classes, Receipts by Sources | 8-13 |
+| Social Insurance Accounts | 14 |
+| Cash Income and Outgo | 15 |
+| General Fund and Public Debt | nan |
+| Composition of General Fund | 18 |
+| Public Debt Accounts | 18 |
+| Treasury Bill Financings | 19 |
+| Composition of Public Debt | 20 |
+| Holdings of Government Obligations | 22 |
+| Computed Interest, Yields on Public Debt Issues | 24-26 |
+| Government Corporations, Credit Agencies | nan |
+| Assets, Liabilities, Proprietary Interest | 28 |
+| Issues Outstanding, Financing Operations | 29 |
+| Sources and Uses of Funds | 30-31 |
+| Capital Movements | nan |
+| Summary Tables | 33 |
+| Short-term Foreign Assets and Liabilities | 34-35 |
+| Security Transactions, etc. | 36-37 |
+| Foreign Exchange Transactions | 38-39 |
+| Other Monetary Data | nan |
+| Gold and Silver Stocks | 42-43 |
+| Silver Production and Movements | 43-44 |
+| Foreign Exchange and Price Data | 45-47 |
+| Miscellaneous | nan |
+--
+Daily Treasury Statements unrevised. The statement of current assets and liabilities, receipts and expenditures and public debt which the Treasury Department publishes in the Daily Statement is compiled principally from mail reports sent to the Treasurer of the United States by Treasury officers and depositaries throughout the country. Figures on this statement for any given day are a composite of all the reports received by the Treasurer on that day. The Daily Statement of a given date does not show all the transactions which actually transpired on that day; it shows instead all the transactions which were reported to the Treasurer and cleared through his accounts on that date. For instance, the report of receipts or expenditures clearing through the San Francisco fiscal agent on Monday might not be received by the Treasurer until Wednesday and would, therefore, appear on the Daily Statement dated Wednesday although the transactions are dated Monday at San Francisco. Most of the receipts and expenditures, public debt, general fund and gold and silver asset tables in this Bulletin are compiled from the Daily Statements unrevised.
+
+Daily Treasury Statements revised. If the report of a transaction which took place on one of the last days of a month or a fiscal year is not received by the Treasurer until some later date, this transaction will appear in the un-revised Daily Statement for the succeeding month or fiscal year instead of appearing in the month or year in which it cleared through a Government depositary. When the Daily Statement figures are revised to place these transactions in the month or year in which they actually occurred, the revision is designated as "Daily Treasury Statements revised." In other words, this basis reflects all transactions occurring at Government depositaries during a given month or year without regard to the time the transfers cleared through the Treasurer's Washington accounts.
+
+-1-
+
+2
+
+Reports by Collecting Officers. In order to publish information on revenues by itemized sources, the Treasury, once each month, obtains from collectors of internal revenue and customs a detailed statement of collections. These officers report their collections on the basis of the money which they actually received during the month or year in question. Therefore, monthly or yearly totals reported on this basis will not tally exactly with either the Daily Treasury Statements unrevised or revised. For instance, funds which a collector received on January 31, and which he included in his January report, might not appear in the Daily Statement unrevised until some time in February when the report is received by the Treasurer of the United States. On the other hand, if a collector received certain money before the end of January but did not deposit it with a Government depository until February that sum would be included in his January report where as it would not appear in revised or unrevised Daily Treasury Statement figures until February.
+
+Figures on receipts on a collections basis do not reflect all payments made to collectors at rush periods when some mail may not be opened on immediate receipt. On the other hand, the "collections" basis includes certain trust items which do not appear in the general and special revenue items on the Daily Treasury Statement. Current and historical tables on internal revenue by detailed sources are the only ones in this Bulletin compiled from collectors' reports.
+
+Other Bases. Some tables in this Bulletin are compiled from special reports furnished to the Treasury by other agencies. In these instances the Treasury itself is not the original source and the tables usually are labeled "On the Basis of Latest Reports Received by the Treasury."
+
+In other publications, the Treasury uses certain other standard bases for compilations, the most important of which is the "warrants issued basis." This Bulletin contains no tables which use these other bases, but an explanation of them can be found in the Annual Report of the Secretary of the Treasury for the fiscal year ended June 30, 1938, pages 351-353.
+
+Cash Income and Cash Outgo. The statistical series on Cash Income and Outgo had never been published by the Treasury prior to the first issue of this Bulletin. The series is still in an evolutionary stage. The removal of trust accounts from the Daily Statement summation of receipts and expenditures, the growth in importance of the social insurance reserve accounts and the removal from the Daily Statement summation of agencies financing themselves - all these changes, which have been made in recent years, have changed the character of the Daily Statement figures and given rise to a need which these cash income and outgo figures are intended to fill.
+
+The intention is to make these figures reflect three things: (1) all cash disbursed by the Treasury, including cash redemptions of adjusted service bonds, but excluding cash disbursed to redeem other Treasury bonds, notes, etc.; cash redemptions of adjusted service bonds are included for reasons given below, (2) all cash received by the Treasury exclusive of cash received from public sales of Treasury or Government guaranteed obligations, and (3) the excess cash income or outgo on this basis. Because the Treasury books are not on the strictly cash basis which these figures contemplate, this series has had to be built up by amending and rearranging figures which appear originally on the Daily Treasury State-
+
+3
+
+ments unrevised. The system for making these rearrangements has been only tentatively worked out. If changes in the basis for compiling the figures are decided upon, these changes will be explained as they are made.
+
+The method tentatively decided upon for deriving the cash income and outgo figures from the Comparative Analysis of General and Special Accounts which appears on page 2 of the Daily Treasury Statements involves the following principal changes in the Daily Statement figures:
+
+(Adjustments in receipts figures)
+
+(1) General and special receipts on the Daily Statement are reduced by the amount of interest received on certain Governmental corporation obligations purchased by the Treasury because these transactions are intra-Governmental.
+
+(2) Trust fund receipts are included in the cash income total on the following adjusted basis: total trust fund receipts minus (a) the non-cash receipts of the old age insurance and railroad retirement accounts, (b) interest credited to such accounts, (c) the interest credited to other trust accounts having their funds invested in special issues, and (d) non-cash receipts of other trust accounts; none of these items are cash items. The Analysis on page 2 of the Daily Statement includes no trust fund receipts.
+
+(Adjustments in expenditure figures)
+
+(1) The cash outgo total does not include the Daily Statement expenditure item known as "Transfers to Trust Accounts, etc." because these transfers are not cash transactions.
+
+(2) The cash outgo total also excludes that portion of the Daily Statement expenditure item for "Interest on the Public Debt" which represents interest paid to the old age reserve, railroad retirement, and unemployment insurance accounts and other trust accounts because these payments are non-cash.
+
+(3) The cash outgo total differs further from total General and Special Account expenditures because the cash figures do not include "Debt retirements (Sinking Fund, etc.)." This Daily Statement item is excluded from the cash figures for reasons explained in paragraph (5) below.
+
+(4) The cash outgo total also differs from total General and Special Account expenditures because the cash figure includes trust fund expenditures (which are omitted from the expenditure total on page 2 of the Daily Statement) on the following adjusted basis: total trust fund expenditures minus (a) the non-cash "Investments" in the old age reserve, unemployment trust, and railroad retirement and other trust accounts, and (b) any funds deposited in or withdrawn from Treasury checking accounts as the result of open market sales or redemptions of obligations by self-financing agencies like the RFC, CCC, or USHA.
+
+--
+Moreover, cash income and outgo figures should not be confused with statistics which attempt to measure the effect of the Government's receipts and expenditures on the general economy. This other type of data requires the making of assumptions about the qualitative effects of certain tax collections and disbursements on the national income, assumptions which the Treasury feels it can not make.
+
+Capital Movements. Statistics on international capital transactions and related foreign exchange market data which are contained in this Bulletin are compiled from reports collected pursuant to the Executive Order of January 15, 1934 and the Treasury Regulation of November 12, 1934. These reports come from all persons engaging in such transactions and having their principal place of business in the United States. Reports, however, are not required of persons (1) who did not carry, during any part of the reporting period, accounts abroad or in the United States for non-residents or (2) whose aggregate transactions, transfers, exports or withdrawals for their own account and the account of others do not exceed $5,000 during any seven-day period.
+
+The statistics covering the period from the beginning of 1935 through September 1938 were presented in a series of nine quarterly reports commencing in November 1936, entitled "Statistics of Capital Movements between the United States and Foreign Countries and of Purchases and Sales of Foreign Exchange in the United States." Statistics covering the month of October 1938 were published in the January 1939 issue of the Bulletin. The current issue of the Bulletin contains statistics for November 1938; subsequent issues will contain statistics for subsequent months.
+
+5
+
+The statistics are classified by countries and geographical areas as follows: United Kingdom, France, Germany, Italy, Netherlands, Switzerland, other European countries (including principally the Scandinavian countries, the smaller Central and Southern European countries, Belgium, and the Union of Soviet Socialist Republics), Canada, Latin America (including Mexico, Central and South America, and the West Indies), the Far East (including principally China, Japan, Netherlands East Indies, British India, Straits Settlements, and the Philippine Islands), and all other countries (including principally Oceania, Africa, and the Near East).
+
+Since the international movement of capital consists of transfers of ownership of balances, securities, and other claims and equities between the United States and foreign countries, the distinction between domestic entities and foreign entities is important. In all of the tables banking institutions, security dealers, other concerns, and persons are regarded as domestic, whatever their nationality, if domiciled within the United States. Conversely, banking institutions, security dealers, other concerns, and persons are regarded as foreign, whatever their nationality, if domiciled outside the United States. Thus, the branches in the United States of foreign banking institutions, security dealers, and other concerns and entities are regarded as domestic, while foreign branches of domestic banking institutions, security dealers, and other concerns and entities are regarded as foreign.
+
+The various components of the statistics of capital movements and exchange transactions are described in greater detail in the explanatory notes published in the quarterly reports "Statistics of Capital Movements between the United States and Foreign Countries and of Purchases and Sales of Foreign Exchange in the United States."
+
+RECEIPTS AND EXPENDITURES
+
+-6-
+
+7
+
+Summary Tables on Receipts, Expenditures and Public Debt
+
+(In millions of dollars - on basis of daily Treasury statements, unrevised.)
+
+| Unnamed: 0_level_0 > Unnamed: 0_level_1 > Unnamed: 0_level_2 | Receipts and Expenditures > First 7 months fiscal year > 1934 | Receipts and Expenditures > First 7 months fiscal year > 1935 | Receipts and Expenditures > First 7 months fiscal year > 1936 | Receipts and Expenditures > First 7 months fiscal year > 1937 | Receipts and Expenditures > First 7 months fiscal year > 1938 | Receipts and Expenditures > First 7 months fiscal year > 1939 | Receipts and Expenditures > Change '38 - '39 > Unnamed: 7_level_2 | Public Debt > Outstanding on January 31, of fiscal year > 1934 | Public Debt > Outstanding on January 31, of fiscal year > 1935 | Public Debt > Outstanding on January 31, of fiscal year > 1936 | Public Debt > Outstanding on January 31, of fiscal year > 1937 | Public Debt > Outstanding on January 31, of fiscal year > 1938 | Public Debt > Change '38 - '39 > 1939 | Unnamed: 14_level_0 > Unnamed: 14_level_1 > Unnamed: 14_level_2 | Unnamed: 15_level_0 > Unnamed: 15_level_1 > Unnamed: 15_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Receipts..... | 1680 | 2048 | 2130 | 2442 | 3511 | 3235 | -276 | Market issues, etc | 24825 | 28014 | 29783 | 33809 | 35138 | 35416 | 278 |
+| Expenditures. | 2724 | 4089 | 3805 | 4447 | 4223 | 5197 | 974 | Special leases... | 243 | 461 | 733 | 693 | 2314 | 4215 | 1901 |
+| Deficit.... | 1044 | 2041 | 1675 | 2005 | 712 | 1962 | 1250 | Gross debt..... | 25068 | 28475 | 30516 | 34502 | 37452 | 39631 | 2179 |
+
+Federal Receipts and Expenditures
+
+(In millions of dollars - on basis of daily Treasury statements, unrevised)
+
+| Unnamed: 0_level_0 > Unnamed: 0_level_1 > Unnamed: 0_level_2 | Receipts > First 7 months fiscal year - > 1934 | Receipts > First 7 months fiscal year - > 1935 | Receipts > First 7 months fiscal year - > 1936 | Receipts > First 7 months fiscal year - > 1937 | Receipts > First 7 months fiscal year - > 1938 | Receipts > First 7 months fiscal year - > 1939 | Receipts > Change '38 -'39 > Unnamed: 7_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Income Tax........ | 335 | 439 | 590 | 748 | 1209 | 1183 | -26 |
+| Miscellaneous Internal Revenue | 870 | 969 | 1112 | 1301 | 1440 | 1372 | -68 |
+| Taxes under Social Security Act.... | - | - | - | 3 | 378 | 321 | -57 |
+| Taxes upon carriers and their employees.. | - | - | - | - | 93 | 54 | -39 |
+| Customs............ | 201 | 196 | 224 | 258 | 240 | 188 | -52 |
+| Other................ | 274 | 444 | 204 | 132 | 151 | 117 | -34 |
+| Total............ | 1680 | 2048 | 2130 | 2442 | 3511 | 3235 | -276 |
+
+| Unnamed: 0_level_0 > Unnamed: 0_level_1 > Unnamed: 0_level_2 | Expenditurees > First 7 months fiscal year > 1934 | Expenditurees > First 7 months fiscal year > 1935 | Expenditurees > First 7 months fiscal year > 1936 | Expenditurees > First 7 months fiscal year > 1937 | Expenditurees > First 7 months fiscal year > 1938 | Expenditurees > First 7 months fiscal year > 1939 | Change '38-'39 > Change '38-'39 > Unnamed: 7_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| National defense and Veterane Adm. | 638 | 791 | 915 | 931 | 926 | 1003 | 77 |
+| Social Security and R.R.Retirement Acts | - | - | - | 144 | 585 | 539 | -46 |
+| Agricultural Adjustment Program | 216 | 437 | 401 | 201 | 96 | 355 | 259 |
+| Interest on the public debt | 375 | 436 | 377 | 417 | 448 | 455 | 7 |
+| Public Works | 285 | 444 | 375 | 611 | 525 | 559 | 34 |
+| Unemployment relief | 530 | 1400 | 1240 | 1461 | 1033 | 1576 | 543 |
+| Loans and stock subscriptions | 326 | 292 | 20 1/2 | 67 | 38 | 74 | 36 |
+| Other | 354 | 289 | 517 | 582 | 572 | 636 | 64 |
+| Total | 2724 | 4089 | 3805 | 4447 | 4223 | 5197 | 974 |
+| Exceed of Expenditurees | 1044 | 2041 | 1675 | 2005 | 712 | 1962 | 1250 |
+--
+A comparison of actual receipts and expenditures for the first six months and the estimates for the full current fiscal year, in millions of dollars is indicated below:
+
+| Unnamed: 0 | Estimated Fiscal Year 1939 | Actual 7 months to Jan. 31, 1939 | Balance last 5 months |
+| --- | --- | --- | --- |
+| Receipts. | $5,520 | $3,235 | $2,285 |
+| Expenditures: | nan | nan | nan |
+| Ordinary | 5251 | 2988 | 2263 |
+| Public Works | 1229 | 559 | 670 |
+| Unemployment Relief | 2741 | 1576 | 1165 |
+| Loans, subscriptions to stock, etc. | 271 | 74 | 197 |
+| Total Expenditures | 9492 | 5197 | 4295 |
+| Deficit (net) | 3972 | 1962 | 2010 |
+| Financing of deficit Increase in debt | nan | nan | nan |
+| Market issues | 3008 | 1927 | 1081 |
+| Special issues | 959 | 540 | 419 |
+| Total debt increase | 3967 | 2467 | 1500 |
+| Increase in working balance, general and special accounts (deduct) | - | 510 | 5102/ |
+| Decrease in working balance, other accounts (add) 1/ | 5 | 5 | - |
+| nan | 3972 | 1962 | 2010 |
+
+1/ Represents decrease in working balance due to retirement of National bank notes.
+2/ Decrease, add.
+
+RECONCILIATION, DEFICIT AND DEBT INCREASE, FIRST 7 MONTHS OF FISCAL YEAR 1939
+
+| 0 | 1 | 2 |
+--
+Summary of Federal Receipts and Expenditures
+
+(In millions of dollars - on basis of daily Treasury statements, unrevised) 1/
+
+| Period > Period > Unnamed: 0_level_2 | Receipts > Total > Unnamed: 1_level_2 | Receipts > Total > Income tax | Receipts > Internal revenue > Social Security 3/ | Receipts > Customs > Other | Receipts > Customs > Miscellaneous receipts | Receipts > Customs > Unnamed: 6_level_2 | Expenditures 2/ > Total > Unnamed: 7_level_2 | Expenditures 2/ > General > Unnamed: 8_level_2 | Expenditures 2/ > Recovery and relief > Unnamed: 9_level_2 | Expenditures 2/ > Revolving funds (net) > Unnamed: 10_level_2 | Expenditures 2/ > Transfers to trust accounts etc. > Unnamed: 11_level_2 | Excess of receipts (+) or expenditures (-) > Excess of receipts (+) or expenditures (-) > Unnamed: 12_level_2 | Unnamed: 13_level_0 > Debt retirement > Unnamed: 13_level_2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fiscal years ended June 30 | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| 1932 | 2006.0 | 1561.0 | 1057.0 | - | 504.0 | 328.0 | 4948.0 | 3627.0 | 625.0 | 62.0 | 221.0 | 413 | -2942.0 |
+| 1933 | 2080.0 | 1604.0 | 746.0 | - | 858.0 | 251.0 | 4325.0 | 3283.0 | 385.0 | 74.0 | 121.0 | 461 | -2245.0 |
+| 1934 | 3116.0 | 2641.0 | 818.0 | - | 1823.0 | 313.0 | 6371.0 | 2681.0 | 2763.0 | 496.0 | 71.0 | 360 | -3255.0 |
+| 1935 | 3800.0 | 3278.0 | 1099.0 | - | 2179.0 | 343.0 | 7583.0 | 3225.0 | 3369.0 | 345.0 | 71.0 | 574 | -3753.0 |
+| 1936 | 4116.0 | 3513.0 | 1427.0 | - | 2086.0 | 387.0 | 9069.0 | 3399.0 | 3441.0 | 11.0 | 1814.0 | 403 | -4953.0 |
+| 1937 | 5294.0 | 4598.0 | 2158.0 | 253 | 2187.0 | 486.0 | 8546.0 | 4297.0 | 3073.0 | 204.0 | 868.0 | 104 | -3253.0 |
+| 1938 | 6242.0 | 5675.0 | 2635.0 | 755 | 2285.0 | 359.0 | 7691.0 | 4661.0 | 2238.0 | 121.0 | 607.0 | 65 | -1450.0 |
+| 1938-Jan. | 335.0 | 281.0 | 52.0 | 57 | 172.0 | 26.0 | 534.0 | 326.0 | 147.0 | 4.0 | 56.0 | 1 | -199.0 |
+| Feb. | 349.0 | 313.0 | 62.0 | 110 | 141.0 | 24.0 | 528.0 | 290.0 | 153.0 | 17.0 | 56.0 | 13 | -179.0 |
+| Mar. | 959.0 | 919.0 | 723.0 | 3 | 193.0 | 26.0 | 752.0 | 476.0 | 196.0 | 18.0 | 58.0 | 4 | 207.0 |
+| Apr. | 273.0 | 238.0 | 49.0 | 34 | 155.0 | 24.0 | 643.0 | 411.0 | 202.0 | 9.0 | 19.0 | 1 | -370.0 |
+| May. | 375.0 | 340.0 | 40.0 | 131 | 169.0 | 22.0 | 569.0 | 344.0 | 206.0 | 16.0 | 2.0 | 1 | -193.0 |
+| June. | 774.0 | 740.0 | 550.0 | 5 | 185.0 | 22.0 | 937.0 | 603.0 | 314.0 | 12.0 | 1.0 | 7 | -163.0 |
+| July. | 311.0 | 265.0 | 47.0 | 32 | 186.0 | 23.0 | 763.0 | 406.0 | 216.0 | 5.0 | 135.0 | 4/ | -451.0 |
+| Aug. | 487.0 | 446.0 | 32.0 | 131 | 283.0 | 29.0 | 683.0 | 386.0 | 236.0 | 13.0 | 48.0 | - | -195.0 |
+| Sept. | 711.0 | 671.0 | 498.0 | 3 | 170.0 | 29.0 | 765.0 | 453.0 | 243.0 | 10.0 | 45.0 | 14 | -54.0 |
+| Oct. | 332.0 | 284.0 | 41.0 | 34 | 209.0 | 31.0 | 771.0 | 454.0 | 262.0 | 10.0 | 44.0 | 2 | -439.0 |
+| Nov. | 382.0 | 340.0 | 36.0 | 129 | 175.0 | 27.0 | 678.0 | 374.0 | 248.0 | 7.0 | 48.0 | 1 | -296.0 |
+| Dec. | 704.0 | 604.0 | 481.0 | 3 | 180.0 | 25.0 | 870.0 | 500.0 | 307.0 | 6.0 | 48.0 | 9 | -166.0 |
+--
+Receipts and Expenditures under Social Security Act
+
+(In millions of dollars - on basis of daily Treasury statements, unrevised)
+
+| Fiscal Year > Fiscal Year | Receipts > Employment taxes (Title VIII) | Receipts > Tax on employers of 8 or more (Title IX, Sec. 901) | Receipts > Total Receipts | Expenditures > Administrative Expense | Expenditures > Grants to States Unemployment Compensation Administration | Expenditures > Grants to States Old-Age Assistance, etc. | Expenditures > Total Grants | Expenditures > Refunds to states of taxes collected under Title IX s/ | Expenditures > Transfers to Old-age Reserve Account (Title II) | Unnamed: 10_level_0 > Total Expenditures |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1936 | - | - | - | 0.6 | 0.9 | 26.9 | 27.8 | - | - | 28.4 |
+| 1937 | 194.3 | 57.8 | 252.1 | 15.8 | 9.1 | 157.8 | 166.9 | - | 265.0 | 417.7 |
+| 1938 | 514.4 | 90.1 | 604.5 | 20.0 | 41.9 | 229.6 | 271.5 | 40.6 | 387.0 | 719.1 |
+| 1939-July | 28.8 | 2.6 | 31.4 | 1.9 | 8.0 | 30.0 | 38.0 | - | 38.0 | 77.9 |
+| Aug. | 97.8 | 8.0 | 105.8 | 1.9 | 5.8 | 24.8 | 30.6 | - | 38.0 | 70.5 |
+| Sept. | 2.2 | .5 | 2.7 | 1.8 | 1.2 | 6.8 | 8.0 | - | 33.0 | 42.8 |
+| Oct. | 30.6 | 2.9 | 33.5 | 1.8 | 9.1 | 38.0 | 47.1 | - | 32.0 | 80.9 |
+| Nov. | 95.7 | 7.0 | 102.7 | 1.7 | 6.2 | 20.4 | 26.6 | - | 32.0 | 60.3 |
+| Dec. | 2.5 | .5 | 3.0 | 1.6 | 0.6 | 11.7 | 12.3 | - | 32.0 | 45.9 |
+| Jan. | 28.8 | 12.9 | 41.7 | 1.7 | 4.6 | 26.3 | 30.9 | - | 37.0 | 69.6 |
+| Total | 995.1 | 182.3 | 1177.4 | 48.8 | 87.4 | 572.3 | 659.7 | 40.6 | 894.0 | 1643.1 |
+
+Second Deficiency Appropriation Act, fiscal year 1938, approved June 25, 1938, carried an appropriation of $40,561,886.43, pursuant to authorization of August 24, 1937, for making refund to certain states of portions of employee's tax for calendar year 1936 collected under title IX of the Social Security Act.
+
+Old-Age Reserve Account
+
+(In millions of dollars - on basis, daily Treasury statements, unrevised)
+
+| Fiscal Year > Unnamed: 0_level_1 | Receipts > Appro-priations by Congress | Receipts > Inter-set on Investments | Receipts > Total Receipts | Expenditures > Benefit Payments | Balance Analyzed > Balance of Account | Balance Analyzed > Invest-ments | Balance Analyzed > Unex-pended |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+--
+Receipts and Expenditures under Railroad Retirement Act*
+
+(In millions of dollars - on basis of daily Treasury statements, unrevise
+
+| Fiscal Year > Fiscal Year | Expenditures > Receipts Taxes upon carriers and their employee | Expenditures > Adminis-trative Expenses | Expenditures > Transfers to Railroad Retirement Account | Unnamed: 4_level_0 > Total Expendi-tures |
+| --- | --- | --- | --- | --- |
+| 1936 | — | 0.3 | — | 0.3 |
+| 1937 | .4 | 1.5 | — | 1.5 |
+| 1938 | 150.1 | 2.6 | 146.4 | 149.0 |
+| 1939-July | .4 | 0.2 | 22.0 | 22.2 |
+| Aug. | 25.5 | 0.2 | 9.5 | 9.7 |
+| Sept. | — | 0.3 | 11.5 | 11.8 |
+| Oct. | .8 | 0.2 | 11.5 | 11.7 |
+| Nov. | 26.5 | 0.2 | 16.5 | 16.7 |
+| Dec. | — | 0.3 | 16.5 | 16.8 |
+| Jan. | .9 | 0.3 | 1.5 | 1.8 |
+| Total | 204.6 | 6.1 | 235.4 | 241.5 |
+
+Railroad Retirement Account
+
+(In millions of dollars - on basis of daily Treasury statements, unrevised)
+
+| Fiscal Year > Fiscal Year | Receipts > Appropriations by Congress | Receipts > Interest on Investments | Receipts > Total Receipts | Expenditures Benefit Payments > Expenditures Benefit Payments | Balance of Account > Balance of Account | Balance Analysed > Investments | Balance Analysed > Unexpended |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1936 | 46.6 | - | 46.6 | - | 46.6 | - | 46.6 |
+| 1937 | - | - | - | 4.0 | 42.6 | - | 42.6 |

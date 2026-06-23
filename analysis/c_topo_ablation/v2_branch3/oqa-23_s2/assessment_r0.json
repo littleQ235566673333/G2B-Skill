@@ -1,0 +1,24 @@
+{
+  "accuracy": 0.0,
+  "match_count": 0,
+  "total_count": 1,
+  "is_correct": false,
+  "match_type": "numerical",
+  "tolerance_pct": 1.0,
+  "predicted": [
+    "167.000"
+  ],
+  "target": [
+    "202.333"
+  ],
+  "details": {
+    "acc_exact": 0.0,
+    "acc_0p1pct": 0.0,
+    "acc_1pct": 0.0,
+    "acc_5pct": 0.0,
+    "match_type": "numerical",
+    "rel_error": 0.1746279647907163,
+    "pred_num": 167.0,
+    "gold_num": 202.333
+  }
+}

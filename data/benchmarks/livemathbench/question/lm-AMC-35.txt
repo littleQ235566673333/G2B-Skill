@@ -1,0 +1,1 @@
+In the following expression, Melanie changed some of the plus signs to minus signs: $1+3+5+7+...+97+99$ When the new expression was evaluated, it was negative. What is the least number of plus signs that Melanie could have changed to minus signs?

@@ -1,0 +1,62 @@
+{
+  "matrix": {
+    "Pa": {
+      "hits": [
+        0,
+        0,
+        0,
+        8,
+        8
+      ],
+      "avg": 3.2,
+      "any_hit_count": 2
+    },
+    "Pb": {
+      "hits": [
+        0,
+        0,
+        4,
+        22,
+        10
+      ],
+      "avg": 7.2,
+      "any_hit_count": 3
+    },
+    "Pc": {
+      "hits": [
+        0,
+        0,
+        1,
+        26,
+        8
+      ],
+      "avg": 7.0,
+      "any_hit_count": 3
+    },
+    "Sb": {
+      "hits": [
+        0,
+        0,
+        0,
+        24,
+        8
+      ],
+      "avg": 6.4,
+      "any_hit_count": 2
+    },
+    "Sc": {
+      "hits": [
+        0,
+        0,
+        2,
+        8,
+        8
+      ],
+      "avg": 3.6,
+      "any_hit_count": 3
+    }
+  },
+  "p_movement": false,
+  "s_movement": false,
+  "verdict": "SKILL.md injection structurally bounded; no patcher fix recovers; C-topology firmly future work"
+}

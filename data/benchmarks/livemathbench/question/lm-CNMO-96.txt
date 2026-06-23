@@ -1,0 +1,1 @@
+What is the minimum value of $y=\frac{4^x+1}{2^x+1}$?

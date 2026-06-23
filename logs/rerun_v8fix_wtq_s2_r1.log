@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/unique/auto_research/Project/G2B-Skill/runners/stream_runner.py", line 684, in <module>
+    main()
+  File "/Users/unique/auto_research/Project/G2B-Skill/runners/stream_runner.py", line 611, in main
+    raise FileNotFoundError(
+FileNotFoundError: Canonical split not found at results/splits/master_2_heldout_42/wtq. Run `python -m data.split split --bench wtq --master-seed 2 --heldout-seed 42` first.

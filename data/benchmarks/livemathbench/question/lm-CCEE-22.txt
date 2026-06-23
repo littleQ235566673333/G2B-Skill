@@ -1,0 +1,1 @@
+A badminton club arranges 6 male and 6 female players to participate in three doubles exhibition matches (one men's doubles, one women's doubles, and one mixed doubles). Each player participates in only one match. The total number of different arrangements is ?

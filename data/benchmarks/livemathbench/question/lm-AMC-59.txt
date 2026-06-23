@@ -1,0 +1,1 @@
+A disphenoid is a tetrahedron whose triangular faces are congruent to one another. What is the least total surface area of a disphenoid whose faces are scalene triangles with integer side lengths?

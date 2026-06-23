@@ -1,0 +1,1 @@
+Suppose that $a_1 = 2$ and the sequence $(a_n)$ satisfies the recurrence relation $\frac{a_n -1}{n-1}=\frac{a_{n-1}+1}{(n-1)+1}$ for all $n ge 2$. What is the greatest integer less than or equal to $\sum^{100}_{n=1} a_n^2$$?

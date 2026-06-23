@@ -1,0 +1,1 @@
+Suppose $z$ is a complex number with positive imaginary part, with real part greater than $1$, and with $|z| = 2$. In the complex plane, the four points $0$, $z$, $z^{2}$, and $z^{3}$ are the vertices of a quadrilateral with area $15$. What is the imaginary part of $z$?

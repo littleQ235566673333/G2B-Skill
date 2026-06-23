@@ -1,0 +1,49 @@
+| Duty-free articles 1/: | nan | nan | nan | nan | nan | nan | nan | nan |
+| Crude petroleum | 1/6 gal. | $503,062 | $320,672 | $300,928 | $438,746 | $387,938 | $464,821 | $2,416,167 |
+| Fuel oil and gas oil derived from petroleum, and all 11- quid derivatives of crude petroleum except lubricating oil and gasoline or other motor fuel | 1/6 gal. | 102522 | 256682 | 134798 | 101372 | 126058 | 136560 | 857992 |
+| Gasoline or other motor fuel | 2 1/4 gal. | 11 | 2 | 16 | 667 | 1 | 341 | 1038 |
+| Lubricating oil | 1/4 gal. | 42 | 643 | 1127 | 978 | 27 | 1477 | 4294 |
+| Paraffin and other petroleum wax products | 1/6 lb. | 27878 | 27180 | 17768 | 15614 | 2582 | 8217 | 99239 |
+| Seed oils | 4 1/2 lb. | 100851 | 106818 | 113124 | 129666 | 167034 | 132357 | 749860 |
+| Oil seeds | Various 2/ | 25377 | 15061 | 37953 | 44085 | 32559 | 24023 | 179058 |
+| Animal, fish and coconut oils | 3/6 lb. | 0 | 148 | 0 | 13 | 126 | 66 | 353 |
+| Copper | 4/4 lb. | 49286 | 100829 | 56004 | 76155 | 32966 | 19554 | 334794 |
+| Lumber of specified types | $1.50 M ft. 3/ | 7819 | 14135 | 11970 | 14350 | 12451 | 11283 | 71948 |
+| Coal and related fuels | 10/100 lbe. | 562 | 0 | 2455 | 332 | 1494 | 1651 | 6494 |
+| Total | nan | 817420 | 842170 | 676143 | 821978 | 753236 | 800290 | 4721237 |
+| Dutiable articles 4/: | nan | nan | nan | nan | nan | nan | nan | nan |
+| Cane sugar | Various 5/ | $535,685 | $779,248 | $195,850 | $66,019 | $41,776 | $20,595 | $1,639,173 |
+| Cane sugar (from Philippine Islands) | Various 5/ | 85754 | 85854 | 43107 | 54421 | 30607 | 14735 | 314478 |
+| Beet sugar | Various 5/ | 0 | 3478 | 0 | 0 | 0 | 0 | 3478 |
+| Article composed in chief value of manufactured sugar | .51 1/4 lb. 6/ | 1216 | 1680 | 1838 | 2114 | 2445 | 1810 | 11103 |
+| Fuel oil and gas oil derived from petroleum, and all 11- quid derivatives of crude petroleum except lubricating oil and gasoline or other motor fuel | 1/6 gal. | 1 | 0 | 1 | 0 | 0 | 1 | 3 |
+| Lubricating oil | 1/4 gal. | 0 | 23 | 30 | 0 | 0 | 23 | 76 |
+| Paraffin and other petroleum wax products | 1/6 lb. | 0 | 9 | 3 | 18 | 5 | 19 | 54 |
+| Seed oils | 4 1/2 lb. | 1363 | 4 | 2260 | 58 | 168 | 214 | 4067 |
+| Animal, fish and coconut oils | 3/6 lb. | 69706 | 132813 | 25067 | 100869 | 71674 | 9900 | 410029 |
+| Cocoanut oil | 5/6 lb. | 1126 | 401 | 211 | 515 | 695 | 671 | 3619 |
+| Copper | Various 1/ | 13459 | 12241 | 17710 | 12924 | 16066 | 8947 | 81347 |
+| Lumber of specified types | $1.50 M ft. 3/ | 21107 | 36777 | 52500 | 48623 | 39533 | 41786 | 240326 |
+| Total | nan | 729417 | 1052528 | 338577 | 285561 | 202969 | 98701 | 2707753 |
+| Grand total | nan | 1546837 | 1894698 | 1014720 | 1107539 | 966205 | 898991 | 7428990 |
+
+The total of the taxes herein corresponds to the total of the column headed "Free List" in the preceding table.
+Tax in cente per pound: hempseed, 1.24; perilla seed, 1.38; kapok seed, 2; rapeseed, 2; sesame seed, 1.18.
+--
+Preliminary figures for January and February, 1939
+
+| Commodity > Unnamed: 0_level_1 | Quota period > Unnamed: 1_level_1 | Unit of quantity > Unnamed: 2_level_1 | Established quota > Unnamed: 3_level_1 | Quantity imported > January 1/ | Quantity imported > February |
+| --- | --- | --- | --- | --- | --- |
+| Cattle weighing under 200 pounds each. | Calendar Year | Head | 100000 | 5720.0 | 9522 |
+| Cattle weighing 700 pounds or more each, other than dairy cows. | Quarter Year Calendar Year | Head Head | 60,000) 225,000) | 57575.0 | 5,651 2/ |
+| Whole milk, fresh or sour. | Calendar Year | Gallon | 3000000 | 407.0 | 207 |
+| Cream, fresh or sour. | Calendar Year | Gallon | 1500000 | 84.0 | 11 |
+| Fish, fresh or frozen, filleted, etc., Cod, Haddock, Hake, Pollock, Cusk and Rosefish. | Calendar Year | Pound | 15000000 | 1016729.0 | 1038962 |
+| White or Irish potatoes: | nan | nan | nan | nan | nan |
+| Certified seed. | 12 months from Sept. 15, 1938 | Pound | 90000000 | 1756703.0 | 1347304 |
+| Other. | 12 months from Sept. 15, 1938 | Pound | 60000000 | 2062.0 | 47828 |
+| Red cedar shingles. | 1st. 6 months Calendar Year | Square | 1051168 | 336053.0 | 227460 |
+| Molasses and sugar sirups, n.e.p.f., which contain soluble nonsugar solids, (excluding any foreign substance that may have been added) equal to more than 6% of the total soluble solide. | Calendar Year | Gallon | 1500000 | 834690.0 | 14854 |
+| Products of Philippine Islands: | nan | nan | nan | nan | nan |
+| Coconut oil. | Calendar Year | Pound | 448000000 | 25777920.0 | 20426183 |
+| Refined sugar. | Calendar Year | Pound | 112000000 | 1198779.0 | 8996537 |

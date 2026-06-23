@@ -1,0 +1,1 @@
+Let an infinite geometric sequence $\{a_n\}$ have a common ratio $q$ that satisfies $0 < |q| < 1$. If the sum of all terms in $\{a_n\}$ equals the sum of the squares of all terms, then what is the range of values for $a_2$?

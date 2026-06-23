@@ -1,0 +1,1 @@
+A data set containing $20$ numbers, some of which are $6$, has mean $45$. When all the $6$s are removed, the data set has mean $66$. How many $6$s were in the original data set?

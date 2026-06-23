@@ -1,0 +1,6 @@
+,COLLM,Value,Unnamed: 2,Unnamed: 3,Need result like this ,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+0,1005,AL2230,,,Number of dulpication,unique,,,,,
+1,1006,AL2231,,,3,1005,AL2230,AL2235,AL2240,,
+2,1007,AL2232,,,1,1006,AL2231,,,,
+3,1008,AL2233,,,1,1007,AL2232,,,,
+4,1009,AL2234,,,5,1008,AL2233,AL2236,AL2239,AL2242,AL2245

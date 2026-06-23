@@ -1,0 +1,212 @@
+[
+  {
+    "case_id": "oqa-14",
+    "seed_idx": 0,
+    "is_correct": false,
+    "cost": 0.1261165,
+    "elapsed": 52.89
+  },
+  {
+    "case_id": "oqa-14",
+    "seed_idx": 1,
+    "is_correct": false,
+    "cost": 1.932281,
+    "elapsed": 30.85
+  },
+  {
+    "case_id": "oqa-14",
+    "seed_idx": 2,
+    "is_correct": false,
+    "cost": 2.7533355000000004,
+    "elapsed": 32.94
+  },
+  {
+    "case_id": "oqa-14",
+    "seed_idx": 3,
+    "is_correct": false,
+    "cost": 5.163997999999999,
+    "elapsed": 65.48
+  },
+  {
+    "case_id": "oqa-14",
+    "seed_idx": 4,
+    "is_correct": true,
+    "cost": 0.14771399999999998,
+    "elapsed": 50.26
+  },
+  {
+    "case_id": "oqa-16",
+    "seed_idx": 0,
+    "is_correct": false,
+    "cost": 0.283927,
+    "elapsed": 78.65
+  },
+  {
+    "case_id": "oqa-16",
+    "seed_idx": 1,
+    "is_correct": false,
+    "cost": 0.2100775,
+    "elapsed": 90.05
+  },
+  {
+    "case_id": "oqa-16",
+    "seed_idx": 2,
+    "is_correct": false,
+    "cost": 0.16431099999999998,
+    "elapsed": 70.26
+  },
+  {
+    "case_id": "oqa-16",
+    "seed_idx": 3,
+    "is_correct": false,
+    "cost": 0.1198295,
+    "elapsed": 58.17
+  },
+  {
+    "case_id": "oqa-16",
+    "seed_idx": 4,
+    "is_correct": true,
+    "cost": 0.39658350000000003,
+    "elapsed": 138.2
+  },
+  {
+    "case_id": "oqa-25",
+    "seed_idx": 0,
+    "is_correct": false,
+    "cost": 0.1435255,
+    "elapsed": 65.14
+  },
+  {
+    "case_id": "oqa-25",
+    "seed_idx": 1,
+    "is_correct": true,
+    "cost": 0.089467,
+    "elapsed": 32.59
+  },
+  {
+    "case_id": "oqa-25",
+    "seed_idx": 2,
+    "is_correct": true,
+    "cost": 0.0902565,
+    "elapsed": 39.06
+  },
+  {
+    "case_id": "oqa-25",
+    "seed_idx": 3,
+    "is_correct": true,
+    "cost": 0.415486,
+    "elapsed": 44.48
+  },
+  {
+    "case_id": "oqa-25",
+    "seed_idx": 4,
+    "is_correct": true,
+    "cost": 0.0771305,
+    "elapsed": 39.89
+  },
+  {
+    "case_id": "oqa-33",
+    "seed_idx": 0,
+    "is_correct": true,
+    "cost": 0.0555505,
+    "elapsed": 26.7
+  },
+  {
+    "case_id": "oqa-33",
+    "seed_idx": 1,
+    "is_correct": true,
+    "cost": 0.056877,
+    "elapsed": 24.96
+  },
+  {
+    "case_id": "oqa-33",
+    "seed_idx": 2,
+    "is_correct": true,
+    "cost": 0.045454,
+    "elapsed": 22.99
+  },
+  {
+    "case_id": "oqa-33",
+    "seed_idx": 3,
+    "is_correct": true,
+    "cost": 0.10040450000000001,
+    "elapsed": 26.39
+  },
+  {
+    "case_id": "oqa-33",
+    "seed_idx": 4,
+    "is_correct": true,
+    "cost": 0.07106849999999999,
+    "elapsed": 26.24
+  },
+  {
+    "case_id": "oqa-40",
+    "seed_idx": 0,
+    "is_correct": true,
+    "cost": 0.09714850000000001,
+    "elapsed": 33.93
+  },
+  {
+    "case_id": "oqa-40",
+    "seed_idx": 1,
+    "is_correct": true,
+    "cost": 0.1086725,
+    "elapsed": 40.01
+  },
+  {
+    "case_id": "oqa-40",
+    "seed_idx": 2,
+    "is_correct": true,
+    "cost": 0.1581115,
+    "elapsed": 41.71
+  },
+  {
+    "case_id": "oqa-40",
+    "seed_idx": 3,
+    "is_correct": true,
+    "cost": 0.117625,
+    "elapsed": 31.79
+  },
+  {
+    "case_id": "oqa-40",
+    "seed_idx": 4,
+    "is_correct": true,
+    "cost": 0.08577,
+    "elapsed": 30.72
+  },
+  {
+    "case_id": "oqa-129",
+    "seed_idx": 0,
+    "is_correct": true,
+    "cost": 0.0807665,
+    "elapsed": 36.69
+  },
+  {
+    "case_id": "oqa-129",
+    "seed_idx": 1,
+    "is_correct": false,
+    "cost": 0.0664925,
+    "elapsed": 30.01
+  },
+  {
+    "case_id": "oqa-129",
+    "seed_idx": 2,
+    "is_correct": true,
+    "cost": 0.150962,
+    "elapsed": 39.25
+  },
+  {
+    "case_id": "oqa-129",
+    "seed_idx": 3,
+    "is_correct": true,
+    "cost": 0.0998455,
+    "elapsed": 32.87
+  },
+  {
+    "case_id": "oqa-129",
+    "seed_idx": 4,
+    "is_correct": false,
+    "cost": 0.06610850000000001,
+    "elapsed": 33.12
+  }
+]

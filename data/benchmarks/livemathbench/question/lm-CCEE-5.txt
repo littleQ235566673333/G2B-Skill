@@ -1,0 +1,1 @@
+Point $M(a,2)$ is a point on the graph of the linear function $y=2x-3$, then $a=$ ?

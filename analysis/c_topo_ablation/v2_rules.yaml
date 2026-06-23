@@ -1,0 +1,143 @@
+# C-topo v2 main eval — 10 negative rules (frozen pre-eval)
+# Per protocol_v2_multiseed.md. Not edited after main eval starts.
+
+rules:
+  - rule_id: R1
+    case_id: oqa-112
+    category: aggregate
+    sg_exact: true
+    text: |
+      For ratio computations, FIRST restate the numerator and denominator in
+      words from the question wording before extracting values. The ratio
+      "A to B" means A/B; reversing the ratio direction yields the
+      reciprocal. When computing means of yearly ratios, compute each
+      year's ratio first, THEN average — do not aggregate sums of A and B
+      first and divide.
+    avoid_check:
+      pass_pattern: '(numerator|denominator|ratio[_ ]direction|receipts[_/ ]+expenditures|expenditures[_/ ]+receipts)'
+
+  - rule_id: R2
+    case_id: oqa-14
+    category: comparison
+    sg_exact: true
+    text: |
+      When the question requests "revised" or "post-war updated" figures
+      for a WWII-era period (1934-1946), DO NOT use contemporaneous
+      bulletins (1942 for 1942 data) as the source. Revisions appear in
+      LATER bulletins (1947+). Use the most recent bulletin in the source
+      set for both years' figures.
+    avoid_check:
+      pass_pattern: 'treasury_bulletin_1947'
+
+  - rule_id: R3
+    case_id: oqa-16
+    category: extremum
+    sg_exact: true
+    text: |
+      For two-step lookups (find month X where Y is min/max, then look up
+      Z at that month), explicitly write down the chosen month/year
+      BEFORE the second lookup. Do NOT skip the step-1 result and proceed
+      to step 2 by keyword match alone. Then index step 2's table by the
+      exact month/year identified in step 1.
+    avoid_check:
+      pass_pattern: '(minimum|min[_ ]spread)[^\n]{0,100}(at|=|in)[^\n]{0,40}\b(19[0-9]{2}|196[0-9])\b'
+
+  - rule_id: R4
+    case_id: oqa-101
+    category: unit_conversion
+    sg_exact: false
+    text: |
+      For CPI inflation adjustments to convert nominal to real dollars,
+      state the CPI values for both periods explicitly BEFORE computing
+      the ratio. The "real dollar" adjustment requires
+      `nominal * (CPI_target / CPI_source)`. Direction matters: adjusting
+      May 1979 to June 1979 dollars uses ratio CPI_June/CPI_May. Verify
+      sign of the result corresponds to the actual change (use signed
+      subtraction in the same currency basis).
+    avoid_check:
+      pass_pattern: '(CPI[_ -]?U|consumer[_ ]price[_ ]index)[^\n]{0,200}(1979|May|June)'
+
+  - rule_id: R5
+    case_id: oqa-118
+    category: growth_rate
+    sg_exact: false
+    text: |
+      For multi-step calculations involving multiple separate data sources
+      (e.g., regression coefficients + external GDP data + counterfactual),
+      enumerate each required input as a found/missing checklist BEFORE
+      coding any step. List: required_value, source_document, value_quoted,
+      basis_unit. Do not proceed if any input is unsourced; do not use
+      memory-supplied values for external statistics like GDP figures.
+    avoid_check:
+      pass_pattern: '(checklist|enumerat|input[s]?[_ ]list)[^\n]{0,300}(GDP|Germany|Europe|Latin)'
+
+  - rule_id: R6
+    case_id: oqa-35
+    category: lookup
+    sg_exact: false
+    text: |
+      When the question specifies a particular reporting structure (e.g.,
+      "Air Force expenditures still charged to Army appropriations"), use
+      ONLY the bulletin source where that structure holds. The structure
+      changed in 1947; pre-1947 bulletins use the unified structure, post-
+      1947 may separate. State which bulletin's reporting structure is
+      being used BEFORE extracting Army values.
+    avoid_check:
+      pass_pattern: '(reporting[_ ]structure|Air[_ ]Force.*Army|Army[_ ]appropriation)'
+
+  - rule_id: R7
+    case_id: oqa-0
+    category: aggregate
+    sg_exact: false
+    text: |
+      For "national defense" total expenditure questions in the WWII-era,
+      the bulletin separates national defense from veterans / general
+      government. Locate the row literally labeled "National defense"
+      (not "Defense", "Military", or unrelated subtotals) before
+      extracting. State the row label verbatim from the source before
+      writing the value.
+    avoid_check:
+      pass_pattern: '(national[_ ]defense|National[_ ]defense)'
+
+  - rule_id: R8
+    case_id: oqa-130
+    category: comparison
+    sg_exact: false
+    text: |
+      When the question asks for a value in a target currency (CAD, EUR,
+      etc.) using a specific reference period exchange rate, ALWAYS apply
+      the conversion explicitly: state the exchange rate and the source
+      bulletin row. Do NOT report values in the source currency (USD)
+      without conversion. The exchange rate must come from the bulletin's
+      explicit currency table for that reference period.
+    avoid_check:
+      pass_pattern: '(USD[_ -/]?CAD|exchange[_ ]rate|currency[_ ]table)[^\n]{0,200}(1959|December)'
+
+  - rule_id: R9
+    case_id: oqa-131
+    category: growth_rate
+    sg_exact: false
+    text: |
+      The Fisher Ideal symmetric growth rate is `(2*(B-A))/(B+A)` (or
+      equivalently `sqrt((B/A) * (1 - (1-A/B))) - 1` form). It is NOT the
+      arithmetic mean growth rate `(B-A)/A` and NOT the geometric mean
+      growth rate `(B/A)^(1/n) - 1`. State the Fisher Ideal formula
+      explicitly before computing. Verify the sign matches the direction
+      of change (negative if B < A).
+    avoid_check:
+      pass_pattern: '(Fisher[_ ]Ideal|symmetric[_ ]growth|2\s*\*\s*\(B\s*-\s*A\)|midpoint[_ ]formula)'
+
+  - rule_id: R10
+    case_id: oqa-37
+    category: extremum
+    sg_exact: false
+    text: |
+      "Lowest absolute value" means the entry whose magnitude is smallest,
+      not the most negative or smallest by signed value. When extracting
+      OCS or similar entries, compute `abs(value)` for each candidate and
+      pick the minimum of `abs`. Do NOT directly take the minimum signed
+      value or the first row encountered.
+    avoid_check:
+      pass_pattern: '(absolute[_ ]value|abs\(|magnitude[_ ]smallest|lowest[_ ]absolute)'
+
+# Decision matrix references protocol_v2_multiseed.md; not duplicated.

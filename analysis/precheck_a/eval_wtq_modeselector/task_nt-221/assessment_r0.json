@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.0,
+  "match_count": 0,
+  "total_count": 2,
+  "is_correct": false,
+  "predicted": [
+    "Dani Sordo, Marc Marti"
+  ],
+  "target": [
+    "Dani Sordo",
+    "Marc Marti"
+  ]
+}

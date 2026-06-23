@@ -1,0 +1,1 @@
+Given that the sequence $\{3^{a_n}\}$ is a geometric sequence, and the sum of the first $n$ terms of the sequence $\{a_n\}$ is denoted as $S_n$, and $a_4 = 5$, $S_5 = 5$, then $a_2 =$?

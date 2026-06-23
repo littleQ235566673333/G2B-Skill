@@ -1,0 +1,22 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+Data Table,,,,
+,,,,
+Work,Material,Category 1,Category 2,Category 3
+1,Material 1,0,0,0.75
+1,Material 2,0,25.43,0
+1,Material 3,0.72,0,0
+2,Material 1,0,5.82,0
+2,Material 1,0,0,4.9
+2,Material 2,3.89,0,0
+,,,,
+,,,,
+,,,,
+Report Format,,,,
+,,,,
+Work,Category Type,Material,Category Value,
+1,Category 1,Material 1,,
+1,Category 2,Material 2,,
+1,Category 3,Material 2,,
+2,Category 1,Material 1,,
+1,Category 3,Material 2,,
+1,Category 2,Material 3,,

@@ -1,0 +1,125 @@
+| National defense | 406 | 462 | 500 | 574 | 689 | 1732.0 | +1043 | 1163 | 1,580 3/ | 6,404 4/ | +417 | 4884.0 | nan | nan |
+| Veterans' Administration | 388 | 345 | 292 | 281 | 277 | 277.0 | - | 557 | 557 | 565 | - | 8.0 | nan | nan |
+| Social Security and E. R. Retirement Acts 2/ | - | 78 | 234 | 262 | 270 | 307.0 | +37 | 454 | 513 | 563 | +59 | 50.0 | nan | nan |
+| Agricultural Adjustment Program 5/ | 366 | 162 | 78 | 297 | 475 | 519.0 | +44 | 782 | 1017 | 962 | +235 | -55.0 | nan | nan |
+| Interest on the public debt | 358 | 403 | 432 | 425 | 455 | 491.0 | +36 | 941 | 1041 | 1100 | +100 | 59.0 | nan | nan |
+| Public Works 6/ | 331 | 573 | 463 | 472 | 501 | 438.0 | -63 | 948 | 869 | 732 | -79 | -137.0 | nan | nan |
+| Unemployment relief | 1019 | 1279 | 896 | 1363 | 953 | 869.0 | -82 | 2595 | 1919 | 1792 | -676 | -127.0 | nan | nan |
+| Loans and stock subscriptions | -28 | 47 | 28 | 55 | 91 | 38.0 | -53 | 212 | 241 | 107 | +29 | -134.0 | nan | nan |
+| Return of surplus funds from Government corporations | - | - | - | - | - | -203.0 | -203 | - | - | -339 | - | -339.0 | nan | nan |
+| Other | 444 | 513 | 518 | 570 | 771 | 673.0 | -98 | 1055 | 1,261 3/ | 1256 | +206 | -5.0 | nan | nan |
+| Total expenditures | 3284 | 3663 | 3441 | 4299 | 4480 | 5141.0 | +661 | 8707 | 8998 | 13202 | +291 | 4204.0 | nan | nan |
+| Net deficit | 1382 | 1705 | 514 | 1577 | 2004 | 2216.0 | +212 | 3542 | 3611 | 6189 | +69 | 2578.0 | nan | nan |
+
+Source: Daily Treasury Statement, except as noted.
+1/ Estimates for the fiscal year 1941 have been revised to accord with figures appearing in the Budget which was submitted to Congress by the President on January 3, 1941.
+2/ In the fiscal year 1941 amounts representing appropriations equal to collections of Social Security taxes under the Federal Insurance Contributions Act for old-age insurance (less reimbursements to the general fund for administrative expenses) are deducted from total budget receipts in the Daily Treasury Statement. These amounts are reflected under Trust Account receipts as net appropriations to the Federal Old-Age and Survivors Insurance Trust Fund. In the above statement, similar treatment has been accorded net transfers to the Federal Old-Age and Survivors Insurance Trust Fund (formerly Old-Age Reserve Account) made during the fiscal years 1936 to 1940, in order to facilitate comparison with the fiscal year 1941.
+3/ Revised to classify as national defense $21 millions expenditures for civil activities which are included with non-defense expenditures in the Daily Treasury Statement and which were formerly classified as "Other" in the above statement.
+4/ Includes $304 millions for civil activities in connection with national defense which are included with non-defense expenditures in the Daily Treasury Statement.
+5/ Excludes subscriptions to capital stock of Federal Crop Insurance Corporation.
+5/ Excludes loans shown under "Loans and stock subscriptions".
+
+Means of Financing the Deficit
+
+(In millions of dollars)
+
+| Unnamed: 0_level_0 > Unnamed: 0_level_1 | First 6 months, fiscal years 1936 to 1941 > 1936 | First 6 months, fiscal years 1936 to 1941 > 1937 | First 6 months, fiscal years 1936 to 1941 > 1938 | First 6 months, fiscal years 1936 to 1941 > 1939 | First 6 months, fiscal years 1936 to 1941 > 1940 | First 6 months, fiscal years 1936 to 1941 > 1941 | Complete fiscal years, 1939 to 1941 > Actual | Complete fiscal years, 1939 to 1941 > 1940 | Complete fiscal years, 1939 to 1941 > Estimated/1941 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net deficit | 1382 | 1705 | 514 | 1577 | 2004 | 2216 | 3542 | 3611 | 6189 |
+| Means of financing: | Means of financing: | Means of financing: | Means of financing: | Means of financing: | Means of financing: | Means of financing: | Means of financing: | Means of financing: | Means of financing: |
+| Increases in public debt: | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Public issues, etc. | 1761 | 522 | 185 | 1782 | 1042 | 1463 | 2180 | 1523 | 4901 |
+| Special issues | 95 | 106 | 669 | 480 | 461 | 595 | 1094 | 1005 | 1288 |
+| Total increase in public debt | 1856 | 628 | 854 | 2262 | 1503 | 2058 | 3274 | 2528 | 6189 |
+| Net decrease in working balance, general and special accounts | -474 | 1077 | -340 | -685 | 501 | 158 | 268 | 1083 | - |
+| Total means of financing | 1382 | 1705 | 514 | 1577 | 2004 | 2216 | 3542 | 3611 | 6189 |
+
+Source: Daily Treasury Statements, except as noted.
+1/ Estimates for the fiscal year 1941 have been revised to accord with figures appearing in the Budget which was submitted to Congress by the President on January 3, 1941.
+
+BUDGET RECEIPTS, EXPENDITURES AND EXCESS OF EXPENDITURES
+
+--
+| Fiscal year or month | Total | Departmental | National defense | Veterans' Administration | FERA and CWA | WPA 2/ | Public Works 3/ | Agricultural Adjustment program | Civilian Conservation Corps | Social Security and Railroad Retirement Act | Interest on the public debt | Other |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1933 | 3668 | 599 | 668 | 763 | 38 | - | 311 | - | - | - | 689 | 600 |
+| 1934 | 5444 | 387 | 540 | 507 | 1512 | - | 543 | 289 | 332 | - | 757 | 577 |
+| 1935 | 6594 | 516 | 710 | 557 | 1832 | - | 662 | 712 | 436 | - | 821 | 348 |
+| 1936 | 6840 | 586 | 911 | 578 | 496 | 1264 | 647 | 533 | 486 | 89 | 749 | 561 |
+| 1937 | 7370 | 718 | 935 | 580 | 13 | 1896 | 767 | 527 | 385 | 184 | 866 | 499 |
+| 1938 | 6898 | 632 | 1028 | 582 | 5 | 1472 | 664 | 362 | 326 | 375 | 926 | 566 |
+| 1939 | 8432 | 721 | 1163 | 557 | 1 | 2240 | 928 | 787 | 290 | 347 | 941 | 457 |
+| 1940 | 8736 | 807 | 1580 | 557 | - | 1478 | 1021 | 1020 | 283 | 392 | 1041 | 557 |
+| 1939-December | 823 | 64 | 125 | 46 | - | 124 | 97 | 102 | 23 | 21 | 190 | 31 |
+| 1940-January | 713 | 70 | 132 | 47 | - | 119 | 84 | 119 | 23 | 42 | 38 | 39 |
+| February | 654 | 64 | 129 | 46 | - | 113 | 68 | 128 | 22 | 38 | 19 | 27 |
+| March | 816 | 65 | 143 | 47 | - | 134 | 74 | 105 | 24 | 28 | 146 | 50 |
+| April | 757 | 70 | 159 | 47 | - | 133 | 76 | 78 | 22 | 48 | 69 | 55 |
+| May | 642 | 68 | 154 | 47 | - | 128 | 74 | 62 | 22 | 30 | 10 | 47 |
+| June | 883 | 67 | 153 | 46 | - | 113 | 79 | 44 | 22 | 12 | 305 | 42 |
+| July | 700 | 84 | 177 | 46 | - | 110 | 72 | 58 | 24 | 65 | 20 | 48 |
+| August | 693 | 72 | 200 | 46 | - | 109 | 80 | 76 | 23 | 35 | 20 | 33 |
+| September | 758 | 66 | 219 | 45 | - | 104 | 70 | 75 | 25 | 17 | 148 | -11 |
+| October | 874 | 75 | 287 | 48 | - | 111 | 87 | 103 | 22 | 57 | 73 | 11 |
+| November | 820 | 63 | 376 | 46 | - | 105 | 75 | 106 | 20 | 37 | 11 | -21 r |
+| December | 1172 | 61 | 473 | 46 | - | 115 | 65 | 109 | 23 | 19 | 219 | 42 |
+
+Source: Daily Treasury Statements.
+r Revised.
+1/ Excludes Revolving Funds and Transfers to Trust Accounts. Includes Recovery and Relief.
+2/ Prior to fiscal year 1940, figures include National Youth Administration expenditures.
+3/ Includes public buildings, public highways, rivers and harbors, Tennessee Valley Authority, Rural Electrification and Reclamation projects, and Public Works Administration.
+4/ Revised to classify as national defense $21 millions expenditures for civil activities which are included with non-defence expenditures in the Daily Treasury Statement and which were formerly classified as "Other" in the above statement.
+
+Budget Expenditures Classified as Revolving Funds (Net), and Transfers to Trust Accounts, etc.
+
+(In millions of dollars)
+
+| Fiscal year or month > Fiscal year or month | Revolving funds (net) > Total | Revolving funds (net) > Agricultural Aid | Revolving funds (net) > Public Works | Transfers to trust accounts, etc. > Total | Transfers to trust accounts, etc. > Railroad Retirement Account | Transfers to trust accounts, etc. > Adjusted Service Certificate Fund | Transfers to trust accounts, etc. > Advances to Railroad Unemployment Insurance Account | Transfers to trust accounts, etc. > Government Employees' Retirement Funds (U. S. share) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1933 | 74 | 74 | - | 121 | - | 100 | - | 21 |
+| 1934 | 496 | 346 | 150 | 71 | - | 50 | - | 21 |
+| 1935 | 345 | 141 | 204 | 71 | - | 50 | - | 21 |
+| 1936 | 11 | -33 | 44 | 1814 | - | 1773 | - | 41 |
+--
+| National defense | 125.0 | 132 | 129.0 | 143.0 | 159 | 154 | 153.0 | 177.0 | 200.0 | 219.0 | 287 | 376.0 | 473.0 | nan |
+| Social Security Act (grants and administrative expenses) 2/ | 20.0 | 41 | 38.0 | 27.0 | 47 | 29 | 12.0 | 64.0 | 34.0 | 17.0 | 57 | 37.0 | 19.0 | nan |
+| Interest on the public debt | 185.0 | 15 | 16.0 | 142.0 | 66 | 7 | 192.0 | 16.0 | 16.0 | 144.0 | 69 | 7.0 | 213.0 | nan |
+| Public Works | 94.0 | 82 | 69.0 | 77.0 | 79 | 73 | 81.0 | 70.0 | 78.0 | 72.0 | 93 | 78.0 | 65.0 | nan |
+| Agricultural aid 3/ | 121.0 | 138 | 147.0 | 140.0 | 112 | 95 | 64.0 | 66.0 | 61.0 | 28.0 | 75 | 40.0 | 116.0 | nan |
+| National Youth Administration | 10.0 | 10 | 9.0 | 10.0 | 11 | 10 | 9.0 | 7.0 | 6.0 | 6.0 | 7 | 9.0 | 12.0 | nan |
+| Work Projects Administration | 124.0 | 120 | 113.0 | 134.0 | 133 | 128 | 113.0 | 110.0 | 109.0 | 104.0 | 111 | 105.0 | 115.0 | nan |
+| Other | 138.0 | 156 | 134.0 | 143.0 | 153 | 144 | 150.0 | 191.0 | 173.0 | 155.0 | 166 | 141.0 | 153.0 | nan |
+| Subtotal | 817.0 | 694 | 655.0 | 816.0 | 760 | 640 | 774.0 | 701.0 | 677.0 | 745.0 | 865 | 793.0 | 1166.0 | nan |
+| Trust funds, etc.: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Reconstruction Finance Corporation | -6.0 | -20 | -6.0 | -5.0 | -6 | -9 | 13.0 | 24.0 | -1.0 | -18.0 | -7 | 57.0 | 13.0 | nan |
+| Commodity Credit Corporation | 11.0 | -6 | -3.0 | -4.0 | -4 | - | 1.0 | 10.0 | 146.0 | -1.0 | 21 | 24.0 | 17.0 | nan |
+| Unemployment trust fund | 32.0 | 43 | 45.0 | 47.0 | 45 | 58 | 54.0 | 57.0 | 53.0 | 38.0 | 34 | 30.0 | 31.0 | nan |
+| Federal Old-Age and Survivors | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| Insurance Trust Fund | 1.0 | 1 | 1.0 | 1.0 | 2 | 2 | 3.0 | 3.0 | 4.0 | 4.0 | 5 | 5.0 | 5.0 | nan |
+| Railroad retirement account | 9.0 | 9 | 9.0 | 10.0 | 10 | 10 | 10.0 | 10.0 | 10.0 | 10.0 | 10 | 10.0 | 10.0 | nan |
+| Other | 82.0 | 5 | -23.0 | -15.0 | -16 | -11 | 26.0 | -2.0 | -21.0 | 51.0 | 36 | 31.0 | 45.0 | nan |
+| Subtotal | 129.0 | 32 | 23.0 | 34.0 | 31 | 50 | 107.0 | 102.0 | 191.0 | 84.0 | 99 | 157.0 | 121.0 | nan |
+| Redemption of adjusted service bonds | 1.0 | - | 1.0 | 1.0 | 1 | 1 | 4.0 | 3.0 | 2.0 | 2.0 | 2 | 2.0 | 1.0 | nan |
+| Total cash outgo | 947.0 | 726 | 679.0 | 851.0 | 792 | 691 | 885.0 | 806.0 | 870.0 | 831.0 | 966 | 952.0 | 1288.0 | nan |
+| EXCESS OF CASH OUTGO | 332.0 | 328 | 65.0 | -138.0 | 407 | 130 | 104.0 | 357.0 | 146.0 | 75.0 | 518 | 306.0 | 485.0 | nan |
+
+1/ These figures are not intended to reflect the budgetary position of the Government. They will not agree with budgetary figures on receipt of expenditures and deficit such as those appearing in Daily Treasury Statements and in other tables in this Bulletin. For an explanation of the revisions made in Daily Treasury Statement figures to arrive at this cash series, see the text in February 1939 Bulletin.
+2/ Includes refunds of taxes.
+3/ Comprises Agricultural adjustment program, Commodity Credit Corporation, Farm Credit Administration, Federal Farm Mortgage Corporation, Federal land banks, Farm Security Administration and Farm Tenant Act.
+
+Total Cash Income and Outgo, by Months
+
+(in millions of dollars)
+
+| Unnamed: 0 | Jan. | Feb. | Mar. | Apr. | May | June | July | Aug. | Sept. | Oct. | Nov. | Dec. | Total | Unnamed: 14 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cash income | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| 1935 | 229.0 | 231.0 | 621.0 | 249.0 | 261.0 | 479.0 | 278.0 | 320.0 | 440.0 | 260.0 | 226.0 | 453.0 | 4047.0 | nan |
+| 1936 | 249.0 | 240.0 | 771.0 | 255.0 | 249.0 | 542.0 | 311.0 | 362.0 | 522.0 | 299.0 | 259.0 | 547.0 | 4606.0 | nan |
+| 1937 | 303.0 | 326.0 | 1115.0 | 421.0 | 390.0 | 925.0 | 438.0 | 541.0 | 852.0 | 389.0 | 433.0 | 930.0 | 7063.0 | nan |
+| 1938 | 395.0 | 460.0 | 1038.0 | 319.0 | 519.0 | 824.0 | 365.0 | 632.0 | 767.0 | 395.0 | 521.0 | 757.0 | 6992.0 | nan |
+| 1939 | 364.0 | 581.0 | 796.0 | 323.0 | 552.0 | 644.0 | 369.0 | 589.0 | 752.0 | 399.0 | 567.0 | 615.0 | 6521.0 | nan |
+| 1940 | 398.0 | 614.0 | 989.0 | 385.0 | 561.0 | 781.0 | 449.0 | 724.0 | 756.0 | 448.0 | 646.0 | 803.0 | 7554.0 | nan |
+| Cash outgo | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan |
+| 1935 | 468.0 | 530.0 | 577.0 | 633.0 | 551.0 | 737.0 | 614.0 | 561.0 | 610.0 | 658.0 | 474.0 | 632.0 | 7045.0 | nan |

@@ -1,0 +1,111 @@
+| FFO-A.—Chart: Monthly Receipts and Outlays | 14 |
+| FFO-B.—Chart: Budget Receipts by Source | 14 |
+| FFO-1.—Summary of Fiscal Operations | 15 |
+| FFO-2.—On-Budget and Off-Budget Receipts by Source | 16 |
+| FFO-3.—On-Budget and Off-Budget Outlays by Agency | 18 |
+| FFO-4.—Summary of U.S. Government Receipts by Source and Outlays by Agency | 20 |
+
+| 0 | 1 |
+| --- | --- |
+| ACCOUNT OF THE U.S. TREASURY | ACCOUNT OF THE U.S. TREASURY |
+| Introduction.— | Source and Availability of the Balance in the Account of the U.S. Treasury ..................................... 21 |
+| UST-1.— | Elements of Change in Federal Reserve and Tax and Loan Note Account Balances ......................... 21 |
+
+| 0 | 1 |
+| --- | --- |
+| FEDERAL DEBT | FEDERAL DEBT |
+| Introduction.—Federal Debt | 23 |
+| FD-1.—Summary of Federal Debt | 24 |
+| FD-2.—Debt Held by the Public | 25 |
+| FD-3.—Government Account Series | 26 |
+| FD-4.—Interest-Bearing Securities Issued by Government Agencies | 27 |
+| FD-5.—Maturity Distribution and Average Length of Marketable Interest-Bearing Public Debt Held by Private Investors | 28 |
+| FD-6.—Debt Subject to Statutory Limit | 29 |
+| FD-7.—Treasury Holdings of Securities Issued by Government Corporations and Other Agencies | 30 |
+
+| PUBLIC DEBT OPERATIONS | PUBLIC DEBT OPERATIONS.1 |
+| --- | --- |
+| Introduction.—Public Debt Operations | 32 |
+| TREASURY FINANCING | TREASURY FINANCING |
+| PDO-1.—Offerings of Regular Weekly Treasury Bills | 37 |
+| PDO-2.—Offerings of Marketable Securities Other than Regular Weekly Treasury Bills | 38 |
+
+| 0 | 1 |
+| --- | --- |
+| Introduction.—Ownership of Federal Securities | 39 |
+| OFS-1.—Distribution of Federal Securities by Class of Investors and Type of Issues | 40 |
+| OFS-2.—Estimated Ownership of U.S. Treasury Securities | 41 |
+
+| 0 | 1 |
+| --- | --- |
+| MARKET YIELDS | nan |
+| Introduction.—Market Yields | 42.0 |
+--
+| CM-A.—Chart: U.S. Liabilities to Foreigners Reported by U.S. Banks, Brokers, and Dealers with Respect to Selected Countries | 58.0 |
+
+| 0 | 1 |
+| --- | --- |
+| SECTION II.—Claims on Foreigners Reported by Banks in the United States | nan |
+| CM-II-1.—Total Claims by Type | 59.0 |
+| CM-II-2.—Total Claims by Country | 60.0 |
+| CM-II-3.—Total Claims on Foreigners by Type and Country | 62.0 |
+| CM-B.—Chart: U.S. Claims on Foreigners Reported by U.S. Banks, Brokers, and Dealers with Respect to Selected Countries | 64.0 |
+
+| 0 | 1 |
+| --- | --- |
+| SECTION III.—Liabilities to, and Claims on, Unaffiliated Foreigners Reported by Nonbanking Business Enterprises in the United States | nan |
+| CM-III-1.—Total Liabilities and Claims by Type | 65.0 |
+| CM-III-2.—Total Liabilities to Unaffiliated Foreigners by Country | 66.0 |
+| CM-III-3.—Total Claims on Unaffiliated Foreigners by Country | 68.0 |
+| CM-III-4.—Total Liabilities to, and Claims on, Unaffiliated Foreigners, by Type and Country | 70.0 |
+
+| 0 | 1 |
+| --- | --- |
+| SECTION IV.—U.S. International Transactions in Long-Term Securities | nan |
+| CM-IV-1.—U.S. Transactions with Foreigners in Long-Term Domestic Securities by Type | 72.0 |
+| CM-IV-2.—U.S. Transactions with Foreigners in Long-Term Foreign Securities by Type | 73.0 |
+| CM-IV-3.—Net Foreign Transactions in Long-Term Domestic Securities by Type and Country | 74.0 |
+| CM-IV-4.—U.S. Transactions with Foreigners in Long-Term Domestic and Foreign Securities, by Type and Country, during (second quarter) | 76.0 |
+| CM-IV-5.—U.S. Transactions with Foreigners in Long-Term Domestic and Foreign Securities, by Type and Country, during (calendar year) | 78.0 |
+| CM-C.—Chart: Net Purchases of Long-Term Domestic Securities by Foreigners, Selected Countries | 80.0 |
+| CM-D.—Chart: Net Purchases of Long-Term Foreign Securities by U.S. Investors | 81.0 |
+
+| 0 | 1 |
+| --- | --- |
+| SECTION V.—Holdings of, and Transactions in, Derivatives Contracts with Foreigners Reported by Businesses in the United States | nan |
+| CM-V-1.—Gross Totals of Holdings with Positive and Negative Fair Values, by Type of Contract | 82.0 |
+| CM-V-2.—Gross Total of Holdings with Negative Fair Values, by Country | 83.0 |
+| CM-V-3.—Gross Total of Holdings with Positive Fair Values, by Country | 84.0 |
+| CM-V-4.—Net Cash Settlements Received by U.S. Residents from Foreign Residents, by Type of Contract | 85.0 |
+| CM-V-5.—Net Cash Settlements Received by U.S. Residents from Foreign Residents, by Country | 86.0 |
+
+September 2007
+
+V
+
+Contents
+
+FOREIGN CURRENCY POSITIONS
+
+| 0 | 1 |
+| --- | --- |
+| Introduction.—Foreign Currency Positions | 87 |
+| SECTION I.—Canadian Dollar Positions | SECTION I.—Canadian Dollar Positions |
+| FCP-I-1.—Weekly Report of Major Market Participants | 88 |
+| FCP-I-2.—Monthly Report of Major Market Participants | 89 |
+| FCP-I-3.—Quarterly Report of Large Market Participants | 89 |
+
+| 0 | 1 |
+| --- | --- |
+| SECTION II.—Japanese Yen Positions | nan |
+| FCP-II-1.—Weekly Report of Major Market Participants | 90.0 |
+| FCP-II-2.—Monthly Report of Major Market Participants | 91.0 |
+| FCP-II-3.—Quarterly Report of Large Market Participants | 91.0 |
+
+| 0 | 1 |
+| --- | --- |
+| SECTION III.—Swiss Franc Positions | nan |
+| FCP-III-1.—Weekly Report of Major Market Participants | 92.0 |
+| FCP-III-2.—Monthly Report of Major Market Participants | 93.0 |
+| FCP-III-3.—Quarterly Report of Large Market Participants | 93.0 |
+

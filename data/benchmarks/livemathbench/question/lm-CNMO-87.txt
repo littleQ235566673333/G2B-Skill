@@ -1,0 +1,1 @@
+In the Cartesian coordinate system, let the right vertex of the hyperbola $\Gamma: x^2 - y^2 = 1$ be $A$. A circle with its center on the $y$-axis and touching each branch of $\Gamma$ exactly once is called a 'good circle'. If two good circles are externally tangent at point $P$ and their centers are a distance $d$ apart, find all possible values of $\frac{d}{|PA|}$.

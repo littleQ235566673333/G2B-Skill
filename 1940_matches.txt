@@ -1,0 +1,38 @@
+78:| Commodities Imported Under Quota | 53 |
+363:| Distilled spirits (imported, excise) | 1384 | 1515 | 18426 | 17819.0 | Brewers' wort and malt (repealed as of 7/1/38) | 1 | 4.0 | 4.0 | 12.0 |
+366:| Wines, cordiale, etc. (imported, excise) | 29 | 25 | 425 | 362.0 | Cameras and lenses (repealed as of 7/1/38) | 1 | 4.0 | 2.0 | 184.0 |
+477:Customs Duties and Taxes Estimated, and Value of Dutiable and Taxable Imports, by Tariff Schedules
+481:| Calendar year or month | Chemicals, oils, and paints | Earths, earthenware, and glassware | Metals and manufactures of | Wood and manufactures of | Sugar, molasses, and manufactures of 2/ | Tobacco and manufactures of | Agricultural products and provisions | Spirits, wines and other beverages | Cotton manufactures | Flax, hemp, jute, and manufactures of |
+551:Note: The amount of customs duties and taxes is calculated on the basis of reports of the Bureau of Foreign and Domestic Commerce, showing the quantity and value of merchandise imported.
+559:Estimated Receipts from Taxes Imposed by Various Revenue Acts on Imports into the United States
+571:| Animal, fish and coconut oil. | 747 | 1330 | 197 | 608 | - | - | - | 80 | 40 | 15 | 82 | 67 | 211 |
+585:| Animal and fish oils. | 269733 | 17399 | 22419 | 15500 | 15441 | 22486 | 14324 | 15989 | 16585 | 21854 | 42461 | 21995 | nan |
+1185:Yields Based on Wednesday Quotations
+1203:| Port-Import Bank of Washington | 49.4 | - | .4 | - | 1 |
+1251:| Export-Import Bank of Washington | 46.0 | 3.0 | - | 49.0 |
+1325:| Export-Import Bank of Washington | - | $8,900,000 | - | - | - |
+1344:| Export-Import Bank of Washington | - | 2856297 | 1200500 | 66215 | 13023012 |
+1371:| Export-Import Bank of Washington | 42264 | 1111 | - | 12939321 | - |
+1390:| Export-Import Bank of Washington | - | - | - | 65110 | 13047806 |
+1420:| Export-Import Bank of Washington | 1000000 | - | - | - | $45,000,000 |
+1439:| Export-Import Bank of Washington | - | 34828006 | 5127887 | 707119 | 86663012 |
+1471:| Export-Import Bank of Washington | 344521 | 1319 | - | 75374516 | - |
+1490:| Export-Import Bank of Washington | - | 7400000 | 2262329 | 529301 | 85911986 |
+2211:| Calendar year or month | United Kingdom | France | Nether-lande | Switzer-land | Canada | Mexico | Japan | Bel-gium | British India | Aus- tralia | Philip- pine Islands | Co- lombia | Chile | Peru | China 1/ | All other | Total net imports or net exports (-) |
+2367:| Calendar year and month > Unnamed: 0_level_1 | Net imports from or net exports (-) to: > British India | Net imports from or net exports (-) to: > China | Net imports from or net exports (-) to: > Hong Kong | Net imports from or net exports (-) to: > Japan | Net imports from or net exports (-) to: > Other Asia | Net imports from or net exports (-) to: > All other | Total net imports or exports (-) > Unnamed: 7_level_1 |
+2389:1/ Less than $500. 2/ Includes net import of $12,950,000 from France. 3/ Includes net import of $9,791,000 from Siam.
+2414:| Monthly average of daily quotations | United States | United Kingdom | France | Nether-lands | Swisser-land | Belgium | Japan | Italy | China 1/ |
+2444:| Unnamed: 0 | Un-weighted (i.e. equal weights) | Weighted by U. S. exports | Weighted by U. S. imports | Weighted according to total foreign trade of each country included |
+2496:Commodities Imported Under Quota Provisions
+2498:| Commodity and country | Quota period | Unit of quantity | Established quota | Quantity imported under quotas to March 2, 1940 |
+2500:| Cattle weighing under 200 pounds each. | Calendar year | Head | 100000.0 | 15477 |
+2501:| Cattle weighing 700 pounds or more each, other than dairy cows: | nan | nan | nan | nan |
+2506:| Fish, fresh or frozen, filleted, etc., Cod, Haddock, Hake, Pollock, Ousk and Rosefish. | Calendar year | Pound | 15000000.0 | 990927 |
+2508:| Certified seed. | 12 months from Sept. 15, 1939 | Pound | 90000000.0 | 51147882 |
+2509:| Other. | 12 months from Sept. 15, 1939 | Pound | 60000000.0 | 13417213 |
+2513:| Cuban filler tobacco, unstemmed or stemmed, and scrap tobacco. | Calendar year | Pound | 22000000.0 | 3221620 |
+2521:| Coconut oil. | Calendar year | Pound | 448000000.0 | 62632753 |
+2522:| Refined sugar. | Calendar year | Pound | 118000000.0 | 7282167 |
+2523:| Sugar other than refined. | Calendar year | Pound | 1792000000.0 | 266839120 |
+2524:| Cordage. | 12 months from May 1, 1939 | Pound | 6000000.0 | 4337215 |
+2527:| Scrap tobacco and stemmed and unstemmed filler tobacco. | Calendar year | Pound | 4500000.0 | 100132 |

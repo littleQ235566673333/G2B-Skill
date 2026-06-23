@@ -1,0 +1,1 @@
+What is the least value of $n$ such that $n!$ is a multiple of $2024$?

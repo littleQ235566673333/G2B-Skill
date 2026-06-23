@@ -1,0 +1,1 @@
+If one root of the equation $x^2 - 2x + m = 0$ is $-1$, then the other root is ?

@@ -1,0 +1,488 @@
+[
+  [
+    "AMAZON.COM",
+    "amazon",
+    null,
+    "TRANSAMERICA INS PREM",
+    "=VLOOKUP(D1 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D1&\"*\",exDB,0))"
+  ],
+  [
+    "AMZN MKTP",
+    "amazon",
+    null,
+    "AMAZON.COM*1T9SS2M AMZN.COM/BILLWA",
+    "=VLOOKUP(D2 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D2&\"*\",exDB,0))"
+  ],
+  [
+    "PRIME VIDEO",
+    "amazon",
+    null,
+    "AMERICAN GEN LIF INS PAYMT",
+    "=VLOOKUP(D3 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D3&\"*\",exDB,0))"
+  ],
+  [
+    "ATT FORD RECURRING",
+    "Auto",
+    null,
+    "AMZN MKTP US*03692 AMZN.COM/BILLWA",
+    "=VLOOKUP(D4 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D4&\"*\",exDB,0))"
+  ],
+  [
+    "EXXONMOBIL",
+    "Auto",
+    null,
+    "APPLE.COM/US 800-676-2775 CA",
+    "=VLOOKUP(D5 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D5&\"*\",exDB,0))"
+  ],
+  [
+    "SHELL SERVICE STATION BURKE VAUS",
+    "Auto",
+    null,
+    "ATT FORD RECURRING 800-331-0500 TX",
+    "=VLOOKUP(D6 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D6&\"*\",exDB,0))"
+  ],
+  [
+    "eDeposit-Scan/Mobile",
+    "Check",
+    null,
+    "BARNES&NOBLE.COM-B 800-843-2665 NY",
+    "=VLOOKUP(D7 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D7&\"*\",exDB,0))"
+  ],
+  [
+    "GRUBHUB.COM NY",
+    "dining out",
+    null,
+    "BARNESNOBLE 6646 Loisd Springfield VAUS",
+    "=VLOOKUP(D8 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D8&\"*\",exDB,0))"
+  ],
+  [
+    "THE SWISS BAKERY",
+    "dining out",
+    null,
+    "BEST BUY #269 SPRINGFIELD VAUS",
+    "=VLOOKUP(D9 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D9&\"*\",exDB,0))"
+  ],
+  [
+    "WWW.DOORDASH.CA",
+    "dining out",
+    null,
+    "BESTBUY.COM 8882378289 MN",
+    "=VLOOKUP(D10 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D10&\"*\",exDB,0))"
+  ],
+  [
+    "Dividend",
+    "div",
+    null,
+    "BESTBUY.COM 8882378289 MN",
+    "=VLOOKUP(D11 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D11&\"*\",exDB,0))"
+  ],
+  [
+    "DOMINION ENERGY ELEC BILL",
+    "electric",
+    null,
+    "CBS ALL ACCESS 888-274-5343 CA",
+    "=VLOOKUP(D12 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D12&\"*\",exDB,0))"
+  ],
+  [
+    "WASHINGTON GAS PAYMENT",
+    "Gas",
+    null,
+    "COAST GUARD CLEANE ALEXANDRIA VA",
+    "=VLOOKUP(D13 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D13&\"*\",exDB,0))"
+  ],
+  [
+    "GIANT",
+    "groceries",
+    null,
+    "DOMINION ENERGY ELEC BILL",
+    "=VLOOKUP(D14 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D14&\"*\",exDB,0))"
+  ],
+  [
+    "WEGMANS",
+    "groceries",
+    null,
+    "DOMINION ENERGY ELEC BILL",
+    "=VLOOKUP(D15 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D15&\"*\",exDB,0))"
+  ],
+  [
+    "BEST BUY",
+    "household",
+    null,
+    "DOORDASH*CURRY HOU WWW.DOORDASH.CA",
+    "=VLOOKUP(D16 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D16&\"*\",exDB,0))"
+  ],
+  [
+    "BESTBUY.COM",
+    "household",
+    null,
+    "DOORDASH*FREDDYS F WWW.DOORDASH.CA",
+    "=VLOOKUP(D17 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D17&\"*\",exDB,0))"
+  ],
+  [
+    "THE HOME DEPOT",
+    "household",
+    null,
+    "eDeposit-Scan/Mobile",
+    "=VLOOKUP(D18 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D18&\"*\",exDB,0))"
+  ],
+  [
+    "VERIZON PAYMENTREC",
+    "internet",
+    null,
+    "EXXONMOBIL 4784 SPRINGFIELD VA",
+    "=VLOOKUP(D19 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D19&\"*\",exDB,0))"
+  ],
+  [
+    "FIDELITY FIIS FIIS",
+    "investments",
+    null,
+    "FCWA PAYMENT",
+    "=VLOOKUP(D20 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D20&\"*\",exDB,0))"
+  ],
+  [
+    "APPLE.COM",
+    "Itunes",
+    null,
+    "FIDELITY FIIS FIIS",
+    "=VLOOKUP(D21 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D21&\"*\",exDB,0))"
+  ],
+  [
+    "AMERICAN GEN LIF INS PAYMT",
+    "life insurance",
+    null,
+    "FIDELITY FIIS FIIS",
+    "=VLOOKUP(D22 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D22&\"*\",exDB,0))"
+  ],
+  [
+    "TRANSAMERICA INS PREM",
+    "life insurance",
+    null,
+    "GIANT 2743 8970 BURKE SPRINGFIELD VAUS",
+    "=VLOOKUP(D23 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D23&\"*\",exDB,0))"
+  ],
+  [
+    "CBS ALL ACCESS 888-274-5343 CA",
+    "misc",
+    null,
+    "GIANT 2743 SPRINGFIELD VAUS",
+    "=VLOOKUP(D24 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D24&\"*\",exDB,0))"
+  ],
+  [
+    "COAST GUARD CLEANE ALEXANDRIA VA",
+    "misc",
+    null,
+    "GRUBHUBANITASNEWME GRUBHUB.COM NY",
+    "=VLOOKUP(D25 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D25&\"*\",exDB,0))"
+  ],
+  [
+    "JOANN STOREs",
+    "misc",
+    null,
+    "GRUBHUBBRIONSGRILL GRUBHUB.COM NY",
+    "=VLOOKUP(D26 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D26&\"*\",exDB,0))"
+  ],
+  [
+    "MICHAELS STORES",
+    "misc",
+    null,
+    "GRUBHUBTACOBELL GRUBHUB.COM NY",
+    "=VLOOKUP(D27 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D27&\"*\",exDB,0))"
+  ],
+  [
+    "MICRO ELECTRONIC",
+    "misc",
+    null,
+    "LINCOLN AFS FORDCREDIT",
+    "=VLOOKUP(D28 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D28&\"*\",exDB,0))"
+  ],
+  [
+    "SLACK",
+    "misc",
+    null,
+    "LINCOLN AFS FORDCREDIT",
+    "=VLOOKUP(D29 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D29&\"*\",exDB,0))"
+  ],
+  [
+    "THE UPS STORE",
+    "misc",
+    null,
+    "MAGNOLIA HI FI 608 SPRINGFIELD VA",
+    "=VLOOKUP(D30 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D30&\"*\",exDB,0))"
+  ],
+  [
+    "RLMS RLMS ACH",
+    "mortgage",
+    null,
+    "MICHAELS STORES 2069 6 SPRINGFIELD VAUS",
+    "=VLOOKUP(D31 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D31&\"*\",exDB,0))"
+  ],
+  [
+    "PAYPAL",
+    "paypal",
+    null,
+    "MICHAELS STORES 8804 3 FAIRFAX VAUS",
+    "=VLOOKUP(D32 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D32&\"*\",exDB,0))"
+  ],
+  [
+    "PETCO",
+    "pets",
+    null,
+    "MICRO ELECTRONIC 3089 Fairfax VAUS",
+    "=VLOOKUP(D33 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D33&\"*\",exDB,0))"
+  ],
+  [
+    "PETSMART",
+    "pets",
+    null,
+    "PAYPAL INST XFER",
+    "=VLOOKUP(D34 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D34&\"*\",exDB,0))"
+  ],
+  [
+    "TMOBILE",
+    "phone",
+    null,
+    "PETCO 1723 6351 BURKE VA",
+    "=VLOOKUP(D35 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D35&\"*\",exDB,0))"
+  ],
+  [
+    "POS Adjustment",
+    "refund",
+    null,
+    "PETSMART # 0446 SPRINGFIELD VAUS",
+    "=VLOOKUP(D36 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D36&\"*\",exDB,0))"
+  ],
+  [
+    "FCWA PAYMENT",
+    "water",
+    null,
+    "POS Adjustment - BEST BUY 0000 SPRINGFIELD VA",
+    "=VLOOKUP(D37 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D37&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "POS Adjustment - GIANT 2743 SPRINGFIELD VA",
+    "=VLOOKUP(D38 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D38&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "POS Adjustment - USPS PO BOXES ONLI 800-3447779 DC",
+    "=VLOOKUP(D39 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D39&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "PRIME VIDEO*261IS0 888-802-3080 WA",
+    "=VLOOKUP(D40 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D40&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "RLMS RLMS ACH",
+    "=VLOOKUP(D41 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D41&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "RLMS RLMS ACH",
+    "=VLOOKUP(D42 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D42&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "SHELL SERVICE STATION BURKE VAUS",
+    "=VLOOKUP(D43 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D43&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "SLACK T01BV8MP32M HTTPSSLACK.COCA",
+    "=VLOOKUP(D44 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D44&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "SP * BROOKLINEN WWW.BROOKLINENY",
+    "=VLOOKUP(D45 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D45&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "TARGET T- 10301 New Gu Fairfax VAUS",
+    "=VLOOKUP(D46 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D46&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "THE HOME DEPOT #4617 SPRINGFIELD VAUS",
+    "=VLOOKUP(D47 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D47&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "THE HOME DEPOT #4639 FAIRFAX VAUS",
+    "=VLOOKUP(D48 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D48&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "TMOBILE*AUTO PAY 800-937-8997 WA",
+    "=VLOOKUP(D49 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D49&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "TRANSAMERICA INS PREM",
+    "=VLOOKUP(D50 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D50&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "VERIZON PAYMENTREC",
+    "=VLOOKUP(D51 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D51&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "WASHINGTON GAS PAYMENT",
+    "=VLOOKUP(D52 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D52&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    "WEGMANS ALEXANDRIA ALEXANDRIA VA",
+    "=VLOOKUP(D53 & \"*\",$A$1:$B$37,2,0)",
+    null,
+    "=INDEX(cats,MATCH(\"*\"&D53&\"*\",exDB,0))"
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+]

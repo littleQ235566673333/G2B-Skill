@@ -1,0 +1,1 @@
+Cyclic quadrilateral $ABCD$ has lengths $BC=CD=3$ and $DA=5$ with $\angle CDA=120^\circ$. What is the length of the shorter diagonal of $ABCD$?
