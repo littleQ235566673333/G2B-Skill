@@ -1,7 +1,0 @@
-Table TSO-2. - Interest-Bearing Marketable Public Debt Securities
-
-by Type and Maturity Distribution
-
-(Par values - in millions of dollars)
-
-| Classification > Classification > Unnamed: 0_level_2 | Total amount outstanding 1/ > Total amount outstanding 1/ > Unnamed: 1_level_2 | Held by investors covered in Treasury Survey > U.S. Government accounts and Federal Reserve banks > Unnamed: 2_level_2 | Held by investors covered in Treasury Survey > 5,389 commercial banks 2/ > Unnamed: 3_level_2 | Held by investors covered in Treasury Survey > 460 mutual savings banks 2/ > Unnamed: 4_level_2 | Held by investors covered in Treasury Survey > Insurance companies > 287 life | Held by investors covered in Treasury Survey > 483 savings and loan associations > 436 fire, casualty, and marine | Held by investors covered in Treasury Survey > 420 corporations > Unnamed: 7_level_2 | Held by investors covered in Treasury Survey > State and local governments > 311 general funds | Held by investors covered in Treasury Survey > 7,969 Held by all other investors 3/ > 181 pension and retirement funds | 7,969 Held by all other investors 3/ > Unnamed: 10_level_1 > Unnamed: 10_level_2 | Unnamed: 11_level_0 > Unnamed: 11_level_1 > Unnamed: 11_level_2 |

@@ -1,5 +1,0 @@
-COLUMNS: ['Week', 'Date', 'Opponent', 'Score', 'Result', 'Record']
-   Week     Date                      Opponent  Score Result Record
-0     1   July 9  vs. Saskatchewan Roughriders  31–21    Win    1–0
-1     2  July 16         at Montreal Concordes   36–0    Win    2–0
-2     3  July 24       vs. Hamilton Tiger-Cats  36–25   Loss    2–1
