@@ -1,0 +1,19 @@
+# G2B-Skill core dependencies
+# Generated from pipeline/, runners/, evaluators/, bench/, scripts/ imports.
+
+# LLM agent runtime
+openai-agents==0.12.5
+openai==2.29.0
+httpx==0.28.1
+python-dotenv==1.2.1
+
+# Excel / spreadsheet handling
+openpyxl==3.1.5
+pandas==3.0.3
+
+# Numerical / statistical
+numpy==2.4.6
+scipy==1.17.1
+
+# Configuration
+PyYAML==6.0.3
