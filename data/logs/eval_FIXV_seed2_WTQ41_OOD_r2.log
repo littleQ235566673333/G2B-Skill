@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/unique/auto_research/Project/G2B-Skill/runners/stream_runner.py", line 684, in <module>
+    main()
+  File "/Users/unique/auto_research/Project/G2B-Skill/runners/stream_runner.py", line 645, in main
+    raise FileNotFoundError(
+FileNotFoundError: No 'wtq' skill found under results/runs/g2b-skill-spreadsheet_gpt-4.1_c-topo-FIX-V-N3-seed2/train/final_skill (expected results/runs/g2b-skill-spreadsheet_gpt-4.1_c-topo-FIX-V-N3-seed2/train/final_skill/wtq/SKILL.md).

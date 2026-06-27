@@ -24,6 +24,7 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
+import re
 import shutil
 import time
 from datetime import datetime, timezone
@@ -119,6 +120,7 @@ async def run_g2b_training(
     coreset_seed: int = 0,
     rollback_epsilon: float = 0.10,
     enable_regression_gate: bool = True,
+    enable_sapr_minimal: bool = False,
 ) -> dict:
     """Run the G2B-Skill training loop.
 
@@ -442,6 +444,36 @@ async def run_g2b_training(
             skill_md_path.read_text(encoding="utf-8")
             if skill_md_path.exists() else ""
         )
+        # Fix V (NEW 2026-06-24): snapshot pre-patch L3 chapter set so
+        # invariant-violation revert can delete L3 files added by this iter.
+        pre_patch_refs_dir = skills_dir / bench.skill_name / "references"
+        pre_patch_l3_set: set[Path] = set()
+        if pre_patch_refs_dir.exists():
+            pre_patch_l3_set = {p for p in pre_patch_refs_dir.glob("*.md")}
+
+        # SAPR-minimal: optional adherence judge stage
+        adherence_summary_path: Path | None = None
+        if enable_sapr_minimal:
+            from pipeline.group_adherence_judge import run_group_adherence_judge
+            t_adh = time.time()
+            cost_before_adh = _cost_snapshot(cost_tracker)
+            try:
+                adherence_summary_path = await run_group_adherence_judge(
+                    groups=groups,
+                    skill_md_path=skills_dir / bench.skill_name / "SKILL.md",
+                    model=model,
+                    iter_dir=iter_dir,
+                    cost_tracker=cost_tracker,
+                    semaphore=semaphore,
+                )
+                stage_timing["adherence"] = round(time.time() - t_adh, 2)
+                stage_costs["adherence"] = _cost_delta(
+                    cost_before_adh, _cost_snapshot(cost_tracker)
+                )
+                print(f"  [SAPR] adherence summary → {adherence_summary_path}")
+            except Exception as e:
+                print(f"  [SAPR] adherence judge failed: {e}; proceeding without")
+                adherence_summary_path = None
 
         patch_result = await run_group_patch(
             cards_path=cards_path,
@@ -456,6 +488,7 @@ async def run_g2b_training(
             iter_dir=iter_dir,
             iter_num=iter_num,
             fix_coreset_ids=sorted(fix_coreset_ids) if fix_coreset_ids else None,
+            adherence_summary_path=adherence_summary_path,
         )
 
         # Anti-wipe revert: if SKILL.md shrank > 50% (and pre-patch was
@@ -492,6 +525,69 @@ async def run_g2b_training(
                     f"frontmatter. REVERTING to preserve skill registration."
                 )
                 skill_md_path.write_text(pre_patch_text, encoding="utf-8")
+                anti_wipe_triggered = True
+
+        # Fix V (NEW 2026-06-24): code-level enforcement of structural
+        # invariants. Patcher LLM occasionally violates the prompt
+        # invariants ("≤150 lines / ≤12 L3 / Pitfalls last") which
+        # produces skills that break executor LLM tool-use format at
+        # eval time. Revert to pre-patch state when any invariant is
+        # violated.
+        if not anti_wipe_triggered and skill_md_path.exists():
+            post_text = skill_md_path.read_text(encoding="utf-8")
+            n_lines = len(post_text.splitlines())
+            invariant_violations = []
+
+            # Invariant 1: SKILL.md ≤ 150 lines
+            if n_lines > 150:
+                invariant_violations.append(
+                    f"SKILL.md grew to {n_lines} lines (cap 150)"
+                )
+
+            # Invariant 2: L3 chapter count ≤ 12
+            refs_dir = skill_md_path.parent / "references"
+            if refs_dir.exists():
+                n_l3 = len(list(refs_dir.glob("*.md")))
+                if n_l3 > 12:
+                    invariant_violations.append(
+                        f"L3 chapters = {n_l3} (cap 12)"
+                    )
+
+            # Invariant 3: ## Common Pitfalls is last H2
+            h2_iter = list(re.finditer(r"^## (.+)$", post_text, re.M))
+            if h2_iter:
+                last_h2 = h2_iter[-1].group(1).strip()
+                pitfall_idx = next(
+                    (i for i, m in enumerate(h2_iter)
+                     if "common pitfall" in m.group(1).lower()),
+                    None,
+                )
+                if pitfall_idx is not None and pitfall_idx != len(h2_iter) - 1:
+                    after = [m.group(1) for m in h2_iter[pitfall_idx + 1:]]
+                    invariant_violations.append(
+                        f"H2 after '## Common Pitfalls': {after[:3]}"
+                    )
+
+            if invariant_violations:
+                print(
+                    f"  [PATCH-GUARD] INVARIANT violation(s); REVERTING:"
+                )
+                for v in invariant_violations:
+                    print(f"    - {v}")
+                skill_md_path.write_text(pre_patch_text, encoding="utf-8")
+                # Fix V cleanup: delete L3 files added by this iter that
+                # are no longer referenced after SKILL.md revert. Without
+                # this, "orphan" L3 files persist on disk and the next
+                # iter's patcher may re-attach them.
+                if pre_patch_refs_dir.exists():
+                    post_l3_set = {p for p in pre_patch_refs_dir.glob("*.md")}
+                    new_l3 = post_l3_set - pre_patch_l3_set
+                    for p in new_l3:
+                        try:
+                            p.unlink()
+                            print(f"    - removed new L3: {p.name}")
+                        except Exception as e:
+                            print(f"    - failed to remove {p.name}: {e}")
                 anti_wipe_triggered = True
 
         stage_timing["patch"] = round(time.time() - t_stage, 2)
@@ -699,6 +795,9 @@ def main() -> None:
                         help="Phase 6 lite — rollback if hard-acc Δ < -ε on coreset.")
     parser.add_argument("--no-regression-gate", action="store_true",
                         help="Disable Phase 6 regression-gate (ablation).")
+    parser.add_argument("--enable-sapr", action="store_true",
+                        help="SAPR-minimal: per-rule adherence judge before "
+                             "patcher; pre-reg in g2b_sapr_a0a5_prereg.md.")
     args = parser.parse_args()
 
     results_root = Path(args.results_root)
@@ -845,6 +944,7 @@ def main() -> None:
             coreset_seed=args.training_seed,
             rollback_epsilon=args.rollback_epsilon,
             enable_regression_gate=not args.no_regression_gate,
+            enable_sapr_minimal=args.enable_sapr,
         ))
         final_status = "completed"
     except Exception as exc:

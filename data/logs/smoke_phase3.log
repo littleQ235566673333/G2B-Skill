@@ -1,0 +1,176 @@
+
+=== Phase 3 e2e smoke ===
+  cards:   /Users/unique/auto_research/Project/G2B-Skill/results/phase3_smoke/batch_diagnostic_cards.md
+  prev:    /Users/unique/auto_research/Project/G2B-Skill/results/phase3_smoke/momentum_memory_initial.md  (bootstrap placeholder)
+  skill:   /Users/unique/auto_research/Project/G2B-Skill/seeds/xlsx/
+  out:     /Users/unique/auto_research/Project/G2B-Skill/results/phase3_smoke
+
+  [group_momentum] iter 1: synthesizing pattern record + overlay
+
+────────────────────────────────────────────────────────────
+  Step 1 | tool_call | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: read_file
+  arguments: {"file_path":"/Users/unique/auto_research/Project/G2B-Skill/results/phase3_smoke/batch_diagnostic_cards.md"}
+
+────────────────────────────────────────────────────────────
+  Step 2 | tool_call | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: read_file
+  arguments: {"file_path":"/Users/unique/auto_research/Project/G2B-Skill/results/phase3_smoke/momentum_memory_initial.md"}
+
+────────────────────────────────────────────────────────────
+  Step 3 | tool_call | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: read_file
+  arguments: {"file_path":"/Users/unique/auto_research/Project/G2B-Skill/seeds/xlsx/SKILL.md"}
+
+────────────────────────────────────────────────────────────
+  Step 4 | tool_output | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: read_file
+  output: # Batch Diagnostic Cards (Phase 2) — combined for Phase 3 smoke
+
+## Task 269-44 — branch: mixed
+
+```yaml
+group_id: 269-44_iter_smoke
+task_id: 269-44
+group_type: mixed
+group_reward_distribution:
+  K: 4
+  n_success: 2
+  n_fail: 2
+  advantages:
+  - -0.42
+  - 0.45
+  - -0.48
+  - 0.45
+diagnosis_label: Execute workbook edits, not prose
+diagnosis_prose: 'The decisive contrast was not in the row-deletion logic itself,
+  but in
+
+  how the rollouts interpreted the required output modality. The
+
+  high-adva…(truncated)
+
+────────────────────────────────────────────────────────────
+  Step 5 | tool_output | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: read_file
+  output: # Pattern record (initial)
+
+
+
+────────────────────────────────────────────────────────────
+  Step 6 | tool_output | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: read_file
+  output: ---
+name: xlsx
+description: Use this skill whenever the user wants to do anything with Excel spreadsheet files (.xlsx, .xls, .csv). This includes reading data, writing formulas, manipulating cells, formatting, filtering, creating charts, pivot tables, and any spreadsheet automation tasks.
+---
+
+# Excel Spreadsheet Processing
+
+Use `openpyxl` to read and write .xlsx files.
+
+## Quick Start
+
+```python
+from openpyxl import load_workbook
+
+wb = load_workbook("input.xlsx")
+ws = wb["Sheet1"]
+
+value = ws["…(truncated)
+
+────────────────────────────────────────────────────────────
+  Step 7 | tool_call | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: write_file
+  arguments: {"content":"### prefer-artifact-workbook-edits-over-prose-output | workflow | treat the workbook as the output artifact and write spreadsheet results rather than prose/code text\n- anchor: read-and-write-cells\n- appeared_in: iter_1\n- evidence_profile:\n    mixed_support: 1\n    all_fail_support: 1\n    all_success_support: 1\n    contradiction_count: 0\n    source_groups: [iter_1:269-44, iter_1:51-12, iter_1:13-1]\n- last_mixed_iter: 1\n- peak_strength: high\n- current_strength: high\n- descri…(truncated)
+
+────────────────────────────────────────────────────────────
+  Step 8 | tool_output | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: write_file
+  output: Successfully wrote 5651 characters to /Users/unique/auto_research/Project/G2B-Skill/results/phase3_smoke/momentum_memory.md
+
+────────────────────────────────────────────────────────────
+  Step 9 | tool_call | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: write_file
+  arguments: {"content":"### [269-44] edit the workbook and write result cells, not code/prose text\n- group_type: mixed\n- group_reward_distribution: K=4, n_success=2, n_fail=2\n- group_advantage_summary:\n    advantages: [-0.42, 0.45, -0.48, 0.45]\n    high_adv_rollouts: [r1, r3]\n    low_adv_rollouts:  [r0, r2]\n    advantage_split: clean\n- evidence_strength: high\n- pattern: prefer-artifact-workbook-edits-over-prose-output\n- anchor: read-and-write-cells\n- gap: The low-advantage rollouts shared a workb…(truncated)
+
+────────────────────────────────────────────────────────────
+  Step 10 | tool_output | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  tool: write_file
+  output: Successfully wrote 3581 characters to /Users/unique/auto_research/Project/G2B-Skill/results/phase3_smoke/momentum_overlay.md
+
+────────────────────────────────────────────────────────────
+  Step 11 | message | agent=GroupPatternRecordWriter
+────────────────────────────────────────────────────────────
+  text: Done.
+  [GROUP_MOMENTUM] 32,199 in / 2,313 out | cost: $0.0610  (cumulative: $0.0610)
+
+[Trajectory saved to /Users/unique/auto_research/Project/G2B-Skill/results/phase3_smoke/iter_smoke/group_momentum.jsonl  (11 events)]
+  [group_momentum] Done in 40.15s
+
+=== outputs ===
+
+--- momentum_memory.md (5651 bytes) ---
+### prefer-artifact-workbook-edits-over-prose-output | workflow | treat the workbook as the output artifact and write spreadsheet results rather than prose/code text
+- anchor: read-and-write-cells
+- appeared_in: iter_1
+- evidence_profile:
+    mixed_support: 1
+    all_fail_support: 1
+    all_success_support: 1
+    contradiction_count: 0
+    source_groups: [iter_1:269-44, iter_1:51-12, iter_1:13-1]
+- last_mixed_iter: 1
+- peak_strength: high
+- current_strength: high
+- description: A recurring spreadsheet failure mode is answering in the workbook with explanatory text, VBA, or code-like content when the task is actually evaluated on the saved workbook state and specific result cells. The mixed evidence in task 269-44 shows the decisive difference: successful rollouts inspected the workbook, performed the requested transformation, and saved cell values reflecting the resulting workbook state, while failed rollouts pasted explanatory macro/code text into target cells. The all-fail task 51-12 also showed weaker corroboration of the same output-modality confusion: some rollouts wrote code/formula text instead of the spreadsheet answer. Existing base-skill coverage already says to use openpyxl to read and write xlsx files, and the all-success task 13-1 corroborates that direct workbook editing flow is productive when tasks require in-place workbook mutation and saving.
+- latest_executor_action: When a spreadsheet task provides an input workbook, an output workbook path, and evaluator-visible cells, treat the workbook as the primary output artifact. Inspect the actual workbook, execute the requested mutation with openpyxl, and write only the resulting spreadsheet values needed in the checked cells; do not paste explanations, VBA, or code snippets into worksheet cells unless the task explicitly asks for code to be stored there.
+- remedy_log:
+  - iter_1 | group=mixed | diagnosis: high-adv rollouts edited and saved the workbook while low-adv rollouts wrote code/explanation text into cells | patch: strengthen L2 read-and-write-cells guidance to prioritize workbook-state outputs over prose/code cell content when evaluation is cell-based
+  - iter_1 | group=all_fail | diagnosis: some rollouts mixed provide-code behavior with write-the-answer behavior, causing output-format confusion | patch: pending-only
+  - iter_1 | group=all_success | diagnosis: successful rollouts consistently used direct openpyxl workbook editing and saved the requested output file | patch: regression-
+
+--- momentum_overlay.md (3581 bytes) ---
+### [269-44] edit the workbook and write result cells, not code/prose text
+- group_type: mixed
+- group_reward_distribution: K=4, n_success=2, n_fail=2
+- group_advantage_summary:
+    advantages: [-0.42, 0.45, -0.48, 0.45]
+    high_adv_rollouts: [r1, r3]
+    low_adv_rollouts:  [r0, r2]
+    advantage_split: clean
+- evidence_strength: high
+- pattern: prefer-artifact-workbook-edits-over-prose-output
+- anchor: read-and-write-cells
+- gap: The low-advantage rollouts shared a workbook-output modality failure: after encountering the task, they treated the sheet as a place to paste explanatory VBA/code text instead of as the artifact to mutate. They also stayed too attached to prompt wording about the worksheet name rather than grounding on the actual workbook structure that existed at runtime. The key misfire was not row-deletion logic itself, but failing to infer that evaluator-visible cells should contain the spreadsheet result state, not narrative or macro text.
+- proposed_change: Update L2 at anchor read-and-write-cells so it explicitly says that when a task provides input/output workbook paths plus checked cells, the executor must perform the workbook mutation with openpyxl, save the edited workbook, and write only the requested result values into evaluator-visible cells. In the same anchor, add a trigger to inspect actual sheet names before operating and continue on the relevant existing sheet when the prompt's named worksheet is absent.
+
+### [51-12] restart-from-match threshold counting remains a low-strength candidate
+- group_type: all_fail
+- group_reward_distribution: K=4, n_success=0, n_fail=4
+- group_advantage_summary:
+    advantages: [0.0, 0.0, 0.0, 0.0]
+    high_adv_rollouts: []
+    low_adv_rollouts:  [r0, r1, r2, r3]
+    advantage_split: n/a
+- evidence_strength: low
+- pattern: sequential-restart-threshold-scan
+- anchor: (none yet)
+- gap: Shared failure features: 3/4 rollouts attempted a numeric answer in B6 but undercounted the number of qualifying >=10% increases; 3/4 appear to have mishandled the restart/advance logic after finding a qualifying increase; 2/4 relied on the literal sample range A1:M1 instead of cleanly separating sample description from actual workbook data handling; 2/4 mixed provide-VBA behavior with write-the-spreadsheet-answer behavior, causing output-format confusion.
+- proposed_change: Candidate corrective action pending mixed-group corroboration: add an L3 case-memory or pending note for ordered threshold scans with restart-from-match semantics, emphasizing that the procedure should update the reference pointer to the matched cell and resume scanning to the right until exhaustion. Also note the partial contradiction with the existing read-and-write-cells rule in this task's failures: some rollouts still wrote code text instead of the spreadsheet answer, but mixed-group evidence is needed before rewriting any existing rule.
+
+### [13-1] existing workbook-processing anchors covered this task
+- group_type: all_success
+- gr
+
+=== cost: $0.0610 ===

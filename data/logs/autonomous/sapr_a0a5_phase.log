@@ -1,0 +1,142 @@
+[19:27:14] waiting for 4 trains
+[19:27:14] 0/4 trains done
+[19:30:14] 0/4 trains done
+[19:33:14] 0/4 trains done
+[19:36:14] 0/4 trains done
+[19:39:14] 0/4 trains done
+[19:42:14] 0/4 trains done
+[19:45:14] 0/4 trains done
+[19:48:14] 0/4 trains done
+[19:51:14] 0/4 trains done
+[19:54:14] 0/4 trains done
+[19:57:14] 0/4 trains done
+[20:00:14] 0/4 trains done
+[20:03:14] 0/4 trains done
+[20:06:14] 0/4 trains done
+[20:09:14] 0/4 trains done
+[20:12:14] 0/4 trains done
+[20:15:14] 0/4 trains done
+[20:18:14] 0/4 trains done
+[20:21:14] 0/4 trains done
+[20:24:14] 0/4 trains done
+[20:27:14] 0/4 trains done
+[20:30:14] 0/4 trains done
+[20:33:15] 0/4 trains done
+[20:34:16] [resumed monitor] waiting for 4 trains
+[20:34:16] 0/4 trains done
+[20:36:16] 0/4 trains done
+[20:38:16] 0/4 trains done
+[20:40:16] 0/4 trains done
+[20:42:16] 0/4 trains done
+[20:44:16] 0/4 trains done
+[20:46:16] 0/4 trains done
+[20:48:16] 0/4 trains done
+[20:50:16] 0/4 trains done
+[20:52:16] 0/4 trains done
+[20:54:16] 0/4 trains done
+[20:56:16] 1/4 trains done
+[20:58:16] 1/4 trains done
+[20:59:17] [N=1-A5 watcher] waiting for A5 seed 1 to finish
+[21:00:15] [Option A monitor] waiting for A5 seed 1
+[21:22:16] A5 seed 1 done; killing A5 seed 0 + snapshotting
+[21:22:21] A5 seed 0 last completed iter: results/runs/g2b-skill-spreadsheet_gpt-4.1_SAPR-A5-N2-seed0/train/iter_7/
+[21:22:21] copied results/runs/g2b-skill-spreadsheet_gpt-4.1_SAPR-A5-N2-seed0/skills → results/runs/g2b-skill-spreadsheet_gpt-4.1_SAPR-A5-N2-seed0/train/final_skill (underbaked)
+[21:22:21] TRAINS_DONE; awaiting RESUME flag
+[22:36:31] RESUMED; launching 12 evals
+[22:37:31] 12 evals launched
+[22:37:31] evals: 12/12
+# SAPR A0 vs A5 N=2 Results (Option A — A5 seed 0 underbaked)
+
+**CAVEAT: A5 seed 0 was stopped early; final_skill = mid-iter snapshot.
+
+Treat A5 seed 0 mean as underestimate of fully-trained A5 seed 0.**
+
+
+A5 seed 0 metadata: {"underbaked": true, "iter_completed": "iter_7"}
+
+
+| Variant | Seed | r1 | r2 | r3 | mean | note |
+|---------|------|----|----|----|------|------|
+| A0 | 0 | 0.0 | 0.0 | 0.0 | 0.0 |  |
+| A0 | 1 | 0.0 | 0.0 | 0.0 | 0.0 |  |
+| A5 | 0 | 0.0 | 0.0 | 0.0 | 0.0 | underbaked |
+| A5 | 1 | 0.0 | 0.0 | 0.0 | 0.0 |  |
+
+## Aggregate
+
+- A0 mean (N=2 × r=3): 0.00%
+- A5 mean (N=2 × r=3, seed 0 underbaked): 0.00%
+- **Δ = +0.00pp**
+- Per-seed Δ: seed0=+0.00 (underbaked), seed1=+0.00
+
+## Verdict
+
+**FAIL** → drop SAPR or invest more
+[22:37:31] verdict done
+[22:58:20] [eval-rerun] starting 3 waves of 4 evals
+[22:58:52] wave 1 launched (4 evals)
+[22:58:52] wave 1: 0/4 nearly done
+[22:59:52] wave 1: 0/4 nearly done
+[23:00:52] wave 1: 0/4 nearly done
+[23:01:52] wave 1: 0/4 nearly done
+[23:02:53] wave 1: 0/4 nearly done
+[23:03:53] wave 1: 0/4 nearly done
+[23:04:53] wave 1: 0/4 nearly done
+[23:05:53] wave 1: 0/4 nearly done
+[23:06:54] wave 1: 0/4 nearly done
+[23:07:54] wave 1: 0/4 nearly done
+[23:08:54] wave 1: 0/4 nearly done
+[23:09:54] wave 1: 0/4 nearly done
+[23:10:54] wave 1: 0/4 nearly done
+[23:11:54] wave 1: 0/4 nearly done
+[23:12:55] wave 1: 0/4 nearly done
+[23:13:55] wave 1: 0/4 nearly done
+[23:14:55] wave 1: 0/4 nearly done
+[23:15:55] wave 1: 0/4 nearly done
+[23:16:55] wave 1: 0/4 nearly done
+[23:17:55] wave 1: 0/4 nearly done
+[23:18:56] wave 1: 0/4 nearly done
+[23:19:56] wave 1: 0/4 nearly done
+[23:21:03] [SEQUENTIAL eval rerun] 12 evals serially
+[23:21:03] start eval A0-s0-r1
+[23:43:19] [Option B sequential] 8 evals serially
+[23:43:19] start A0-s0-r1
+[00:15:46] done A0-s0-r1
+[00:15:46] start A5-s0-r1
+[00:56:24] start A0-s0-r1
+[00:56:29] start A5-s0-r1
+[00:56:34] start A0-s1-r1
+[00:56:39] wave 1 (3 evals) launched
+[01:43:46] start A5-s1-r1
+[01:43:51] start A0-s0-r2
+[01:43:56] start A5-s0-r2
+[01:44:01] wave 2 launched
+[02:41:09] start A0-s1-r2
+[02:41:14] start A5-s1-r2
+[02:41:19] start A0-s0-r3
+[02:41:24] wave 3 launched
+[03:40:33] start A5-s0-r3
+[03:40:38] start A0-s1-r3
+[03:40:43] start A5-s1-r3
+[03:40:48] wave 4 launched
+[04:28:55] all 12 evals done; aggregate
+# SAPR A0 vs A5 Results (Option A — A5 seed 0 underbaked, OpenRouter eval)
+
+| Variant | Seed | r1 | r2 | r3 | mean |
+|---------|------|----|----|----|------|
+| A0 | 0 | 40.0 | 52.0 | 47.0 | 46.3 |
+| A0 | 1 | 37.0 | 41.0 | 48.0 | 42.0 |
+| A5 | 0 (underbaked) | 38.0 | 43.0 | 46.4 | 42.5 |
+| A5 | 1 | 47.0 | 46.0 | 44.9 | 46.0 |
+
+## Aggregate
+
+- A0 mean: 44.17%
+- A5 mean: 44.21%
+- Δ = +0.05pp
+- Per-seed Δ: seed0=-3.87 (s0 underbaked), seed1=+3.97
+
+## Verdict (per pre-reg)
+
+**FAIL** → drop SAPR / pivot MBCT
+[04:28:55] verdict written

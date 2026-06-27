@@ -62,6 +62,34 @@ case-memory or further to L2 once evidence_profile clears the bar.
   read the existing `SKILL.md` first and copy bytes 0..second-`---`
   unchanged into your output. NEVER write a `SKILL.md` whose first
   line is `#`, `##`, or any non-`---` text.
+
+- **HARD INVARIANT (Fix V, NEW 2026-06-24): SKILL.md size cap.**
+  Total `SKILL.md` length MUST stay ≤ 150 lines INCLUDING frontmatter.
+  Empirical observation: when SKILL.md grows beyond ~150 lines or
+  accumulates >12 L3 pointers, the executor LLM's tool-use format
+  starts breaking (malformed JSON-wrapped commands, hallucinated
+  system tokens, premature task abandonment). Prefer consolidating
+  related content over creating new H2 / pointer. If your patch would
+  push past 150 lines, you MUST instead REMOVE or MERGE existing
+  content of equivalent or lower priority before adding new.
+
+- **HARD INVARIANT (Fix V): L3 chapter count cap.**
+  Total L3 chapters in `references/` MUST stay ≤ 12. Empirical: seed 0
+  with 12 L3 chapters scored 45% on SS-4.1 GPT-4.1; seed 1 with 20 L3
+  scored 37%; seed 2 with 18 L3 scored 32%. More L3 → worse outcome.
+  When this iter's promotions would create the 13th chapter, you MUST
+  pick the LOWEST-leverage existing L3 chapter (lowest cross-task
+  applicability per its `Trigger` text) and DELETE it before adding
+  the new one.
+
+- **HARD INVARIANT (Fix V): H2 ordering — Common Pitfalls is LAST.**
+  `## Common Pitfalls` MUST be the FINAL H2 in `SKILL.md`. NEVER
+  insert ANY new H2 (Workflow, Process, Pitfall variants, Output
+  Verification, etc.) AFTER `## Common Pitfalls`. If your patch wants
+  to add an H2, it goes BEFORE Pitfalls. If you accidentally write a
+  new H2 after Pitfalls, the next iteration will re-classify the
+  skill as malformed and revert. NO EXCEPTIONS.
+
 - Every L2 line carries broadly applicable knowledge — covers multiple
   operations or multiple tasks. Single-instance content belongs in L3 or
   doesn't belong.

@@ -1,0 +1,27 @@
+# SAPR A0 vs A5 N=2 Results (Option A — A5 seed 0 underbaked)
+
+**CAVEAT: A5 seed 0 was stopped early; final_skill = mid-iter snapshot.
+
+Treat A5 seed 0 mean as underestimate of fully-trained A5 seed 0.**
+
+
+A5 seed 0 metadata: {"underbaked": true, "iter_completed": "iter_7"}
+
+
+| Variant | Seed | r1 | r2 | r3 | mean | note |
+|---------|------|----|----|----|------|------|
+| A0 | 0 | 0.0 | 0.0 | 0.0 | 0.0 |  |
+| A0 | 1 | 0.0 | 0.0 | 0.0 | 0.0 |  |
+| A5 | 0 | 0.0 | 0.0 | 0.0 | 0.0 | underbaked |
+| A5 | 1 | 0.0 | 0.0 | 0.0 | 0.0 |  |
+
+## Aggregate
+
+- A0 mean (N=2 × r=3): 0.00%
+- A5 mean (N=2 × r=3, seed 0 underbaked): 0.00%
+- **Δ = +0.00pp**
+- Per-seed Δ: seed0=+0.00 (underbaked), seed1=+0.00
+
+## Verdict
+
+**FAIL** → drop SAPR or invest more

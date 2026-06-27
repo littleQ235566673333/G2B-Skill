@@ -293,6 +293,32 @@ def _format_prefilter_summary(prefilter: dict) -> str:
 
 # ─── main runner ─────────────────────────────────────────────────────
 
+
+def _build_adherence_block(adherence_summary_path: Path | None) -> str:
+    """SAPR-minimal: append adherence signal block to patcher query.
+
+    Generic format (no rule-hardcoding per [[g2b-sapr-a0a5-prereg]]).
+    Empty string if no path provided (A0 baseline).
+    """
+    if adherence_summary_path is None or not adherence_summary_path.exists():
+        return ""
+    try:
+        body = adherence_summary_path.read_text(encoding="utf-8")
+    except Exception:
+        return ""
+    return (
+        "\n## Adherence signal (SAPR-minimal)\n\n"
+        + body
+        + "\n**Patcher instruction (generic):** when proposing patches, "
+          "prioritize the LOW_ADH_ON_FAIL and HIGH_ADH_ON_FAIL flagged "
+          "rules above. For LOW_ADH_ON_FAIL, edit prominence/wording/"
+          "position only — do NOT rewrite content. For HIGH_ADH_ON_FAIL, "
+          "edit content/decision logic — do NOT touch prominence. Apply "
+          "this signal across all flagged rules; do not single out any "
+          "specific rule a priori.\n"
+    )
+
+
 async def run_group_patch(
     cards_path: Path,
     overlay_path: Path,
@@ -306,6 +332,7 @@ async def run_group_patch(
     iter_dir: Path,
     iter_num: int,
     fix_coreset_ids: list[str] | None = None,
+    adherence_summary_path: Path | None = None,
 ) -> dict:
     """Run the group patcher for one iteration.
 
@@ -397,6 +424,7 @@ async def run_group_patch(
         f"force-pending) and the `routing_decisions.md` rows (for both). "
         f"For inspectable patterns, run the §3a routing table.\n"
         f"{fix_coreset_block}"
+        f"{_build_adherence_block(adherence_summary_path)}"
     )
 
     logger = TrajectoryLogger(iter_dir / "group_patcher.jsonl")
